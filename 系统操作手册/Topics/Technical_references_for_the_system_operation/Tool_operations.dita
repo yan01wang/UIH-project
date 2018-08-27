@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_f4l_vgj_bdb" xml:lang="zh">
+    <title>工具使用</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>进入<uicontrol>Service</uicontrol>-><uicontrol>Tools &amp; Utilities</uicontrol>
+                    界面。</cmd>
+                <info>
+                    <p>在Tools &amp; Utilities 页面，用户可以调出MSE 杀毒软件客户端，或者校正显示器。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

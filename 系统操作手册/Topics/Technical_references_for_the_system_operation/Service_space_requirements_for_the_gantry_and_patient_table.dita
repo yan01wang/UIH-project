@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_vdj_hfn_1db" xml:lang="zh">
+    <title>机架检查床服务空间</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_jdn_3fn_1db">
+            <p xtrc="/w:document/w:body[1]/w:p[174]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >机架和检查床的服务空间要求如下表所示：</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_q1m_jfn_1db">
+                <title> 机架和检查床服务空间</title>
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >尺寸位置</p>
+                            </entry>
+                            <entry align="center">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >尺寸大小</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >机架两侧距离</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >机架至少一侧要保证 1500 mm 的服务空间。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >机架其它方向</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >留有 1000 mm 的服务空间。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >检查床头托方向</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >留有 500 mm 的服务空间。（头托伸出离机架最远时）</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >检查床其它方向</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >留有 1000 mm 的服务空间。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <fig id="fig_lsq_lfn_1db">
+                <title>机架和检查床服务空间</title>
+                <image href="../../Images/figure7-3-3.svg" id="image_orl_mfn_1db" placement="break"/>
+            </fig>
+        </section>
+    </refbody>
+</reference>

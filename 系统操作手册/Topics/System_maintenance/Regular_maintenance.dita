@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_kty_nz4_bdb" xml:lang="zh">
+    <title>常规维护保养</title>
+    <body>
+        <p>为确保设备安全、稳定的运行，提高系统可靠性，降低设备的故障率，延长设备使用寿命，保证扫描图像质量，用户有义务对系统进行常规的维护和保养。用户需要按照事故预防条例、医疗产品法律和其他法规采取相应的预防措施。根据检查项目和使用工具的不同，可以将常规维护保养分为预防性检查、
+            清洁消毒和系统质控三类。</p>
+        <p>为保证系统安全有效地运行，责任人需要按照如下表格的推荐周期执行相应的维护保养。</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_vdg_vhy_b2b">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry align="center" valign="middle" colsep="0">
+                            <p>日检</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>责任人</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>机架控制面板</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>控制盒</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>环境条件</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>安全通道</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_gj5_b3y_b2b">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry align="center" valign="middle" colsep="0">
+                            <p>周检</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>责任人</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>紧急制停按钮</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>警告标识&amp;系统标签</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>机架，检查床</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>图像质量（有源QC）</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_p31_f3y_b2b">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry align="center" valign="middle" colsep="0">
+                            <p>月检</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>责任人</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>防护门</p>
+                        </entry>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_k3h_vtd_cdb" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">VSM 操作</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">使用VSM进行生理信号门控扫描的具体操作请参见《软件操作手册》中心电和呼吸门控扫描章节。</shortdesc><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+        <ul class="- topic/ul " id="ul_p5v_dcl_xdb" xtrc="ul:1;7:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+            <li class="- topic/li " xtrc="li:1;8:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                <p class="- topic/p " xtrc="p:1;9:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">导联切换</p>
+                <ul class="- topic/ul " id="ul_vvg_ztd_cdb" xtrc="ul:2;10:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                    <li class="- topic/li " xtrc="li:2;11:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:2;12:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">长按导联切换可以实现 VSM 开机或关机。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:3;14:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:3;15:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">生理信号采集前，当心电电极有效连接后，需要按下导联切换按键，启动VSM手持端， 与接收端进行通信。</p>
+                    </li>
+                </ul>
+            </li>
+            <li class="- topic/li " xtrc="li:4;19:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                <p class="- topic/p " xtrc="p:4;20:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">导联指示灯</p>
+                <ul class="- topic/ul " id="ul_wc3_c5d_cdb" xtrc="ul:3;21:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                    <li class="- topic/li " xtrc="li:5;22:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:5;23:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">心电采集有 I，II，III 三种导联方式。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:6;25:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:6;26:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">当 VSM 处于正常运行状态时，按下导联切换按钮即可实现三个导联之间的切换，相应导联指示灯点亮。默认状态下为 II 导联点亮。</p>
+                    </li>
+                </ul>
+            </li>
+            <li class="- topic/li " xtrc="li:7;30:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                <p class="- topic/p " xtrc="p:7;31:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">信号指示灯</p>
+                <ul class="- topic/ul " id="ul_kq3_25d_cdb" xtrc="ul:4;32:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                    <li class="- topic/li " xtrc="li:8;33:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:8;34:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">信号指示灯指示系统当前状态，包括信号传输与电源状态。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:9;36:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:9;37:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">开机后信号指示灯点亮。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:10;39:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:10;40:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">当生理信号正常采集并传输时，信号指示灯匀速闪烁。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:11;42:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:11;43:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">当 VSM 手持端电量偏低时，信号指示灯以红色报警。</p>
+                    </li>
+                </ul>
+            </li>
+            <li class="- topic/li " xtrc="li:12;47:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                <p class="- topic/p " xtrc="p:12;48:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">心电导联接口</p>
+                <ul class="- topic/ul " id="ul_jyg_h5d_cdb" xtrc="ul:5;49:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                    <li class="- topic/li " xtrc="li:13;50:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:13;51:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">该接口用以连接心电导联线缆。</p>
+                    </li>
+                </ul>
+            </li>
+            <li class="- topic/li " xtrc="li:14;55:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                <p class="- topic/p " xtrc="p:14;56:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">呼吸气囊接口</p>
+                <ul class="- topic/ul " id="ul_mwf_j5d_cdb" xtrc="ul:6;57:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                    <li class="- topic/li " xtrc="li:15;58:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                        <p class="- topic/p " xtrc="p:15;59:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">该接口用以连接呼吸气管和呼吸气囊。</p>
+                    </li>
+                </ul>
+                <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:1;62:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                    <p class="- topic/p " xtrc="p:16;63:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">VSM 手持端超过 30 分钟没有收到有效的生理信号（心电或呼吸信号）时会自动关机，以节省电量。</p>
+                </note>
+            </li>
+            <li class="- topic/li " xtrc="li:16;66:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">
+                <p class="- topic/p " xtrc="p:17;67:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_operation.dita">接收端一般安装在设备机架上，位于外壳后侧，用于接收生理信号。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

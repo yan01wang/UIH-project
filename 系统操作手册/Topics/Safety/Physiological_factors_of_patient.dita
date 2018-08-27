@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_wfb_3tm_1db" xml:lang="zh">
+    <title>患者生理因素</title>
+    <body>
+        <ul id="ul_dwt_jtm_1db">
+            <li>扫描过程中或者在CT 扫描与PET 扫描间期，如果患者发生移动，可能造成运动伪影。扫描开始前，叮嘱患者不要移动，并在扫描过程中实时关注患者状态。</li>
+            <li>系统提供头部运动检测提醒和运动伪影消除技术，在检测到不规则运动时给予提示，并 通过重建予以消除。</li>
+            <li>针对患者生理因素，比如呼吸或心跳造成的图像伪影，可以执行相应的门控重建，降低 或消除影响。或在扫描 CT 时请患者屏住呼吸，保证采集质量。</li>
+        </ul>
+        <note type="note">
+            <ul id="ul_mmd_ntm_1db">
+                <li>患者直径过大会影响散射校正后的图像质量。</li>
+                <li>注意特定患者，如超重、或体内有金属植入物等对衰减校正后图像质量的影响。</li>
+            </ul>
+        </note>
+        <note type="note">
+            <ul id="ul_znr_ptm_1db">
+                <li>请预先判断患者的心跳，如超出正常范围，或心跳极不规则，不建议进行心电门控扫 描。</li>
+                <li>心脏起搏器可能会影响图像质量，造成误诊，对安装有心脏起搏器的患者不推荐进行 心电门控扫描。</li>
+            </ul>
+        </note>
+    </body>
+</topic>

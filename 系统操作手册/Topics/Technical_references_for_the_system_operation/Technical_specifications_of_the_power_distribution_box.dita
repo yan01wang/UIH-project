@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_qng_sc4_1db" xml:lang="zh">
+    <title>配电箱技术规格</title>
+    <refbody>
+        <section id="section_qq1_vc4_1db">
+            <title>供电要求</title>
+            <ul id="ul_dsh_xc4_1db">
+                <li>网电源电压：交流，3 相四线制，380/400 VAC ± 10%。</li>
+                <li>网电源频率：50 Hz ± 1 Hz 。</li>
+                <li>网电源容量：不低于165 kVA。</li>
+            </ul>
+        </section>
+        <section id="section_yjr_xc4_1db">
+            <title>网电源内阻要求</title>
+            <p>网电源内阻应不大于150 mΩ。</p>
+        </section>
+        <section id="section_iqc_bd4_1db">
+            <title>变压器及其线缆规格</title>
+            <p>下表是变压器（医院总配室）至配电箱设备端的距离和电源电缆线径的配合表：</p>
+            <table frame="all" id="table_ulg_vd4_1db">
+                <title>变压器至配电箱设备端距离与电缆配合表</title>
+                <tgroup cols="6">
+                    <colspec colname="c1" colnum="1" colwidth="2.53*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1.75*"/>
+                    <colspec colname="c4" colnum="4" colwidth="1.75*"/>
+                    <colspec colname="c5" colnum="5" colwidth="1.75*"/>
+                    <colspec colname="c6" colnum="6" colwidth="1.75*"/>
+                    <tbody>
+                        <row>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >变压器输出功率 （kVA）</p>
+                            </entry>
+                            <entry namest="c2" nameend="c6" valign="middle" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >不小于 85</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry valign="middle" rowsep="1" colsep="1">变压器与配电箱的距离S(m)</entry>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[2]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >S ≤ 70</p>
+                            </entry>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >70 ＜ S ≤100</p>
+                            </entry>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >100 ＜ S ≤130</p>
+                            </entry>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >130 ＜ S ≤150</p>
+                            </entry>
+                            <entry valign="middle" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[2]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >S ＞ 150</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry valign="middle" rowsep="1" colsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >电缆横截面(mm²)</p>
+                            </entry>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >50</p>
+                            </entry>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >70</p>
+                            </entry>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >95</p>
+                            </entry>
+                            <entry valign="middle" colsep="1" rowsep="1">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >120</p>
+                            </entry>
+                            <entry valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >请联系联影客户服务中心</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_f23_f24_1db"
+                    ><title>接地要求</title><indexterm>接地要求<index-sort-as>J接地要求</index-sort-as></indexterm><p
+                xtrc="/w:document/w:body[1]/w:p[402]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >根据国家标准 GB9706.1《医用电气设备第一部分：安全通用要求》，PET/CT 系统是由外部电源供电的防护等级为 I
+                的医疗设备，需要通过接地来防止电击。根据法规对防电击程度的分类，PET/CT 系统的检查床为 B 型。按照法规，本系统的保护接地导线的整个长度都使用黄 /
+                绿色为识别标志。</p><p xtrc="/w:document/w:body[1]/w:p[403]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >客户进行场地规划，需要设计保护接地方案。在进行场地准备时，需要安装保护接地。综合 布线系统应采用共用接地的接地系统。如单独设置接地时，接地电阻需不大于
+                2Ω。采用公共接地时，接地电阻不应大于1Ω（现场需进行测量，并记录测试结果）。</p><p xtrc="/w:document/w:body[1]/w:p[404]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >建议接地线由线径为 35 mm2 以上等截面的多股铜芯电缆连接到 PSC 上，并定期对接地体进行检查。</p><note type="warning"
+                spectitle="overflow">
+                <p>医院接地系统保护措施必须满足GB 9706.1 的保护接地要求。</p>
+            </note></section>
+    </refbody>
+</reference>

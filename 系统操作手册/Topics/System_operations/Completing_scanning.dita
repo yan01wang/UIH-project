@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yck_ty2_1db" xml:lang="zh">
+    <title>完成扫描</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>当前患者所有检查序列完成后，点击完成按钮，结束当前检查，并返回至患者管理界面。</cmd>
+            </step>
+            <step>
+                <cmd>此时，按下控制盒患者释放按钮，将检查床退出扫描孔经并降低高度。</cmd>
+            </step>
+            <step>
+                <cmd>进入扫描间内帮助或者使用对讲系统指导患者下床并引导其返回休息室。</cmd>
+            </step>
+            <step>
+                <cmd>根据注射的放射性药物的不同，明确告知其相关注意事项。如对于注射氟 18 放射性药物的患者，应告知其在 24
+                    小时之内不要接近孕妇和儿童，多饮水帮助放射物排出体内等。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

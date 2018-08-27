@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_d4y_hhm_1db" xml:lang="zh">
+    <title>电池安全与回收处理</title>
+    <body>
+        <p>本系统用到的特定电源或电池充电器需要满足相应国家和地区的安全标准。应按照手册要求进行电池和充电电池的安装，使用和维护保养。</p>
+        <note type="other" othertype="帮助信息">
+            <p>对结束生命周期的电池和充电电池，应按照相关国家和地区的法规进行强制性回收。</p>
+        </note>
+        <note type="warning">
+            <ul id="ul_pws_bxq_bdb">
+                <li>电池漏液，设备损伤！</li>
+                <li>在 VSM 长期不使用时，请将电池取出，避免可能的漏液危险。</li>
+            </ul>
+        </note>
+    </body>
+</topic>

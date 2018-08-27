@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_adg_lfl_cdb" xml:lang="zh">
+    <title>探测器参数</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_rg1_nfl_cdb">
+            <title>CT 探测器参数如下表所示：</title>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_vtn_4fl_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="135.3pt"/>
+                    <colspec colname="col2" colwidth="261.6pt"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >指标</p>
+                            </entry>
+                            <entry align="center">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >参数</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >探测器材料</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >固态稀土陶瓷</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >探测器像素</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >74480</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >探测器物理排数</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >80 排</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >图像层数</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >每单词断层扫描，可以采集 64 层或 128 层图像</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >探测器覆盖范围</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[6]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >40 mm</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

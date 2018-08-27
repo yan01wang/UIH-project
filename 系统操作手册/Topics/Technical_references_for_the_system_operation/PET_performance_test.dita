@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mdy_1mj_bdb" xml:lang="zh">
+    <title>PET 性能测试</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>为进一步提高系统可服务性，系统支持进行NEMA 标准性能测试，以满足系统质控、验收等需要。NEMA
+                性能测试工具包含分辨率，灵敏度等五个测试项目，属于可选配置，用户需购买并成功安装相应license 后方可正常使用。可通过主界面右下角工具面板进入NEMA
+                测试工具。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>根据实际需求，点击NEMA2007 图标或者NEMA2012 图标，打开 NEMA 测试工具。</cmd>
+                <stepxmp>NEMA 测试工具包含采集、分析和报告三个功能模块。</stepxmp>
+                <substeps id="substeps_vyt_fmj_bdb">
+                    <substep>
+                        <cmd>采集 - 进行空间分辨率和灵敏度的数据采集。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>分析 - 加载离线数据并进行分析，包括空间分辨率、灵敏度、散射分数、准确度和图像质量。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>报告 - 筛选和查找历史报告。</cmd>
+                        <info>
+                            <p>针对不同的测试项目，操作步骤不完全相同。分辨率和灵敏度测试，需要点击相应按钮进入数据采集，然后执行数据分析和报告。</p>
+                            <p>而针对散射分数，图像质量和准确度测试，需要首先进入患者登记界面，加载所对应的特殊协议，完成数据采集后返回NEMA
+                                测试工具，进行相应分析和报告。</p>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

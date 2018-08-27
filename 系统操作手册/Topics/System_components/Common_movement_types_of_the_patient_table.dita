@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bw4_hpy_bdb" xml:lang="zh">
+    <title> 检查床常见移动类型</title>
+    <shortdesc/>
+    <conbody>
+        <section id="section_wh1_kpy_bdb">
+            <title>检查床水平移动</title>
+            <p>按住机架控制面板上的进床 / 出床按钮，检查床向孔径内推进 / 朝孔径外推出。按住对应按钮，直到检查床到达目标位置时松开，则床停止移动。</p>
+            <p>当需要加速进床时，可以同时按住加速按钮与进床按钮。当需要加速出床时，可以同时按住 加速按钮与出床按钮。</p>
+            <p>检查床可以向孔径推进最长 2.2 m 的距离，也可以完全退出于孔径以外。</p>
+        </section>
+        <section id="section_w54_mpy_bdb">
+            <title>检查床垂直移动</title>
+            <p>在扫描开始前和扫描结束后，为方便患者上下检查床，可以按住机架控制面板上的降床按 钮，控制检查床垂直下降。</p>
+            <p>待患者安全就位后，使用升床按钮，将检查床移动到常规扫描所需高度。避免检查床出床或进床出现异常或与机架产生碰撞。</p>
+        </section>
+        <section id="section_gdf_4py_bdb">
+            <title>推进到内部激光灯</title>
+            <ol id="ol_lb5_vpy_bdb">
+                <li>通过外部激光定位灯预定扫描的起始位置后，按下按键推进到内部标记。</li>
+                <li>检查床移动，当移动到预设的扫描起始位置与内激光定位灯重合时检查床停止。</li>
+            </ol>
+        </section>
+        <section id="section_tj3_xpy_bdb">
+            <title>推进到自定义位置</title>
+            <p>用户可以根据检查需要，自定义两个常用的检查位置。在检查过程中，长按对应的按键 A、B则可以把检查床自动推进到所设定位置。</p>
+            <p>设定A、B 键位置请参见《软件操作手册》患者检查章节。</p>
+        </section>
+        <section id="section_vdj_zpy_bdb">
+            <title>手动移动</title>
+            <p>在特殊情况下，如断电，急停或发生危险时，用户可能需要手动将检查床拉出，帮助患者下 床。</p>
+            <p>按下床面板释放开关，以使床面板从锁定状态切换到浮动状态。此时方可手动推进或者拉出检查床。</p>
+            <ul id="ul_n55_lxy_bdb">
+                <li>
+                    <p>要手动移动检查床，请使用移动把手。</p>
+                </li>
+                <li>
+                    <p>要停止手动移动，需再次按下床面板释放开关，将床面板锁定。</p>
+                </li>
+            </ul>
+            <note type="other" othertype="帮助信息">
+                <p>当按下床面板释放开关时，床面板的浮动状态会在 DDP 上显示。</p>
+            </note>
+            <note type="caution">
+                <p>患者肢体损伤</p>
+                <ul id="ul_xb3_txy_bdb">
+                    <li>
+                        <p>在检查床和机架的移动之前，请确认患者的四肢及衣物没有放到检查床侧盖、机架和 检查床缝隙、延长板和检查床架之间。</p>
+                    </li>
+                </ul>
+            </note>
+            <note type="note">
+                <p>请勿在检查床下方放置任何物体，以免在移动时产生安全隐患。</p>
+            </note>
+        </section>
+    </conbody>
+</concept>

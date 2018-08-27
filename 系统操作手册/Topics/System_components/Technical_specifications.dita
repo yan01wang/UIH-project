@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ncf_2kd_ldb" xml:lang="zh">
+  <title>技术规格</title>
+  <body>
+    <p>PSC 技术规格如下表所示：</p>
+    <table frame="all" rowsep="1" colsep="1" id="table_ysg_gkd_ldb">
+      <tgroup cols="2">
+        <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+        <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+        <tbody>
+          <row>
+            <entry>
+              <p>输入电压</p>
+            </entry>
+            <entry>
+              <p>380/400 VAC ±10%</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p>输出电压</p>
+            </entry>
+            <entry>
+              <p>UMI550: 400 / 230 ＋ 10% / -17%</p>
+              <p>UMI780: 400 / 230 /200 VAC ＋ 12% / -15%</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p>输入频率</p>
+            </entry>
+            <entry>
+              <p>50 Hz ±1 Hz</p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <note>
+      <p>PSC 输入电压范围大于380VAC+5% 时，变压器需跳接到400VAC 输入档位。</p>
+    </note>
+    <p>PSC 尺寸和重量信息请参见第7-10 页 “PSC 尺寸和服务空间”。</p>
+  </body>
+</topic>

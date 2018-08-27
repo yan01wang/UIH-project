@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_p4s_pqz_zcb" xml:lang="zh">
+    <title>已知患者登记</title>
+    <body>
+        <p xtrc="/w:document/w:body[1]/w:p[320]"
+            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/4%20%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C/word/document.xml"
+            >系统会记录预登记和已检查患者的信息。登记一个系统中已存在的患者时，不必再次输入患者信息。可以在数据库中查找并调入患者，这样可以节省登记时间。</p>
+    </body>
+</topic>

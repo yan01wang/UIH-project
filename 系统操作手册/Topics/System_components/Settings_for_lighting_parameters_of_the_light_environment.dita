@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vnr_k2y_bdb" xml:lang="zh">
+    <title>光环境照明参数设置</title>
+    <shortdesc/>
+    <conbody>
+        <p>光环境照明参数可在系统工具中设置，包括系统开启时是否默认点亮，照明的默认亮度和颜色等。可通过工具箱中的配置面板进入光环境设置界面，如图 3-21 所示。</p>
+        <fig id="fig_yzm_n2y_bdb">
+            <title>光环境设置</title>
+            <image href="../../images/figure3-41.png" id="image_xy1_p2y_bdb" placement="break"/>
+        </fig>
+        <p>用户可对以下参数进行设置：</p>
+        <ul id="ul_iqh_q2y_bdb">
+            <li>
+                <p>是否使用：设置是否开启光环境照明。</p>
+            </li>
+            <li>
+                <p>颜色选择：设置光环境的照明色调。</p>
+            </li>
+            <li>
+                <p>亮度调节：对光环境亮度进行调整。</p>
+            </li>
+        </ul>
+        <p>照明光环境用于减少患者可能发生的幽闭空间恐惧，提升患者扫描舒适度，用户可根据需要开启。对非幽闭空间恐惧症患者进行头部扫描时，建议关闭光环境或请患者紧闭双眼，为其
+            戴上眼罩。</p>
+    </conbody>
+</concept>

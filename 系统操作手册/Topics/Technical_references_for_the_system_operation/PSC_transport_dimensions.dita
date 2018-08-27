@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_q1d_yth_bdb" xml:lang="zh">
+    <title>PSC 运输尺寸</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_zvz_yth_bdb">
+            <p xtrc="/w:document/w:body[1]/w:p[488]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >PSC 的运输尺寸如下表所示，运输时需要预留充分尺寸。</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_wbg_zth_bdb">
+                <tgroup cols="4">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <colspec colname="col3" colwidth="1.0*"/>
+                    <colspec colname="col4" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >宽（mm）</p>
+                            </entry>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >深 （mm）</p>
+                            </entry>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[1]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >高 （mm）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[1]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >重量（kg）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >700</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >625</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >1600</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[2]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >700</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

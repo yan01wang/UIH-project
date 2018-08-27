@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_s32_54z_zcb" xml:lang="zh">
+    <title>紧急登记</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <stepsection>如果接收的患者，病情极其严重，必须马上接受检查和治疗，则使用紧急登记。</stepsection>
+            <step>
+                <cmd>进入导航栏，点击患者登记图标。</cmd>
+            </step>
+            <step>
+                <cmd>点击紧急登记，选择检查协议。</cmd>
+            </step>
+            <step>
+                <cmd>点击患者检查，进入患者检查界面。</cmd>
+                <info>
+                    <note type="note">
+                        <p>只有在输入患者姓名/ID 后，才可以在PR/PA
+                            界面中执行下一步操作。为保证患者数据的一致性和所有病患辨识程序的一致性，除非必要，请勿手动更改数据。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

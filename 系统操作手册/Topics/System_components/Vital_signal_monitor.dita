@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_sq2_mvd_cdb" xml:lang="zh">
+    <title>生理信号门控单元 *</title>
+    <body>
+        <p>系统配有生理信号门控单元，用以进行患者生理信号的实时采集，监控和门控重建。</p>
+        <p>VSM通过心电电极或呼吸绑带与患者相连，分别进行心电信号和呼吸信号的采集，并通过机架上的无线接收器将患者生理信号传递给控制台。</p>
+        <p>VSM 组件使用中需要注意以下几点：</p>
+        <ul id="ul_uhh_pvd_cdb">
+            <li>
+                <p>DDP 显示通过VSM 采集的患者生理信号，并在信号传输异常时给予提示，此时用户需要确认 VSM 连接状态。详细描述请参见第 3-11 页 “ 生理信号 /
+                    扫描信息 / 温馨提示 ”。</p>
+            </li>
+            <li>
+                <p>DDP 显示VSM 当前剩余电量等信息，并在电量偏低时给出相应提示。</p>
+            </li>
+        </ul>
+    </body>
+</topic>

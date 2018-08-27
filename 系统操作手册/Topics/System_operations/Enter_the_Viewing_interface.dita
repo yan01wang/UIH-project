@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_apx_dz2_1db" xml:lang="zh">
+    <title>进入图像浏览</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>点击图像浏览标签，进入图像浏览主界面查看患者 2D/3D 和融合图像。患者浏览界面默认显示融合图像界面。</cmd>
+                <info>图像浏览界面包含序列列表区，控制面板区和图像显示区，在此可以查看图像，进行相应编 辑并保存或发送打印。</info>
+            </step>
+            <step>
+                <cmd>针对PET/CT 检查，有三种方式进行图像浏览，通过点击相应的标签页即可进入，具体包含：</cmd>
+                <info>
+                    <ul id="ul_wbs_w5j_bdb">
+                        <li>
+                            <p>二维图像浏览</p>
+                        </li>
+                        <li>
+                            <p>三维图像浏览</p>
+                        </li>
+                        <li>
+                            <p>融合图像浏览</p>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

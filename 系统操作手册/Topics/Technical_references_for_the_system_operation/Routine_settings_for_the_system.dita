@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_i4z_wt3_bdb" xml:lang="zh">
+    <title>系统常规设置</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p xtrc="/w:document/w:body[1]/w:p[656]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >在 System 页面可以设置系统的语言和时间，并查看当前系统网络。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>语言和时间</cmd>
+                <substeps id="substeps_jrg_yz3_bdb">
+                    <substep>
+                        <cmd>进入<uicontrol>Service</uicontrol>-><uicontrol>Configuration</uicontrol>
+                            界面。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>从左侧导航栏中选择<uicontrol>Language and Time</uicontrol>，进入<uicontrol>Language
+                                and Time</uicontrol> 配置页面。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>分别选择<uicontrol>Time
+                                Zone</uicontrol>、<uicontrol>Time</uicontrol>、<uicontrol>Date
+                                Format</uicontrol>、<uicontrol>Language</uicontrol> 页面进行配置。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>TCP/IP 局域网</cmd>
+                <substeps id="substeps_zmv_g1j_bdb">
+                    <substep>
+                        <cmd>进入<uicontrol>Service</uicontrol>-><uicontrol>Configuration</uicontrol>
+                            界面。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>从左侧导航栏中选择<uicontrol>TCP/IP LAN</uicontrol>，打开网络配置界面。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>在 <uicontrol>TCP/IP LAN</uicontrol> 中可以对医院的外网连接进行设置。</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <p>相关的参数需要根据医院的网络环境进行设置，需要与医院的相关负责人确认相关参数。具体配置参数请参考Windows 系统IP 设置。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

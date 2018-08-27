@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_jzc_zwm_1db" xml:lang="zh">
+    <title>机房布局通用原则</title>
+    <shortdesc/>
+    <conbody>
+        <p>推荐布局能够在保证系统搬运和服务操作空间的基础上，最大程度地利用空间。在进行场地准备时，客户可根据自身情况做适当调整，请与联影客户服务部确认后执行。</p>
+        <p>其中，扫描间用于放置PET 机架、CT 机架和检查床。操作间内放置控制台桌和计算机、显示器等。为满足系统正常运行，联影和客户分别需要提供的部件如下表所示：</p>
+        <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_kd4_nxm_1db">
+            <tgroup cols="3">
+                <colspec colname="col1" colwidth="162.7pt"/>
+                <colspec colname="col2" colwidth="122.25pt"/>
+                <colspec colname="col3" colwidth="109.25pt"/>
+                <thead>
+                    <row>
+                        <entry align="center" colsep="0" valign="middle">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[1]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >部件名称</p>
+                        </entry>
+                        <entry align="center" colsep="0" valign="middle">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[1]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >系统电缆</p>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[1]/w:tc[2]/w:p[2]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >（连接点）</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[1]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >安装负责</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[2]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >机架</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[2]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >GAN</p>
+                        </entry>
+                        <entry morerows="3">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[2]/w:tc[3]/w:p[2]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >联影</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[3]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >检查床</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[3]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >Tab</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[4]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >PSC</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[4]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >PSC</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[5]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >控制台</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[5]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >SC</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[6]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >现场配电箱 / 配电盘</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[6]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >RV</p>
+                        </entry>
+                        <entry morerows="4"/>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[7]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >放射指示灯</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[7]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >SW</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[8]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >紧急断电按钮 （EPO）</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[8]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >AT</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[9]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >空调系统</p>
+                        </entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[10]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >摄像头及患者监控系统</p>
+                        </entry>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>在机房布局时，还需注意：</p>
+        <ul id="ul_sf5_vbn_1db">
+            <li xtrc="/w:document/w:body[1]/w:p[112]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >过道进入扫描间的转角，由联影项目管理部根据场地实际情况计算得出。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[113]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >操作间门的高度，客户可以根据需要和实际情况定义。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[114]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >如果扫描间安装的是吸顶空调，需避免空调安装在机架和检查床的正上方，防止水滴下 落在机架或检查床上而导致设备故障。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[115]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >患者注射放射性药物后，会发射 γ 射线，建议为其准备单独的诊断室和患者候诊室。</li>
+        </ul>
+        <note type="note">
+            <p>设备摆放时，需保证操作人员通过操作间的观察窗能够观察到扫描状态。</p>
+        </note>
+        <note type="note">
+            <p>患者扫描时，操作人员必须可以通过观察窗观察到患者。</p>
+        </note>
+        <note type="note">
+            <p>不能在机架背后安装能让操作人员或患者进出的门。</p>
+        </note>
+    </conbody>
+</concept>

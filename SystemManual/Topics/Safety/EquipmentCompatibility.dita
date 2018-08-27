@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_msp_1kv_d2b">
+    <title>Equipment compatibility</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The system described in this manual should not be used in combination with other software
+            or devices at will.</p>
+        <p>The use of any third-party accessories or assembly may degrade the product performance
+            and also its security. Please use the accessories and assembly approved by UIH. If
+            necessary indeed, please do consult UIH with the following issues:</p>
+        <ul id="ul_urm_2kv_d2b">
+            <li>
+                <p>Performance, safety, and reliability of the third party equipment.</p>
+            </li>
+            <li>
+                <p>its potential risk for personnel and system.</p>
+            </li>
+        </ul>
+        <p>As the designer, manufacturer and assembler of this product, UIH will only be liable for
+            the repair, maintenance and modification performed by UIH or personnel officially
+            authorized by UIH. Otherwise, UIH will not assume any responsibilities for the system
+            safety and reliability or any other liability caused by the following circumstances:</p>
+        <ul id="ul_bwn_3kv_d2b">
+            <li>
+                <p>Failures caused by operating the system without strict compliance with the manual
+                    resulting in wrong operation, improper maintenance or irregular
+                    modification.</p>
+            </li>
+            <li>
+                <p>Failures caused by using third-party equipment or auxiliary components without
+                    the official authorization of UIH.</p>
+            </li>
+        </ul>
+        <note type="caution">
+            <p>The use of unauthorized software/hardware and tampering with or modification of
+                software/hardware may lead to the system operation failure and bring injuries to
+                patients and damages to the product. Please use the copyrighted software licensed by
+                UIH.</p>
+        </note>
+    </conbody>
+</concept>

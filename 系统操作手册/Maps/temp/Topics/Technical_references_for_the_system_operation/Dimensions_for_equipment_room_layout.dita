@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_references_for_the_system_operation?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_references_for_the_system_operation/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_mfs_tqg_1db" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">机房布局尺寸</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+        <authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata " xtrc="metadata:1;7:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;8:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;9:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita"><index-sort-as class="+ topic/index-base indexing-d/index-sort-as " xtrc="index-sort-as:1;9:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">J机房布局</index-sort-as>机房布局</indexterm>
+            </keywords>
+        <othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;13:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+        <section class="- topic/section " id="section_vsh_1rg_1db" xtrc="section:1;14:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+            <fig class="- topic/fig " id="fig_tvt_1rg_1db" xtrc="fig:1;15:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                <title class="- topic/title " xtrc="title:2;16:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">推荐布局图（斜向）（单位：mm）</title>
+                <image class="- topic/image " href="../../images/uMI-780-CFDA-Model_parallel.svg" id="image_x2z_crg_1db" placement="break" xtrc="image:1;18:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita"/>
+            </fig>
+            <fig class="- topic/fig " id="fig_gqx_jrg_1db" xtrc="fig:2;20:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                <title class="- topic/title " xtrc="title:3;21:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">推荐布局图（斜向）（单位：mm）</title>
+                <image class="- topic/image " href="../../images/uMI-780-CFDA-Model_slant.svg" id="image_gtb_lrg_1db" placement="break" xtrc="image:2;23:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita"/>
+            </fig>
+            <p class="- topic/p " xtrc="p:1;25:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">系统的推荐机房布局如上图所示（分为平行和斜向两种），推荐机房布局包括扫描间、操作间和设备间。其中，扫描间内放置PET机架、CT机架和检查床。操作间内放置控制台桌和计算机、显示器等。</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_dp3_nrg_1db" rowsep="1" xtrc="table:1;26:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                <title class="- topic/title " xtrc="title:4;27:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">机房布局尺寸</title>
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;28:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="132.3pt" rowheader="headers" xtrc="colspec:1;29:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="132.3pt" rowheader="headers" xtrc="colspec:2;30:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="132.3pt" rowheader="headers" xtrc="colspec:3;31:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;32:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                        <row class="- topic/row " xtrc="row:1;33:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:1;34:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:2;37:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">尺寸类型</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" valign="middle" xtrc="entry:2;39:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:3;42:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">推荐尺寸</p>
+                                <p class="- topic/p " xtrc="p:4;45:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">（平行，单位：mm）</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" valign="middle" xtrc="entry:3;47:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:5;50:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">推荐尺寸</p>
+                                <p class="- topic/p " xtrc="p:6;53:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">（斜向，单位：mm）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;57:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                        <row class="- topic/row " xtrc="row:2;58:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;59:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:7;62:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">扫描间推荐净尺寸（长× 宽× 高）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;64:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:8;67:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">7500 × 5000 × 2500</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;69:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:9;72:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">7500 × 6000 × 2500</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;75:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;76:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:10;79:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">扫描间设备出入门推荐净尺寸（宽× 高）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;81:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:11;84:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">1300 × 2200</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;86:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:12;89:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">1400 × 2200</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;92:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;93:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:13;96:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">操作间出入门净尺寸</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;98:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:14;101:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">1200</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;103:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:15;106:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">1200</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;109:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;110:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:16;113:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">操作间推荐净尺寸（长× 宽× 高）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;115:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:17;118:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">5000 × 3000 × 2500</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;120:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:18;123:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">6000 × 3000 × 2500</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;126:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:16;127:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:19;130:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">操作间观察窗推荐尺寸 （宽×高）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:17;132:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:20;135:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">1500 × 900</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:18;137:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:21;140:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">1500 × 900</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;143:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:19;144:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:22;147:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">观察窗底边距地面高度</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:20;149:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:23;152:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">900</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:21;154:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">
+                                <p class="- topic/p " xtrc="p:24;157:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita">900</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

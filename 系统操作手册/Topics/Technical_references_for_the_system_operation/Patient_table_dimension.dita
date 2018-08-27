@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_c43_k2n_1db" xml:lang="zh">
+    <title>检查床尺寸</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_zl2_bfn_1db">
+            <p xtrc="/w:document/w:body[1]/w:p[169]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >检查床放置在扫描间，检查床最大负载为 250 kg。检查床（带外壳）复位状态下尺寸如下表所示：</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_byq_1fn_1db">
+                <title>检查床 (带外壳)复位状态下尺寸</title>
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="86.45pt"/>
+                    <colspec colname="col2" colwidth="86.45pt"/>
+                    <colspec colname="col3" colwidth="110.45pt"/>
+                    <thead>
+                        <row>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >长度 （mm）</p>
+                            </entry>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >宽度 （mm）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[1]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >移动高度范围 （ mm ）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >3480</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >602</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >550 ~ 945</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

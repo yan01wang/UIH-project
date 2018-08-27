@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_xql_hfm_cdb" xml:lang="zh">
+    <title>典型扫描条件</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_sbj_jfm_cdb">
+            <title>典型头部扫描 CT 运行条件：</title>
+            <ul id="ul_ivc_qfm_cdb">
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[353]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >电压：120 kV</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[354]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >毫安秒：230 mAs</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[355]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >准直宽度：40 mm</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[356]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >旋转时间：2 s</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[357]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >断层扫描</p>
+                </li>
+            </ul>
+        </section>
+        <section id="section_hns_rfm_cdb">
+            <title>典型体部扫描 CT 运行条件：</title>
+            <ul id="ul_ycm_sfm_cdb">
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[359]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >电压：120 kV</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[360]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >毫安秒：400 mAs</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[361]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >准直宽度：40 mm</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[362]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >旋转时间：2 s</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[363]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >断层扫描</p>
+                </li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

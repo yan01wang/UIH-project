@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_r4m_qhh_1db" xml:lang="zh">
+    <title>辐射安全</title>
+    <shortdesc/>
+    <conbody>
+        <p>操作人员应充分认识到过度暴露于X 射线和γ 放射的危险。不正确使用 X 射线会对人体造成伤害。系统内部组件请使用联影授权产品，否则可能存在运行异常和图像伪影等隐患。</p>
+    </conbody>
+</concept>

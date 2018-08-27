@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gx4_mjy_bdb" xml:lang="zh">
+    <title> 垂直升降运动部件</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_wbd_pjy_bdb">
+            <li>
+                <p>检查床垂直升降运动部件实现检查床的高度调节。</p>
+            </li>
+            <li>
+                <p>调节范围：床板顶部曲线最低点到地面的高度最低可达 550 mm，最高可达 945 mm。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

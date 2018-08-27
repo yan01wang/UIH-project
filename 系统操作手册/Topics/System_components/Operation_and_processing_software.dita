@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_er1_mv2_cdb" xml:lang="zh">
+    <title>操作处理软件</title>
+    <shortdesc/>
+    <conbody>
+        <p>本系统集成操作处理软件名称：uExceed，软件版本：R001。uExceed是一套医学影像公用软件平台系统，此系统可用于医学成像数据的管理和分析，支持多种成像设备（CT、PET/CT等），具有患者登记、信息管理、图像浏览、图像分析与处理、测量与胶片排版、胶片打印等功能，可帮助医生对检查结果进行分析、处理及存档。uExceed
+            系统利用医学影像技术和计算机软硬件技术，采集并处理符合DICOM（Digital Imaging and Communications in
+            Medicine，DICOM）标准的PET/CT 医疗影像，并作为影像诊断或科研过程的依据，为影像科医生诊断病情提供辅助工具。</p>
+        <p>关于推荐配置、性能、耦合性等信息请参见《软件操作手册》系统概述章节。</p>
+        <note type="note">
+            <p>请用户妥善保管uExceed 软件操作系统安装介质，如果丢失，请与联影客户服务部联系采购。</p>
+        </note>
+        <p>主机启动后，系统将直接登陆uExceed 软件。标准配置下的系统将显示患者管理界面，自动加载并显示最新录入的患者信息和相关数据。</p>
+        <fig id="fig_sjq_tv2_cdb">
+            <title>uExceed 初始用户界面</title>
+            <image href="../../images/figure3-85.png" id="image_ith_wv2_cdb" placement="break"/>
+            <simpletable relcolwidth="1.0* 1.0*" id="simpletable_xzp_vsd_n2b">
+                <strow>
+                    <stentry>1.PA/PR 界面快捷键</stentry>
+                    <stentry>4.系统工作区</stentry>
+                </strow>
+                <strow>
+                    <stentry>2.患者单元</stentry>
+                    <stentry>5.系统工具区</stentry>
+                </strow>
+                <strow>
+                    <stentry>3.系统控制区</stentry>
+                    <stentry>6.系统状态区</stentry>
+                </strow>
+            </simpletable>
+        </fig>
+        <p>在uExceed
+            操作处理系统中，用户可进行患者登记和扫描，查看患者扫描结果并执行融合分析等功能。用户界面包含等待、检查及完成三个患者单元，每个患者单元都集成患者登记、患者检查、图像浏览、胶片打印和图像重建五个功能标签页，在不同的患者单元下，用户可使用其中一个或多个功能。具体的功能分区和操作描述请参见《软件操作手册》系统概述章节。</p>
+    </conbody>
+</concept>

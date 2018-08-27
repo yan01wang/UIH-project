@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_references_for_the_system_operation?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_references_for_the_system_operation/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_mks_ygn_1db" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">PSC 尺寸和服务空间</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+        <section class="- topic/section " id="section_k4x_chn_1db" xtrc="section:1;7:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">PSC 放置在扫描间（如果有设备间，推荐放置在设备间）。PSC 底部有 4 个 360 度转向的运输及支撑轮，可以通过前后侧的两个轮子固定 PSC。</p>
+            <ul class="- topic/ul " id="ul_k5p_mhn_1db" xtrc="ul:1;9:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                <li class="- topic/li " xtrc="li:1;10:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                    <p class="- topic/p " xtrc="p:2;11:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">PSC技术规格</p>
+                    <p class="- topic/p " xtrc="p:3;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">PSC 重量和复位状态下尺寸如下表所示：</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_lbl_5jy_b2b" rowsep="1" xtrc="table:1;13:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                        <tgroup class="- topic/tgroup " cols="4" xtrc="tgroup:1;14:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:1;15:79" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:2;16:79" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita"/>
+                            <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:3;17:79" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita"/>
+                            <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1.0*" rowheader="headers" xtrc="colspec:4;18:79" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:1;19:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                <row class="- topic/row " xtrc="row:1;20:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:1;21:86" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                        <p class="- topic/p " xtrc="p:4;25:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">宽度 （mm）</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" valign="middle" xtrc="entry:2;27:86" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                        <p class="- topic/p " xtrc="p:5;31:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">深度 （mm）</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col3" colsep="0" dita-ot:x="3" dita-ot:y="1" valign="middle" xtrc="entry:3;33:86" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                        <p class="- topic/p " xtrc="p:6;37:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">高度 （mm）</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1" valign="middle" xtrc="entry:4;39:75" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                        <p class="- topic/p " xtrc="p:7;43:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">重量 （kg）</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:1;47:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                <row class="- topic/row " xtrc="row:2;48:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:5;49:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                        <p class="- topic/p " xtrc="p:8;53:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">700</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:6;55:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                        <p class="- topic/p " xtrc="p:9;59:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">625</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:7;61:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                        <p class="- topic/p " xtrc="p:10;65:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">1600</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2" xtrc="entry:8;67:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                                        <p class="- topic/p " xtrc="p:11;71:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">700</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:2;78:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                    <p class="- topic/p " xtrc="p:12;79:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">PSC服务空间要求</p>
+                    <p class="- topic/p " xtrc="p:13;80:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">PSC 服务空间为一矩形，长：700 mm，宽：750 mm。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:3;82:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                    <p class="- topic/p " xtrc="p:14;83:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">PSC 放置间隔要求</p>
+                    <p class="- topic/p " xtrc="p:15;84:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">PSC 放置间隔要求：左右两侧需保证各留有 100 mm 的空间。</p>
+                </li>
+            </ul>
+            <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:1;87:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">
+                <p class="- topic/p " xtrc="p:16;88:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita">以上参数仅供场地准备时参考。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

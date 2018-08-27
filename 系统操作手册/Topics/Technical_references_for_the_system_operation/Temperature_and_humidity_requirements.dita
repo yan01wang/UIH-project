@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_x5p_mcn_1db" xml:lang="zh">
+    <title>温湿度要求</title>
+    <shortdesc>建议在扫描间配备温度和湿度记录器，用于记录和评估环境的温度和湿度。</shortdesc>
+    <refbody>
+        <section id="section_lz3_rcn_1db">
+            <p>设备安装前后，房间温湿度均需满足环境需求。</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_bbm_scn_1db">
+                <title>温湿度要求</title>
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="79.4pt"/>
+                    <colspec colname="col2" colwidth="158.75pt"/>
+                    <colspec colname="col3" colwidth="158.75pt"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >参数</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >操作间</p>
+                            </entry>
+                            <entry align="center">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[1]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >扫描间</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >温度</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >18 ℃ ~ 26 ℃ （温度变化：不超过±1.5 ℃ /h）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >20 ℃ ~ 24 ℃ （温度变化：不超过±1.5 ℃ /h）</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >相对湿度</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >30% ~ 70% （不得结露）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >30% ~ 70% （不得结露）</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >气压范围</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >700 hPa ~ 1060 hPa</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >700 hPa ~ 1060 hPa</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note type="note">
+                <p>为保证湿度范围，建议客户在扫描间配备抽湿机。</p>
+            </note>
+            <note type="note">
+                <p>达到所需环境条件并保持至少十分钟后方可为系统上电。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

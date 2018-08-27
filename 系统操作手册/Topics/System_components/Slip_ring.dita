@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_sw2_3jx_bdb" xml:lang="zh">
+    <title>滑环</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>CT滑环</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p><b>功能概述</b></p>
+        <p>滑环用于机架固定部分和旋转部分之间的信号和电能传输。滑环属于高精密部件，不允许用手直接触摸。</p>
+        <note type="warning">
+            <p>滑环高压，电击危险</p>
+            <ul id="ul_ohq_4jx_bdb">
+                <li>
+                    <p>滑环表面存在高压，请勿用手直接触摸滑环，否则可能会导致触电。</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

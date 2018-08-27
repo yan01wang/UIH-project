@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ifz_nqm_cdb" xml:lang="zh">
+    <title>电磁干扰要求</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>D电磁干扰需求</index-sort-as>电磁干扰需求</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section id="section_sxy_pqm_cdb">
+            <title>根据法规 YY0505 要求，本系统应在如下电磁环境中使用：</title>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_ors_qqm_cdb">
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="140.7pt"/>
+                    <colspec colname="col2" colwidth="60.25pt"/>
+                    <colspec colname="col3" colwidth="195.95pt"/>
+                    <thead>
+                        <row>
+                            <entry namest="col1" nameend="col3" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >指南和制造商的声明 —— 电磁发射</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col3" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >本系统预期在下列规定的电磁环境中使用，购买者或使用者应保证它在这种电磁环境中使用。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >发射试验</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >符合性</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电磁环境 —— 指南</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[4]/w:tc[1]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >射频发射 GB 4824</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[4]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1 组</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >本系统仅为其内部功能使用射频能量，因此它的射频发射很低，并且对附近电子设备产生干扰的可能性很小。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >射频发射 GB 4824</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >A 类</p>
+                            </entry>
+                            <entry morerows="2">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[5]/w:tc[3]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >本系统适于在非家用和与家用住宅公共低压供电网不直接连接的所有设施中使用。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >谐波发射 GB 17625.1</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[6]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >不适用</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[7]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电压波动 / 闪烁发射 GB 17625.2</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[49]/w:tr[7]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >不适用</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <ul id="ul_ovv_yqm_cdb">
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[567]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >扫描间和操作间必须处于静磁场小于 1 高斯、交变磁场小于 0.01 高斯环境中。</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[568]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >机架和控制台与电源分配机柜的距离不得小于 1 米。</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[569]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >请不要将设备安装在变压器、大容量配电房、大功率电机等附近，以避免其产生的强交 流磁场影响设备的工作性能。</p>
+                </li>
+            </ul>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_lq5_prm_cdb">
+                <tgroup cols="4">
+                    <colspec colname="col1" colwidth="99.25pt"/>
+                    <colspec colname="col2" colwidth="99.2pt"/>
+                    <colspec colname="col3" colwidth="99.25pt"/>
+                    <colspec colname="col4" colwidth="99.25pt"/>
+                    <thead>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >指南和制造商的声明 —— 电磁抗扰度</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >本系统预期在下列规定的电磁环境中使用，购买者或使用者应保证它在这种电磁环境中使用</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >抗扰度试验</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >IEC 60601试验电平</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >符合电平</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[3]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电磁环境 —— 指南</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[4]/w:tc[1]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >静电放电GB/T 17626.2</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[4]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >± 6 kV 接触放电± 8 kV 空气放电</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[4]/w:tc[3]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >± 6 kV 接触放电± 8 kV 空气放电</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[4]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >地面应是木质、混凝土或瓷砖，如果地面用合成材料覆盖，相对湿度应至少 30%</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电快速瞬变脉冲群GB/T 17626.4</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >± 2 kV 对电源线± 1 kV 对输入 / 输出线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[5]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >± 2 kV 对电源线± 1 kV 对输入/ 输出线</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[5]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >网电源应具有典型的商业或医院环境中使用的质量。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >浪涌GB/T 17626.5</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[6]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >± 1 kV 线对线± 2 kV 线对地</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[6]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >± 1 kV 线对线± 2 kV 线对地</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[50]/w:tr[6]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >网电源应具有典型的商业或医院环境中使用的质量。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_bt3_rrm_cdb">
+                <tgroup cols="4">
+                    <colspec colname="col1" colwidth="99.25pt"/>
+                    <colspec colname="col2" colwidth="99.25pt"/>
+                    <colspec colname="col3" colwidth="99.2pt"/>
+                    <colspec colname="col4" colwidth="99.25pt"/>
+                    <thead>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >指南和制造商的声明 —— 电磁抗扰度</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >本系统预期在下列规定的电磁环境中使用，购买者或使用者应保证它在这种电磁环境中使用</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >抗扰度试验</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >IEC 60601试验电平</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >符合电平</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[3]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电磁环境—— 指南</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[4]/w:tc[1]/w:p[7]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源输入线上电压暂降、短时中断和电压变化GB/T 17626.8</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >＜ 5% UT，持续 0.5周期（在UT 上，＞ 95%的暂降）40% UT，持续 5 周期（在UT 上， 60%
+                                    的暂降）70% UT，持续 25 周期（在UT 上， 30% 的暂降）＜ 5% UT，持续 5 s（在UT 上，＞
+                                    95%的暂降）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >＜ 5% UT，持续 0.5周期（在 UT 上，＞ 95%的暂降）40% UT，持续 5 周期（在 UT 上， 60%
+                                    的暂降）70% UT，持续 25 周期（在 UT 上， 30% 的暂降）＜ 5% UT，持续 5 s（在 UT 上，＞
+                                    95%的暂降）</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[4]/w:tc[4]/w:p[5]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >网电源应具有典型的商业或医院环境中使用的质量。如果本系统的用户在电源中断期间需要连续运行，那么推荐本系统采用不间断电源或电池供电。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >工频磁场（50 Hz/60 Hz） GB/T 17626.8</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[5]/w:tc[2]/w:p[3]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3 A/m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[5]/w:tc[3]/w:p[3]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3 A/m</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[5]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >工频磁场应具有在典型的商业或医院环境中典型场所的工频磁场水平特性。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col4">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[51]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >注：UT 是指施加试验电压前的交流网电压。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_osr_5rm_cdb">
+                <tgroup cols="4">
+                    <colspec colname="col1" colwidth="72.4pt"/>
+                    <colspec colname="col2" colwidth="79.4pt"/>
+                    <colspec colname="col3" colwidth="83.35pt"/>
+                    <colspec colname="col4" colwidth="161.75pt"/>
+                    <thead>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >指南和制造商的声明 —— 电磁抗扰度</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >本系统预期在下列规定的电磁环境中使用，购买者或使用者应保证它在这种电磁环境中使用</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >抗扰度试验</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >IEC 60601试验电平</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >符合电平</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[3]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电磁环境 —— 指南</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >射频传导GB/T 17626.6</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3 V （有效值）150 kHz ~ 80 MHz</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[3]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3V （有效值）</p>
+                            </entry>
+                            <entry morerows="1" align="justify"><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >便携式和移动式射频通信设备不应比推荐的隔离距离更靠近本系统的任何部分适用，包括电缆。该距离应由与发射机频率相应的公式计算。</p><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >推荐的隔离距离</p><image href="../../images/figure8-15.png"
+                                    id="image_s1x_fsm_cdb"/><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[5]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >80 MHz ~ 800 MHz：</p><image href="../../images/figure8-15.png"
+                                    id="image_a5r_hsm_cdb"/><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[7]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >800 MHz ~ 2.5 GHz：</p><image href="../../images/figure8-16.png"
+                                    id="image_cs3_3sm_cdb"/><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[9]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >式中：</p><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[10]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >P --- 根据发射机制造商提供的发射机最大额定输出功率，单位为瓦特（W）；</p><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[12]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >d --- 推荐的隔离距离，单位为米（m）。</p><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[14]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >固定式射频发射机的场强通过对电磁场所勘测a 来确定，在每个频率范围b 都应比符合电平低。</p><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[4]/w:tc[4]/w:p[15]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >在标记下列符号的设备附近可能出现干扰。</p><image
+                                    href="../../images/figure8-17.png" id="image_rcq_lsm_cdb"
+                                /></entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[5]/w:tc[1]/w:p[11]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >射频辐射GB/T 17626.3</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[5]/w:tc[2]/w:p[13]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3 V/m</p>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[5]/w:tc[2]/w:p[14]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >80 MHz ~ 2.5</p>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[5]/w:tc[2]/w:p[15]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >GHz</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[5]/w:tc[3]/w:p[14]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3 V/m</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col4">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >注 1：在 80 MHz 和 800 MHz 频率点上，采用较高频段的公式。</p>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[6]/w:tc[1]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >注 2：这些指南可能不适合所有的情况。电磁传播受建筑物、物体及人体的吸收和反射的影响。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[7]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                        ><sup>a</sup>固定式发射机，诸如：无线（蜂窝 /
+                                    无绳）电话和地面移动式无线电的基站、业余无线电、调幅和调频无线电广播以及电视广播等，其场强在理论上都不能准确预知。为评定固定式射频发射机的电磁环境，应考虑电磁场所的勘测。如果测得本系统所处场所外的场强高于上述适用的射频符合电平，则应观测本系统以验证其能正常运行。如果观测到不正常性能，则补充措施可能是必需的，比如重新调整本系统的方向或位置。</p>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[52]/w:tr[7]/w:tc[1]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                        ><sup>b</sup>在 150 kHz~80 MHz 整个频率范围，场强应低于 3 V/m。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_cfw_psm_cdb">
+                <tgroup cols="4">
+                    <colspec colname="col1" colwidth="95.05pt"/>
+                    <colspec colname="col2" colwidth="100.6pt"/>
+                    <colspec colname="col3" colwidth="99.75pt"/>
+                    <colspec colname="col4" colwidth="100.65pt"/>
+                    <thead>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >便携式及移动式射频通信设备与 本设备之间的推荐隔离距离</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >本系统预期在射频辐射骚扰受控的电磁环境中使用。依据通信设备最大额定输出功率，用户可通过下面推荐的维持便携式及移动式射频通信设备（发射机）和本系统之间最小距离来防止电磁干扰。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry morerows="1" align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[3]/w:tc[1]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >发射机的最大额定输出功率W</p>
+                            </entry>
+                            <entry namest="col2" nameend="col4" align="center" valign="middle"
+                                rowsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >对应发射机不同频率的隔离距离 /m</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0"><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >150 kHz~ 80 MHz</p><image href="../../images/figure8-15.png"
+                                    id="image_nrb_rsm_cdb"/></entry>
+                            <entry align="center" valign="middle" colsep="0"><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >80 MHz ~800 MHz</p><image href="../../images/figure8-15.png"
+                                    id="image_u1g_rsm_cdb"/></entry>
+                            <entry align="center" valign="middle"><p
+                                    xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[4]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >800 MHz~2.5 GHz</p><image href="../../images/figure8-16.png"
+                                    id="image_tbx_rsm_cdb"/></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.01</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.12</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[5]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.12</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[5]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.23</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.1</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[6]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.38</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[6]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.38</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[6]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.73</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[7]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[7]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.2</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[7]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.2</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[7]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >2.3</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[8]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >10</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[8]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3.8</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[8]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3.8</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[8]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >7.3</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[9]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >100</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[9]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >12</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[9]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >12</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[9]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >23</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry namest="col1" nameend="col4">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[10]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >对于上表未列出的发射机的最大额定输出功率，推荐隔离距离d，以米 （m）为单位，可用相应发射机频率栏中的公式来确定，这里 P
+                                    是由 发射机制造商提供的最大额定输出功率，以瓦特（W）为单位。</p>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[10]/w:tc[1]/w:p[3]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >注 1 ：在 80 MHz 和 800 MHz 频率点上，采用较高频率范围的公式。</p>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[53]/w:tr[10]/w:tc[1]/w:p[4]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >注 2：这些指南可能不适用所有的情况，电磁传播受建筑物、物体及人体的吸收与反射的影响。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_a5g_5sm_cdb">
+            <title>本系统与 EMC 相关的信号线缆清单如下表：</title>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_qtp_vsm_cdb">
+                <tgroup cols="5">
+                    <colspec colname="col1" colwidth="104.5pt"/>
+                    <colspec colname="col2" colwidth="79.4pt"/>
+                    <colspec colname="col3" colwidth="79.4pt"/>
+                    <colspec colname="col4" colwidth="66.8pt"/>
+                    <colspec colname="col5" colwidth="66.85pt"/>
+                    <thead>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >线缆</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >线缆分类</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[1]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >线缆长度</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[1]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >是否屏蔽</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[1]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >数量</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[2]/w:tc[1]/w:p[3]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[2]/w:tc[2]/w:p[3]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >20 m / 25 m（二种选配，根据场地实际情况由一根 20 米或25 米的线缆剪切制作而成， 20 米或 25
+                                    米可选配）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[2]/w:tc[4]/w:p[4]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[2]/w:tc[5]/w:p[4]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >PET 电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >6 m / 10 m / 15 m （三种选配）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[3]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >Y</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[3]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[4]/w:tc[1]/w:p[3]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >高压电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[4]/w:tc[2]/w:p[3]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >20 m / 25 m（二种选配，根据场地实际情况由一根 20 米或25 米的线缆剪切制作而成， 20 m 或 25 m
+                                    可选配）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[4]/w:tc[4]/w:p[4]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[4]/w:tc[5]/w:p[4]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >主驱动电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[5]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >6 m / 10 m / 15 m （三种选配）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[5]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[5]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CT 机架辅助电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[6]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[6]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >6 m / 10 m / 15 m （三种选配）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[6]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[54]/w:tr[6]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_xv1_xsm_cdb">
+                <tgroup cols="5">
+                    <colspec colname="col1" colwidth="104.5pt"/>
+                    <colspec colname="col2" colwidth="79.4pt"/>
+                    <colspec colname="col3" colwidth="79.4pt"/>
+                    <colspec colname="col4" colwidth="66.8pt"/>
+                    <colspec colname="col5" colwidth="66.85pt"/>
+                    <thead>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >线缆</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >线缆分类</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[1]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >线缆长度</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[1]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >是否屏蔽</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[1]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >数量</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >PSC 控制线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[2]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >Y</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[2]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >PSC 至 CT 机架监控线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >6 m / 10 m / 15 m （三种选配）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[3]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >Y</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[3]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >控制台保护接地线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[4]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[4]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >检查床电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[5]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >6 m / 10 m / 15 m （三种选配）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[5]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[5]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CT 机架至交换机网线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[6]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[6]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[6]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >Y</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[6]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[7]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CT 机架至控制主机光纤</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[7]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[7]/w:tc[3]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[7]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[7]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[8]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >门联锁控制线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[8]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[8]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[8]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[8]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[9]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >放线指示灯输入控制线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[9]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[9]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[9]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[9]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[10]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >PET 机架至交换机网线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[10]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[10]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[10]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >Y</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[10]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[11]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >PET 机架至 PET 重建机光纤</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[11]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[11]/w:tc[3]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >28 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[11]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[11]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[12]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >PSC 到 CT 机架光纤</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[12]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[12]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >15 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[12]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[12]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[13]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >控制台电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[13]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[13]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[13]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[13]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[14]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CT 机架急停线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[14]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[14]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >25 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[14]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >Y</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[14]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[15]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >开关机控制线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[15]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >信号线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[15]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >30 m</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[15]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >N</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[55]/w:tr[15]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note type="note">
+                <p>除设备或系统的制造商作为内部元器件的备件出售的换能器和电缆外，使用规定外的附件、换能器和电缆可能导致设备或系统发射的增加或抗扰度的降低。</p>
+            </note>
+            <note type="note">
+                <p>系统不应与其他设备接近或叠放使用。如果必须接近或叠放使用，则应观察验证在其使用的配置下能正常运行。</p>
+            </note>
+            <note type="note">
+                <p>系统附近禁止出现强磁性物质。</p>
+            </note>
+            <note type="note">
+                <p>系统应仅在所规定的射线防护场所内使用。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

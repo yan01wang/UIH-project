@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_fqz_w5q_d2b">
+    <title>Preface</title>
+    <body>
+        <p>This manual has been especially compiled for system operators. The manual provides an
+            introduction on the Software interface and operation to guide relevant personnel for
+            data acquisition and data management.</p>
+        <section id="section_wyt_1vq_d2b">
+            <title>Product Version</title>
+            <p>This file’s corresponding software version is as follows:</p>
+            <table frame="all" id="table_sl2_cvq_d2b">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>Abbreviation</p>
+                            </entry>
+                            <entry>
+                                <p>Product Version</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_tll_dvq_d2b">
+            <title>Audience</title>
+            <ul id="ul_bqg_fvq_d2b">
+                <li>
+                    <p>Hospital and/or research institution users that purchase UIH medical
+                        equipment.</p>
+                </li>
+                <li>
+                    <p>UIH training, maintenance, and service engineers</p>
+                </li>
+                <li>
+                    <p>UIH marketers and distributors</p>
+                </li>
+                <li>
+                    <p>UIH internal clinical and system analysts</p>
+                </li>
+            </ul>
+        </section>
+        <section id="section_qbf_hvq_d2b">
+            <title>Revision records</title>
+            <table frame="all" id="table_pb1_3vq_d2b">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>Publish Date</p>
+                            </entry>
+                            <entry>
+                                <p>Version Description</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_whj_kvq_d2b">
+            <title>Warranty</title>
+            <p>As the designer, manufacture and assembler of this product, UIH will take
+                responsibility for their products only when the repair, maintenance and installation
+                are performed by UIH or personnel expressly authorized by the UIH. Otherwise, UIH
+                shall not take any responsibility for the system safety, reliability or any other
+                responsibility caused by the following conditions:</p>
+            <ul id="ul_vcm_lvq_d2b">
+                <li>
+                    <p>Without strict compliance with the manual resulting in wrong operation,
+                        improper maintenance or irregular modification.</p>
+                </li>
+                <li>
+                    <p>Using third-party equipment or auxiliary components without the approval and
+                        authorization of UIH.</p>
+                </li>
+            </ul>
+            <p>Please contact UIH customer center with the products warranty issues.</p>
+            <p>Contact information:</p>
+            <dl>
+                <dlentry>
+                    <dt>TEL</dt>
+                    <dd>4006866088</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>E-mail</dt>
+                    <dd>services@united-imaging.com</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Website</dt>
+                    <dd>www.united-imaging.com</dd>
+                </dlentry>
+            </dl>
+        </section>
+    </body>
+</topic>

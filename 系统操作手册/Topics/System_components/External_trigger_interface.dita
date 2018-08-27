@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ksc_bgy_bdb" xml:lang="zh">
+    <title>外触发接口</title>
+    <shortdesc/>
+    <conbody>
+        <p>系统提供两个外触发接口支持模拟信号输入，含一个呼吸一个心电。外触发接口有明显标志用以区分心电和呼吸。外触发接口位于机架 CT 端左下角三角形外壳上，示意图如下所示：</p>
+        <fig id="fig_b53_dgy_bdb">
+            <title>外触发接口</title>
+            <image href="../../images/figure3-37.png" id="image_urx_fgy_bdb" placement="break"/>
+            <simpletable relcolwidth="1.0* 1.0*" id="simpletable_yfb_gcd_n2b">
+                <strow>
+                    <stentry>心电信号 BNC 接口</stentry>
+                    <stentry>预留扩展功能接口</stentry>
+                </strow>
+                <strow>
+                    <stentry>呼吸信号 BNC 接口</stentry>
+                    <stentry/>
+                </strow>
+            </simpletable>
+        </fig>
+        <p>通过相应的接口将外触发设备接入后，即可将其采集到的信号通过相应的接口传递到位于 机架内部的接收器。接收器将信号传递至机架控制系统，进而根据需要分别显示在 DDP 和Host
+            的患者检查界面上。</p>
+        <p>患者检查界面生理信号显示区显示外触发设备采集的患者生理信号，并在信号传输异常时 给出提示，此时需要确认外触发设备的连接状态。详细操作请参见《软件操作手册》特殊协
+            议和患者检查章节。</p>
+        <p>DDP
+            可以显示通过外触发设备采集到的患者生理信号及外触发信号状态，并在信号异常时给出相应提示，请参见“数据显示屏”。当需要通过此接口连入外触发信号时，请与联影客户服务部联系，获取具体技术规格，如支持的数据类型，输入电流，电压范围等。</p>
+    </conbody>
+</concept>

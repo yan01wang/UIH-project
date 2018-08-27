@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pfx_4vl_1db" xml:lang="zh">
+    <title> 紧急情况下断电</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>紧急断电<index-sort-as>J紧急断电</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context><p>紧急断电按钮（Emergency Power Off,
+                EPO）由用户安装，一般安装在操作间和扫描间的墙壁上，位于距离操作台一米的范围内。按下此按钮后，电源分配机柜与网电源断开，系统断 电。</p><image
+                href="../../images/figure2-44.png" id="image_m34_dsq_bdb"/></context>
+        <steps>
+            <step>
+                <cmd>以下特殊情况存在时，操作人员可按下紧急断电按钮。</cmd>
+                <choices id="choices_qfy_nwl_1db">
+                    <choice>存在造成患者人身伤害或设备损坏的危险，且急停按钮不响应。</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>断电后，只有在排除所有安全风险后，设备方可重新通电。</cmd>
+                <info>
+                    <note type="caution">
+                        <p>按下 EPO 时系统将中断数据采集，因此可能需要对患者进行重新扫描。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

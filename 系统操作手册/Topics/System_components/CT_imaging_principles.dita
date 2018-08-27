@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vp4_lhx_bdb" xml:lang="zh">
+    <title> CT 成像原理</title>
+    <shortdesc/>
+    <conbody>
+        <p>高度准直的 X 射线束围绕人体某一部位做断面扫描（通常是横断面）时，部分光子被人体组织吸收，因此 X 射线产生衰减。穿透人体的衰减 X
+            射线入射探测器，然后经过转化和放大后产生电子流。电子流作为模拟信号输入后端数据采集和处理系统中，经过重建，产生断层图
+            像。由于人体组织密度不同，对X射线的吸收能力也不同，通过数据处理，将不同的吸收系数体现在产生的图像中。阅片时，通过图像中像素值不同，即可判断组织和信号的形态和密度
+            的变化，并据此查找和确认病变位置。</p>
+        <fig id="fig_cg5_4hx_bdb">
+            <title>CT 成像原理</title>
+            <image href="../../images/figure3-3.png" id="image_d5t_qhx_bdb" placement="break"/>
+        </fig>
+    </conbody>
+</concept>

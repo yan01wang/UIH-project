@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_h1c_1rq_d2b">
+ <title>Intended use</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>The uMI 550 PET/CT is a diagnostic imaging system that combines two existing imaging modalities
+   - PET and CT. The quantitative distribution information of PET radio pharmaceuticals within the
+   patient body measured by PET can assist healthcare providers in assessing the metabolic and
+   physiological functions. CT provides diagnostic tomographic anatomical information as well as
+   photon attenuation information for the scanned region. The accurate registration and fusion of
+   PET and CT images provides anatomical reference for the findings in the PET images.</p>
+  <p>This system is intended to be operated by qualified healthcare professionals to assist in the
+   detection, localization, diagnosis, staging, restaging, treatment planning and treatment response
+   evaluation for diseases and disorders in, but not limit to, oncology, cardiology and
+   neurology.</p>
+  <p>This product only supports the 64-bit Windows operating system.</p>
+ </conbody>
+</concept>

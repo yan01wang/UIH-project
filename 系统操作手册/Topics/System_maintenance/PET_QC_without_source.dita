@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jqy_2pj_bdb" xml:lang="zh">
+    <title>PET 无源质控</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>需要在每日扫描前完成无源PET质控扫描，所检测的项目包括系统环境温湿度、系统计数率和电压等。</p>
+        </context>
+        <steps>
+            <stepsection>无源PET 质控扫描操作步骤如下：</stepsection>
+            <step>
+                <cmd>进入日常服务主界面，选择PET 无源质控，进入PET 无源质控界面。</cmd>
+            </step>
+            <step>
+                <cmd>点击开始，系统开始质控扫描。依序进行系统温度、系统湿度、PET 探测器电压和计数率检查。</cmd>
+            </step>
+            <step>
+                <cmd>各项参数检查均通过，显示质控成功。若其中任意一项不通过，则显示质控失败。</cmd>
+            </step>
+            <step>
+                <cmd>在检查过程中随时可以点击取消退出扫描。</cmd>
+            </step>
+            <step>
+                <cmd>查看和打印报告</cmd>
+                <substeps id="substeps_nst_jpj_bdb">
+                    <substep>
+                        <cmd>质控完成后，可在该界面查看本次质控报告。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>点击历史报告，可以查看历史报告。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>重复/ 退出</cmd>
+                <substeps id="substeps_p4c_lpj_bdb">
+                    <substep>
+                        <cmd>质控完成后，点击退出，退出无源质控界面。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>若界面提示质控失败，可重复此过程。若仍然失败，请立即联系联影客户服务部。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <postreq>
+            <p>用户可设置无源质控自动执行，则系统自动执行无源质控并记录检测结果。</p>
+            <ol id="ol_kxj_npj_bdb">
+                <li>点击自动执行时间设定前复选框，在其后输入自动执行时间。</li>
+                <li>系统在预设时间自动启动无源质控扫描，并给出报告。</li>
+            </ol>
+        </postreq>
+    </taskbody>
+</task>

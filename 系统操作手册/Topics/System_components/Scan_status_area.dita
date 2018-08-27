@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_etp_ctx_bdb" xml:lang="zh">
+    <title>扫描状态区</title>
+    <shortdesc>用户可在此查看扫描进度。</shortdesc>
+    <conbody>
+        <ul id="ul_lhc_lbl_xdb">
+            <li>若当前没有扫描进行，该区域置灰。<fig id="fig_a5m_3tx_bdb">
+                    <title>未扫描状态</title>
+                    <image href="../../images/figure3-19.png" id="image_zs1_ltx_bdb"
+                        placement="break"/>
+                </fig></li>
+            <li>若当前处于 CT 扫描状态，则该区域如下图所示，其中：<ul id="ul_wn2_mtx_bdb">
+                    <li>扫描计时：扫描倒计时，记录 CT 扫描剩余时长。</li>
+                    <li>扫描延迟：为 CT 延迟扫描倒计时，达到预设延时后即可触发扫描。</li>
+                </ul><fig id="fig_zfb_ptx_bdb">
+                    <title>CT 扫描状态</title>
+                    <image href="../../images/figure3-20.png" id="image_vxw_ptx_bdb"
+                        placement="break"/>
+                </fig></li>
+            <li>
+                <p>若当前处于PET 扫描状态，则该区域如下图所示，其中：</p>
+                <ul id="ul_msz_qtx_bdb">
+                    <li>扫描床位：指示已完成扫描床位（填充）和当前扫描床位（高亮）。</li>
+                    <li>剩余时间：指示当前 PET 扫描剩余时间。</li>
+                </ul>
+                <fig id="fig_e3n_4bl_xdb">
+                    <title>CT 扫描状态</title>
+                    <image href="../../images/figure3-20.png" id="image_f3n_4bl_xdb"
+                        placement="break"/>
+                </fig>
+            </li>
+            <li>
+                <p>若当前处于PET 扫描状态，则该区域如下图所示，其中：</p>
+                <ul id="ul_opz_cqw_d2b">
+                    <li>
+                        <p>扫描床位：指示已完成扫描床位（填充）和当前扫描床位（高亮）。</p>
+                    </li>
+                    <li>
+                        <p>剩余时间：指示当前 PET 扫描剩余时间。</p>
+                    </li>
+                </ul>
+                <fig id="fig_mhq_stx_bdb">
+                    <title> PET 扫描状态</title>
+                    <image href="../../images/figure3-21.png" id="image_ijt_ttx_bdb"
+                        placement="break"/>
+                </fig>
+            </li>
+        </ul>
+        <note type="note" spectitle="overflow">
+            <p>DDP 显示异常或出现异常时，请立即停止使用并联系联影客户服务部，以便及时维修或更换。</p>
+        </note>
+    </conbody>
+</concept>

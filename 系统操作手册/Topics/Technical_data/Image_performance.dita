@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_cpt_zjm_cdb" xml:lang="zh">
+    <title>图像噪声</title>
+    <body>
+        <p>图像噪声应不大于 0.35%（中心剂量不大于 40 mGy）。</p>
+    </body>
+</topic>

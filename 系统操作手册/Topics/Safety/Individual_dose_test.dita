@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_t5z_mkh_1db" xml:lang="zh">
+    <title>个人剂量检测</title>
+    <shortdesc/>
+    <conbody>
+        <p>通过监控，可确定所接受的辐射剂量。由此不仅可以确定所采取的安全措施是否得当，而且 可以反映在辐射防护方面存在的问题。在扫描期间接近患者的操作人员均应佩戴个人剂量 检测仪。</p>
+        <ul id="ul_i2g_pkh_1db">
+            <li>
+                <p>鉴定现有安全措施是否得当的最有效方法是使用仪器测量。只要操作人员身体的任何一 部分有可能受到辐射，就应采取防辐射措施。辐射剂量不得超过所允许的剂量范围。</p>
+            </li>
+            <li>
+                <p>确定是否受到过量辐射的一般方法是使用佩戴式辐射剂量牌。其剂量牌内含 X 射线传感胶片或热发光材料。尽管该剂量牌只能测定佩戴人员身体相应部位所受辐射，但在一定
+                    程度上反映了受到的辐射量。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

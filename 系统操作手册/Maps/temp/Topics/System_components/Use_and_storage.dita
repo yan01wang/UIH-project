@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="topic_fbm_bv2_cdb" xml:lang="zh" xtrc="topic:1;3:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">取用存放</title><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">为保证附件和模体合理安全摆放，避免对正常扫描造成干扰，系统提供附件柜*，用户可以根据需要选配。附件柜一般置于扫描间内，便于在需要时随时取用各附件。用户可根据自身模体配置情况和扫描间大小自行安排附件柜和模体的摆放方式。一般建议将其置于扫描间内，便于在需要时随时取用各附件和模体。</p>
+        <p class="- topic/p " xtrc="p:2;7:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">附件柜规格如下表所示：</p>
+        <simpletable class="- topic/simpletable " frame="all" id="simpletable_swx_2v2_cdb" relcolwidth="1* 1* 1*" xtrc="simpletable:1;8:86" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;9:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:1;10:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                    <p class="- topic/p " xtrc="p:3;11:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">长度（mm）</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:2;13:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                    <p class="- topic/p " xtrc="p:4;14:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">宽度（mm）</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:3;16:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                    <p class="- topic/p " xtrc="p:5;17:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">高度（mm）</p>
+                </stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;20:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:4;21:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                    <p class="- topic/p " xtrc="p:6;22:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">1155</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:5;24:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                    <p class="- topic/p " xtrc="p:7;25:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">550</p>
+                </stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:6;27:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                    <p class="- topic/p " xtrc="p:8;28:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">970</p>
+                </stentry>
+            </strow>
+        </simpletable>
+        <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:1;32:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+            <ul class="- topic/ul " id="ul_g5j_jv2_cdb" xtrc="ul:1;33:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">
+                <li class="- topic/li " xtrc="li:1;34:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">为保证模体和检查床附件安全存放，避免损坏或丢失，使用完毕后，应及时清洁并将其收纳至附件柜合适位置。</li>
+                <li class="- topic/li " xtrc="li:2;35:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Use_and_storage.dita">为进一步确保模体在附件柜中摆放安全，避免滚动和滑落，为每个模体提供相应的模体垫子，以便更好的固定和保护模体。</li>
+            </ul>
+        </note>
+    </body>
+</topic>

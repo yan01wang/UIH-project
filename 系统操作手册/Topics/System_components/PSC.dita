@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_hq5_4xd_cdb" xml:lang="zh">
+    <title>电源分配机柜</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>配电柜<index-sort-as>P配电柜</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>电源分配机柜（Power Supply Cabinet, PSC）负责给系统供电。如图 3-29
+            所示，电源分配机柜是本产品的唯一供电入口。电源分配机柜由主接入端和功率分配部分组成。功率分配部分包含系统隔离变压器、配电部件和配电线缆。电源分配机柜提供如下功能：</p>
+        <ul id="ul_i35_qxd_cdb">
+            <li>
+                <p>将整个 PET/CT 系统与网电源连接。</p>
+            </li>
+            <li>
+                <p>隔离变压器实现网电与系统电子部件的隔离。</p>
+            </li>
+            <li>
+                <p>配电部件为系统电子部件提供满足要求的交流电和直流电。</p>
+            </li>
+        </ul>
+    </body>
+</topic>

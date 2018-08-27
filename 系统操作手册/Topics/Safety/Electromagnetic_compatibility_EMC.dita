@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cyx_xxl_1db" xml:lang="zh">
+    <title> 电磁兼容性</title>
+    <shortdesc>电磁兼容性（Electromagnetic
+        Compatibility，EMC）是指设备或系统在其电磁环境中符合要求运行，并不对其环境中的任何设备产生无法忍受的电磁干扰的能力。EMC
+        包括两个方面：一方面是指设备在正常运行过程中对所在环境产生的电磁干扰不能超过一定的限值。另一方面是指设备对所在环境中存在的电磁干扰具有一定程度的抗扰度，即电磁抗扰度（Electromagnetic
+        Susceptibility，EMS）。</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>D电磁兼容性</index-sort-as>电磁兼容性</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>本系统符合标准 YY0505 中有关医用电气设备的电磁兼容（EMC）标准。此标准规定了设备自身所允许的辐射级别，同时规定了设备抗外来电磁干扰的能力。</p>
+        <p>医疗电气设备需要采取特殊措施以确保电磁兼容安全。便携式和移动式射频通信设备，如手机，在某些情况下可能影响医用电气设备的正常工作。这可能导致致命或其他严重的人身伤害或临床误诊。因此，不得将射频（RF）通讯设备（即使设备关机）带入扫描间。</p>
+        <p>在系统中使用其它电缆和附件可能会造成电磁兼容性能故障。</p>
+        <p>详细的电磁干扰要求技术数据请参见第 8-32 页 “ 电磁干扰要求”。</p>
+        <note othertype="帮助信息" type="other">
+            <p>除设备或系统的制造商作为内部元器件的备件出售的换能器和电缆外，使用规定外的附件、换能器和电缆可能导致设备或系统电磁发射的增加或抗扰度的降低。</p>
+        </note>
+        <note type="caution">
+            <p>进行门控扫描时，请使用已通过 IEC60601-1 电磁兼容性认证的外触发装置。</p>
+        </note>
+        <note type="warning">
+            <p>设备损伤</p>
+            <ul id="ul_w1w_rtq_bdb">
+                <li>系统附近禁止出现强磁性物质。</li>
+                <li>系统应仅在所规定的射线防护场所内使用。</li>
+                <li>系统不应与其他设备接近或叠放使用。如果必须接近或叠放使用，则应观察验证在其 使用的配置下能正常运行。</li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

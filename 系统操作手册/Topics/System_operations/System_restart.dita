@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ngr_3jy_zcb" xml:lang="zh">
+    <title>系统重启</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>系统<index-sort-as>X系统</index-sort-as><indexterm>重启</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>为保证扫描质量，建议用户定期重启系统，重启频次视场地扫描频次和工作时长而定。</p>
+            <p>单击患者管理界面右上角的联影图标，在弹出菜单中选择重启系统，此时将重启操作处理系统。</p>
+        </context>
+        <steps>
+            <stepsection>在其他特殊情况下，也可采用 CT 紧急重启和 PET 紧急重启。</stepsection>
+            <step>
+                <cmd>CT紧急重启：快速重启CT机架和检查床控制系统，适用于CT和检查床相关问题的快速排查和解决。</cmd>
+            </step>
+            <step>
+                <cmd>PET紧急重启：快速重启PET机架控制系统，适用于PET相关问题的快速排查和解决。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

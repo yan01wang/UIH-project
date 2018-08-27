@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_scr_hvk_cdb" xml:lang="zh">
+    <title>检查床位置信息报错</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_ljm_kvk_cdb">
+            <li>
+                <p xtrc="/w:document/w:body[1]/w:p[39]"
+                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                    >PET有源质控时，当床板高度低于850 mm时，会提示“检查床无法移动到正确位置，请检查检查床高度 ”。此时需要手动调整检查床高度，使其高于 850
+                    mm。</p>
+            </li>
+            <li>
+                <p xtrc="/w:document/w:body[1]/w:p[40]"
+                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                    >PET 有源质控时，当床板水平位置在 0 mm~ 2160 mm 范围之外时，系统会提示 “ 检查床无法移动到正确位置,
+                    请检查检查床水平位置”。此时退出日常质控，重新设置床码位置。</p>
+            </li>
+            <li>
+                <p xtrc="/w:document/w:body[1]/w:p[41]"
+                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                    >系统重新上电后，如果提示“检查床未准备就绪，不能进行扫描”，需要退出日常质控,并执行检查床的复位操作。</p>
+            </li>
+        </ul>
+        <note type="note">
+            <p>PET 有源质控时，当床板水平位置在 0 mm~ 2160 mm 范围之外时，系统会提示 “ 检查床无法移动到正确位置,
+                请检查检查床水平位置”。此时退出日常质控，重新设置床码位置。</p>
+        </note>
+    </conbody>
+</concept>

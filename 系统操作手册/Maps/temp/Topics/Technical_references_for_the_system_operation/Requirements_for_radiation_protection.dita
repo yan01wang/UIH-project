@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_references_for_the_system_operation?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_references_for_the_system_operation/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_arl_pqh_bdb" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">辐射防护要求</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">系统运行或测试过程中，会产生射线辐射。为了保护职业人员和公众的健康，需要对此采取 合适的辐射防护措施。</shortdesc>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+        <authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata " xtrc="metadata:1;7:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;8:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;9:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">射线防护<index-sort-as class="+ topic/index-base indexing-d/index-sort-as " xtrc="index-sort-as:1;9:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">S射线防护</index-sort-as></indexterm>
+            </keywords>
+        <othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;13:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+        <p class="- topic/p " xtrc="p:1;14:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">PET/CT 系统辐射防护需要考虑的放射源主要有三种：</p>
+        <ul class="- topic/ul " id="ul_ex4_5qh_bdb" xtrc="ul:1;15:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <li class="- topic/li " xtrc="li:1;18:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">CT 扫描时 X 射线的辐射</li>
+            <li class="- topic/li " xtrc="li:2;21:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">系统校正时使用的放射源的辐射</li>
+            <li class="- topic/li " xtrc="li:3;24:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">患者注射放射性核素标记的示踪剂之后，湮灭反应带来的 γ 光子辐射。</li>
+        </ul>
+        <p class="- topic/p " xtrc="p:2;28:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">用户必须请有资质的专业设计公司进行辐射防护设计。在设计时必须根据 CT 球管的工作电流、高压发生器的功率、房间的位置和大小、同位素源和每天患者累计辐射量等因素来计算
+            辐射防护的当量。卫生部颁发的相关标准中，对机房的防护有详细的要求，在设计和施工中 必须严格遵行。对于机房混凝土防护墙的厚度、防护门的铅当量、扫描间外面的辐射警示以
+            及穿过防护墙的导线导管对防护效果的影响等，都要认真考虑。PET/CT 扫描时，患者需要注射放射性核素标记的示踪剂，示踪剂通常为18F-FDG，按0.1 mCi/kg ~ 0.2
+            mCi/kg 的注射剂量计算，同时考虑检查床的最大载重为 250 kg。</p>
+        <p class="- topic/p " xtrc="p:3;34:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">X 射线球管电压分为 70 kV、80 kV、100 kV、120 kV、140 kV 五档。CT 典型扫描运行条件和最大功率扫描条件如下所示。</p>
+        <table class="- topic/table " colsep="1" frame="all" id="table_cw5_wqh_bdb" rowsep="1" xtrc="table:1;35:81" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <title class="- topic/title " xtrc="title:2;36:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">扫描条件</title>
+            <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;37:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="132.3pt" rowheader="headers" xtrc="colspec:1;38:61" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="132.3pt" rowheader="headers" xtrc="colspec:2;39:61" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="132.3pt" rowheader="headers" xtrc="colspec:3;40:61" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita"/>
+                <thead class="- topic/thead " xtrc="thead:1;41:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                    <row class="- topic/row " xtrc="row:1;42:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;43:58" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:4;46:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">条件</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;48:58" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:5;51:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">电压 / 时间</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;53:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:6;56:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">电流</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:1;60:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                    <row class="- topic/row " xtrc="row:2;61:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;62:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:7;65:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">典型头部 CT 扫描</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;67:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:8;70:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">120 kV</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;72:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:9;75:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">180 mAs</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:3;78:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;79:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:10;82:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">典型体部 CT 扫描</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;84:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:11;87:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">120 kV</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;89:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:12;92:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">180 mAs</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:4;95:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;96:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:13;99:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">系统最长扫描时间</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;101:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:14;104:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">100 s</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;106:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:15;109:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">N.A.</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:5;112:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;113:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:16;116:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">最大功率 （100 kW）扫描</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;118:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:17;121:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">120 kV</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;123:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                            <p class="- topic/p " xtrc="p:18;126:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">833 mA</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <note class="- topic/note " type="warning" xtrc="note:1;132:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <p class="- topic/p " xtrc="p:19;133:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">过量辐射暴露，人员损伤</p>
+            <ul class="- topic/ul " id="ul_ykf_hrh_bdb" xtrc="ul:2;134:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                <li class="- topic/li " xtrc="li:4;135:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">房间辐射防护不当可能会对操作人员或其他人员产生伤害，请安装适当的辐射防护。</li>
+            </ul>
+        </note>
+        <note class="- topic/note " type="note" xtrc="note:2;138:27" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <p class="- topic/p " xtrc="p:20;139:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">客户有责任安装X射线警告指示灯和门机连锁装置</p>
+        </note>
+        <p class="- topic/p " xtrc="p:21;143:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">在进行辐射防护设计时，需要同时考虑到对设备的防护和对人员的防护。</p>
+        <ul class="- topic/ul " id="ul_nkw_rrh_bdb" xtrc="ul:3;144:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <li class="- topic/li " xtrc="li:5;146:171" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                <p class="- topic/p " xtrc="p:22;147:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">设备防护需求</p>
+                <p class="- topic/p " xtrc="p:23;150:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">本系统性能受周围环境的辐射影响，因此，需要考虑外界环境的放射源或放射扫描装置对系统的辐射干扰，尽量将系统所处环境的辐射剂量控制在最低水平。</p>
+                <p class="- topic/p " xtrc="p:24;153:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">需要注意将所有用于质量控制的放射源，置于独立的屏蔽间内。该房间也可以用于储存示踪剂或其他放射性物品，准备水模时也尽量在此房间内进行。</p>
+            </li>
+            <li class="- topic/li " xtrc="li:6;156:171" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+                <p class="- topic/p " xtrc="p:25;157:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">人员防护需求</p>
+                <p class="- topic/p " xtrc="p:26;160:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">系统的人员防电离辐射防护设计以 GB18871《电离辐射防护与辐射安全基本标准》为指导标准。安装场地的屏蔽设计要求应遵守此标准中的 "
+                    正常照射的剂量控制应符合剂量限制的规定
+                    "，并要遵循辐射防护最优化要求。房间的防电离辐射的效果应最少满足指导标准中的规定限值，即职业照射剂量限值。同时，应遵循国家、地方的相应法律、法规和现行的相关
+                    标准。</p>
+                <p class="- topic/p " xtrc="p:27;166:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">所有与 PET/CT 检查的无关人员应处于指定受控区域之外。客户负责安装门机连锁装置，确保只有当 PET/CT 扫描间的防护门关闭时，X
+                    射线放射才能启动。</p>
+                <p class="- topic/p " xtrc="p:28;170:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">为避免患者之间互相传递辐射危害，需要设置合理的就诊途径。患者在注射示踪剂之后及扫描过程前后要严格遵照技师的引导，走特定的通道，避免对其他人员，尤其是孕妇和儿童造
+                    成危害。</p>
+                <p class="- topic/p " xtrc="p:29;174:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">操作人员需佩戴相关辐射剂量监测仪，对累积辐射剂量进行监控，同时应尽量减少与患者的接触时间，熟练操作，防止不必要的暴露于辐射中。</p>
+            </li>
+        </ul>
+        <note class="- topic/note " type="warning" xtrc="note:3;177:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <p class="- topic/p " xtrc="p:30;178:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">所有操作人员都需要进行过辐射防护培训</p>
+        </note>
+        <note class="- topic/note " type="warning" xtrc="note:4;180:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <p class="- topic/p " xtrc="p:31;181:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">射线防护应以当地卫生防疫部门的要求为准，主要取决于工作负荷，设备的位置和周围房屋的用途等。</p>
+        </note>
+        <note class="- topic/note " type="warning" xtrc="note:5;183:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">
+            <p class="- topic/p " xtrc="p:32;184:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita">机房的门窗，墙壁，室顶，地板都要具有相应的防护效果。</p>
+        </note>
+    </conbody>
+</concept>

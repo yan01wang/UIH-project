@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dqf_2lv_d2b">
+    <title>System Reliability</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <table frame="all" id="table_y5n_hlv_d2b" colsep="1" rowsep="1">
+            <title>System Resource Usage</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry colsep="0" align="center" valign="middle">
+                            <p>Resource Types</p>
+                        </entry>
+                        <entry colsep="0" align="center" valign="middle">
+                            <p>Instructions</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Problem and Solution</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry colsep="1" rowsep="1" align="center" valign="middle">
+                            <p>Memory</p>
+                        </entry>
+                        <entry colsep="1" rowsep="1">
+                            <p>The system uses memory when it is running. There is a direct
+                                correlation between the memory occupancy rate and service types as
+                                well as operating data. The memory monitoring module in this product
+                                monitors how memory is used in the system, and supports two levels
+                                of threshold value prompts.When memory reaches the upper limit set
+                                for the first level, the system issues a prompt to you in the form
+                                of a yellow warning which states that current memory use has reached
+                                the upper limit.When memory reaches the upper limit set for the
+                                second level, the system issues a prompt to you in the form of a red
+                                error which states that current memory use has reached the upper
+                                limit.</p>
+                        </entry>
+                        <entry rowsep="1">
+                            <p>Memory is a limited resource. When memory utilization reaches the
+                                preset limit, the system status bar issues a prompt which states
+                                that memory use has reached the upper limit. You can increase
+                                available memory by closing examinations that are using a large
+                                amount of data.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colsep="1" rowsep="1" align="center" valign="middle">
+                            <p>Disk</p>
+                        </entry>
+                        <entry colsep="1" rowsep="1">
+                            <p>The systems needs to use disks to run.There is a direct correlation
+                                between disk occupancy rate and data volume stored in the system.
+                                The disk monitoring module in this product monitors remaining disk
+                                space in the image storage area, and supports two levels of
+                                threshold value prompts. When remaining disk space reaches the upper
+                                limit set for the first level, the disk space icon is displayed in
+                                yellow to alert you that disk use has reached the set upper limit.
+                                When remaining disk space reaches the upper limit set for the second
+                                level, the disk space icon is displayed in red to alert you that
+                                disk use has reached the set limit value.</p>
+                        </entry>
+                        <entry rowsep="1">
+                            <p>Disks are a limited resource. When disk utilization reaches the
+                                preset limit, the system issues a prompt to you of the disk status.
+                                You then needs to clean the disk or storage volume to increase
+                                avail-able space in the disk or storage volume.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colsep="1" rowsep="1" align="center" valign="middle">
+                            <p>Network</p>
+                        </entry>
+                        <entry colsep="1" rowsep="1">
+                            <p>The system needs to communicate with other devices when obtaining and
+                                sending data. Therefore, the network communication function needs to
+                                be used. The network monitoring module of this product monitors
+                                network connection status. When the network connection status
+                                changes, you is alerted. When the network is disconnected, the icon
+                                is displayed in red to alert you that the network connection has
+                                failed. When the network connection is recovered, the icon is
+                                displayed in gray to alert you that the network connection has been
+                                recovered.</p>
+                        </entry>
+                        <entry>
+                            <p>If the network is not connected, the sys-tem cannot receive data from
+                                other devices and cannot send data to other devices. You can check
+                                whether the cable socket is loose, whether the cable is damaged, and
+                                whether relevant devices are working normally; if so, you can
+                                tighten and change the cable, or repair or change the broken network
+                                devices to get the system running nor-mally again.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_fbm_bv2_cdb" xml:lang="zh">
+    <title>取用存放</title>
+    <body>
+        <p>为保证附件和模体合理安全摆放，避免对正常扫描造成干扰，系统提供附件柜*，用户可以根据需要选配。附件柜一般置于扫描间内，便于在需要时随时取用各附件。用户可根据自身模体配置情况和扫描间大小自行安排附件柜和模体的摆放方式。一般建议将其置于扫描间内，便于在需要时随时取用各附件和模体。</p>
+        <p>附件柜规格如下表所示：</p>
+        <simpletable frame="all" relcolwidth="1* 1* 1*" id="simpletable_swx_2v2_cdb">
+            <sthead>
+                <stentry>
+                    <p>长度（mm）</p>
+                </stentry>
+                <stentry>
+                    <p>宽度（mm）</p>
+                </stentry>
+                <stentry>
+                    <p>高度（mm）</p>
+                </stentry>
+            </sthead>
+            <strow>
+                <stentry>
+                    <p>1155</p>
+                </stentry>
+                <stentry>
+                    <p>550</p>
+                </stentry>
+                <stentry>
+                    <p>970</p>
+                </stentry>
+            </strow>
+        </simpletable>
+        <note type="other" othertype="帮助信息">
+            <ul id="ul_g5j_jv2_cdb">
+                <li>为保证模体和检查床附件安全存放，避免损坏或丢失，使用完毕后，应及时清洁并将其收纳至附件柜合适位置。</li>
+                <li>为进一步确保模体在附件柜中摆放安全，避免滚动和滑落，为每个模体提供相应的模体垫子，以便更好的固定和保护模体。</li>
+            </ul>
+        </note>
+    </body>
+</topic>

@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_xhr_z4m_cdb" xml:lang="zh">
+    <title>VSM 技术规格</title>
+    <shortdesc>产品主要包括心电功能、呼吸功能、通信功能、机械特性及电源特性参数。</shortdesc>
+    <refbody>
+        <section id="section_td2_bpm_cdb">
+            <ul id="ul_bhp_yck_zdb">
+                <li>
+                    <p>心电功能</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_o35_qpm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.4pt"/>
+                            <colspec colname="col2" colwidth="198.5pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >导联切换</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >I 导联， II 导联，III 导联</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >心电采样率</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >1 kHz</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[4]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >实时数据上报速率</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[4]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >250 Hz</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[5]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >触发范围</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[5]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >30 bpm~ 200 bpm, 0.5 mV ~ 5 mV</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[6]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >R 波波峰检测</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[6]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >是</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[7]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >心电波形输出形式</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[40]/w:tr[7]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >数字输出</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>呼吸功能</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_nxw_rpm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.4pt"/>
+                            <colspec colname="col2" colwidth="198.5pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >呼吸方法</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >气压式</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >范围</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >5 Brpm ~ 30 Brpm</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[4]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >呼吸采样率</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[4]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >100 Hz</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[5]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >呼吸波形输出方式</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[5]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >数字输出</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[6]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >实时数据上报速率</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[6]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >100 Hz</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[7]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >波峰检测</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[41]/w:tr[7]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >是</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>通信方式</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_onq_spm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.4pt"/>
+                            <colspec colname="col2" colwidth="198.5pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >连接器形式</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >DB9</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >通信波特率</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >1 M</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[4]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >通信协议</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[4]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >差分 SPI</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[5]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >无线通信协议</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[42]/w:tr[5]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >2.4 GHz Zigbee</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>机械特性</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_im2_5pm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.4pt"/>
+                            <colspec colname="col2" colwidth="198.5pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[43]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[43]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[43]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >手持端尺寸 （mm）</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[43]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >175 × 95 × 37 （长宽高）</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[43]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >手持端重量 （g）</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[43]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >500</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[43]/w:tr[4]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >接收板尺寸 （mm）</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[43]/w:tr[4]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >155 × 105 × 16 （长宽高）</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>温度特性</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_v5r_vpm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.5pt"/>
+                            <colspec colname="col2" colwidth="198.4pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[44]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[44]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[44]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >使用温度范围</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[44]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >5°C ~ 40°C</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[44]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >存储温度范围</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[44]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >-20°C ~ 40°C</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>电源特性</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_c4v_xpm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.5pt"/>
+                            <colspec colname="col2" colwidth="198.4pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >手持端电源</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >3.7 V 电池输入</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >接收端电源</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >5 V 直流输入</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[4]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >手持端最大功耗</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[4]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >&lt; 3 W</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[5]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >接收端最大功耗</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[45]/w:tr[5]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >&lt; 3 W</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>电池及充电特性</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_jxy_ypm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.5pt"/>
+                            <colspec colname="col2" colwidth="198.4pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[46]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[46]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[46]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >电池规格</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[46]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >18650， 3400 mAh， 3.7 V</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[46]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >座充</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[46]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >交流输入 100 V ~ 240 V，50/60 Hz，输出电压 4.2 V ±1%，输出电流 1 A</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>射频特性</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_xzx_zpm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.5pt"/>
+                            <colspec colname="col2" colwidth="198.4pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >频带</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >2400 MHz~2483.5 MHz</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >调制类型</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >OQPSK</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[4]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >辐射功率</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[4]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >≤ 20 dBm</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry morerows="1">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[5]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >频率特性</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[5]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >频率容限： ≤ 20×10-6</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[47]/w:tr[6]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >占用宽带： ≤ 5 MHz</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>接收特性</p>
+                    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_o1k_bqm_cdb">
+                        <tgroup cols="2">
+                            <colspec colname="col1" colwidth="198.5pt"/>
+                            <colspec colname="col2" colwidth="198.4pt"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[48]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >特性</p>
+                                    </entry>
+                                    <entry align="center">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[48]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[48]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >接收频率</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[48]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >2.4 GHz</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[48]/w:tr[3]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >频带</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[48]/w:tr[3]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >2400 MHz~2483.5 MHz</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[48]/w:tr[4]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >占用带宽</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[48]/w:tr[4]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >≤ 5 MHz</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+            </ul>
+            <note type="note">
+                <p>设备的专业维护和维修都必须由经过培训的有资质人员执行。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_operations?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_operations/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="task_ywq_srf_1db" xml:lang="zh" xtrc="task:1;3:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">二维浏览</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">
+        <steps class="- topic/ol task/steps " xtrc="steps:1;7:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">
+            <step class="- topic/li task/step " xtrc="step:1;8:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;9:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">点击图像浏览界面【2D】标签，切换至二维图像浏览界面。</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;10:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">
+                    <p class="- topic/p " xtrc="p:1;11:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">2D 图像浏览：默认 2 × 2 布局，用户可在此将一个或多个序列拖至 2D 图像浏览窗口中查看。</p>
+                    <p class="- topic/p " xtrc="p:2;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">详细操作请参见《软件操作手册》二维图像浏览章节。</p>
+                    <fig class="- topic/fig " id="fig_r3w_xrf_1db" xtrc="fig:1;13:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">
+                        <title class="- topic/title " xtrc="title:2;14:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita">2D图像浏览</title>
+                        <image class="- topic/image " href="../../images/figure4-11.png" id="image_cjv_yrf_1db" placement="break" xtrc="image:1;16:48" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/2D_viewing.dita"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

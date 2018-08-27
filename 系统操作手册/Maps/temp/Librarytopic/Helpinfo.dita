@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\librarytopic?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/librarytopic/?><?path2project ..\out\?><?path2project-uri ../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="topic_frj_3qv_fdb" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="topic:1;3:31">
+  <title class="- topic/title " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="title:1;4:10">帮助信息</title>
+  <body class="- topic/body " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="body:1;5:9">
+    <note type="other" othertype="帮助信息" id="note_jbd_kqv_fdb" class="- topic/note " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="note:1;6:63">
+      <p class="- topic/p " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="p:1;7:10">系统的使用帮助信息。</p>
+    </note>
+    <note type="other" othertype="帮助信息" id="note_krk_kqv_fdb" class="- topic/note " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="note:2;9:63">
+      <ul id="ul_onj_c4j_bdb" class="- topic/ul " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="ul:1;10:31">
+        <li class="- topic/li " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="li:1;11:13">系统的使用帮助信息 1。</li>
+        <li class="- topic/li " xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/librarytopic/Helpinfo.dita" xtrc="li:2;12:13">系统的使用帮助信息 2。</li>
+      </ul>
+    </note>
+  </body>
+</topic>

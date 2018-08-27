@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wgt_dd3_bdb" xml:lang="zh">
+    <title>安装检查床</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>A安装</index-sort-as>安装<indexterm>检查床</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>运输到安装位置</cmd>
+            </step>
+            <step>
+                <cmd>拆除防护支撑管和限位块</cmd>
+            </step>
+            <step>
+                <cmd>预固定</cmd>
+            </step>
+            <step>
+                <cmd>水平调节</cmd>
+            </step>
+            <step>
+                <cmd>与机架对准</cmd>
+            </step>
+            <step>
+                <cmd>定位与固定</cmd>
+            </step>
+            <step>
+                <cmd>拆卸工装</cmd>
+            </step>
+            <step>
+                <cmd>连接线缆</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

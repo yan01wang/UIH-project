@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_16" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[316]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+    id="title__TOC_250002">维修和备件更换</title>
+  <body xtrc="/w:document/w:body[1]/w:p[317]">
+    <p xtrc="/w:document/w:body[1]/w:p[317]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+      >在系统和部件出现故障，影响正常扫描时，请立即停止使用并联系联影客户服务部进行故障排查和维修工作。</p>
+    <p xtrc="/w:document/w:body[1]/w:p[318]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+      >设备中有的部件在正常使用过程中会磨损或损坏。设备维修与部件更换由联影或指定的售 后服务单位完成，其他无资质人员不得擅自维修，若因擅自维修造成生命或财产损失，联影不承担责任。</p>
+    <note type="warning">
+      <ul id="ul_t2q_w1r_bdb">
+        <li>高压和滤波器断电后仍存在放电的危险，需要采取必须的防护措施。</li>
+        <li>更换CT 旋转部件时，需先锁定旋转装置。</li>
+        <li>严禁未授权人员拆卸系统的任何部件。</li>
+      </ul>
+    </note>
+    <note type="note">
+      <ul id="ul_vlc_1br_bdb">
+        <li>维修过程中，固定线缆需要使用合适的扭矩。</li>
+        <li>拆卸前后外壳后，应检查外壳上的线缆是否固定完好。</li>
+        <li>维修、更换图像质量相关部件之后，需要对系统进行相应的配准和校正操作。</li>
+        <li>检查床底座与机架前外壳之间的空间较小，服务人员进行操作时需注意避免被夹伤。</li>
+      </ul>
+    </note>
+    <p xtrc="/w:document/w:body[1]/w:p[322]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+      >现场可更换部件部分清单如下表所示：</p>
+    <table xtrc="" frame="all" rowsep="1" colsep="1">
+      <tgroup cols="2">
+        <colspec colname="col1" colwidth="146.95pt"/>
+        <colspec colname="col2" colwidth="249.95pt"/>
+        <thead>
+          <row>
+            <entry align="center" colsep="0" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[1]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >序号</p>
+            </entry>
+            <entry align="center" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[1]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >可更换部件名称</p>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[2]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >1</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[2]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >过滤棉</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[3]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >2</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[3]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >PET 前端探测器模块</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[4]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >3</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[4]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >冷却系统</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[5]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >4</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[5]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >X 射线球管组件</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[6]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >5</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[6]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >高压发生器</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[7]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >6</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[7]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >交流逆变器</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[8]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >7</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[8]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >小带轮</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[9]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >8</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[9]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >垂直限位开关</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[10]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >9</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[10]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >水平限位开关</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[11]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >10</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[11]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >检查床电机</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[12]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >11</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[12]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >机架控制面板</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[13]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >12</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[13]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >数据显示屏</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[14]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >13</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[14]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >计算机</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[15]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >14</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[15]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >控制盒</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[16]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >15</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[5]/w:tr[16]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >显示器</p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

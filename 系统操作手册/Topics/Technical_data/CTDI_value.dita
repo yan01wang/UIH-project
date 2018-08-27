@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_kmv_5fm_cdb" xml:lang="zh">
+    <title>CTDI 值</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_evb_yfm_cdb">
+            <title>典型运行条件下的 CTDI<sub>100</sub></title>
+            <p>体模在BC、B1、B2、B3、B4、周边位置上的 CTDI100 值如下表所示。以下 CTDI 值的最大偏差为±20 %，单位 mGy。</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_ox5_zfm_cdb">
+                <tgroup cols="7">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <colspec colname="col3" colwidth="1.0*"/>
+                    <colspec colname="col4" colwidth="1.0*"/>
+                    <colspec colname="col5" colwidth="1.0*"/>
+                    <colspec colname="col6" colwidth="1.0*"/>
+                    <colspec colname="col7" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >BC</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >B1</p>
+                            </entry>
+                            <entry align="right" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >B2</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >B3</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[6]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >B4</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[7]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >周边</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >头部</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >37.043</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >40.445</p>
+                            </entry>
+                            <entry align="right">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >37.724</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >38.524</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[6]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >39.795</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[7]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >39.122</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >体部</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >20.15</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >43.99</p>
+                            </entry>
+                            <entry align="right">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >43.10</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >38.99</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[6]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >43.38</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[7]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >42.36</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_wlf_1gm_cdb">
+            <title>不同 mAs 下的 CTDI<sub>100 </sub>（中心）归一化数值</title>
+            <p>剂量与射线管电流 - 照射时间的乘积呈线性函数关系。</p>
+            <p><b>■ 头部：</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_svk_dgm_cdb">
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <colspec colname="col3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry namest="col1" nameend="col2" align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >最小mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（2.1mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.012</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >中等mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（600mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >2.66</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >最大mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（1334mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >5.68</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p><b>■ 体部：</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_olj_fgm_cdb">
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <colspec colname="col3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry namest="col1" nameend="col2" align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >最小mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（2.1mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.005</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >中等mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（600 mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.48</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >最大mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（1334 mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[20]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3.263</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_vwn_fgm_cdb">
+            <title>不同 mAs 下 CTDI<sub>100</sub> （周边）归一化数值</title>
+            <p>剂量与射线管电流 - 照射时间的乘积呈线性函数关系。</p>
+            <p><b>■ 头部：</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_jvx_hgm_cdb">
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <colspec colname="col3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry namest="col1" nameend="col2" align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >最小mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（2.1 mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.012</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >中等mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（600 mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >2.66</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >最大mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >（133 4mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[21]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >5.68</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p><b>■ 体部：</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_wjm_jgm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[22]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >mAs</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[22]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[22]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >最小mAs （2.1 mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[22]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.005</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[23]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >中 等 mAs （600 mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[23]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.475</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[23]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >最 大 mAs （1334 mAs）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[23]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >3.258</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_oc5_ngm_cdb">
+            <title>不同准直宽度下的 CTDI<sub>100</sub>（中心）归一化数值</title>
+            <p><b>■ 头部：</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_ulm_pgm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[24]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >准直宽度</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[24]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[24]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >40 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[24]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[24]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >20 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[24]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.075</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[24]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >10 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[24]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.247</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p><b>■ 体部：</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_mzp_qgm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[25]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >准直宽度</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[25]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[25]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >40 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[25]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[25]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >20 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[25]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.078</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[25]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >10 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[25]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.247</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_nn1_rgm_cdb">
+            <title>不同准直宽度下的 CTDI<sub>100</sub> （周边）归一化数值</title>
+            <p><b>■ 头部</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_wts_sgm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[26]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >准直宽度</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[26]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[26]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >40 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[26]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[26]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >20 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[26]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.074</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[26]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >10 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[26]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.245</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p xtrc="/w:document/w:body[1]/w:p[394]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                    ><b>■ 体部</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_vgf_tgm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[27]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >准直宽度</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[27]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[27]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >40 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[27]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[27]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >20 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[27]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.072</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[27]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >10 mm</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[27]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.245</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_rg1_5gm_cdb">
+            <title>不同管电压下的 CTDI<sub>100</sub>（中心）归一化数值</title>
+            <p xtrc="/w:document/w:body[1]/w:p[397]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                    ><b>■ 头部：</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_zsz_5gm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[28]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电压</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[28]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[28]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >70 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[28]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.188</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[29]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >100 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[29]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.608</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[29]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >140 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[29]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.459</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p xtrc="/w:document/w:body[1]/w:p[402]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                    ><b>■ 体部：</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_er5_wgm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[30]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电压</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[30]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[30]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >70 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[30]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.136</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[30]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >100 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[30]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.564</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[30]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >140 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[30]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.537</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_amq_xgm_cdb">
+            <title>不同管电压下的 CTDI<sub>100</sub> （周边）归一化数值</title>
+            <p xtrc="/w:document/w:body[1]/w:p[405]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                    ><b>■ 头部</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_ek2_zgm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[31]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电压</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[31]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[31]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >70 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[31]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.201</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[31]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >100 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[31]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.62</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[31]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >140 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[31]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.45</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p xtrc="/w:document/w:body[1]/w:p[407]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                    ><b>■ 体部</b></p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_fk2_zgm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[32]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电压</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[32]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[32]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >70 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[32]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.18</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[32]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >100 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[32]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >0.60</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[32]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >140 kV</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[32]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >1.48</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

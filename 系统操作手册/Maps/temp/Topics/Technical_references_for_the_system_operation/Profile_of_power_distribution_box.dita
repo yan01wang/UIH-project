@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_references_for_the_system_operation?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_references_for_the_system_operation/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_nxj_nb4_1db" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱概述</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">PSC 负责为本系统的所有部件供电，是系统唯一的供电入口。本系统的 PSC 适配三相五线制的电源，即 TN-S 电源系统。客户需要根据 PSC
+            的供电需求，提供配电箱和专用线缆，为PSC 供电，详细技术规格要求请参见第 7-15 页 “ 配电箱技术规格 ”。如有任何问题，请联系联影客户服务部。</p>
+        <p class="- topic/p " xtrc="p:2;11:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱原理图如下图所示。</p>
+        <fig class="- topic/fig " id="fig_pgq_qb4_1db" xtrc="fig:1;12:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+            <title class="- topic/title " xtrc="title:2;13:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱原理图</title>
+            <image class="- topic/image " href="../../images/figure7-6.png" id="image_b3x_wb4_1db" placement="break" xtrc="image:1;14:96" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita"/>
+        </fig>
+        <p class="- topic/p " xtrc="p:3;16:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">图中各标识具体含义和规格如下表所示：</p>
+        <table class="- topic/table " colsep="1" frame="all" id="table_ssj_zb4_1db" rowsep="1" xtrc="table:1;17:81" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+            <title class="- topic/title " xtrc="title:3;18:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱标识含义</title>
+            <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;19:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="36.7pt" rowheader="headers" xtrc="colspec:1;20:60" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="52.5pt" rowheader="headers" xtrc="colspec:2;21:60" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="307.7pt" rowheader="headers" xtrc="colspec:3;22:61" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita"/>
+                <thead class="- topic/thead " xtrc="thead:1;23:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                    <row class="- topic/row " xtrc="row:1;24:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;25:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:4;28:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">标识</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;30:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:5;33:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">名称</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;35:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:6;38:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">规格</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:1;42:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                    <row class="- topic/row " xtrc="row:2;43:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;44:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:7;47:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">QF</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;49:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:8;52:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">塑壳断路器</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;54:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:9;57:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">塑壳断路器，额定电流 225 A，额定电压 400 V，瞬时脱扣电流大于等于2250 A，短路分段能力 ＞ 36 kA，四极</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:3;60:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;61:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:10;64:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">KM</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;66:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:11;69:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">接触器</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;71:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:12;74:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">额定电流 185 A，线圈电压 AC 220 V 3P</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:4;77:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;78:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:13;81:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">SB1</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;83:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:14;86:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">按钮</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;88:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:15;91:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">启动按钮 （配电箱面板）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:5;94:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;95:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:16;98:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">SB2</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;100:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:17;103:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">按钮</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;105:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:18;108:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">停止按钮 （配电箱面板）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:6;111:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:16;112:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:19;115:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">HL1</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:17;117:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:20;120:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">指示灯</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:18;122:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:21;125:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">绿色，运行指示灯 （配电箱面板）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:7;128:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:19;129:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:22;132:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">HL2</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:20;134:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:23;137:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">指示灯</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:21;139:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:24;142:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">红色，运行指示灯 （配电箱面板）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:8;145:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:22;146:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:25;149:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">FU</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:23;151:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:26;154:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">熔断器</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:24;156:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:27;159:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">AC220V，5 A</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:9;162:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:25;163:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:28;166:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">AT1</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:26;168:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:29;171:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">按钮</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9" xtrc="entry:27;173:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:30;176:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">紧急断电按钮，带自锁功能（操作间操作台附近）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:10;179:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:28;180:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:31;183:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">AT2</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" xtrc="entry:29;185:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:32;188:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">按钮</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10" xtrc="entry:30;190:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:33;193:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">紧急断电按钮，带自锁功能（扫描间）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:11;196:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:31;197:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:34;200:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">HL3</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11" xtrc="entry:32;202:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:35;205:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">警示灯</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11" xtrc="entry:33;207:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:36;210:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">红色，机器曝光状态指示灯（扫描间防护门上方）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:12;213:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12" xtrc="entry:34;214:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:37;217:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">HL4</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12" xtrc="entry:35;219:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:38;222:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">警示灯</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12" xtrc="entry:36;224:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:39;227:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">黄色，机房内系统测试电源通电状态指示灯（扫描间防护门上方）（若有）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:13;230:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13" xtrc="entry:37;231:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:40;234:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">HL5</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13" xtrc="entry:38;236:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:41;239:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">警示灯</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="13" xtrc="entry:39;241:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+                            <p class="- topic/p " xtrc="p:42;244:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">绿色，机房内系统测试电源断电状态指示灯（扫描间防护门上方）（若有）</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <ul class="- topic/ul " id="ul_y5x_nc4_1db" xtrc="ul:1;250:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">
+            <li class="- topic/li " xtrc="li:1;253:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱的准备及安装由用户负责。图中所示紧急断电按钮AT1 和AT2、扫描间防护门上方警示灯 HL3（若有）均由用户提供，用户必须在装机前完成上述项的安装。</li>
+            <li class="- topic/li " xtrc="li:2;256:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">紧急断电按钮 AT1、AT2 均要提供两幅常闭触点，安装位置推荐高度为 1.8 m。</li>
+            <li class="- topic/li " xtrc="li:3;259:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">操作间和扫描间紧急断电按钮常闭触点均要接到配电箱 AT1、AT2 所示位置。</li>
+            <li class="- topic/li " xtrc="li:4;262:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">扫描间防护门上方警示灯，要分别接到配电箱 HL3（若有）所示位置。</li>
+            <li class="- topic/li " xtrc="li:5;265:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">为配电箱供电的线缆由用户准备：三相五线，多股铜芯线，线径要满足电源内阻要求，电 缆颜色、规格必须符合电气安装标准规范的相关规定。</li>
+            <li class="- topic/li " xtrc="li:6;268:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱必须是本系统专用的独立电源。此回路仅给该系统供电，中间不得搭接除此系统 以外的其它设备。</li>
+            <li class="- topic/li " xtrc="li:7;271:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱必须安装零线、地线接线端子排。</li>
+            <li class="- topic/li " xtrc="li:8;274:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">应将原理图贴在配电箱内部，且对电缆和各部件图中标号进行标识，以便于检修。</li>
+            <li class="- topic/li " xtrc="li:9;277:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱必须具备防开盖锁定功能（明锁扣），以确保电气安全作业之需。</li>
+            <li class="- topic/li " xtrc="li:10;280:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱内主回路电缆建议采用 35 mm2 ~ 50 mm2 铜线。</li>
+            <li class="- topic/li " xtrc="li:11;283:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">配电箱外壳要接地。</li>
+            <li class="- topic/li " xtrc="li:12;286:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita">布置电力线时，所有的三相线和地线必须要在同一条电力线管或电缆管道里。电力线从 系统控制电缆和信号电缆上引线时，应使用单独的电力线管或电缆管道。</li>
+        </ul>
+    </conbody>
+</concept>

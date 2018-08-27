@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nm2_k4z_zcb" xml:lang="zh">
+    <title>预登记</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>在患者登记界面的患者数据区和检查数据区输入相关信息。</cmd>
+            </step>
+            <step>
+                <cmd>点击预登记保存当前患者信息至本地，该用户信息存在等待标签页下，患者登记界面置 空，此时可登记下一位患者。</cmd>
+            </step>
+            <step>
+                <cmd>回到患者管理界面查看患者信息，该预登记患者位于首列。</cmd>
+            </step>
+        </steps>
+        <result id="result_ngg_p4z_zcb">推荐使用预登记，提前录入患者数据。这样完成患者定位后，返回检查室只需选择扫描协议
+            和摆位即可开始扫描，以减少患者在检查床上的等待时间。</result>
+    </taskbody>
+</task>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hvz_tpv_d2b">
+    <title>SP value display accuracy</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <note type="warning">
+            <p>Because only one valid digit is displayed as an SP (Slice Position) value in the
+                image text, SP values for the two adjacent slices will be displayed as the same. It
+                is not reliable to determine that two slices belong to the same one merely based on
+                the displayed SP values, an experienced or trained doctor is required to distinguish
+                from the images whether the two slices are the same.</p>
+        </note>
+    </conbody>
+</concept>

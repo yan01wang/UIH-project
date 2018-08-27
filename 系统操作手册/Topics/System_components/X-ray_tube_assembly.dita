@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_w5f_bjx_bdb" xml:lang="zh">
+    <title> X射线球管组件</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>X射线<indexterm>球管组件</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p><b>功能概述</b></p>
+        <p>X 射线球管组件用于产生 X 射线。</p>
+    </conbody>
+</concept>

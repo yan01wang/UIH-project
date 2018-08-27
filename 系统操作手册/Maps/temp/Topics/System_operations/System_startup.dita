@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_operations?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_operations/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="task_rkv_gqx_zcb" xml:lang="zh" xtrc="task:1;3:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">系统开启</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+        <steps class="- topic/ol task/steps " xtrc="steps:1;7:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+            <stepsection class="- topic/li task/stepsection " xtrc="stepsection:1;8:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">首次安装完成后或使用 EPO 紧急关闭系统电源后，应参考以下步骤开机。</stepsection>
+            <step class="- topic/li task/step " xtrc="step:1;9:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">检查系统 EPO，确保其为弹起状态。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;12:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;13:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">确保 PSC 内所有断路器处于闭合状态。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;15:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;16:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">开启 PSC 外壳上一键式电源开关。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;18:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;19:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">各子系统自动上电，等待一分钟后系统上电完毕。控制台主机和重建机将自动启动，请 等待软件系统加载完成。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;21:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;22:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">打开显示器，启动完成后系统应能登录 uExceed 系统并正常显示当前球管的热容量。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;24:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;25:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">启动打印机（如有）。</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;26:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                    <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:1;27:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                        <p class="- topic/p " xtrc="p:1;28:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">不间断电源* 起续航作用，用于在网电源意外断开时给控制台供电，以便操作人员能及时保存检查数据，推荐使用。</p>
+                        <p class="- topic/p " xtrc="p:2;29:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">不间断电源可续航时间为15 min 左右，在网电源断开后，用户需尽快保存检查数据。</p>
+                    </note>
+                    <note class="- topic/note " type="note" xtrc="note:2;31:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">
+                        <p class="- topic/p " xtrc="p:3;32:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_startup.dita">忘记密码时，请联系联影客户服务部。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

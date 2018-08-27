@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cdn_bhj_bdb" xml:lang="zh">
+    <title>信息查看</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>进入<uicontrol>Service</uicontrol>-><uicontrol>About</uicontrol> 界面。</cmd>
+                <info>
+                    <p>在About 页面，用户可以查看系统信息（System Info）和产品信息（Product Info）。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

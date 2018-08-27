@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="en-US" type="uMI780">
+    <title>System Manual</title>
+    <bookmeta>
+        <author>WangYan</author>
+        <authorinformation>
+            <organizationinfo>
+                <namedetails>
+                    <personname>
+                        <firstname>Wang</firstname>
+                        <lastname>Yan</lastname>
+                    </personname>
+                    <organizationnamedetails>
+                        <organizationname>TCC编辑团队</organizationname>
+                    </organizationnamedetails>
+                </namedetails>
+            </organizationinfo>
+        </authorinformation>
+        <critdates>
+            <created date="2018-03-20"/>
+            <revised modified="2018-03-21"/>
+        </critdates>
+        <othermeta name="Market" content="China"/>
+        <bookrights>
+            <bookowner>
+                <person>XXXX</person>
+                <organization>XXXX</organization>
+            </bookowner>
+            <bookrestriction value=""/>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <topicref href="../Librarytopics/copyright.dita"/>
+        <preface href="../Librarytopics/preface.dita" rev="1.0">
+            <topicmeta>
+                <copyright>
+                    <copyryear year="2018"/>
+                    <copyrholder>UIH</copyrholder>
+                </copyright>
+            </topicmeta>
+        </preface>
+        <booklists>
+            <toc/>
+            <figurelist/>
+            <tablelist/>
+        </booklists>
+    </frontmatter>
+    <chapter href="../Topics/Introduction/Introduction.dita">
+        <topicref href="../Topics/Introduction/AboutThisManual.dita"
+            navtitle="1.1 About This Manual">
+            <topicref href="../Topics/Introduction/TextConventions.dita"
+                navtitle="1.1.1 Text Conventions"/>
+            <topicref href="../Topics/Introduction/RelevantDocuments.dita"
+                navtitle="1.1.2 Relevant Documents"/>
+        </topicref>
+        <topicref href="../Topics/Introduction/AboutThisSystem.dita"
+            navtitle="1.2 About This System">
+            <topicref href="../Topics/Introduction/FunctionDescriptions.dita"
+                navtitle="1.2.1 Function Descriptions"/>
+            <topicref href="../Topics/Introduction/IntendedUse.dita" navtitle="1.2.2 Intended Use"/>
+        </topicref>
+        <topicref href="../Topics/Introduction/PersonnelQualifications.dita"
+            navtitle="1.3 Personnel Qualifications"/>
+        <topicref href="../Topics/Introduction/Abbreviations.dita" navtitle="1.4 Abbreviations"/>
+    </chapter>
+    <chapter href="../Topics/Safety/Safety.dita">
+        <topicref href="../Topics/Safety/SafetySigns.dita" navtitle="2.1 Safety Signs"/>
+        <topicref href="../Topics/Safety/SafetyPrompts.dita" navtitle="2.2 Safety Prompts"/>
+        <topicref href="../Topics/Safety/OperationSafety.dita" navtitle="2.3 Operation Safety">
+            <topicref href="../Topics/Safety/InstallationSafetyAndNetworkSecurity.dita"
+                navtitle="2.3.1 Installation Safety And Network Security"/>
+            <topicref href="../Topics/Safety/VirusProtection.dita" navtitle="2.3.2 Virus Protection"/>
+            <topicref href="../Topics/Safety/EquipmentCompatibility.dita"
+                navtitle="2.3.3 Equipment Compatibility"/>
+            <topicref href="../Topics/Safety/OperationPrecautions.dita"
+                navtitle="2.3.4 Operation Precautions"/>
+        </topicref>
+        <topicref href="../Topics/Safety/SystemReliability.dita" navtitle="2.4 System Reliability"/>
+        <topicref href="../Topics/Safety/DataSecurity.dita" navtitle="2.5 Data Security"/>
+        <topicref href="../Topics/Safety/MeasurementAccuracy.dita"
+            navtitle="2.6 Measurement Accuracy">
+            <topicref href="../Topics/Safety/GeometricMeasurementAccuracyErrorRange.dita"
+                navtitle="2.6.1 Geometric Measurement Accuracy and Error Range"/>
+            <topicref href="../Topics/Safety/CalculatedValueDisplayValue.dita"
+                navtitle="2.6.2 Calculated Value and Display Value"/>
+            <topicref href="../Topics/Safety/SPValueDisplayAccuracy.dita"
+                navtitle="2.6.3 SP Value Display Accuracy"/>
+            <topicref href="../Topics/Safety/AccuracyOfTheStandardizedUptakeValue.dita"
+                navtitle="2.6.4 Accuracy Of The Standardized Uptade Value"/>
+            <topicref href="../Topics/Safety/RequirementsForTheDataEntry.dita"
+                navtitle="2.6.5 Requirements For The Data Entry"/>
+        </topicref>
+    </chapter>
+    <chapter href="../Topics/BasicInformation/BasicInformation.dita">
+        <topicref href="../Topics/BasicInformation/Overview.dita" navtitle="3.1 Overview"/>
+        <topicref href="../Topics/BasicInformation/MainInterfaceDistribution.dita"
+            navtitle="3.2 Main Interface Distribution">
+            <topicref href="../Topics/BasicInformation/PAPRInterfaceSwitchingArea.dita"
+                navtitle="3.2.1 PA/PR Interface Switching Area"/>
+        </topicref>
+    </chapter>
+    <backmatter>
+        <booklists>
+            <indexlist/>
+        </booklists>
+    </backmatter>
+</bookmap>

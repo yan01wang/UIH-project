@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_d1f_stm_1db" xml:lang="zh">
+    <title>符合性声明</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_n4c_vtm_1db">
+            <p>本系统符合下列相关标准的要求：</p>
+            <ul id="ul_ct3_wtm_1db">
+                <li>GB9706.1、GB9706.12、GB9706.15、GB9706.18。</li>
+                <li> YY0505 。</li>
+                <li>X 射线球管符合 GB9706.11、GB9706.1 标准的要求。</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

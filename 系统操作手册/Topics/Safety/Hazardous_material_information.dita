@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_rlx_5hm_1db" xml:lang="zh">
+    <title>有害物质信息</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_dgb_p4m_1db">
+            <p>为使系统的性能符合规章要求，必须使用一些对环境可能有害的材料，因此必须经过正确方 法进行报废处理。不得把系统与一般的工业或家庭垃圾一同处理。本系统中有害物质的名称
+                及含量如下。</p>
+        </section>
+        <section id="section_pjl_d2r_bdb">
+            <table frame="all" rowsep="1" colsep="1" id="table_zdx_wmm_1db">
+                <title>产品中有害物质的名称及含量</title>
+                <tgroup cols="7" align="center">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <colspec colname="c4" colnum="4" colwidth="1*"/>
+                    <colspec colname="c5" colnum="5" colwidth="1*"/>
+                    <colspec colname="c6" colnum="6" colwidth="1*"/>
+                    <colspec colname="c7" colnum="7" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry morerows="1" align="center" colsep="0">
+                                <p>部件名称</p>
+                            </entry>
+                            <entry namest="c2" nameend="c7" align="center" rowsep="0">
+                                <p>有害物质</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p>铅</p>
+                                <p>（Pb）</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p>汞</p>
+                                <p>（Hg）</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p>镉</p>
+                                <p>（Cd）</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p>六价铬</p>
+                                <p>（Cr （VI））</p>
+                            </entry>
+                            <entry align="center" colsep="0">
+                                <p>多溴联苯</p>
+                                <p>（PBB）</p>
+                            </entry>
+                            <entry align="center">
+                                <p>多溴二苯醚</p>
+                                <p>（PBDE）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="center">塑料外壳</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                        <row>
+                            <entry align="center">塑料部件</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                        <row>
+                            <entry align="center">金属外壳</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                        <row>
+                            <entry align="center">金属部件</entry>
+                            <entry align="center">X</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                        <row>
+                            <entry align="center">电路板组件</entry>
+                            <entry align="center">X</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                        <row>
+                            <entry align="center">电缆线</entry>
+                            <entry align="center">X</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                        <row>
+                            <entry align="center">硅酸盐部件</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                        <row>
+                            <entry align="center">电池</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                        <row>
+                            <entry align="center">液体类</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                            <entry align="center">O</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p>本表格依据 SJ/T11364 的规定编制。</p>
+            <p>O：表示该有害物质在该部件所有均质材料中的含量均在 GB/T 26572 标准规定的限量要求以下。</p>
+            <p>X：表示该有害物质至少在该部件某一均质材料中的含量超出 GB/T 26572 标准规定的限量要求。</p>
+            <p>表中标有 “X” 的所有部件都符合欧盟 RoHS 法规。</p>
+            <p>在中华人民共和国境内销售的电器电子产品必须标识此标志。 </p>
+            <p>标志内的数字代表在正常的使用状态下产品的环保使用期限。<image href="../../images/figure2-45.png"
+                    id="image_hgt_h2r_bdb"/></p>
+        </section>
+    </refbody>
+</reference>

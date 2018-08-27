@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_hfq_h3n_1db" xml:lang="zh">
+    <title>系统主要部件线缆距离</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_myl_bnn_1db">
+            <p>系统各部件之间连接线缆的长度决定了系统各部件布局时的最大距离。图 7-4 为系统的线缆连接图（包括供电电缆和控制电缆）。</p>
+            <fig id="fig_ymt_mxn_1db">
+                <title>系统线缆连接图</title>
+                <image href="../../images/P3.0-system-cable-cn.svg" id="image_ncl_5xn_1db"
+                    placement="break"/>
+            </fig>
+        </section>
+    </refbody>
+</reference>

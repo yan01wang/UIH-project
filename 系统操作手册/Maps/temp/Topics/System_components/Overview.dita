@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_szx_5hw_bdb" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">概述</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">本系统为正电子发射及 X 射线计算机断层成像扫描系统，简称 PET/CT 系统。其中 CT 扫描使用X射线来测量被扫描患者体内不同组织的密度。PET
+            扫描则通过采集放射性核素在患者体内的分布而重建获得图像。本系统兼备 PET 和CT 系统的优点，可以获取 PET/CT
+            融合影像，同时查看和分析组织和器官的生理解剖信息和功能信息。</p>
+        <p class="- topic/p " xtrc="p:2;10:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">本系统主要由机架、检查床、控制台、电源分配机柜等组成，系统的安装场地包括：扫描间、 操作间和设备间（推荐），场地推荐布局图如第 7-4 页 “ 机房布局尺寸”。</p>
+        <table class="- topic/table " colsep="1" frame="all" id="table_jxx_zhw_bdb" rowsep="1" xtrc="table:1;11:81" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+            <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;12:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" rowheader="headers" xtrc="colspec:1;13:56" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.81*" rowheader="headers" xtrc="colspec:2;14:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita"/>
+                <thead class="- topic/thead " xtrc="thead:1;15:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                    <row class="- topic/row " xtrc="row:1;16:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;17:58" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                            <p class="- topic/p " xtrc="p:3;18:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">场地</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;20:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                            <p class="- topic/p " xtrc="p:4;21:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">部件</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:1;25:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                    <row class="- topic/row " xtrc="row:2;26:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;27:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                            <p class="- topic/p " xtrc="p:5;28:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">扫描间</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;30:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                            <p class="- topic/p " xtrc="p:6;31:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">PET/CT 机架、检查床 （带附件）</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:3;34:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;35:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                            <p class="- topic/p " xtrc="p:7;36:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">操作间</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;38:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                            <p class="- topic/p " xtrc="p:8;39:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">控制台桌、控制盒、主机、重建计算机、显示器、键盘、鼠标、网络交换机</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:4;42:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;43:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                            <p class="- topic/p " xtrc="p:9;44:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">设备间 （推荐）</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;46:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                            <p class="- topic/p " xtrc="p:10;47:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">电源分配机柜、不间断电源 （如有）、质控模体</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <ul class="- topic/ul " id="ul_cyz_l3w_bdb" xtrc="ul:1;53:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+            <li class="- topic/li " xtrc="li:1;54:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">PET/CT 机架位于扫描间，用于采集信号，并传递给主机和重建机等用于后续处理。用户还可通过位于机架CT
+                端左右两侧的控制面板进行扫描、定位和检查床运动的控制。位于机架扫描孔径正上方的数据显示屏能够显示当前患者信息，生理信息，扫描协议信息和 进行状态，为用户提供参考。<ul class="- topic/ul " id="ul_jsj_43w_bdb" xtrc="ul:2;56:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                    <li class="- topic/li " xtrc="li:2;57:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">PET 子系统通过探测病灶对示踪剂的摄取程度检测病灶的功能代谢状态，其构成、技术规格和性能参数请参见第 3-4 页 “PET 系统 ”。</li>
+                    <li class="- topic/li " xtrc="li:3;58:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">CT 子系统利用 X 射线对人体选定的部位进行扫描，测定患者体内不同组织对 X 射线的衰减，其构成、技术规格和性能参数请参见第 3-6 页 “CT 系统
+                        ”。</li>
+                    <li class="- topic/li " xtrc="li:4;60:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">机架外壳，控制面板，数据显示屏和其它部件的相关信息请参见第 3-9 页 “ 机架外壳和相关部件 ”。</li>
+                </ul></li>
+            <li class="- topic/li " xtrc="li:5;62:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">检查床位于扫描间，用于在扫描中支撑和移动患者。通过控制面板可以控制检查床运 动，通过数据显示屏可以显示检查床信息。同时，检查床还带有可以提高患者扫描舒适
+                    程度，辅助患者定位的相关附件。<ul class="- topic/ul " id="ul_lxb_t3w_bdb" xtrc="ul:3;63:60" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                    <li class="- topic/li " xtrc="li:6;64:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">检查床的构成、技术规格和性能参数请参见检查床。</li>
+                    <li class="- topic/li " xtrc="li:7;65:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">检查床的运动控制和使用请参见第 3-23 页 “ 检查床运动控制 ”。</li>
+                    <li class="- topic/li " xtrc="li:8;66:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">检查床附件和使用请参见第 3-25 页 “ 检查床附件 * 及使用 ”。</li>
+                </ul></li>
+            <li class="- topic/li " xtrc="li:9;68:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">控制台位于操作间内，用于进行患者信息录入、扫描进程控制、数据采集、图像查看和分析等。<ul class="- topic/ul " id="ul_yyr_xnw_bdb" xtrc="ul:4;68:83" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                    <li class="- topic/li " xtrc="li:10;69:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">控制台构成、技术规格和性能参数请参见第 3-29 页 “ 控制台 ”。</li>
+                    <li class="- topic/li " xtrc="li:11;70:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">使用控制台进行患者登记、检查控制、图像查看等操作请参见第 4-1 页 “ 系统操作 ”。</li>
+                </ul></li>
+            <li class="- topic/li " xtrc="li:12;72:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">推荐将电源分配机柜和 UPS（如有）等安放在专属的设备间内。电源分配机柜用于为整机系统提供电源，UPS
+                    用于在紧急断电情况下支持用户进行数据保存等操作。质控模体通常存放在附件柜内，用于进行系统日常质控和校正。<ul class="- topic/ul " id="ul_qh1_14w_bdb" xtrc="ul:5;73:97" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">
+                    <li class="- topic/li " xtrc="li:13;74:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">电源分配机柜的构成、技术规格和性能参数等请参见第 3-34 页 “ 电源分配机柜 ”。</li>
+                    <li class="- topic/li " xtrc="li:14;75:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">系统日常供电、启动和关闭、断电等操作请参见第 4-4 页 “ 系统开关机 ”。</li>
+                    <li class="- topic/li " xtrc="li:15;76:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Overview.dita">系统日常质控、维护等请参见第 5-3 页 “ 常规维护保养 ”。</li>
+                </ul></li>
+        </ul>
+    </conbody>
+</concept>

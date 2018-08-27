@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_maintenance?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_maintenance/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="topic_g1b_mrq_bdb" xml:lang="zh-CN" xtrc="topic:1;3:48" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">PET有源质控</title><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">有源质控检测内容包括LUT（Look Up Table,LUT）漂移、能量漂移和TOF(Time of
+            Flight，TOF）状态，通过分析所采集的数据获得系统状态报告。带有放射源的PET 质控推荐每周进行，用于确认PET 图像质量满足临床需求。</p>
+        <p class="- topic/p " xtrc="p:2;8:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">有源质控分为基于FDG（Fluoro Deoxy Glucose,FDG）棒源和基于Ge68 桶源的质控，以下分别进行描述。</p>
+        <note class="- topic/note " type="note" xtrc="note:1;9:27" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+            <p class="- topic/p " xtrc="p:3;10:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">有计划执行有源质控时，建议首先确认系统状态（如无源质控成功） ，然后再准备放射源，从而尽量减少与放射源的不必要接触。</p>
+        </note>
+        <section class="- topic/section " id="section_udw_bsq_bdb" xtrc="section:1;12:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+            <title class="- topic/title " xtrc="title:2;13:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">基于FDG棒源</title>
+            <ul class="- topic/ul " id="ul_cwl_dsq_bdb" xtrc="ul:1;14:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                <li class="- topic/li " xtrc="li:1;15:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                    <p class="- topic/p " xtrc="p:4;16:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">工具</p>
+                    <p class="- topic/p " xtrc="p:5;17:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">18F-FDG，棒源水模</p>
+                </li>
+                <li class="- topic/li " xtrc="li:2;19:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                    <p class="- topic/p " xtrc="p:6;20:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">预计用时</p>
+                    <p class="- topic/p " xtrc="p:7;21:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">在推荐的放射源活度条件下，执行一次有源质控大约需要20 分钟，不超过半小时。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:3;23:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                    <p class="- topic/p " xtrc="p:8;24:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">操作步骤</p>
+                    <ol class="- topic/ol " id="ol_ysk_hsq_bdb" xtrc="ol:1;25:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                        <li class="- topic/li " xtrc="li:4;26:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">放射源准备<ul class="- topic/ul " id="ul_v3w_2mq_bdb" xtrc="ul:2;26:58" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                <li class="- topic/li " xtrc="li:5;27:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:9;28:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">将棒源模体竖直放置，灌注口向上。旋开灌注口密封螺钉，用无放射性纯净水或自来水灌注，不需要灌满，留1 ml
+                                        气泡，为下一步注入放射源做准备，此时气泡在模体内长度约为1 cm，此步骤约需水量28 ml。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:6;31:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:10;32:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">用注射器抽取所需活度（推荐活度1.0 mCi ± 0.2
+                                        mCi），完全推入模体中。再抽取几毫升模体中的水回注射器内，随后再次推入模体，以清洗注射器内残留的放射源。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:7;35:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:11;36:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">旋紧密封螺栓，将模体上下颠倒，使气泡上浮，以混合溶液。反复10 次，即可混合均匀。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:8;38:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:12;39:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">将棒源模体静置1 分钟以上。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:9;41:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:13;42:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">在检查床头安装棒源定位工装，并将棒源安装到工装上。</p>
+                                </li>
+                            </ul></li>
+                        <li class="- topic/li " xtrc="li:10;45:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">放射源定位<ul class="- topic/ul " id="ul_zkj_kmq_bdb" xtrc="ul:3;45:58" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                <li class="- topic/li " xtrc="li:11;46:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:14;47:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">患者登记，选择PET/CT Head Procedure（Helical）协议进入患者检查界面。</p>
+                                    <note class="- topic/note " type="note" xtrc="note:2;48:55" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                        <p class="- topic/p " xtrc="p:15;49:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">有源质控开始前，系统会进行放射源位置的检测并提示用户做相应的调整，所以此步骤为可选操作。</p>
+                                    </note>
+                                </li>
+                                <li class="- topic/li " xtrc="li:12;52:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:16;53:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">将定位像扫描参数设置为正位，起始扫描位置设为1600.0 mm ± 200 mm。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:13;55:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:17;56:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击确认，执行扫描。</p>
+                                    <image class="- topic/image " href="../../images/figure5-8.jpeg" id="image_ub1_rmq_bdb" placement="break" xtrc="image:1;58:60" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita"/>
+                                </li>
+                                <li class="- topic/li " xtrc="li:14;60:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:18;61:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">扫描完成后，查看定位像中棒源是否位于横向FOV(Field of View,FOV)
+                                        中心。若不在，需左右调整棒源水平位置，使之中心位置与位于横截面FOV 中心位置重合。</p>
+                                    <image class="- topic/image " href="../../images/figure5-9.jpeg" id="image_t4y_vmq_bdb" placement="break" xtrc="image:2;64:60" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita"/>
+                                    <note class="- topic/note " type="note" xtrc="note:3;65:55" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                        <p class="- topic/p " xtrc="p:19;66:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">摆放时，尽量确保棒源位于FOV 中心位置。</p>
+                                    </note>
+                                </li>
+                                <li class="- topic/li " xtrc="li:15;69:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:20;70:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">重复一个定位像，扫描参数设置为侧位，起始扫描位置设为1600.0 mm ± 200 mm。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:16;72:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:21;73:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击确认，执行扫描。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:17;75:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:22;76:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">扫描完成后，查看定位像中棒源位于竖直FOV中心。若不在，需调整棒源高度（通过上下调整检查床高度），使之中心位置与位于横截面FOV
+                                        中心位置重合。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:18;79:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:23;80:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">拖动扫描定位框，使棒源中点（Z 向）和轴向扫描视野中心尽量重合。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:19;82:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:24;83:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击确认，执行CT扫描，待移床结束后，取消扫描，并将底座从CT位移至PET位，记录下此时控制盒上显示的检查床水平位置和垂直位置。经验值：1310
+                                        mm ± 20 mm。860 mm ± 10 mm。</p>
+                                    <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:4;85:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                        <ul class="- topic/ul " id="ul_wzv_hnq_bdb" xtrc="ul:4;86:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                            <li class="- topic/li " xtrc="li:20;87:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                                <p class="- topic/p " xtrc="p:25;88:52" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">此步骤是为了下一步开始扫描前在有源质控界面输入正确的检查床位置，使得放射源位于扫描视野中心，保证扫描一次成功，避免多次摆位，尽量减少接触放射源。</p>
+                                            </li>
+                                            <li class="- topic/li " xtrc="li:21;90:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                                <p class="- topic/p " xtrc="p:26;91:52" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">也可以通过上一步骤中定位向上棒源的上下边缘水平位置计算出棒源中心处水平位置，以此作为检查床的水平位置。</p>
+                                            </li>
+                                        </ul>
+                                    </note>
+                                </li>
+                            </ul></li>
+                        <li class="- topic/li " xtrc="li:22;97:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">有源质控扫描<ul class="- topic/ul " id="ul_xqg_p4q_bdb" xtrc="ul:5;97:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                <li class="- topic/li " xtrc="li:23;98:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:27;99:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击PA 界面右下角的工具箱图标。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:24;101:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:28;102:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击弹出页面中PET 有源质控图标，进入PET 有源质控界面。</p>
+                                    <image class="- topic/image " href="../../images/figure5-10.jpeg" id="image_gwg_s4q_bdb" placement="break" xtrc="image:3;104:83" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita"/>
+                                </li>
+                                <li class="- topic/li " xtrc="li:25;106:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:29;107:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">打开设置对话框，选择放射源类型为F18
+                                        棒源。在水平和垂直位置编辑框中输入放射源定位最后一步记录的检查床水平和垂直位置（经验值：1310 mm ± 20
+                                        mm，860 mm± 10 mm）。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:26;111:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:30;112:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击开始，执行有源质控扫描。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:27;114:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:31;115:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">系统首先检测有无放射源。如果没有放射源或者放射源活度较低，则系统给出相应提示。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:28;117:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:32;118:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">系统自动检测棒源轴向（Z 向）位置，若棒源偏离轴向FOV
+                                        中心时，会弹出相应提示。此时需记住弹框上的提示信息。点击关闭，根据提示信息在质控界面的水平位置框中输入正确的数值，重新开始。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:29;121:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:33;122:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">移动后，点击确认，系统再次自动检测放射源活度与放射源位置，确保放射源活度和位置满足有源质控所需，保证质控质量。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:30;124:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:34;125:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">检测通过后，进入扫描，首先进行自动增益调节。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:31;127:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:35;128:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">进入有源QC 扫描，逐项判断是否通过。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:32;130:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:36;131:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">扫描完成后，点击查看报告，查看QC 报告。</p>
+                                    <note class="- topic/note " type="note" xtrc="note:5;132:55" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                        <p class="- topic/p " xtrc="p:37;133:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">扫描完成后，需及时按照相关规章制度妥善处理残余液体放射源。</p>
+                                    </note>
+                                </li>
+                            </ul></li>
+                    </ol>
+                </li>
+            </ul>
+        </section>
+        <section class="- topic/section " id="section_fgp_psq_bdb" xtrc="section:2;141:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+            <title class="- topic/title " xtrc="title:3;142:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">基于Ge68 桶源</title>
+            <ul class="- topic/ul " id="ul_a53_qsq_bdb" xtrc="ul:6;143:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                <li class="- topic/li " xtrc="li:33;144:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                    <p class="- topic/p " xtrc="p:38;145:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">工具</p>
+                    <p class="- topic/p " xtrc="p:39;146:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">Ge68 固体桶源（0.6 mCi ~ 2 mCi）</p>
+                </li>
+                <li class="- topic/li " xtrc="li:34;148:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                    <p class="- topic/p " xtrc="p:40;149:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">预计用时</p>
+                    <p class="- topic/p " xtrc="p:41;150:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">在推荐的放射源活度条件下, 执行一次有源QC 大约需要20 分钟, 不超过半小时。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:35;152:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                    <p class="- topic/p " xtrc="p:42;153:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">操作步骤</p>
+                    <ol class="- topic/ol " id="ol_imw_ttq_bdb" xtrc="ol:2;154:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                        <li class="- topic/li " xtrc="li:36;155:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                            <p class="- topic/p " xtrc="p:43;156:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">放射源准备</p>
+                            <p class="- topic/p " xtrc="p:44;157:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">将Ge68
+                                桶源取出，摆放在检查床床头，尽量将其摆放在扫描视野正中位置，配以相应工装（以下均以桶源的上端对齐床板的边缘为例说明轴向位置。）</p>
+                        </li>
+                        <li class="- topic/li " xtrc="li:37;160:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                            <p class="- topic/p " xtrc="p:45;161:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">放射源定位</p>
+                            <note class="- topic/note " type="note" xtrc="note:6;162:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                <p class="- topic/p " xtrc="p:46;163:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">有源质控开始前，系统会进行放射源位置的检测并提示用户做相应的调整，所以此步骤为可选操作。</p>
+                            </note>
+                            <ul class="- topic/ul " id="ul_sq4_35q_bdb" xtrc="ul:7;165:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                <li class="- topic/li " xtrc="li:38;166:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:47;167:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">注册，选择PETCT Head Procedure（Helical）协议进入EXAM 界面。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:39;169:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:48;170:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">将定位像扫描参数设置为正位，起始扫描位置设为1600.0 mm ± 200 mm。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:40;172:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:49;173:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击确认，执行扫描。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:41;175:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:50;176:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">扫描完成后，查看定位片中桶源的中心位置是否位于横向FOV中心。若不在，需左右调整桶源水平位置，使之中心位置与位于横截面FOV
+                                        中心位置重合。</p>
+                                    <note class="- topic/note " spectitle="overflow" type="note" xtrc="note:7;178:76" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                        <p class="- topic/p " xtrc="p:51;179:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">摆放时，尽量确保棒源位于FOV 中心位置。</p>
+                                    </note>
+                                </li>
+                                <li class="- topic/li " xtrc="li:42;182:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:52;183:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">重复一个定位像扫描，扫描参数设置为侧位，起始扫描位置设为1600.0 mm ± 200mm。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:43;185:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:53;186:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击确认，执行扫描。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:44;188:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:54;189:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">扫描完成后，查看定位片中桶源的中心位置是否位于竖直FOV中心。若不在，需调整桶源高度（通过上下移动，调整检查床高度），使之中心位置与位于横截面FOV中心位置重合。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:45;191:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:55;192:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">拖动扫描定位框，使之覆盖放射源定位相轴向中间位置，上下两处未覆盖区域的长度大致相同。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:46;194:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:56;195:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击确认，执行CT扫描，待移床结束后，取消扫描，并将底座从CT位移至PET位，待移床结束后，取消扫描，并记录下此时控制盒上显示的检查床水平位置和垂直位置。（经验值：1310
+                                        mm ± 20 mm，860 mm ± 10 mm 图片仅为示意）。</p>
+                                    <image class="- topic/image " href="../../images/figure5-11.png" id="image_uj5_cxq_bdb" placement="break" xtrc="image:4;198:60" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita"/>
+                                    <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:8;199:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                        <p class="- topic/p " xtrc="p:57;200:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">此步骤是为了下一步开始扫描前在有源质控界面输入正确的检查床位置，使得放射源位于扫描视野中心，保证扫描一次成功。避免多次摆位，尽量减少接触放射源。</p>
+                                    </note>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="- topic/li " xtrc="li:47;205:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">有源质控扫描<ul class="- topic/ul " id="ul_sj4_lxq_bdb" xtrc="ul:8;205:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                <li class="- topic/li " xtrc="li:48;206:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:58;207:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击PA 界面右下角的工具箱图标。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:49;209:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:59;210:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击弹出页面中PET 有源质控图标，进入PET 有源质控界面。</p>
+                                    <image class="- topic/image " href="../../images/figure5-12.jpeg" id="image_nfg_4xq_bdb" placement="break" xtrc="image:5;212:83" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita"/>
+                                </li>
+                                <li class="- topic/li " xtrc="li:50;214:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:60;215:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">打开设置对话框，选择放射源类型为Ge68
+                                        桶源。在水平和垂直位置编辑框中输入放射源定位最后一步记录的检查床水平和垂直位置（经验值：水平1310 mm ± 20
+                                        mm，垂直860 mm ± 10 mm，图片仅为示意）。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:51;219:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:61;220:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">点击开始，执行有源质控扫描。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:52;222:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:62;223:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">系统首先检测有无放射源。如果没有放射源或者放射源活度较低，则系统给出相应提示。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:53;225:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:63;226:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">然后检测桶源轴向（Z 方向）位置，若桶源偏离轴向FOV
+                                        中心时，会弹出提示界面。此时需记住弹框上的提示信息，然后点击关闭按钮，根据提示信息在质控界面的水平位置框中输入正确的数值，重新开始。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:54;229:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:64;230:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">轴向位置检测通过后，检测桶源环向位置（横截面X/Y
+                                        方向）。当桶源偏离环向FOV中心时，会弹出提示界面。图中会显示桶源首端、中心以及末端三个位置，其中偏离环向FOV中心的位置会标红，根据提示信息将桶源移动到FOV中心位置。桶源S1
+                                        端（靠近PET 端）在Y 方向标红且为负值，需要将S1 端向Y 正方向（下）移动5 mm ~ 6 mm。</p>
+                                    <note class="- topic/note " type="note" xtrc="note:9;233:55" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                        <p class="- topic/p " xtrc="p:65;234:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">由于桶源为刚体，移动任意一点可能会导致其他点位置的改变，因此需要综合考虑移动方式。</p>
+                                    </note>
+                                </li>
+                                <li class="- topic/li " xtrc="li:55;237:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:66;238:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">移动后，点击确认，系统再次自动检测放射源活度与放射源位置，确保放射源活度和位置满足有源质控所需，保证质控质量。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:56;240:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:67;241:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">检测通过后，进入扫描，首先进行自动增益调节。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:57;243:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:68;244:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">进入有源质控扫描，逐项判断是否通过。</p>
+                                </li>
+                                <li class="- topic/li " xtrc="li:58;246:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                    <p class="- topic/p " xtrc="p:69;247:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">扫描完成后，点击查看报告。</p>
+                                    <note class="- topic/note " type="note" xtrc="note:10;248:55" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                                        <p class="- topic/p " xtrc="p:70;249:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">扫描完成后，需及时按照相关规章制度妥善处理残余液体放射源。</p>
+                                    </note>
+                                </li>
+                            </ul></li>
+                    </ol>
+                </li>
+            </ul>
+            <note class="- topic/note " spectitle="overflow" type="note" xtrc="note:11;256:52" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">
+                <p class="- topic/p " xtrc="p:71;257:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_Full_QC.dita">固体放射源（Ge68）半衰期大约为9 个月，为保证有源质控的效率和质量，请根据需要定期更换固体放射源。</p>
+            </note>
+        </section>
+    </body>
+</topic>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dmm_xr2_cdb" xml:lang="zh">
+    <title>控制台</title>
+    <shortdesc>控制台位于操作间，用于控制CT 和PET
+        扫描，进行数据采集，质量控制、系统校准、检查流程和图像数据传输。控制台组件包括显示器、控制盒、鼠标键盘、主机柜和控制台桌等。</shortdesc>
+    <conbody>
+        <fig id="fig_hmb_1s2_cdb">
+            <title>控制台</title>
+            <image href="../../images/figure3-84.png" id="image_ey2_ds2_cdb" placement="break"/>
+        </fig>
+        <ul id="ul_vrt_ds2_cdb">
+            <li>控制台桌用于放置显示器，控制盒，键盘鼠标等输入输出和控制装置，详细描述请参见 第 3-29 页 “ 控制台桌 * 和主机柜 *”和第 3-33 页 “ 其它
+                ”。</li>
+            <li>主机柜内装有控制主机和重建机，用于进行信号采集和处理，详细功能请参见第3-29页 “控制台主机 ”。</li>
+            <li>控制盒可用于移动检查床，开启或终止扫描，与患者通话等，详细描述请参见第 3-31 页 “控制盒 ”。</li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_abq_zgp_bdb" xml:lang="zh">
+    <title>系统消毒</title>
+    <shortdesc>有些系统部件如检查床、机架控制面板、数据显示面板、控制盒、VSM 等会与患者或操作人员直接接触，需要对其进行消毒。</shortdesc>
+    <conbody>
+        <section>
+            <title>设备消毒注意事项</title>
+            <ul id="ul_snv_nhp_bdb">
+                <li>
+                    <p>只能使用蘸取适当消毒剂的微湿软布擦拭部件来进行消毒和灭菌。</p>
+                </li>
+                <li>
+                    <p>使用市售的消毒剂，切勿使用含酒精或丙酮的消毒剂。请按制造商的说明进行操作。</p>
+                </li>
+                <li>
+                    <p>不要使用含酒精或丙酮的消毒剂。</p>
+                </li>
+                <li>
+                    <p>切勿采用喷雾方式对部件进行消毒，气雾可能损坏电子元件。</p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <title>扫描间操作间消毒</title>
+            <ul id="ul_cw3_4hp_bdb">
+                <li>
+                    <p>务必切断系统电源。</p>
+                </li>
+                <li>
+                    <p>用塑料布先将部件完全覆盖后再喷洒消毒液。</p>
+                </li>
+                <li>
+                    <p>气雾完全消散，再将塑料布揭开，然后重启电源。</p>
+                </li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_operations?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_operations/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="task_esy_zk2_1db" xml:lang="zh" xtrc="task:1;3:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">参数设置和验证</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">进入患者检查界面后，用户查看和修改当前添加的扫描协议，并编辑其重建序列。</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;10:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+            <step class="- topic/li task/step " xtrc="step:1;11:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;12:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">追加或删除扫描协议组或协议</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_gv3_3l2_1db" xtrc="substeps:1;13:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:1;14:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:2;15:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">点击增加协议组 / 协议按钮，可以追加新的扫描协议组 / 协议。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:2;17:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:3;18:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">选择需要删除的协议组 / 协议，鼠标右键选择删除即可。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;22:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;23:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">新增协议 / 序列</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_mfd_ll2_1db" xtrc="substeps:2;24:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:3;25:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:5;26:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">选择一条已有扫描协议 / 重建序列，鼠标右键选择复制并粘贴。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:4;28:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:6;29:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">在复制出的协议 / 序列中修改相关参数，点击确认即可。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;33:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;34:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">重复协议 / 序列</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;35:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                    <p class="- topic/p " xtrc="p:2;36:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">选择一条已有的扫描协议 / 重建序列，鼠标右键选择重复。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;39:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:8;40:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">删除重建序列</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:2;41:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                    <p class="- topic/p " xtrc="p:3;42:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">选定一条需要删除的重建序列，鼠标右键选择删除，该协议从重建队列移除。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;45:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:9;46:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">编辑扫描 / 重建参数</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:3;47:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                    <p class="- topic/p " xtrc="p:4;48:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">每一个扫描协议及重建序列都对应相应的参数面板，可在此进行参数的确认和编辑。针对不合规参数，系统会以标红等给予警告，需要修改至合理范围。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;51:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;52:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">自定义扫描协议</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:4;53:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">
+                    <p class="- topic/p " xtrc="p:5;54:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Parameter_setting_and_verification.dita">为了达到最好的效果，用户应根据设备情况创建一组可以代表系统使用习惯的默认扫描协 议和重建序列并适时使用，具体请参考《软件操作手册》快速操作章节。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="topic_7" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[147]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/4%20%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C/word/document.xml"
+    >系统控制区</title>
+  <conbody xtrc="/w:document/w:body[1]/w:p[148]">
+    <p xtrc="/w:document/w:body[1]/w:p[148]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/4%20%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C/word/document.xml"
+      >用户可在系统管理区进行重启、关机以及选择客户服务项等操作。</p>
+    <ol id="ol_u3z_vpx_zcb">
+      <li>点击患者管理界面右上角的联影图标。</li>
+      <li>选择重启系统、CT 紧急重启、PET 紧急重启、服务、系统信息和关闭等按钮执行相应操作。</li>
+    </ol>
+    <fig id="fig_dfk_xpx_zcb">
+      <title>系统控制图标</title>
+      <image href="../../images/figure4-2.png" id="image_npw_cqx_zcb" placement="break"/>
+    </fig>
+  </conbody>
+</concept>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_myh_kly_zcb" xml:lang="zh">
+    <title>CT 日常质控</title>
+    <taskbody>
+        <steps>
+            <stepsection>CT 日常质控包括球管预热、空气校正、球管训管，需要在工具箱服务工具中完成。</stepsection>
+            <step>
+                <cmd>点击页面左下角工具箱图标，打开工具箱面板。</cmd>
+            </step>
+            <step>
+                <cmd>在其中选择服务工具，进入日常服务工具页面。</cmd>
+                <info>
+                    <fig id="fig_hdt_ply_zcb">
+                        <title>日常服务界面</title>
+                        <image href="../../images/figure5-2.jpeg" id="image_xh3_tly_zcb"
+                            placement="break"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+        <postreq>
+            <p>其中包含球管预热、空气校正和球管训管等CT质控功能，分别适用于不同场景，详细描述请参见第5-6 页 “日常质控”。</p>
+        </postreq>
+    </taskbody>
+</task>

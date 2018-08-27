@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_nvv_5vk_cdb" xml:lang="zh">
+    <title>其它部件故障排除</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_a2t_djp_ddb">
+            <p>此外，系统可能出现其他类型的故障，用户无法进行定位排查和处理。比如检查床的运动机构故障或外壳损毁；质控模体漏液破损，DDP
+                显示故障等，此时请停止使用并联系联影客户服务工程师进行处理。需要由联影客户服务工程师排查的故障包括但不限于如下内容。</p>
+        </section>
+        <section id="section_sj3_fjp_ddb">
+            <title>检查床故障</title>
+            <p>检查床可能出现的故障包括但不限于如下类别：</p>
+            <table frame="all" rowsep="1" colsep="1" id="table_exk_hjp_ddb">
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry colsep="0" align="center" valign="middle">
+                                <p>部件名称</p>
+                            </entry>
+                            <entry namest="c2" nameend="newCol3" align="center" valign="middle">
+                                <p>故障描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry morerows="1">
+                                <p>外壳</p>
+                            </entry>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>外壳脱落</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>外壳损坏</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry morerows="3">
+                                <p>升降机构</p>
+                            </entry>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>运动时的噪音</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>不能启动</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>急停信号异常</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>电气限位异常</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry morerows="4">
+                                <p>水平机构</p>
+                            </entry>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>运动时的噪音</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>不能启动</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>急停信号异常</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>不能切换到手动模式</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry nameend="newCol3" namest="c2">
+                                <p>电气限位异常</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_y1h_bkp_ddb">
+            <title>HMI 故障</title>
+            <p>HMI 部件可能出现的故障包括但不限于如下类别：</p>
+            <table frame="all" rowsep="1" colsep="1" id="table_gfk_ckp_ddb">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry colsep="0" align="center" valign="middle">
+                                <p>部件名称</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>故障描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p>控制台桌</p>
+                            </entry>
+                            <entry>
+                                <p>控制台桌不平稳</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>主机柜</p>
+                            </entry>
+                            <entry>
+                                <p>主机柜拉出受阻</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>CPAN</p>
+                            </entry>
+                            <entry>
+                                <p>按键、显示屏失效</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>DDP</p>
+                            </entry>
+                            <entry>
+                                <p>无显示或显示异常</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>控制盒</p>
+                            </entry>
+                            <entry>
+                                <p>按键、显示屏失效</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>呼吸导航</p>
+                            </entry>
+                            <entry>
+                                <p>指示灯不亮</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>对讲系统</p>
+                            </entry>
+                            <entry>
+                                <p>无声音</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

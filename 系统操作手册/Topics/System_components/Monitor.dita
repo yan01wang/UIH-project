@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_c3v_cr2_cdb" xml:lang="zh">
+    <title>显示器</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>显示器<index-sort-as>X显示器</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>显示器放置在控制台桌上，提供人机交互界面，用于监控和查看用户界面、扫描信息和扫描 图像，为计算机常用配置。</p>
+        <p>只有联影认可的显示器方可用于本系统的使用，其中显示器屏幕的大小应不小于24寸，分辨 率为 1920 × 1200。</p>
+        <note type="warning">
+            <p>使用任何未经联影认可的显示器或不合规范的配置，可能会降低显示效果、显示不全甚 至显示错误。</p>
+        </note>
+    </body>
+</topic>

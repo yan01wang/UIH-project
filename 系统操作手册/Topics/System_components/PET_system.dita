@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_njq_c4w_bdb" xml:lang="zh">
+    <title>PET 系统</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>PET系统</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>PET 系统位于 PET/CT 机架后方，包括探测器、电子学系统、冷却系统和机架主体结构。其中，探测器接收患者体内示踪剂发射的 
+            射线，通过电子学处理后发送给计算机进行图像重建，冷却系统为探测器工作提供稳定的温度环境，机架主体结构为上述部件提供机械支撑。</p>
+        <fig id="fig_nm3_p4w_bdb">
+            <title>PET 端机架示意图</title>
+            <image href="../../images/figure3-1-780.jpg" id="image_ylx_q4w_bdb" placement="break">
+                <alt>UMI 780</alt>
+            </image>
+            <image href="../../images/figure3-1.png" id="image_ylx_q4w_bdb" placement="break">
+                <alt>UMI 550</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

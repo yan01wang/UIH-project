@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_wgy_l3v_d2b">
+    <title>Installation safety and network security</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Please launch the installation program to install the software. Operate according to the
+            prompt, and wait until the entire software system has been installed.</p>
+        <p>When the network encounters a failure, an error message pops up at the system status
+            bar.</p>
+        <note type="caution">
+            <ul id="ul_arj_s3v_d2b">
+                <li>
+                    <p>The unauthorized operation or change of a software/hardware system or
+                        connection to a network system without security certification may damage the
+                        system.</p>
+                </li>
+                <li>
+                    <p>The unauthorized copying/installation of software is prohibited.</p>
+                </li>
+                <li>
+                    <p>The software installation and upgrade must be completed by the UIH engineers
+                        or engineers officially authorized by UIH.</p>
+                </li>
+                <li>
+                    <p>The system has certain requirements for the system resources. Installing the
+                        system on public or private computer may degrade the system performance.</p>
+                </li>
+                <li>
+                    <p>After starting up the software, please check the language on software
+                        interfaces. If there is any language error, please stop operating
+                        immediately.</p>
+                </li>
+                <li>
+                    <p>It is recommended that user should change the log-on password periodically
+                        and keep the password secret.</p>
+                </li>
+                <li>
+                    <p>User should avoid changing the device IP address after first installation. It
+                        may cause network connection or communication error.</p>
+                </li>
+                <li>
+                    <p>One or more than one backup shall be kept for recovering the system.</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

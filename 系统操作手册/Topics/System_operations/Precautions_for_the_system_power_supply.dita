@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_zvn_hpx_zcb" xml:lang="zh">
+    <title>系统供电注意事项</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_i1y_1nj_bdb">
+            <ul id="ul_g5g_pmx_zcb">
+                <li>若用户在下一个工作日发现系统因意外或预定的停电计划而关闭，请遵照设备安全规范 并咨询您的设备保养人员和 /
+                    或联影客户服务部，以确保能够对系统安全供电。</li>
+                <li>若系统在非工作日期间断电，用户应在开机后执行日常质控程序（包括CT 日检和PET日检），耗时约 30 min 左右。</li>
+                <li>如有必要，请遵行设备安全规范报备电源中断，并请求相关电力保养人员恢复扫描间电 力供给。</li>
+            </ul>
+            <note type="note">
+                <p>如果系统之前长期（超过一周）处于关机下电状态，首次开机上电时，需至少等待八个小时以待系统达到平衡状态。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

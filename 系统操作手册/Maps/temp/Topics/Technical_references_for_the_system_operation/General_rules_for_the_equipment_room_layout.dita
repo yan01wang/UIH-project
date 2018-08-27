@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_references_for_the_system_operation?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_references_for_the_system_operation/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_jzc_zwm_1db" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">机房布局通用原则</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">推荐布局能够在保证系统搬运和服务操作空间的基础上，最大程度地利用空间。在进行场地准备时，客户可根据自身情况做适当调整，请与联影客户服务部确认后执行。</p>
+        <p class="- topic/p " xtrc="p:2;8:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">其中，扫描间用于放置PET 机架、CT 机架和检查床。操作间内放置控制台桌和计算机、显示器等。为满足系统正常运行，联影和客户分别需要提供的部件如下表所示：</p>
+        <table class="- topic/table " colsep="1" frame="all" id="table_kd4_nxm_1db" rowsep="1" xtrc="table:1;9:81" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+            <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;10:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="162.7pt" rowheader="headers" xtrc="colspec:1;11:61" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="122.25pt" rowheader="headers" xtrc="colspec:2;12:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="109.25pt" rowheader="headers" xtrc="colspec:3;13:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita"/>
+                <thead class="- topic/thead " xtrc="thead:1;14:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                    <row class="- topic/row " xtrc="row:1;15:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:1;16:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:3;19:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">部件名称</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" valign="middle" xtrc="entry:2;21:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:4;24:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">系统电缆</p>
+                            <p class="- topic/p " xtrc="p:5;27:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">（连接点）</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" valign="middle" xtrc="entry:3;29:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:6;32:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">安装负责</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:1;36:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                    <row class="- topic/row " xtrc="row:2;37:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;38:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:7;41:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">机架</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;43:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:8;46:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">GAN</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" morerows="3" xtrc="entry:6;48:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:9;51:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">联影</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:3;54:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;55:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:10;58:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">检查床</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;60:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:11;63:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">Tab</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:4;66:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:9;67:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:12;70:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">PSC</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:10;72:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:13;75:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">PSC</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:5;78:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:11;79:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:14;82:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">控制台</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:12;84:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:15;87:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">SC</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:6;90:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:13;91:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:16;94:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">现场配电箱 / 配电盘</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:14;96:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:17;99:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">RV</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" morerows="4" xtrc="entry:15;101:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita"/>
+                    </row>
+                    <row class="- topic/row " xtrc="row:7;103:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:16;104:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:18;107:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">放射指示灯</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:17;109:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:19;112:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">SW</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:8;115:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:18;116:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:20;119:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">紧急断电按钮 （EPO）</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:19;121:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:21;124:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">AT</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:9;127:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:20;128:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:22;131:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">空调系统</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:21;133:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita"/>
+                    </row>
+                    <row class="- topic/row " xtrc="row:10;135:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:22;136:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+                            <p class="- topic/p " xtrc="p:23;139:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">摄像头及患者监控系统</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" xtrc="entry:23;141:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita"/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p class="- topic/p " xtrc="p:24;146:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">在机房布局时，还需注意：</p>
+        <ul class="- topic/ul " id="ul_sf5_vbn_1db" xtrc="ul:1;147:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+            <li class="- topic/li " xtrc="li:1;150:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">过道进入扫描间的转角，由联影项目管理部根据场地实际情况计算得出。</li>
+            <li class="- topic/li " xtrc="li:2;153:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">操作间门的高度，客户可以根据需要和实际情况定义。</li>
+            <li class="- topic/li " xtrc="li:3;156:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">如果扫描间安装的是吸顶空调，需避免空调安装在机架和检查床的正上方，防止水滴下 落在机架或检查床上而导致设备故障。</li>
+            <li class="- topic/li " xtrc="li:4;159:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">患者注射放射性药物后，会发射 γ 射线，建议为其准备单独的诊断室和患者候诊室。</li>
+        </ul>
+        <note class="- topic/note " type="note" xtrc="note:1;161:27" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+            <p class="- topic/p " xtrc="p:25;162:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">设备摆放时，需保证操作人员通过操作间的观察窗能够观察到扫描状态。</p>
+        </note>
+        <note class="- topic/note " type="note" xtrc="note:2;164:27" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+            <p class="- topic/p " xtrc="p:26;165:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">患者扫描时，操作人员必须可以通过观察窗观察到患者。</p>
+        </note>
+        <note class="- topic/note " type="note" xtrc="note:3;167:27" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">
+            <p class="- topic/p " xtrc="p:27;168:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita">不能在机架背后安装能让操作人员或患者进出的门。</p>
+        </note>
+    </conbody>
+</concept>

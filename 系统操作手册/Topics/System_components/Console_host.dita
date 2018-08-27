@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_s15_hr2_cdb" xml:lang="zh">
+    <title>控制台主机</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>控制主机<index-sort-as>K控制主机</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>控制台主机包括控制主机和重建机。</p>
+        <p>控制主机提供 PET/CT 扫描中输入信息的处理和系统的控制，放置于控制台的主机柜中。控制主机控制PET/CT
+            检查工作流、PET/CT质量控制、患者数据库管理、图像后处理和图像显示等功能，并且控制远程服务功能的实现。</p>
+        <p>为保证系统正常运行，控制主机的性能需要满足一定要求，具体参数请参见第 8-28 页 “ 控制主机”。</p>
+        <p>重建机受控制主机控制，实现图像重建的功能。</p>
+        <p>为满足重建速度和重建图像质量，重建机的性能需要满足一定要求，具体参数请参见第 8-28页 “ 重建机”。</p>
+    </body>
+</topic>

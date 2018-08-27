@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_25" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[224]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    >地面水平要求</title>
+  <body xtrc="/w:document/w:body[1]/w:p[225]">
+    <p xtrc="/w:document/w:body[1]/w:p[225]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >为了保证设备的顺利安装，必须保证扫描间的地板水平并且地板表面光滑，尤其是扫描间的机架和检查床安装位置。强烈建议保持整个扫描间地板的水平。</p>
+    <note type="warning" spectitle="overflow">
+      <p>安全可靠的固定检查床非常重要，不合适的固定方式或固定环境可能会引起检查床倾斜。</p>
+    </note>
+  </body>
+</topic>

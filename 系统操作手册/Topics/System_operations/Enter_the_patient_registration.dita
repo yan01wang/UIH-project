@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_izp_bnz_zcb" xml:lang="zh">
+    <title>进入患者登记</title>
+    <taskbody>
+        <steps id="steps_hvz_gsj_bdb">
+            <step>
+                <cmd>点击患者登记图标，可进入患者登记界面。</cmd>
+                <info>
+                    <fig id="fig_nbb_lnz_zcb">
+                        <title>患者登记界面</title>
+                        <image href="../../images/figure4-10.png" id="image_yl3_knz_zcb"
+                            placement="break"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+        <postreq>
+            <p>患者登记界面包含患者数据区，检查数据区，近期使用区，检查协议区等区域，主要用于录入和查看相应信息。</p>
+        </postreq>
+    </taskbody>
+</task>

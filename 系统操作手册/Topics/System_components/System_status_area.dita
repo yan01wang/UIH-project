@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lbd_csx_bdb" xml:lang="zh">
+    <title>系统状态区</title>
+    <shortdesc>系统状态区显示当前系统状态，如检查床锁定 / 解锁，PET 系统计数率等。</shortdesc>
+    <conbody>
+        <section id="section_a4n_fsx_bdb">
+            <title>检查床床板锁定 / 解锁</title>
+            <ul id="ul_k4p_bbl_xdb">
+                <li>正常情况下，床板处于锁定状态，如下图所示。<fig id="fig_i55_3sx_bdb">
+                        <title>检查床锁定</title>
+                        <image href="../../images/figure3-17.png" id="image_lkh_4sx_bdb"
+                            placement="break"/>
+                    </fig></li>
+                <li>如因特殊情况床板浮动，图中小锁变为黄色解锁状态，提醒用户锁定后进行扫描。<fig id="fig_xlp_msx_bdb">
+                        <title>图 3-11 检查床解锁</title>
+                        <image href="../../images/figure3-16.png" id="image_fnq_ksx_bdb"
+                            placement="break"/>
+                    </fig></li>
+            </ul>
+        </section>
+        <section>
+            <title>系统计数率</title>
+            <ul id="ul_pwj_gbl_xdb">
+                <li>指示当前 PET 系统探测到的事件计数率。</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

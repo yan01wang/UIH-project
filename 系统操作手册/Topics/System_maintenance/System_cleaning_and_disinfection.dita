@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_4" xtrc="" xml:lang="zh">
+  <title id="title__TOC_250006">系统清洁、消毒</title>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>系统<index-sort-as>X系统</index-sort-as><indexterm>清洁</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body>
+    <p>定期的维护保养之外，为保证系统安全有效运行，需要遵从当地法律法规范的要求进行设备和部件的外部清洁和消毒。</p>
+    <note type="caution">
+      <p>检查系统部件上的标签，发现标签遗失或损坏时，应尽快联系联影客户服务部。</p>
+    </note>
+  </body>
+</topic>

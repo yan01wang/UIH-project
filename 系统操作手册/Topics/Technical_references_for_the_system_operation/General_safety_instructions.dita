@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_48" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[504]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    >通用安全总则</title>
+  <body xtrc="/w:document/w:body[1]/w:p[505]">
+    <note type="note">
+      <p>为了避免对系统造成损坏，所有设备安装相关人员都应仔细阅读和遵守以下安装安全规范。</p>
+    </note>
+    <p xtrc="/w:document/w:body[1]/w:p[506]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >阅读并遵循本手册中所有的安全警告和建议。</p>
+    <ul id="ul_vnv_pwh_bdb">
+      <li xtrc="/w:document/w:body[1]/w:p[507]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >学习并遵守设备标签上的警告和建议。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[508]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >经联影培训并取得资格认证的人员才可以进行系统相关的安装维护等服务工作。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[509]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >联影在进行该系统设计时，考虑到最大程度确保操作安全，但是操作人员必须深刻了解 其中的安全危害并且采取相应措施降低风险。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[510]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >未经联影书面批准，严禁对系统任何进行更改部件。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[511]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >一旦系统出现任何问题，请立即联系联影客户服务部门。在问题未解决前不建议使用系 统。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[512]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >设备安装前需清理安装区域。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[513]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >安装过程中，采用防静电保护措施。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[514]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >在进行设备安装和检查时，必须遵守医疗设备的安全信息。</li>
+    </ul>
+  </body>
+</topic>

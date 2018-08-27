@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_k2c_jsd_cdb" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">VSM 附件</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">VSM 包括以下附件：</p>
+        <table class="- topic/table " colsep="1" frame="all" id="table_lgh_dhy_b2b" rowsep="1" xtrc="table:1;8:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+            <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;9:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:1;10:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:2;11:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita"/>
+                <thead class="- topic/thead " xtrc="thead:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <row class="- topic/row " xtrc="row:1;13:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:1;14:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:2;15:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">附件名称</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" valign="middle" xtrc="entry:2;17:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:3;18:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">附件功能</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:1;22:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <row class="- topic/row " xtrc="row:2;23:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;24:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:4;25:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">导联线</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;27:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:5;28:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">用于连接一次性电极获取人体心电信号</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:3;31:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;32:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:6;33:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">呼吸气囊</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;35:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:7;36:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">用于获取人体呼吸造成的器官幅度变化</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:4;39:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;40:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:8;41:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">呼吸气囊绑带</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;43:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:9;44:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">用于固定呼吸气囊</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:5;47:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;48:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:10;49:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">可充电电池</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;51:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:11;52:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">用于 VSM 手持端的供电</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:6;55:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:11;56:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:12;57:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">电池座充</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:12;59:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:13;60:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">用于备用电池的充电</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p class="- topic/p " xtrc="p:14;66:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">VSM 与心电和呼吸导联示意图如下图 3-32 所示：</p>
+        <fig class="- topic/fig " id="fig_sfj_1td_cdb" xtrc="fig:1;67:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+            <title class="- topic/title " xtrc="title:2;68:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">VSM 与心电和呼吸导联</title>
+            <image class="- topic/image " href="../../images/figure3-60.png" id="image_hmq_gtd_cdb" placement="break" xtrc="image:1;69:97" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita"/>
+        </fig>
+        <table class="- topic/table " colsep="0" frame="none" id="table_jlb_3td_cdb" rowsep="0" xtrc="table:2;71:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+            <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:2;72:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" rowheader="headers" xtrc="colspec:3;73:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:4;74:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita"/>
+                <tbody class="- topic/tbody " xtrc="tbody:2;75:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <row class="- topic/row " xtrc="row:7;76:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:13;77:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:15;78:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                                <msgblock class="+ topic/pre sw-d/msgblock " xml:space="preserve" xtrc="msgblock:1;79:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">1.心电电极</msgblock>
+                            </p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:14;82:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:16;83:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                                <msgblock class="+ topic/pre sw-d/msgblock " xml:space="preserve" xtrc="msgblock:2;84:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">2.呼吸导联线</msgblock>
+                            </p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:8;88:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:15;89:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:17;90:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                                <msgblock class="+ topic/pre sw-d/msgblock " xml:space="preserve" xtrc="msgblock:3;91:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">3.心电导联线</msgblock>
+                            </p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:16;94:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:18;95:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                                <msgblock class="+ topic/pre sw-d/msgblock " xml:space="preserve" xtrc="msgblock:4;96:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">4.呼吸气囊</msgblock>
+                            </p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p class="- topic/p " xtrc="p:19;103:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">电极对应接口如下表所示：</p>
+        <table class="- topic/table " colsep="1" frame="all" id="table_x21_4td_cdb" rowsep="1" xtrc="table:3;104:81" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+            <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:3;105:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="140.15pt" rowheader="headers" xtrc="colspec:5;106:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="256.75pt" rowheader="headers" xtrc="colspec:6;107:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita"/>
+                <thead class="- topic/thead " xtrc="thead:2;108:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <row class="- topic/row " xtrc="row:9;109:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:17;110:58" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:20;111:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">电极颜色</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:18;113:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:21;114:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">对应接口</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:3;118:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <row class="- topic/row " xtrc="row:10;119:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:19;120:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:22;121:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">白色电极</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:20;123:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:23;124:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">右手臂接口</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:11;127:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:21;128:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:24;129:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">红色电极</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:22;131:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:25;132:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">左腿接口</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:12;135:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:23;136:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:26;137:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">黑色电极</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:24;139:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                            <p class="- topic/p " xtrc="p:27;140:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">左手臂接口</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <note class="- topic/note " type="warning" xtrc="note:1;146:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+            <p class="- topic/p " xtrc="p:28;147:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">VSM 使用过程中，需要借助绑带或胶带将其线缆固定在患者身上，避免扫描过程中线缆缠入检查床板，造成人身伤害或设备损伤。</p>
+        </note>
+        <note class="- topic/note " type="warning" xtrc="note:2;149:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+            <p class="- topic/p " xtrc="p:29;150:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">异常插拔，心电线缆受损</p>
+            <ul class="- topic/ul " id="ul_ssj_qtd_cdb" xtrc="ul:1;151:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                <li class="- topic/li " xtrc="li:1;152:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <p class="- topic/p " xtrc="p:30;153:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">插拔不正确会损坏心电导联线缆连接器，请勿擅自插拔心电导联线缆 。</p>
+                </li>
+            </ul>
+        </note>
+        <note class="- topic/note " type="note" xtrc="note:3;157:27" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+            <ul class="- topic/ul " id="ul_ypc_std_cdb" xtrc="ul:2;158:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                <li class="- topic/li " xtrc="li:2;159:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <p class="- topic/p " xtrc="p:31;160:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">电极片的质量对于 VSM 信号影响很大，请使用优质电极片。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:3;162:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <p class="- topic/p " xtrc="p:32;163:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">在连接电极片之前需要使用肥皂水或润滑剂对皮肤做适当处理以确保连接质量。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:4;165:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">
+                    <p class="- topic/p " xtrc="p:33;166:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/VSM_accessories.dita">正式扫查之前需要训练病人屏气呼吸，观察信号，若有必要，调整电极片以提高信号 质量。</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wnt_n13_bdb" xml:lang="zh">
+    <title>安装流程</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+
+        <steps>
+            <stepsection>
+                <p xtrc="/w:document/w:body[1]/w:p[561]"
+                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                    >系统安装流程主要包括以下内容：</p>
+            </stepsection>
+            <step>
+                <cmd>客户进行场地准备。</cmd>
+            </step>
+            <step>
+                <cmd>联影项目管理部进行场地验收</cmd>
+            </step>
+            <step>
+                <cmd>验收合格后，系统发货</cmd>
+            </step>
+            <step>
+                <cmd>根据装机模板，地脚螺栓打孔</cmd>
+            </step>
+            <step>
+                <cmd>确认场地后，系统进场</cmd>
+            </step>
+            <step>
+                <cmd>进行系统安装和调试</cmd>
+            </step>
+            <step>
+                <cmd>客户验收系统</cmd>
+                <info>
+                    <note type="note">
+                        <p>安装设备时，需采取安全防护措施。</p>
+                    </note>
+                    <note type="other" othertype="帮助信息">
+                        <p>安装操作由联影制定客户服务工程师进行。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

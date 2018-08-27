@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lq4_pth_1db" xml:lang="zh">
+    <title>激光安全</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>J激光</index-sort-as>激光<indexterm>安全</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>激光定位灯安装在扫描间，用于精确定义患者的扫描区域。相关注意事项如下：</p>
+        <ul id="ul_thk_sth_1db">
+            <li>在检查床上安置患者时请勿开启激光灯。</li>
+            <li>在激光束开启前应指示患者闭上眼睛，并请其一直保持闭眼直到听到睁眼提示。关闭激 光灯后方可通知患者睁开眼睛。</li>
+            <li>为了避免眼部损伤，请勿直视激光束。</li>
+            <li>以下激光标签张贴在机架的激光灯上方。<image href="../../images/figure2-41.png" id="image_ixm_lmq_bdb"
+                    placement="break"/></li>
+        </ul>
+        <note type="warning">
+            <p>视力损伤</p>
+            <ul id="ul_ng5_nmq_bdb">
+                <li>
+                    <p>操作人员应叮嘱患者不要直视光束，直视光束会对视网膜造成损害。</p>
+                </li>
+                <li>
+                    <p>使用光学仪器观察激光可能会造成失明，请勿使用光学仪器直接观察激光束。</p>
+                </li>
+                <li>
+                    <p>当进行头部检查并打开激光灯时，建议给患者佩戴专用保护眼镜。</p>
+                </li>
+                <li>
+                    <p>禁止使用非本手册指定的其它方式对激光灯进行控制、调整或执行操作，避免增加有 害辐射。</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

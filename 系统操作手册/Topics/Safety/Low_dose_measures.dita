@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_csw_rkh_1db" xml:lang="zh">
+    <title>低剂量措施</title>
+    <shortdesc>通过扫描剂量调制以及迭代重建降噪算法可以在保证图像质量的同时，尽量降低患者的辐 射吸收剂量，具体参数配置请参见《软件操作手册》。</shortdesc>
+    <conbody>
+        <section id="section_pg3_c1q_bdb">
+            <title>扫描剂量调制（uDose）</title>
+            <p>X 射线从不同角度通过人体不同的横截面时，在人体内经过的组织器官不同。而不同的组织器官对 X 射线的线性衰减系数不同。因此，探测器信号的信噪比往往有很大的差别。适当根据X
+                射线通过人体不同部位时的衰减程度，调制使用的 X 射线的剂量，可以在不影响图像质量的情况下，降低患者接受的辐射剂量。</p>
+            <p>剂量调制功能可以根据各种检查协议组对影像质量的要求，自动调节每位患者的剂量，从而获得稳定的影像噪声，最终实现整体的剂量优化。</p>
+            <p>因为各种检查协议组要求的影像质量不同，所以有剂量调剂功能的检查协议组都有各自的 剂量调制设置。</p>
+            <p>此外，由于患者存在体型差别，在扫描时也可以根据患者的体型，手动适度调制扫描剂量。</p>
+        </section>
+        <section id="section_n2m_g1q_bdb">
+            <title>迭代重建降噪算法 （KARL 3D）</title>
+            <p>迭代重建降噪算法可以降低图像噪声，获得理想的噪声等级，提高图像质量。</p>
+        </section>
+    </conbody>
+</concept>

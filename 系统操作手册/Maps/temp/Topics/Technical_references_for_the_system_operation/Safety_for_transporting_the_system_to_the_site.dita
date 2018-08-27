@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_references_for_the_system_operation?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_references_for_the_system_operation/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_pdm_ywh_bdb" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">系统进场安全</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+        <section class="- topic/section " id="section_zsb_1xh_bdb" xtrc="section:1;7:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+            <p class="- topic/p " xtrc="p:1;10:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">系统进场前，需要确认包装盒标识是否完好。</p>
+            <note class="- topic/note " type="note" xtrc="note:1;11:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                <p class="- topic/p " xtrc="p:2;12:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">拆箱前需检查包装箱上的标识和检查包装箱是否完好。</p>
+            </note>
+            <p class="- topic/p " xtrc="p:3;16:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">本系统包装箱材料为木箱板，统一采用 M5 × 60 mm 的十字沉头木螺钉进行包装固定。拆箱所需工具如下表所示。</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_mdr_cxh_bdb" rowsep="1" xtrc="table:1;17:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;18:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="165.35pt" rowheader="headers" xtrc="colspec:1;19:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="231.55pt" rowheader="headers" xtrc="colspec:2;20:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;21:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                        <row class="- topic/row " xtrc="row:1;22:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;23:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                                <p class="- topic/p " xtrc="p:4;26:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">序号</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;28:51" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                                <p class="- topic/p " xtrc="p:5;31:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">工具名称</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;35:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                        <row class="- topic/row " xtrc="row:2;36:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;37:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                                <p class="- topic/p " xtrc="p:6;40:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">1</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;42:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                                <p class="- topic/p " xtrc="p:7;45:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">活动扳手</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;48:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;49:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                                <p class="- topic/p " xtrc="p:8;52:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">2</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;54:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                                <p class="- topic/p " xtrc="p:9;57:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">电动螺丝批</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;60:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;61:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                                <p class="- topic/p " xtrc="p:10;64:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">3</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;66:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                                <p class="- topic/p " xtrc="p:11;69:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">运输工装</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:12;77:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">在进行拆箱时，需要由专业人员进行，操作时需遵守相关安全规范，装备好相应的安全措 施。使用适当的工具，避免发生安全事故或对箱内物品造成损坏。切开打包带时，需要小心
+                操作，此处存在事故风险，特别有可能伤及眼睛。因此需要戴好防护眼镜，穿工作鞋。拆箱 完毕后，拔出板条箱木板上的螺钉，将螺钉按照操作安全规范处理，防止对相关人员造成伤
+                害。</p>
+            <note class="- topic/note " type="note" xtrc="note:2;80:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                <p class="- topic/p " xtrc="p:13;81:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">拆箱后需检查是否有短发，错发，货损等问题，若有，应填写短发，错发，货损报告并拍照记录。</p>
+            </note>
+            <note class="- topic/note " type="note" xtrc="note:3;83:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                <ul class="- topic/ul " id="ul_nny_gxh_bdb" xtrc="ul:1;84:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                    <li class="- topic/li " xtrc="li:1;85:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                        <p class="- topic/p " xtrc="p:14;86:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">按照发货箱标签说明进行先后拆箱。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:2;88:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                        <p class="- topic/p " xtrc="p:15;89:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">拆箱后根据物料清单核对部件。</p>
+                    </li>
+                </ul>
+            </note>
+            <p class="- topic/p " xtrc="p:16;95:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">操作人员在进行木箱组装或搬运作业时需要佩戴粗线手套，防止手部被木刺扎伤；操作人 员必须十分注意操作，不能在产品外观面留下污渍和任何可见痕迹。</p>
+            <note class="- topic/note " type="warning" xtrc="note:4;96:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                <ul class="- topic/ul " id="ul_owk_nxh_bdb" xtrc="ul:2;97:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                    <li class="- topic/li " xtrc="li:3;98:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">搬运过程中设备可能会对地板造成损坏，需对客户地板进行保护。</li>
+                    <li class="- topic/li " xtrc="li:4;99:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">不要在部件结构下面直接使用起重机或在机架上面直接使用吊车的方式抬起机架或检查床。</li>
+                    <li class="- topic/li " xtrc="li:5;100:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">为了防止系统倾倒，机架倾斜角度不要超过10°。</li>
+                </ul>
+            </note>
+            <note class="- topic/note " type="attention" xtrc="note:5;103:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">
+                <p class="- topic/p " xtrc="p:17;104:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">若有特殊情况，请遵守安全操作规范并听从安装负责人的安排和指挥。</p>
+            </note>
+            <p class="- topic/p " xtrc="p:18;108:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">通常情况下，检查床、机架配有专用运输小车运输到国内各地安装。联影服务工程师有责任 将运输小车运回公司，安装完成后需清理现场。</p>
+            <p class="- topic/p " xtrc="p:19;111:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">系统发往场地的运输包装应尽量回收，不回收的情况下需按照所在国家的法律和当地法规 要求处理。</p>
+            <p class="- topic/p " xtrc="p:20;114:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita">系统部件的包装上有朝向、易碎、避免潮湿等标识。在运输和存储时，要注意包装的朝向与
+                包装标识的方向一致。如果在场地发现包装上的朝向标识被倒置，应马上联系相关负责人。</p>
+        </section>
+    </refbody>
+</reference>

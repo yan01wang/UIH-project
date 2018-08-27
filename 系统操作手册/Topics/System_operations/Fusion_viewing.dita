@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fym_mrf_1db" xml:lang="zh">
+    <title>融合浏览</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd> 点击图像浏览，默认进入融合界面。</cmd>
+                <info>
+                    <p>融合图像默认 3 + 4 × 2 布局，用户可在此查看 CT，PET，PET/CT 融合 MPR 和 MIP
+                        图像。同时各个窗口可以作横断面、矢状面和冠状面显示切换。</p>
+                    <p>详细操作请参见《软件操作手册》图像融合章节。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

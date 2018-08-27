@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ft2_ymg_1db" xml:lang="zh">
+    <title>相关文档</title>
+    <shortdesc>本系统提供《系统操作手册》（本手册）和《软件操作手册》随附文档，请参考验收清单进行 核查确认。</shortdesc>
+    <conbody>
+        <note type="other" othertype="帮助信息" id="p2018">
+            <ul id="ul_lgm_ttf_1db">
+                <li>在系统软件中，可以按 F1 调出在线帮助文档，以供临床用户查看。</li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

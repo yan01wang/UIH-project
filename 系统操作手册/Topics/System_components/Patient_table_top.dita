@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_arh_1ky_bdb" xml:lang="zh">
+    <title>检查床床板</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_qzc_cky_bdb">
+            <li>
+                <p>床板顶部曲线的曲率半径为 380 mm。床板宽度为 450 mm。</p>
+            </li>
+            <li>
+                <p>床板为水平移动设计，由床板水平运动部件带动。断电或者按下浮动按钮后，用户可以 拉住把手拖动床板。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

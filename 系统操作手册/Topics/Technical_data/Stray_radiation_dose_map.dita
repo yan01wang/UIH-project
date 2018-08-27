@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_vvx_djm_cdb" xml:lang="zh">
+    <title>杂散辐射剂量图</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_zwl_gjm_cdb"><p>为了获得杂散剂量图值，应将一个直径为 32 cm，长度为 15 cm
+                的圆柱形水模放在体层扫描平面的中央，其测量结果如下图。</p><image href="../../images/figure8-14.png" id="image_bdj_kjm_cdb" placement="break"/><p>上图数值以uGy/1000mAs为单位，测量时采用体部扫描，140 kVp。</p></section>
+    </refbody>
+</reference>

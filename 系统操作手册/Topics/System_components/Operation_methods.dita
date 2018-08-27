@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_j55_m52_cdb" xml:lang="zh">
+    <title>操作方法</title>
+    <shortdesc/>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>准备水模。</cmd>
+                <info>
+                    <p> 在水模中注入放射源，并检查水模表面，若有液体残留则需清理干净。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>将水模置于检查床上，根据扫描需要，调整水模位置。</cmd>
+            </step>
+            <step>
+                <cmd>进行扫描。</cmd>
+            </step>
+            <step>
+                <cmd>分析图像数据，并根据结果调整软件设置。</cmd>
+            </step>
+            <step>
+                <cmd>将水模放回原处。</cmd>
+                <info>
+                    <p>若有放射源需要按照相关法规要求进行处置。</p>
+                </info>
+            </step>
+        </steps>
+        <postreq>
+            <p>详细操作请参见第5-12 页 “PET 有源质控”。</p>
+            <note type="note">
+                <p>操作液体放射源时需要谨慎操作，防止水模表面残留液体放射源。</p>
+            </note>
+            <note type="note">
+                <p>水模注水后需擦干水模表面的水渍，并检查水模是否漏水。</p>
+            </note>
+        </postreq>
+    </taskbody>
+</task>

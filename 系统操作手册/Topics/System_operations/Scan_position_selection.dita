@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_p2m_ysj_bdb" xml:lang="zh">
+    <title>扫描体位选择</title>
+    <body>
+        <p>用于患者检查的体位共8 种，需要根据实际扫描所需选择。</p>
+        <ul id="ul_b3h_1tj_bdb">
+            <li>
+                <p>HFS（head first-supine）：头先进仰卧</p>
+            </li>
+            <li>
+                <p>HFP（head first-prone）：头先进俯卧</p>
+            </li>
+            <li>
+                <p>FFS（feet first-supine）：脚先进仰卧</p>
+            </li>
+            <li>
+                <p>FFP（feet first-prone）：脚先进俯卧</p>
+            </li>
+            <li>
+                <p>HFDL（head first-decubitus left）：头先进向左侧卧</p>
+            </li>
+            <li>
+                <p>HFDR（head first-decubitus right）：头先进向右侧卧</p>
+            </li>
+            <li>
+                <p>FFDL（feet first-decubitus left）：脚先进向左侧卧</p>
+            </li>
+            <li>
+                <p>FFDR（feet first-decubitus right）：脚先进向右侧卧。</p>
+            </li>
+        </ul>
+        <note type="other" othertype="帮助信息">
+            <p>一般在患者摆位前需要确认患者扫描体位。</p>
+        </note>
+    </body>
+</topic>

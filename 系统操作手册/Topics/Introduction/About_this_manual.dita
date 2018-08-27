@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_odn_kmg_1db" xml:lang="zh">
+    <title>关于手册</title>
+    <shortdesc>本手册概述系统的预期用途，基本构成，软硬件功能，常规操作流程，维护保养事项，以及
+        常见的故障和排除措施，同时提供正常运行所需安全知识和技术参考信息，以指导用户安全有效完成相应操作。</shortdesc>
+    <conbody>
+        <p>用户或操作人员在进行系统操作前必须仔细阅读手册内容，必须特别注意安全章节提供的 全部信息，保证安全有效地完成一系列操作过程。不得将系统用于预期用途之外的任何其它用途。</p>
+        <p>本手册只对符合规定并且符合最新发行须知的软件版本有效。本手册最大限度介绍了系统 的特性，包括功能、选项及所有附件等。此介绍仅为您提供便利，并可能在未来版本中被更
+            新。联影保留不事先通知即可随时变更本手册中所述信息的权利。</p>
+        <p>本手册中所采用的所有照片、图形、截图和影像仅为示例，请以实际的系统外观及软件界面 为准。若本手册中使用的医院或患者名称与现有组织或人名有任何相似，纯属巧合。本手册
+            所涉及的相关配置名称，例如：驱动器、网络节点和数据库的名称，可能与实际临床环境中
+            的名称不同。用户或操作人员在进行系统操作前请务必仔细阅读本手册的内容，保证安全有效地完成一系列软件操作过程。请用户务必注意安全章节提供的全部信息。</p>
+        <p>本手册初始语言为中文，支持多语言，由联影创建、维护和授权，并随产品销售使用。 本手册所涉及相关人员有如下规定：</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_c2v_jwx_b2b">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry colsep="0" align="center" valign="middle">
+                            <p>涉及人员</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>说明</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>用户</p>
+                        </entry>
+                        <entry>
+                            <p/>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>操作人员</p>
+                        </entry>
+                        <entry>
+                            <p>指被授权操作设备的人员。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>患者</p>
+                        </entry>
+                        <entry>
+                            <p>指接受PET/CT(Positron Emission Tomography and Computed
+                                Tomography,PET/CT）检查的患者。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>联影客户服务人员</p>
+                        </entry>
+                        <entry>
+                            <p>指联影公司安装、维护与维修人员。</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_11" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[131]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    >防尘要求</title>
+  <body xtrc="/w:document/w:body[1]/w:p[132]">
+    <p xtrc="/w:document/w:body[1]/w:p[132]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >需保证扫描间、操作间及其它工作室的环境卫生。房间空气中的灰尘颗粒过多，可能会严重 干扰系统的正常运行，因此，系统不应安装在未完成施工的场地内。如果场地有未施工完成
+      的地板、墙面和天花板等，均不适合安装系统。</p>
+    <p xtrc="/w:document/w:body[1]/w:p[133]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >应时刻注意保持系统运行环境中空气的清洁程度。在空调和其它通风装置以及任何可能与 外界有空气交流的系统中，都要备有过滤装置，平时也要注意对系统所处环境进行检测，注 意清扫和保洁。</p>
+    <note type="warning">
+      <p>安装系统前，需保证安装场地周围没有房屋施工，并且打扫干净房间，以防影响系统正常运行。</p>
+    </note>
+  </body>
+</topic>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xrq_d4x_bdb" xml:lang="zh">
+    <title>生理信号/ 扫描信息/ 温馨提示</title>
+    <shortdesc>该区域显示状态随系统状态，信号来源实时切换，分别显示生理信号，扫描信息（当前扫描 协议和体位）以及温馨提示。</shortdesc>
+    <conbody>
+        <section id="section_gpy_r4x_bdb">
+            <title>生理信号显示</title>
+            <p>若当前DDP 同时接收到心电和呼吸两种生理信号，则该区域默认显示生理信号，如图3-7 所示。</p>
+            <ul id="ul_hnj_t4x_bdb">
+                <li>左侧为心电波形，同时用户可查看当前平均心率和心动周期。</li>
+                <li><image href="../../images/figure3-9.png" id="image_zpd_w4x_bdb"/>显示区右上角电池符号指示当前
+                    VSM（Vital Signal Module,VSM) 剩余电量，并在电量过低时给予提示。</li>
+                <li><image href="../../images/figure3-10.png" id="image_pjk_x4x_bdb"
+                    />心电波形左上角罗马数字指示当前心电电极导联模式，默认显示为 II 导联。</li>
+                <li><image href="../../images/figure3-11.png" id="image_iwc_z4x_bdb"
+                    />心电波形右上角三个矩形分别表示电极的连接状态，绿色表示连接正常，标红 则表示可能有异常，提示用户确认。</li>
+                <li>右侧为呼吸波形，并可查看当前平均呼吸频率和呼吸周期。</li>
+            </ul>
+            <fig id="fig_jwd_lpx_bdb">
+                <title>生理信号显示- 心电和呼吸信号</title>
+                <image href="../../images/figure3-12.png" id="image_uwz_4px_bdb" placement="break"/>
+            </fig>
+            <p>若当前只接收到一种生理信号，则该生理信号在此区域全屏显示。心电信号全屏显示 如图 3-8。</p>
+            <fig id="fig_xv2_1qx_bdb">
+                <title>生理信号显示- 心电信号</title>
+                <image href="../../images/figure3-13.png" id="image_ktk_cqx_bdb" placement="break"/>
+            </fig>
+            <p>全屏显示时，心电波形下方出现三个横线，从左至右分别代表 I，II，III 三种导联，默认使用 II 导联。</p>
+        </section>
+        <section id="section_mfy_1rx_bdb">
+            <title>扫描信息显示</title>
+            <p>
+                <ul id="ul_e3p_crx_bdb">
+                    <li>若当前检查界面已加载患者，且DDP 无患者生理信号输入，此时该区域显示扫描信息，包括当前选中的扫描协议、扫描体位，如图3-9 所示。<fig
+                            id="fig_mlm_mrx_bdb">
+                            <title>扫描信息显示</title>
+                            <image href="../../images/figure3-14.png" id="image_tcp_nrx_bdb"
+                                placement="break"/>
+                        </fig></li>
+                    <li>扫描过程中，默认显示当前正在进行的扫描协议名称，并在当前扫描协议完成后自动跳 转显示下一个待扫描协议。</li>
+                    <li>若有患者处于检查界面，并且尚未开始扫描，默认显示第一个待扫描协议，随患者检查 界面选中的协议切换。</li>
+                    <li>若当前检查界面内患者加载多个不同体位的扫描协议组，切换至不同协议组时，左侧体 位信息会随之变化。</li>
+                </ul>
+            </p>
+            <ul id="ul_e3p_crx_bdb">
+                <li>
+                    <p>若当前检查界面已加载患者，且DDP 无患者生理信号输入，此时该区域显示扫描信息，包括当前选中的扫描协议、扫描体位，如图3-9 所示。</p>
+                    <fig id="fig_mlm_mrx_bdb">
+                        <title>扫描信息显示</title>
+                        <image href="../../images/figure3-14.png" id="image_tcp_nrx_bdb"
+                            placement="break"/>
+                    </fig>
+                </li>
+                <li>
+                    <p>扫描过程中，默认显示当前正在进行的扫描协议名称，并在当前扫描协议完成后自动跳 转显示下一个待扫描协议。</p>
+                </li>
+                <li>
+                    <p>若有患者处于检查界面，并且尚未开始扫描，默认显示第一个待扫描协议，随患者检查 界面选中的协议切换。</p>
+                </li>
+                <li>
+                    <p>若当前检查界面内患者加载多个不同体位的扫描协议组，切换至不同协议组时，左侧体 位信息会随之变化。</p>
+                </li>
+            </ul>
+        </section>
+        <section id="section_tdm_qrx_bdb"><title>温馨提示</title><p>若当前检查界面内患者没有加载扫描协议，并且DDP
+                无生理信号输入，此时显示温馨提示， 如下图所示。</p><image href="../../images/figure3-15.png" id="image_lqt_vrx_bdb" placement="break"/></section>
+    </conbody>
+</concept>

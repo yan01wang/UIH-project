@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nxj_nb4_1db" xml:lang="zh">
+    <title>配电箱概述</title>
+    <shortdesc/>
+    <conbody>
+        <p>PSC 负责为本系统的所有部件供电，是系统唯一的供电入口。本系统的 PSC 适配三相五线制的电源，即 TN-S 电源系统。客户需要根据 PSC
+            的供电需求，提供配电箱和专用线缆，为PSC 供电，详细技术规格要求请参见第 7-15 页 “ 配电箱技术规格 ”。如有任何问题，请联系联影客户服务部。</p>
+        <p xtrc="/w:document/w:body[1]/w:p[279]"
+            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+            >配电箱原理图如下图所示。</p>
+        <fig id="fig_pgq_qb4_1db">
+            <title>配电箱原理图</title>
+            <image href="../../images/figure7-6.png" id="image_b3x_wb4_1db" placement="break"/>
+        </fig>
+        <p>图中各标识具体含义和规格如下表所示：</p>
+        <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_ssj_zb4_1db">
+            <title>配电箱标识含义</title>
+            <tgroup cols="3">
+                <colspec colname="col1" colwidth="36.7pt"/>
+                <colspec colname="col2" colwidth="52.5pt"/>
+                <colspec colname="col3" colwidth="307.7pt"/>
+                <thead>
+                    <row>
+                        <entry colsep="0">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[1]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >标识</p>
+                        </entry>
+                        <entry colsep="0">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[1]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >名称</p>
+                        </entry>
+                        <entry align="center">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[1]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >规格</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[2]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >QF</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[2]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >塑壳断路器</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[2]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >塑壳断路器，额定电流 225 A，额定电压 400 V，瞬时脱扣电流大于等于2250 A，短路分段能力 ＞ 36 kA，四极</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[3]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >KM</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[3]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >接触器</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[3]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >额定电流 185 A，线圈电压 AC 220 V 3P</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[4]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >SB1</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[4]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >按钮</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[4]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >启动按钮 （配电箱面板）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[5]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >SB2</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[5]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >按钮</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[5]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >停止按钮 （配电箱面板）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[6]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >HL1</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[6]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >指示灯</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[6]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >绿色，运行指示灯 （配电箱面板）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[6]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >HL2</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[6]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >指示灯</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[8]/w:tr[6]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >红色，运行指示灯 （配电箱面板）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[2]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >FU</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[2]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >熔断器</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[2]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >AC220V，5 A</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[3]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >AT1</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[3]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >按钮</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[3]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >紧急断电按钮，带自锁功能（操作间操作台附近）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[4]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >AT2</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[4]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >按钮</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[4]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >紧急断电按钮，带自锁功能（扫描间）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[5]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >HL3</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[5]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >警示灯</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[5]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >红色，机器曝光状态指示灯（扫描间防护门上方）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[6]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >HL4</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[6]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >警示灯</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[6]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >黄色，机房内系统测试电源通电状态指示灯（扫描间防护门上方）（若有）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[7]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >HL5</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[7]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >警示灯</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[9]/w:tr[7]/w:tc[3]/w:p[1]"
+                                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                >绿色，机房内系统测试电源断电状态指示灯（扫描间防护门上方）（若有）</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <ul id="ul_y5x_nc4_1db">
+            <li xtrc="/w:document/w:body[1]/w:p[375]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >配电箱的准备及安装由用户负责。图中所示紧急断电按钮AT1 和AT2、扫描间防护门上方警示灯 HL3（若有）均由用户提供，用户必须在装机前完成上述项的安装。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[376]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >紧急断电按钮 AT1、AT2 均要提供两幅常闭触点，安装位置推荐高度为 1.8 m。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[377]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >操作间和扫描间紧急断电按钮常闭触点均要接到配电箱 AT1、AT2 所示位置。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[378]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >扫描间防护门上方警示灯，要分别接到配电箱 HL3（若有）所示位置。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[379]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >为配电箱供电的线缆由用户准备：三相五线，多股铜芯线，线径要满足电源内阻要求，电 缆颜色、规格必须符合电气安装标准规范的相关规定。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[380]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >配电箱必须是本系统专用的独立电源。此回路仅给该系统供电，中间不得搭接除此系统 以外的其它设备。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[381]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >配电箱必须安装零线、地线接线端子排。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[382]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >应将原理图贴在配电箱内部，且对电缆和各部件图中标号进行标识，以便于检修。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[383]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >配电箱必须具备防开盖锁定功能（明锁扣），以确保电气安全作业之需。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[384]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >配电箱内主回路电缆建议采用 35 mm2 ~ 50 mm2 铜线。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[385]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >配电箱外壳要接地。</li>
+            <li xtrc="/w:document/w:body[1]/w:p[386]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >布置电力线时，所有的三相线和地线必须要在同一条电力线管或电缆管道里。电力线从 系统控制电缆和信号电缆上引线时，应使用单独的电力线管或电缆管道。</li>
+        </ul>
+    </conbody>
+</concept>

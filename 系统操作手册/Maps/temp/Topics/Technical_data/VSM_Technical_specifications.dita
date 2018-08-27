@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_data?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_data/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_xhr_z4m_cdb" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">VSM 技术规格</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">产品主要包括心电功能、呼吸功能、通信功能、机械特性及电源特性参数。</shortdesc><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+        <section class="- topic/section " id="section_td2_bpm_cdb" xtrc="section:1;7:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+            <ul class="- topic/ul " id="ul_bhp_yck_zdb" xtrc="ul:1;8:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                <li class="- topic/li " xtrc="li:1;9:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:1;10:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">心电功能</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_o35_qpm_cdb" rowsep="1" xtrc="table:1;11:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;12:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.4pt" rowheader="headers" xtrc="colspec:1;13:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.5pt" rowheader="headers" xtrc="colspec:2;14:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:1;16:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;17:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:2;21:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;23:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:3;27:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:1;31:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:2;32:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;33:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:4;37:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">导联切换</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;39:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:5;43:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">I 导联， II 导联，III 导联</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:3;46:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;47:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:6;51:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">心电采样率</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;53:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:7;57:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">1 kHz</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:4;60:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;61:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:8;65:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">实时数据上报速率</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;67:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:9;71:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">250 Hz</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:5;74:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;75:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:10;79:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">触发范围</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;81:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:11;85:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">30 bpm~ 200 bpm, 0.5 mV ~ 5 mV</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:6;88:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:11;89:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:12;93:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">R 波波峰检测</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:12;95:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:13;99:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">是</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:7;102:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:13;103:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:14;107:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">心电波形输出形式</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:14;109:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:15;113:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">数字输出</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:2;120:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:16;121:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">呼吸功能</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_nxw_rpm_cdb" rowsep="1" xtrc="table:2;122:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:2;123:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.4pt" rowheader="headers" xtrc="colspec:3;124:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.5pt" rowheader="headers" xtrc="colspec:4;125:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:2;126:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:8;127:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:15;128:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:17;132:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:16;134:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:18;138:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:2;142:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:9;143:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:17;144:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:19;148:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">呼吸方法</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:18;150:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:20;154:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">气压式</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:10;157:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:19;158:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:21;162:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">范围</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:20;164:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:22;168:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">5 Brpm ~ 30 Brpm</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:11;171:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:21;172:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:23;176:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">呼吸采样率</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:22;178:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:24;182:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">100 Hz</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:12;185:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:23;186:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:25;190:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">呼吸波形输出方式</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:24;192:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:26;196:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">数字输出</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:13;199:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:25;200:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:27;204:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">实时数据上报速率</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:26;206:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:28;210:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">100 Hz</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:14;213:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:27;214:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:29;218:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">波峰检测</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:28;220:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:30;224:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">是</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:3;231:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:31;232:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">通信方式</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_onq_spm_cdb" rowsep="1" xtrc="table:3;233:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:3;234:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.4pt" rowheader="headers" xtrc="colspec:5;235:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.5pt" rowheader="headers" xtrc="colspec:6;236:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:3;237:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:15;238:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:29;239:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:32;243:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:30;245:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:33;249:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:3;253:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:16;254:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:31;255:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:34;259:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">连接器形式</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:32;261:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:35;265:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">DB9</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:17;268:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:33;269:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:36;273:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">通信波特率</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:34;275:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:37;279:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">1 M</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:18;282:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:35;283:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:38;287:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">通信协议</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:36;289:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:39;293:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">差分 SPI</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:19;296:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:37;297:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:40;301:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">无线通信协议</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:38;303:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:41;307:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">2.4 GHz Zigbee</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:4;314:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:42;315:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">机械特性</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_im2_5pm_cdb" rowsep="1" xtrc="table:4;316:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:4;317:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.4pt" rowheader="headers" xtrc="colspec:7;318:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.5pt" rowheader="headers" xtrc="colspec:8;319:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:4;320:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:20;321:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:39;322:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:43;326:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:40;328:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:44;332:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:4;336:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:21;337:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:41;338:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:45;342:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">手持端尺寸 （mm）</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:42;344:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:46;348:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">175 × 95 × 37 （长宽高）</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:22;351:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:43;352:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:47;356:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">手持端重量 （g）</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:44;358:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:48;362:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">500</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:23;365:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:45;366:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:49;370:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">接收板尺寸 （mm）</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:46;372:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:50;376:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">155 × 105 × 16 （长宽高）</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:5;383:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:51;384:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">温度特性</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_v5r_vpm_cdb" rowsep="1" xtrc="table:5;385:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:5;386:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.5pt" rowheader="headers" xtrc="colspec:9;387:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.4pt" rowheader="headers" xtrc="colspec:10;388:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:5;389:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:24;390:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:47;391:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:52;395:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:48;397:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:53;401:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:5;405:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:25;406:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:49;407:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:54;411:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">使用温度范围</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:50;413:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:55;417:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">5°C ~ 40°C</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:26;420:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:51;421:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:56;425:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">存储温度范围</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:52;427:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:57;431:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">-20°C ~ 40°C</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:6;438:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:58;439:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">电源特性</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_c4v_xpm_cdb" rowsep="1" xtrc="table:6;440:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:6;441:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.5pt" rowheader="headers" xtrc="colspec:11;442:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.4pt" rowheader="headers" xtrc="colspec:12;443:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:6;444:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:27;445:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:53;446:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:59;450:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:54;452:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:60;456:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:6;460:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:28;461:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:55;462:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:61;466:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">手持端电源</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:56;468:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:62;472:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">3.7 V 电池输入</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:29;475:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:57;476:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:63;480:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">接收端电源</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:58;482:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:64;486:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">5 V 直流输入</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:30;489:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:59;490:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:65;494:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">手持端最大功耗</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:60;496:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:66;500:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">&lt; 3 W</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:31;503:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:61;504:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:67;508:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">接收端最大功耗</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:62;510:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:68;514:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">&lt; 3 W</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:7;521:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:69;522:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">电池及充电特性</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_jxy_ypm_cdb" rowsep="1" xtrc="table:7;523:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:7;524:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.5pt" rowheader="headers" xtrc="colspec:13;525:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.4pt" rowheader="headers" xtrc="colspec:14;526:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:7;527:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:32;528:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:63;529:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:70;533:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:64;535:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:71;539:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:7;543:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:33;544:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:65;545:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:72;549:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">电池规格</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:66;551:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:73;555:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">18650， 3400 mAh， 3.7 V</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:34;558:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:67;559:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:74;563:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">座充</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:68;565:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:75;569:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">交流输入 100 V ~ 240 V，50/60 Hz，输出电压 4.2 V ±1%，输出电流 1 A</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:8;576:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:76;577:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">射频特性</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_xzx_zpm_cdb" rowsep="1" xtrc="table:8;578:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:8;579:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.5pt" rowheader="headers" xtrc="colspec:15;580:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.4pt" rowheader="headers" xtrc="colspec:16;581:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:8;582:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:35;583:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:69;584:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:77;588:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:70;590:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:78;594:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:8;598:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:36;599:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:71;600:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:79;604:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">频带</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:72;606:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:80;610:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">2400 MHz~2483.5 MHz</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:37;613:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:73;614:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:81;618:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">调制类型</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:74;620:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:82;624:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">OQPSK</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:38;627:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:75;628:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:83;632:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">辐射功率</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:76;634:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:84;638:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">≤ 20 dBm</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:39;641:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" morerows="1" xtrc="entry:77;642:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:85;646:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">频率特性</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:78;648:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:86;652:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">频率容限： ≤ 20×10-6</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:40;655:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:79;656:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:87;660:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">占用宽带： ≤ 5 MHz</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li class="- topic/li " xtrc="li:9;667:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                    <p class="- topic/p " xtrc="p:88;668:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">接收特性</p>
+                    <table class="- topic/table " colsep="1" frame="all" id="table_o1k_bqm_cdb" rowsep="1" xtrc="table:9;669:93" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                        <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:9;670:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.5pt" rowheader="headers" xtrc="colspec:17;671:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.4pt" rowheader="headers" xtrc="colspec:18;672:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:9;673:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:41;674:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:80;675:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:89;679:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">特性</p>
+                                    </entry>
+                                    <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:81;681:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:90;685:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">参数</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:9;689:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                <row class="- topic/row " xtrc="row:42;690:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:82;691:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:91;695:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">接收频率</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:83;697:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:92;701:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">2.4 GHz</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:43;704:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:84;705:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:93;709:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">频带</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:85;711:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:94;715:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">2400 MHz~2483.5 MHz</p>
+                                    </entry>
+                                </row>
+                                <row class="- topic/row " xtrc="row:44;718:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:86;719:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:95;723:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">占用带宽</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:87;725:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                                        <p class="- topic/p " xtrc="p:96;729:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">≤ 5 MHz</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+            </ul>
+            <note class="- topic/note " type="note" xtrc="note:1;737:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">
+                <p class="- topic/p " xtrc="p:97;738:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/VSM_Technical_specifications.dita">设备的专业维护和维修都必须由经过培训的有资质人员执行。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

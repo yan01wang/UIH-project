@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hbc_hhq_bdb" xml:lang="zh">
+    <title>图像质量检测</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>为充分满足法规和系统需求，需要通过图像质量检测进一步确认系统状态，确保扫描图像质量。根据执行目的不同，图像质量检测分为三种应用场景。检测项目均包含 CT
+                值，图像噪声，均匀性，空间和密度分辨率等。在图像检测中，需要使用图像质量检测模体（系统模）。 检测前，需要对系统模进行定位。</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_ljn_khq_bdb">
+                <tgroup cols="5">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <colspec colname="col3" colwidth="1.0*"/>
+                    <colspec colname="col4" colwidth="1.0*"/>
+                    <colspec colname="col5" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >检测类型</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >应用场景</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[1]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >作用</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[1]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >频次</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[1]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >历史报告</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[2]/w:tc[1]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >稳定性检测</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[2]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >医院自查</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >确定 CT 系统在给定条件下形成的影像相对初始状态的变化是否仍符合控制标准</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[2]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >每月一次</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[2]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >记录每一次结果</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[3]/w:tc[1]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >验收检测</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[3]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >设备验收</p>
+                            </entry>
+                            <entry align="justify">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >设备安装完毕， 鉴定其影响影像质量的性能指标是否符合约定值</p>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[3]/w:tc[3]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >（生成基线值）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[3]/w:tc[4]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >设备现场安装调试完成后</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[3]/w:tc[5]/w:p[2]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >记录最新结果</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >状态检测</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >第三方检测机构</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >监管部门评价设备状态</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[4]/w:tc[4]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >抽查（通常一年进行一次）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[4]/w:tr[4]/w:tc[5]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                                    >记录每一次结果</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </context>
+        <steps>
+            <stepsection>图像质量检测常规步骤如下：</stepsection>
+            <step>
+                <cmd>摆放系统模，打开激光定位灯，使其定位线与系统模的刻度线重合。</cmd>
+                <info>
+                    <fig id="fig_ez4_5hq_bdb">
+                        <title>系统模</title>
+                        <image href="../../images/figure5-6.png" id="image_kcy_thq_bdb" width="6in"
+                            placement="break"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>在工具箱面板中，单击日常服务按钮。</cmd>
+            </step>
+            <step>
+                <cmd>单击图像质量检测按钮进入界面。</cmd>
+                <info><image href="../../images/figure5-7.jpeg" id="image_zcc_yhq_bdb" width="5.5in" placement="break"/></info>
+            </step>
+            <step>
+                <cmd>根据需要，选择检测类型。</cmd>
+            </step>
+            <step>
+                <cmd>点击检测按钮，系统首先进行模体位置检测。</cmd>
+                <info>
+                    <p>若模体位置检测不通过，请按照系统提示调整模体位置。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>模体位置检测通过，逐项进行图像质量检测扫描，直至完成所有检测项目。其中绿色表示当前检测项目通过，黄色X 则表示不通过。</cmd>
+                <info>
+                    <p>所有检测项目均通过，本次检测通过。</p>
+                    <p>任一项目不通过，本次检测失败。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>点击查看可以查看当前检测结果列表，包括每一检测项目对应的协议参数、检测时间、检测结果和扫描所得图像。</cmd>
+                <info>
+                    <p>点击打印可以打印查当前检测结果列表，包含图像。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>点击历史报告可以调取检测结果的历史报告（若有）。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

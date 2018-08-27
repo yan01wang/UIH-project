@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_operations?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_operations/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="task_nch_4sx_zcb" xml:lang="zh" xtrc="task:1;3:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">系统关闭</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+        <authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata " xtrc="metadata:1;7:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;8:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;9:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">系统<index-sort-as class="+ topic/index-base indexing-d/index-sort-as " xtrc="index-sort-as:1;9:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">X系统</index-sort-as><indexterm class="- topic/indexterm " xtrc="indexterm:2;9:75" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">关闭</indexterm></indexterm>
+            </keywords>
+        <othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;13:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+        <steps class="- topic/ol task/steps " xtrc="steps:1;14:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+            <stepsection class="- topic/li task/stepsection " xtrc="stepsection:1;15:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">若因系统维修维护，需要关闭整个系统，建议在停止放线十分钟后再执行。一次完整的系统 关机包括以下步骤：</stepsection>
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">扫描系统复位。</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_hll_3nj_bdb" xtrc="substeps:1;18:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:1;19:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:2;20:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">确认没有正在进行的检查，复位机架。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:2;22:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:3;23:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">按下释放患者按钮<image class="- topic/image " href="../../images/figure4-4.png" id="image_xlb_1cx_ddb" placement="inline" xtrc="image:1;24:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita"/>，复位检查床。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;28:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;29:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">关闭系统。</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_p3v_jnj_bdb" xtrc="substeps:2;30:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:3;31:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:5;32:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">确认没有执行中的重建、打印和归档任务。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:4;34:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:6;35:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">单击界面右上角的联影 LOGO，弹出下拉菜单。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:5;37:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:7;38:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">单击关闭选项，弹出关机对话框。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:6;40:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:8;41:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">单击是。各应用依次正常退出，关机按钮可用。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:7;43:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:9;44:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">点击关机。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;48:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;49:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">等待系统自行关闭。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;51:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;52:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">关闭 UPS（若有）。</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_mc5_rnj_bdb" xtrc="substeps:3;53:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:8;54:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:12;55:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">在 UPS 发出 “ 滴滴 ” 的响声后，按住关机按钮不放。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:9;57:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:13;58:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">听到 “ 滴滴 ” 声转为长鸣时松开按钮。此时，UPS 将被关闭。</cmd>
+                    </substep>
+                </substeps>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;61:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                    <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:1;62:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <p class="- topic/p " xtrc="p:1;63:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">必要时，如系统检修或更换熔断装置，可断开PSC 与配电箱之间电源开关。此时PSC 通电指示灯熄灭，表示已断电。</p>
+                    </note>
+                    <note class="- topic/note " type="attention" xtrc="note:2;65:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <p class="- topic/p " xtrc="p:2;66:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">在设备操作过程中如遇到设备故障或其它紧急情况，请立即按下机架控制面板或控制盒上的红色急停按钮。按下急停按钮后，0.5s
+                            内将会切断主驱动系统、检查床及机架电源，检查床会在10mm 范围内停下来； X 射线发射也会停止。</p>
+                    </note>
+                    <note class="- topic/note " type="warning" xtrc="note:3;69:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <ul class="- topic/ul " id="ul_c1v_25x_zcb" xtrc="ul:1;70:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                            <li class="- topic/li " xtrc="li:1;71:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">用户必须按照本手册操作要求依次关闭系统。</li>
+                            <li class="- topic/li " xtrc="li:2;72:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                                <p class="- topic/p " xtrc="p:3;73:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">在设备操作过程中如遇到严重的紧急情况（如火灾、需停止系统运动和放线而急停按钮不响应时），请按下位于操作间的紧急断电按钮（EPO）。按下后PSC
+                                    与网电源断开连接，系统断电。</p>
+                            </li>
+                        </ul>
+                    </note>
+                    <p class="- topic/p " xtrc="p:4;78:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">关机之后，离开之前，请再次检查控制台计算机、控制盒、机架数据显示屏等，确认为断电 状态，并确认机架及检查床已停止运动。</p>
+                    <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:4;79:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                        <ul class="- topic/ul " id="ul_mn5_k5x_zcb" xtrc="ul:2;80:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                            <li class="- topic/li " xtrc="li:3;81:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                                <p class="- topic/p " xtrc="p:5;82:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">日常操作时，无需频繁开关机架电源。为保证系统良好的运行环境，建议定期执行系统下电重启，推荐每周最后一个工作日扫描结束后进行。</p>
+                            </li>
+                            <li class="- topic/li " xtrc="li:4;84:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">
+                                <p class="- topic/p " xtrc="p:6;85:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/System_shutdown.dita">UPS 起续航作用，用于在网电源意外断开时给控制台供电，以便操作人员能及时保存检查数据，推荐使用。</p>
+                            </li>
+                        </ul>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

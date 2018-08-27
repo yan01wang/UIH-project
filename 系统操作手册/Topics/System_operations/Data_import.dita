@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_glt_rtf_1db" xml:lang="zh">
+    <title>数据导入</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <stepsection>
+                <p>用户可选择将储存在CD/DVD、USB 和PACS 的患者数据导入软件系统。</p>
+            </stepsection>
+            <step>
+                <cmd>打开患者管理界面，点击导入按钮，打开导入窗口。</cmd>
+            </step>
+            <step>
+                <cmd>从导入窗口中选择导入节点，如 CD/DVD、USB 或 PACS。</cmd>
+                <substeps id="substeps_jf5_5tf_1db">
+                    <substep>
+                        <cmd>用户可在任务管理器中查看导入状态，也可对其执行优先级更改等操作。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>导入完成后，该任务将在任务管理器列表消失。如果导入失败，则该任务将保存在任务管理器列表中。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>用户还可在导入目录中选择从目标文件夹导入。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

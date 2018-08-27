@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_xjq_dlg_1db" xml:lang="zh">
+    <title>概述</title>
+    <shortdesc>本章提供系统正常运行所需进行准备工作及其过程中重要的安全信息。包括场地要求、系统运输安全、系统安装调试、软件配置和系统性能测试等内容。</shortdesc>
+    <refbody>
+        <section id="section_iwz_2ng_1db">
+            <p>其中场地要求介绍系统运行所需必要条件，包括房间布局、地面、配电、网络、环境、照明、 射线防护、运输通道及防火安全等内容。详细内容请参见“场地准备 ”。</p>
+            <p>如需了解系统运输条件和安全注意事项，请参见“运输存储 ”</p>
+            <p>如需了解系统安装流程和此过程中的重要安全事项， 请参见“安装调试 ”。此内容仅供用户作为信息参考知悉，不能够作为安装指导使用。</p>
+            <p>如需在服务界面执行网络接口等配置工作，请参见“配置与查看 ”。</p>
+            <p>如需了解性能测试概述验收、性能测试项目和测试方法，请参见 “ 性能测试”。</p>
+        </section>
+    </refbody>
+</reference>

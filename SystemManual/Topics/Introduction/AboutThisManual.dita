@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jsm_z4q_d2b">
+  <title>About this manual</title>
+  <body>
+    <p>This manual is applicable to the uMI 550 PET/CT operation and processing system.</p>
+    <p>This manual briefly introduces the interface layouts, configuration requirements and main
+      functions of the operation and processing software, including patient exam, patient
+      registration, patient administration and image viewing. In addition, this manual provides
+      related safety information and irregular operation flows supported by the system to direct the
+      user to operate the system safely and effectively.</p>
+    <p>This manual is valid merely for the software version that complies with relevant regulations
+      and the latest notice of release. This manual describes the system features to the greatest
+      extent to direct you to operate the software safely. This manual is for your convenient use of
+      the system only and may be updated in a future version. UIH reserves the right to change the
+      related information at any time without prior notice.</p>
+    <p>The photos, graphics, screenshots and images in this manual are representative only. The
+      actual system appearance and software interfaceshall prevail. The names of hospitals or
+      patients used in this manual are fictional. Any similarity is purely coincidental. The names
+      of related configuration (i.e. names of driver, network node or database) in this manual may
+      be different from those in the actual clinical situation. To simplify titles, both male and
+      female patients are named as patients.</p>
+    <p>Before operating the system, the user or the operator must carefully read this manual to make
+      sure that he or she can effectively and safely complete a series of software operations.
+      Please pay attention to all the information provided in the chapter of safety.</p>
+    <p>This manual is aimed to guide you to safely operate the introduced system.</p>
+    <p>This manual shall not be used for other purposes except for the intended use.</p>
+    <p>This manual is originally written in English. It is created, maintained, and authorized by
+      UIH and is sold and used with the software version that complies with relevant
+      regulations.</p>
+  </body>
+</topic>

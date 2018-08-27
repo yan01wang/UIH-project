@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_dst_ymz_zcb" xml:lang="zh">
+    <title>患者登记</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>扫描工作流<index-sort-as>S扫描工作流</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>准备好扫描设备并安顿好患者在检查床上正确就位后，操作者返回操作间。正式开始扫描 前，需要进行患者登记，以录入必须的患者数据（包含姓名、年龄、身高、体重等）和扫描信
+            息（包含转诊医生，注射剂量等），并选择合适的体位和扫描协议。</p>
+    </body>
+</topic>

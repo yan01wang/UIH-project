@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_wsg_hnv_d2b">
+    <title>Data security</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Before scanning, recheck the patient information (such as name, age, height and weight),
+            study info (such as admission number, scan protocol and patient position) to ensure the
+            correct acquisition according to the preset scheme.</p>
+        <p>During the setting of scanning parameters, the system will estimate the needed storage
+            space and mark the parameter with red color when the storage space is insufficient. Then
+            modify the scanning parameters according to the prompt. Otherwise, click OK. The system
+            shows a warning prompt </p>
+        <p>To ensure normal and safe operation of the system, the user is not allowed to install any
+            software without UIH authorization to the operating system of the console. The user is
+            not allowed to connect the equipment to any unauthorized network.</p>
+        <p>In addition, the user should regularly back up the data in the system. The system will
+            mon-itor the memory of the computer automatically and send a warning message when the
+            memory reaches the threshold. The user needs to archive the data and clear the memory
+            regularly to ensure the smooth scanning.</p>
+        <p>Unless otherwise permitted by UIH, please do not modify the embedded software system in
+            any form. Please do not install any non-system software (such as games) to the
+            com-puter. The system software has the anti-virus function.</p>
+        <p>When any failure occurs to the communication with external networks, the system can still
+            run normally. In case of network disconnection when the system is communicating with
+            another device, you are required to reconnect the device and re-perform the relevant
+            data communications after the network recovery.</p>
+        <p>The system will stop in case of power failure.</p>
+        <p>When you reboot the system after the power supply recovers, the system will run normally,
+            but any data or information that were unsaved before power failure will be lost.</p>
+        <note type="note">
+            <ul id="ul_hq2_rnv_d2b">
+                <li>
+                    <p>It is recommended to anonymize data to be exported from the system for
+                        protecting patient health information.</p>
+                </li>
+                <li>
+                    <p>To ensure the security of the system and data, the user can disable data
+                        export to USB</p>
+                </li>
+                <li>
+                    <p>Also the user can disable USB completely.</p>
+                </li>
+            </ul>
+        </note>
+        <note type="note">
+            <p>License mechanism is used to forbid unexpected copy/installation or use. Thirty days
+                before the expiry of the validity period, the system will prompt the corresponding
+                prod-uct is about to expire. Users should timely contact service engineer to ensure
+                the sus-tainable use of the product renewal. Users can also view the current
+                application expiration date through the license information provided by the
+                system.</p>
+        </note>
+        <note type="warning">
+            <ul id="ul_q4v_znv_d2b">
+                <li>
+                    <p>While examining a patient, the operator is prohibited to plug/unplug USB.
+                        Otherwise, the system may encounter image information errors</p>
+                </li>
+                <li>
+                    <p>While the system is running, the user shall not intentionally disconnect the
+                        power and network. Otherwise, there will be data loss.</p>
+                </li>
+                <li>
+                    <p>Due to technological limits, there is a risk of patient information loss on
+                        the backup media </p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

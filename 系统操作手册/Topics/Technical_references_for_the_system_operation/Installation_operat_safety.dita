@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_51" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[538]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    >安装操作安全</title>
+  <body xtrc="/w:document/w:body[1]/w:p[539]">
+    <p xtrc="/w:document/w:body[1]/w:p[539]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >系统安装包括系统硬件安装和系统软件安装。现场安装时，需要遵循如下通用安全事项：</p>
+    <note type="danger">
+      <p>系统内部电路存在高压电源，需谨慎操作，操作不当可能会引起严重伤害或伤亡。</p>
+    </note>
+    <note type="warning">
+      <p>系统损伤</p>
+      <ul id="ul_ljx_yxh_bdb">
+        <li>进行电路板操作时，务必带上防静电防护设施，避免部件和元器件损伤。</li>
+        <li>为了防止对系统造成损害，请不要使用电气火灾不适用的灭火器。</li>
+      </ul>
+    </note>
+    <note type="warning">
+      <p>电击伤害</p>
+      <ul id="ul_ezk_byh_bdb">
+        <li>系统带电情况下，不要拆开外壳。安装系统或触碰内部部件前，需确保配电箱和电源分配机柜处于断电状态。</li>
+      </ul>
+    </note>
+    <ul id="ul_nkd_cyh_bdb">
+      <li xtrc="/w:document/w:body[1]/w:p[542]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >现场安装操作需确保至少两人在场。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[543]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >系统安装过程中的对齐和校准操作时需使用激光。所使用的激光灯，属于 2 类产品，需要在激光器上粘贴标有 " 激光辐射 " " 勿直视激光束 "
+        等标签进行提示和说明，并牢固粘贴在激光器的外壳上。相关人员进行激光器使用和维修等操作时，必须事先经过激光防护
+        的培训并且通过考核。操作过程中，要注意不能直视激光束，同时戴好防护眼镜。</li>
+    </ul>
+    <note type="warning">
+      <ul id="ul_gfl_fyh_bdb">
+        <li>未经联影书面允许，严禁更改系统中任何一部分。</li>
+        <li> 禁止客户擅自复制/ 安装软件。</li>
+        <li>未规定的组件不应接入系统。</li>
+      </ul>
+    </note>
+    <note type="warning">
+      <ul id="ul_b2m_hyh_bdb">
+        <li>激光属于2 类产品（功率不大于1mW，波长650nm），请勿直视激光束。</li>
+        <li>统所有部件的电源线插座都固定在系统指定的安装板上，其它附加的可移式多孔插座或延长线不应接入系统，否则可能存在触电风险。</li>
+      </ul>
+    </note>
+    <ul id="ul_fpc_dyh_bdb">
+      <li xtrc="/w:document/w:body[1]/w:p[548]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >搬运和安装系统部件时，如果部件重量太大，可能造成人身伤害，需要采用专门的拖车 或吊车进行运输。在搬运和转移系统的过程中，操作人员需遵守拖车或吊机的相关操作 标准。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[549]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >安装和移动 30 kg 以上的系统部件（如球管、高压、数据采集系统等）需使用专门工装， 安装时需正确使用工装，做好防护措施。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[550]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >安装系统时需按照操作规范进行操作。安装拆卸螺钉、螺母等小器件时，需要小心谨慎， 避免零件掉入系统内部。</li>
+    </ul>
+  </body>
+</topic>

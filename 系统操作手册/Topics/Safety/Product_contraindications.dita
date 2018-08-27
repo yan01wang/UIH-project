@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dv5_ptl_1db" xml:lang="zh">
+    <title>产品禁忌症</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>禁忌症<index-sort-as>J禁忌症</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>本产品的禁忌症包括但不限于以下内容：<ul id="ul_a1r_stl_1db">
+                <li>
+                    <p>糖尿病患者或其他血糖控制不佳者（试验当天空腹血糖值大于 10 mmol/L），如果受试者无法确认自己的血糖情况，临床机构负责提供血糖检测。</p>
+                </li>
+                <li>
+                    <p>情绪不稳定或者出现痉挛症状等无法正常检查的受试者。</p>
+                </li>
+                <li>
+                    <p>其他临床医生认为不适合接受 PET/CT 扫描的临床症状。</p>
+                </li>
+                <li>
+                    <p>孕妇。</p>
+                </li>
+            </ul></p>
+    </conbody>
+</concept>

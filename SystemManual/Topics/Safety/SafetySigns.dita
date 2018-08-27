@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bhk_tgv_d2b">
+    <title>Safety signs</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Safety signs</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>This manual includes four types of safety prompts: danger, warning, caution and note.</p>
+        <p>Warning: Any negligence toward these prompts may result in serious injury or death.</p>
+        <p>Caution: Any negligence toward these prompts may result in minor or moderate personnel
+            injury or damage to the device or other properties.</p>
+        <p>Notice: Prompts indicating information that may involve personnel safety or property
+            protection.</p>
+        <p>These prompts are described in the following forms.</p>
+        <note type="warning">
+            <p>Safety information - risk factors and results.</p>
+            <ul id="ul_j55_fhv_d2b">
+                <li>
+                    <p>Safety information - preventive measures.</p>
+                </li>
+            </ul>
+        </note>
+        <note type="caution">
+            <p>Safety information - risk factors and results.</p>
+            <ul id="ul_ndm_3hv_d2b">
+                <li>
+                    <p>Safety information - preventive measures.</p>
+                </li>
+            </ul>
+        </note>
+        <note type="note">
+            <p>You must comply with the safety information.</p>
+        </note>
+    </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ir3_bkv_fdb">
+  <title>Caution</title>
+  <shortdesc>所有的Cautions种类清单</shortdesc>
+  <body>
+    <note type="caution" id="note_xps_gkv_fdb">
+      <p>test1：系统机架带有铅屏蔽板，必须通过适当渠道处理含铅产品。</p>
+    </note>
+    <note type="caution" id="note_w21_hkv_fdb">
+      <p>test2：系统X 射线管套配件可能含有铍，它是X 射线管视窗材料组成物质，必须通过适当渠道处理含铍的产品。</p>
+    </note>
+    <note type="caution" id="note_g1g_hkv_fdb">
+      <ul id="ul_mrb_fkv_fdb">
+        <li>
+          <p>test3::已经损坏的X射线管组件不应通过邮政服务传送。不要将X 射线管装置遗弃到工业废品或家庭废物中。</p>
+        </li>
+        <li>
+          <p>系统X 射线管套配件可能含有铍，它是X 射线管视窗材料组成物质，必须通过适当渠道处理含铍的产品。</p>
+        </li>
+        <li>
+          <p>系统机架带有铅屏蔽板，必须通过适当渠道处理含铅产品。</p>
+        </li>
+      </ul>
+    </note>
+  </body>
+</topic>

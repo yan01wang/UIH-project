@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vht_2qw_bdb" xml:lang="zh">
+    <title>PET电子学</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>PET系统<indexterm>电子学系统</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>PET 电子学能够对探测器输出的信号进行实时处理，提取位置、能量、时间等信息，并进行符合判定，将这些信息传输给软件子系统。</p>
+    </conbody>
+</concept>

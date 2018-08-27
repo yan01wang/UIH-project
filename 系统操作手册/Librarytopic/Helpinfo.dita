@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_frj_3qv_fdb">
+  <title>帮助信息</title>
+  <body>
+    <note type="other" othertype="帮助信息" id="note_jbd_kqv_fdb">
+      <p>系统的使用帮助信息。</p>
+    </note>
+    <note type="other" othertype="帮助信息" id="note_krk_kqv_fdb">
+      <ul id="ul_onj_c4j_bdb">
+        <li>系统的使用帮助信息 1。</li>
+        <li>系统的使用帮助信息 2。</li>
+      </ul>
+    </note>
+  </body>
+</topic>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qsc_whx_bdb" xml:lang="zh">
+    <title>机架固定部分</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_yzl_5zk_xdb">
+            <li>
+                <p> CT 机架旋转速度</p>
+                <p>0.30 s（选配）、0.35 s（选配）、0.38 s、0.5 s 、0.6 s、1.0 s、1.5 s、2.0 s，各档的误差不大于 ±
+                    10％。冷却要求</p>
+            </li>
+            <li>
+                <p>冷却要求</p>
+                <p>风冷</p>
+            </li>
+            <li>
+                <p>激光定位灯</p>
+                <p>激光波长：650 nm ± 10 nm。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

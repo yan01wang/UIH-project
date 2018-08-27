@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_l21_smm_cdb" xml:lang="zh">
+    <title>低对比度分辨率</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_lvv_tmm_cdb">
+            <ul id="ul_yr4_5mm_cdb">
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[473]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >在中心剂量不大于35 mGy 的CT运行状态下：CT图像中应能主观分辨出 Catphan 模体中直径 2.0 mm @0.3% 的孔。</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[474]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >在中心剂量不大于27 mGy 的CT运行状态下：CT图像中应能分辨出 Catphan 模体中直径2.0 mm @0.3% 的孔。</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[476]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >在中心剂量不大于16 mGy 的CT运行状态下：CT图像中应能分辨出 Catphan 模体中直径3.0 mm @0.3% 的孔。</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[478]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >在中心剂量不大于 9.9 mGy 的CT 运行状态下：CT 图像中应能分辨出Catphan 模体中直径 4.0 mm @0.3% 的</p>
+                </li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

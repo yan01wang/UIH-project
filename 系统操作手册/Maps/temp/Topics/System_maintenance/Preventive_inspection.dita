@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_maintenance?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_maintenance/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="topic_3" xml:lang="zh" xtrc="topic:1;4:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+  <title class="- topic/title " id="title__TOC_250007" xtrc="title:1;7:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">预防性检查</title>
+  <prolog class="- topic/prolog " xtrc="prolog:1;8:11" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+    <authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata " xtrc="metadata:1;9:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+      <keywords class="- topic/keywords " xtrc="keywords:1;10:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+        <indexterm class="- topic/indexterm " xtrc="indexterm:1;11:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">预防性检查<index-sort-as class="+ topic/index-base indexing-d/index-sort-as " xtrc="index-sort-as:1;11:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">Y预防性检查</index-sort-as></indexterm>
+      </keywords>
+    <othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata>
+  </prolog>
+  <body class="- topic/body " xtrc="body:1;15:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+    <p class="- topic/p " xtrc="p:1;18:8" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">为了保证设备能够正常安全的运行，需要对设备进行预防性检查计划，并对其进行定期的维护保养，包括设备部件的清洁。扫描操作前，责任机构必须按照检查计划完成所有必须的检
+      查任务，确保系统的正常运行。</p>
+    <ul class="- topic/ul " id="ul_ajm_bcp_bdb" xtrc="ul:1;20:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+      <li class="- topic/li " xtrc="li:1;22:203" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+        <p class="- topic/p " xtrc="p:2;23:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">机架检查</p>
+        <ul class="- topic/ul " id="ul_s1h_ccp_bdb" xtrc="ul:2;24:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+          <li class="- topic/li " xtrc="li:2;26:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:3;27:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查机架的运行状态，判断运转声音是否有异常。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:3;30:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:4;31:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查机架外壳按键字迹是否模糊或损坏。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:4;34:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:5;35:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">机架外壳是否完整，控制面板和数据显示屏功能是否正常。</p>
+          </li>
+        </ul>
+      </li>
+      <li class="- topic/li " xtrc="li:5;40:203" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+        <p class="- topic/p " xtrc="p:6;41:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查床及其附件检查</p>
+        <ul class="- topic/ul " id="ul_uml_dcp_bdb" xtrc="ul:3;42:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+          <li class="- topic/li " xtrc="li:6;44:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:7;45:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查附件是否有破损。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:7;48:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:8;49:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">确认检查床外壳是否完整。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:8;52:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:9;53:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">确认检查床运动和升降声音是否有异常，床板把手和释放按钮是否正常。</p>
+          </li>
+        </ul>
+      </li>
+      <li class="- topic/li " xtrc="li:9;58:203" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+        <p class="- topic/p " xtrc="p:10;59:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">控制盒检查</p>
+        <ul class="- topic/ul " id="ul_e2l_2cp_bdb" xtrc="ul:4;60:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+          <li class="- topic/li " xtrc="li:10;62:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:11;63:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查控制盒的声音信号是否正常传输，声音是否清晰，响亮。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:11;66:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:12;67:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查控制盒的控件按钮功能是否正常。</p>
+          </li>
+        </ul>
+      </li>
+      <li class="- topic/li " xtrc="li:12;72:203" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+        <p class="- topic/p " xtrc="p:13;73:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">防护门检查</p>
+        <p class="- topic/p " xtrc="p:14;76:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">客户必须对防护门的安全有效负责，应特别灌注屏蔽门的常规检查和保养。需要确认的内 容有：</p>
+        <ul class="- topic/ul " id="ul_pth_hcp_bdb" xtrc="ul:5;77:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+          <li class="- topic/li " xtrc="li:13;79:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:15;80:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">防护门的锁是否能正常的开或关。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:14;83:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:16;84:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">门机连锁装置功能是否正常。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:15;87:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:17;88:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">放射指示灯功能是否正常。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:16;91:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:18;92:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">防护门的把手是否有损坏。</p>
+          </li>
+        </ul>
+      </li>
+      <li class="- topic/li " xtrc="li:17;97:203" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+        <p class="- topic/p " xtrc="p:19;98:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查警示标签和系统标签</p>
+        <ul class="- topic/ul " id="ul_nvj_rcp_bdb" xtrc="ul:6;99:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+          <li class="- topic/li " xtrc="li:18;101:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:20;102:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查电离辐射、激光警告标识，遗失或损坏时，应立刻补充或更换。</p>
+          </li>
+          <li class="- topic/li " xtrc="li:19;105:207" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+            <p class="- topic/p " xtrc="p:21;106:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">检查系统部件上的标签，发现标签遗失或损坏时，应尽快联系联影客户服务部。</p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <note class="- topic/note " type="note" xtrc="note:1;111:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">
+      <p class="- topic/p " xtrc="p:22;112:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_inspection.dita">需定期检查激光标签，确保激光标签清晰可见和完整无缺。</p>
+    </note>
+  </body>
+</topic>

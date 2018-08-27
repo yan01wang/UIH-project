@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jcy_jlm_cdb" xml:lang="zh">
+    <title>空间分辨率</title>
+    <body>
+        <p><b>高分辨率条件下（1024 × 1024 重建矩阵）XY 平面空间分辨率</b></p>
+        <ul id="ul_g5c_lmm_cdb">
+            <li>
+                <p>在中心剂量不大于 40 mGy 的CT 运行状态下，客观分辨出重建 CT 图像中 20 lp/cm @0%MTF，主观分辨出重建 CT 图像中 12
+                    lp/cm。</p>
+            </li>
+        </ul>
+        <p>标准条件下（512 × 512 重建矩阵）XY 平面空间分辨率</p>
+        <ul id="ul_xvy_nmm_cdb">
+            <li>
+                <p>在中心剂量不大于40 mGy 的CT 运行状态下，客观分辨出重建CT 图像中14 lp/cm @0%MTF，11 lp/cm @10%MTF，5 lp/cm
+                    @50%MTF。</p>
+            </li>
+        </ul>
+        <p>Z 轴方向空间分辨率</p>
+        <ul id="ul_r1k_qmm_cdb">
+            <li>
+                <p>在中心剂量不大于 40 mGy 的 CT 运行状态下，Z 轴方向空间分辨率为 20 lp/cm@0%MTF。</p>
+            </li>
+        </ul>
+    </body>
+</topic>

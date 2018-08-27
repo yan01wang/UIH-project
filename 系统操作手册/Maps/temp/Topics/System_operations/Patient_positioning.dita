@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_operations?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_operations/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="task_isy_wny_zcb" xml:lang="zh" xtrc="task:1;3:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">患者摆位</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+        <prereq class="- topic/section task/prereq " id="prereq_mhy_4py_zcb" xtrc="prereq:1;7:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">扫描前，在完成每日质量检查后，用户应控制检查床和激光定位灯，帮助患者安全准确就位，具体操作请参见第3-23 页 “ 检查床运动控制”。</p>
+            <ul class="- topic/ul " id="ul_tfv_rpy_zcb" xtrc="ul:1;9:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <li class="- topic/li " xtrc="li:1;10:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">在机架控制面板上，按下相应按键可移动检查床、开启 / 关闭激光定位灯，具体请参见第3-14 页 “ 机架控制面板 ”。</li>
+                <li class="- topic/li " xtrc="li:2;11:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">或者通过控制盒上的按键进行检查床的控制，具体请参见第 3-30 页 “ 对讲系统 ”。相关安全注意事项请参见第 2-14 页 “ 扫描前患者安全 ”。</li>
+            </ul>
+            <note class="- topic/note " type="caution" xtrc="note:1;13:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <p class="- topic/p " xtrc="p:2;14:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">金属伪影，造成误诊或者延迟诊断</p>
+                <ul class="- topic/ul " id="ul_qhl_h4y_zcb" xtrc="ul:2;15:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                    <li class="- topic/li " xtrc="li:3;16:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <p class="- topic/p " xtrc="p:3;17:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">大量致密金属会导致CT、PET
+                            图像衰减从而造成图像伪影。患者摆位前，操作人员应首先要求其移除皮带金属搭扣、钥匙、硬币或金属表带等。如果患者带有不可去除的金属物进行扫描时，重建图像会有金属伪影。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:4;20:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">扫描前要求患者移除眼镜，避免造成图像伪影。</li>
+                    <li class="- topic/li " xtrc="li:5;21:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">内置有金属植入物或装有心脏起搏器的患者，应注明其内置物是否在扫描区域内。</li>
+                </ul>
+            </note>
+        </prereq>
+        <steps class="- topic/ol task/steps " id="uuid001" xtrc="steps:1;25:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+            <stepsection class="- topic/li task/stepsection " xtrc="stepsection:1;26:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">常规患者摆位步骤如下：</stepsection>
+            <step class="- topic/li task/step " xtrc="step:1;27:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;28:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">在控制盒或机架控制面板上按下患者释放按钮，等待检查床移至初始位，以便于患者上 下。</cmd>
+            </step>
+            <step class="- topic/li task/step " id="uuid002" xtrc="step:2;30:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;31:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">辅助患者在检查床上就位。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;33:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;34:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">根据扫描协议类型指示患者按照不同的姿势躺下，手臂根据扫描要求就位。如：双手交叉置于胸前、双手交叉置于脑后或双手置于身体两侧。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;36:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;37:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">根据需要，放置头托垫和膝关节垫等帮助患者舒适定位，并使用绑带或泡沫阻隔物加强 患者扫描安全。</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_q4g_dqy_zcb" xtrc="substeps:1;38:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:1;39:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:5;40:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">如果超出临床常规PET/CT 扫描范围（如进行2000 mm 扫描），需要使用延长板，详细操作请参见第 3-29 页 “ 控制台
+                            ”。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;45:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;46:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">患者安全舒适就位后，向其说明即将进行的扫描步骤和注意事项。</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_k21_fqy_zcb" xtrc="substeps:2;47:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:2;48:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:7;49:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">叮嘱患者在扫描期间保持不动并保持平稳呼吸，不要凝视激光灯，扫描中听从医生指 示。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:3;51:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:8;52:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">对于PET/CT检查，还应告知患者在CT扫描完毕后保持不动，等待被移至PET扫描位。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;56:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:9;57:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">检查无衣物、床单或绑带垂下，避免对检查床移动产生阻碍。同时检查其它设备传输线 或患者输液线（若有）无缠绕 / 牵绊。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:7;59:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:10;60:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">将床板解锁，手动控制其移动，确保无碰撞和阻碍，随后使用拉扣 / 开关锁定床板。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:8;62:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;63:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">使用控制盒或机架控制面板上升按钮将检查床移至合适高度（不低于 840 mm）。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:9;65:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:12;66:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">按住控制盒或机架控制面板的移入按钮，等待检查床移至 CT 扫描位。</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;67:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                    <note class="- topic/note " type="caution" xtrc="note:2;68:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <p class="- topic/p " xtrc="p:4;69:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">图像缺失，造成误诊或者延迟诊断</p>
+                        <ul class="- topic/ul " id="ul_drm_nqy_zcb" xtrc="ul:3;70:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                            <li class="- topic/li " xtrc="li:6;71:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">应首先升高检查床，让患者身体最宽部位进入机架环形影像扫描区以防止影像缺失。</li>
+                            <li class="- topic/li " xtrc="li:7;72:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">摆位时，确认患者检查部位正中矢状面与Y 轴中心线重合。</li>
+                            <li class="- topic/li " xtrc="li:8;73:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">摆位时需要保证扫描目标位于扫描视野范围内，并尽量使其处于扫描视野范围中心位置。</li>
+                        </ul>
+                    </note>
+                    <note class="- topic/note " type="warning" xtrc="note:3;76:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <p class="- topic/p " xtrc="p:5;77:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">患者跌落损伤</p>
+                        <ul class="- topic/ul " id="ul_h4s_sqy_zcb" xtrc="ul:4;78:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                            <li class="- topic/li " xtrc="li:9;79:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">定位患者时应对检查床进行检查，确认移动式床板已安全锁定。</li>
+                            <li class="- topic/li " xtrc="li:10;80:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">检查床处于扫描位或正在移动时，按下患者释放等按钮无效，此时请勿进行相关操作。</li>
+                        </ul>
+                    </note>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:10;85:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:13;86:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">告知患者为了准确定位将要打开激光灯，并指示患者闭眼。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:11;88:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:14;89:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">使用激光灯，帮助患者在扫描区域准确定位。详细操作和安全事项请参见第 4-10 页 “ 激光定位 ”。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:12;91:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:15;92:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">移动床板，使患者位于扫描区域中心。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:13;94:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:16;95:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">定位完成后，在机架控制面板上再次按下激光灯按钮关闭激光灯。</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:2;96:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                    <note class="- topic/note " type="note" xtrc="note:4;97:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <ul class="- topic/ul " id="ul_j1y_xqy_zcb" xtrc="ul:5;98:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                            <li class="- topic/li " xtrc="li:11;99:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">请注意体型过胖人员的摆位，扫描前可以通过CPAN移动检查床确认患者不会与扫描孔径发生碰撞。</li>
+                            <li class="- topic/li " xtrc="li:12;100:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">患者在扫描进行中或PET/CT扫描之间发生位移可能会造成伪影。扫描前需要提醒患者在扫描过程中不允许移动。扫描过程中需要持续观察患者的状态，确保扫描正常进行。</li>
+                        </ul>
+                    </note>
+                    <p class="- topic/p " xtrc="p:6;103:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita"><indexterm class="- topic/indexterm " xtrc="indexterm:1;103:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita"><index-sort-as class="+ topic/index-base indexing-d/index-sort-as " xtrc="index-sort-as:1;103:50" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">J激光</index-sort-as>激光<indexterm class="- topic/indexterm " xtrc="indexterm:2;103:82" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">定位</indexterm></indexterm><b class="+ topic/ph hi-d/b " xtrc="b:1;103:111" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">激光定位</b></p>
+                    <p class="- topic/p " xtrc="p:7;104:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">CT扫描时，为保证患者图像准确，需要使用激光定位灯帮助患者定位。激光定位灯分为内定位灯，外定位灯。内定位灯照射的位置为扫描起始位置，外定位灯用来定位扫描床高度、扫描中心线及预设的扫描起始位置。</p>
+                    <p class="- topic/p " xtrc="p:8;105:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">进行患者定位前，按动控制面板上的激光定位灯按钮，点亮激光灯。激光灯亮起后即可按以下步骤进行操作：</p>
+                    <ol class="- topic/ol " id="ol_y1x_srj_bdb" xtrc="ol:1;106:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <li class="- topic/li " xtrc="li:13;107:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">升高床位，使孔径两侧水平方向定位灯与患者扫描部位的正中冠状线重合。</li>
+                        <li class="- topic/li " xtrc="li:14;108:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">通过左右调整患者位置，使得与床长轴方向平行的定位灯与患者待扫描部位的正中矢状线重合。</li>
+                        <li class="- topic/li " xtrc="li:15;109:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">水平移动扫描床，同时使用十字定位线中与扫描床短轴平行的定位线来定位患者被扫描部位的起始位置。</li>
+                        <li class="- topic/li " xtrc="li:16;110:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">按住控制面板上的推进到内部标记按钮，则扫描床移动到定位参考线与内定位灯重合时，扫描床自行停止移动。</li>
+                        <li class="- topic/li " xtrc="li:17;111:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">关闭激光定位灯，完成定位。</li>
+                    </ol>
+                    <note class="- topic/note " type="warning" xtrc="note:5;113:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <p class="- topic/p " xtrc="p:9;114:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">激光辐射，造成视力损伤</p>
+                        <ul class="- topic/ul " id="ul_hk3_mkz_zcb" xtrc="ul:6;115:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                            <li class="- topic/li " xtrc="li:18;116:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">严禁凝视激光束！</li>
+                            <li class="- topic/li " xtrc="li:19;117:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">在定位时告知患者闭眼，不要凝视激光束。</li>
+                        </ul>
+                    </note>
+                    <note class="- topic/note " type="caution" xtrc="note:6;120:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                        <p class="- topic/p " xtrc="p:10;121:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">辐射危害</p>
+                        <ul class="- topic/ul " id="ul_gsq_4kz_zcb" xtrc="ul:7;122:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                            <li class="- topic/li " xtrc="li:20;123:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">
+                                <p class="- topic/p " xtrc="p:11;124:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Patient_positioning.dita">若不按此规定使用、控制、调整激光装置，或不按规定执行各步操作，可能会引起有害的辐射照射。</p>
+                            </li>
+                        </ul>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

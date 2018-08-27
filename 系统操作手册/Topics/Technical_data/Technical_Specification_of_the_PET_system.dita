@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_pn5_4kk_zdb" xml:lang="zh">
+  <title>PET 技术规格</title>
+  <body>
+    <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_j5t_2cl_cdb">
+      <tgroup cols="3">
+        <colspec colname="col1" colwidth="132.3pt"/>
+        <colspec colname="col2" colwidth="132.3pt"/>
+        <colspec colname="col3" colwidth="132.3pt"/>
+        <thead>
+          <row>
+            <entry align="center" valign="middle" colsep="0">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[1]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >参数名称</p>
+            </entry>
+            <entry align="center" valign="middle" colsep="0">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[1]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >参数值 （112 环）</p>
+            </entry>
+            <entry align="center" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[1]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >参数值 （88 环）</p>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[2]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >探测器材料</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[2]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >LYSO</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[2]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >LYSO</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[3]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >闪烁晶体尺寸</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[3]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >2.76 mm × 2.59 mm × 18 mm</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[3]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >2.76 mm × 2.59 mm × 18 mm</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[4]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >每环晶体数</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[4]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >910</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[4]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >910</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[5]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >探测器环数</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[5]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >112</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[5]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >112</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[6]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >探测器环直径</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[6]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >836 mm</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[6]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >836 mm</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[7]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >横向视野</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[7]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >700 mm</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[7]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >700 mm</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[8]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >最大轴向视野</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[8]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >300 mm</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[8]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >236 mm</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[9]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >最大影像平面数</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[9]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >223</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[9]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >175</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[10]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >影像平面厚度</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[10]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >1.34 mm</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[10]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >1.34 mm</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[11]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >符合窗宽度</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[11]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >≤ 4.5 ns</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[11]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >≤ 4.5 ns</p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[12]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >符合时间分辨率</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[12]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >520 ps</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[1]/w:tr[12]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >520 ps</p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

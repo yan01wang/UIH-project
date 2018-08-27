@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_xcz_dtm_1db" xml:lang="zh">
+    <title>系统状态不佳</title>
+    <body>
+        <p>系统状态不佳时，可能会降低采集图像质量，带来噪声干扰。用户需要按照本手册要求，定 期执行质控和图像质量检测。质控失败，或图像质量检测不合格时，需要采取相应的校正措
+            施，保证系统状态适于扫描。</p>
+    </body>
+</topic>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jqv_kk2_1db" xml:lang="zh">
+    <title>扫描协议选择</title>
+    <body>
+        <p>系统提供的出厂协议分为CT、PET 和PET/CT
+            三类，每类包含多个部位，每个部位下包含不同的扫描协议。用户还可以根据需求自行设定和细化扫描协议。在患者登记界面可以同时添加多个扫描协议组，选中所需协议组，双击即可添加。</p>
+    </body>
+</topic>

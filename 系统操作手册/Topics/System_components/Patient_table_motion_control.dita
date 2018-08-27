@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_e2m_vky_bdb" xml:lang="zh">
+    <title> 检查床运动控制</title>
+    <shortdesc/>
+    <conbody>
+        <p>通过机架控制面板或控制盒进行检查床移动，在此过程中控制面板显示区实时显示床位数 值。检查床移动有水平移动、垂直移动和底座移动三种方式。</p>
+        <ul id="ul_l2z_xky_bdb">
+            <li>
+                <p>水平移动：指床板的水平移动，主要在 CT 和 PET 扫描过程中移动患者。</p>
+            </li>
+            <li>
+                <p>垂直移动：指检查床床体的垂直移动，主要用于调整患者的扫描高度。</p>
+            </li>
+            <li>
+                <p>底座移动：指检查床底座的水平移动，主要用于在 CT 扫描和 PET 扫描间切换。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

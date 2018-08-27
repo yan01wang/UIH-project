@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bwb_wc3_bdb" xml:lang="zh">
+    <title>安装 PET/CT 机架</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>A安装</index-sort-as>安装<indexterm>机架</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>摆放 CT 机架。</cmd>
+            </step>
+            <step>
+                <cmd>调平 CT 机架。</cmd>
+            </step>
+            <step>
+                <cmd>固定 CT 机架。</cmd>
+            </step>
+            <step>
+                <cmd>摆放 PET 机架。</cmd>
+            </step>
+            <step>
+                <cmd>拆卸 PET 端 - 喇叭口。</cmd>
+            </step>
+            <step>
+                <cmd>机架对准。</cmd>
+            </step>
+            <step>
+                <cmd>连接固定。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

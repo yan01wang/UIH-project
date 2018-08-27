@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Troubleshooting?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Troubleshooting/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_nvv_5vk_cdb" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">其它部件故障排除</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+        <section class="- topic/section " id="section_a2t_djp_ddb" xtrc="section:1;7:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">此外，系统可能出现其他类型的故障，用户无法进行定位排查和处理。比如检查床的运动机构故障或外壳损毁；质控模体漏液破损，DDP
+                显示故障等，此时请停止使用并联系联影客户服务工程师进行处理。需要由联影客户服务工程师排查的故障包括但不限于如下内容。</p>
+        </section>
+        <section class="- topic/section " id="section_sj3_fjp_ddb" xtrc="section:2;11:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+            <title class="- topic/title " xtrc="title:2;12:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">检查床故障</title>
+            <p class="- topic/p " xtrc="p:2;13:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">检查床可能出现的故障包括但不限于如下类别：</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_exk_hjp_ddb" rowsep="1" xtrc="table:1;14:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;15:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" rowheader="headers" xtrc="colspec:1;16:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:2;17:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" rowheader="headers" xtrc="colspec:3;18:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;19:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                        <row class="- topic/row " xtrc="row:1;20:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:1;21:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:3;22:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">部件名称</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="1" nameend="col3" namest="col2" valign="middle" xtrc="entry:2;24:97" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:4;25:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">故障描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;29:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                        <row class="- topic/row " xtrc="row:2;30:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" morerows="1" xtrc="entry:3;31:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:5;32:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">外壳</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="2" nameend="col3" namest="col2" xtrc="entry:4;34:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:6;35:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">外壳脱落</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;38:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="3" nameend="col3" namest="col2" xtrc="entry:5;39:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:7;40:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">外壳损坏</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;43:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" morerows="3" xtrc="entry:6;44:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:8;45:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">升降机构</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="4" nameend="col3" namest="col2" xtrc="entry:7;47:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:9;48:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">运动时的噪音</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;51:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="5" nameend="col3" namest="col2" xtrc="entry:8;52:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:10;53:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">不能启动</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;56:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="6" nameend="col3" namest="col2" xtrc="entry:9;57:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:11;58:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">急停信号异常</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;61:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="7" nameend="col3" namest="col2" xtrc="entry:10;62:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:12;63:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">电气限位异常</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:8;66:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" morerows="4" xtrc="entry:11;67:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:13;68:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">水平机构</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="8" nameend="col3" namest="col2" xtrc="entry:12;70:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:14;71:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">运动时的噪音</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:9;74:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="9" nameend="col3" namest="col2" xtrc="entry:13;75:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:15;76:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">不能启动</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:10;79:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="10" nameend="col3" namest="col2" xtrc="entry:14;80:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:16;81:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">急停信号异常</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:11;84:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="11" nameend="col3" namest="col2" xtrc="entry:15;85:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:17;86:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">不能切换到手动模式</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:12;89:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:morecols="1" dita-ot:x="2" dita-ot:y="12" nameend="col3" namest="col2" xtrc="entry:16;90:66" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:18;91:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">电气限位异常</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " id="section_y1h_bkp_ddb" xtrc="section:3;98:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+            <title class="- topic/title " xtrc="title:3;99:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">HMI 故障</title>
+            <p class="- topic/p " xtrc="p:19;100:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">HMI 部件可能出现的故障包括但不限于如下类别：</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_gfk_ckp_ddb" rowsep="1" xtrc="table:2;101:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:2;102:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" rowheader="headers" xtrc="colspec:4;103:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:5;104:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:2;105:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                        <row class="- topic/row " xtrc="row:13;106:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:17;107:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:20;108:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">部件名称</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" valign="middle" xtrc="entry:18;110:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:21;111:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">故障描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:2;115:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                        <row class="- topic/row " xtrc="row:14;116:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:19;117:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:22;118:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">控制台桌</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:20;120:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:23;121:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">控制台桌不平稳</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:15;124:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:21;125:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:24;126:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">主机柜</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:22;128:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:25;129:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">主机柜拉出受阻</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:16;132:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:23;133:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:26;134:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">CPAN</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:24;136:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:27;137:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">按键、显示屏失效</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:17;140:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:25;141:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:28;142:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">DDP</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:26;144:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:29;145:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">无显示或显示异常</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:18;148:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:27;149:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:30;150:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">控制盒</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:28;152:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:31;153:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">按键、显示屏失效</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:19;156:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:29;157:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:32;158:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">呼吸导航</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:30;160:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:33;161:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">指示灯不亮</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:20;164:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:31;165:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:34;166:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">对讲系统</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:32;168:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">
+                                <p class="- topic/p " xtrc="p:35;169:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Troubleshooting/Troubleshooting_of_other_components.dita">无声音</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

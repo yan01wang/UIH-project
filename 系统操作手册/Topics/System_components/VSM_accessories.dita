@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_k2c_jsd_cdb" xml:lang="zh">
+    <title>VSM 附件</title>
+    <shortdesc/>
+    <conbody>
+        <p>VSM 包括以下附件：</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_lgh_dhy_b2b">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry align="center" valign="middle" colsep="0">
+                            <p>附件名称</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>附件功能</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>导联线</p>
+                        </entry>
+                        <entry>
+                            <p>用于连接一次性电极获取人体心电信号</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>呼吸气囊</p>
+                        </entry>
+                        <entry>
+                            <p>用于获取人体呼吸造成的器官幅度变化</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>呼吸气囊绑带</p>
+                        </entry>
+                        <entry>
+                            <p>用于固定呼吸气囊</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>可充电电池</p>
+                        </entry>
+                        <entry>
+                            <p>用于 VSM 手持端的供电</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>电池座充</p>
+                        </entry>
+                        <entry>
+                            <p>用于备用电池的充电</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>VSM 与心电和呼吸导联示意图如下图 3-32 所示：</p>
+        <fig id="fig_sfj_1td_cdb">
+            <title>VSM 与心电和呼吸导联</title>
+            <image href="../../images/figure3-60.png" id="image_hmq_gtd_cdb" placement="break"/>
+        </fig>
+        <table frame="none" rowsep="0" colsep="0" id="table_jlb_3td_cdb">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>
+                                <msgblock>1.心电电极</msgblock>
+                            </p>
+                        </entry>
+                        <entry>
+                            <p>
+                                <msgblock>2.呼吸导联线</msgblock>
+                            </p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>
+                                <msgblock>3.心电导联线</msgblock>
+                            </p>
+                        </entry>
+                        <entry>
+                            <p>
+                                <msgblock>4.呼吸气囊</msgblock>
+                            </p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>电极对应接口如下表所示：</p>
+        <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_x21_4td_cdb">
+            <tgroup cols="2">
+                <colspec colname="col1" colwidth="140.15pt"/>
+                <colspec colname="col2" colwidth="256.75pt"/>
+                <thead>
+                    <row>
+                        <entry align="center" colsep="0">
+                            <p>电极颜色</p>
+                        </entry>
+                        <entry align="center">
+                            <p>对应接口</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>白色电极</p>
+                        </entry>
+                        <entry>
+                            <p>右手臂接口</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>红色电极</p>
+                        </entry>
+                        <entry>
+                            <p>左腿接口</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>黑色电极</p>
+                        </entry>
+                        <entry>
+                            <p>左手臂接口</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <note type="warning">
+            <p>VSM 使用过程中，需要借助绑带或胶带将其线缆固定在患者身上，避免扫描过程中线缆缠入检查床板，造成人身伤害或设备损伤。</p>
+        </note>
+        <note type="warning">
+            <p>异常插拔，心电线缆受损</p>
+            <ul id="ul_ssj_qtd_cdb">
+                <li>
+                    <p>插拔不正确会损坏心电导联线缆连接器，请勿擅自插拔心电导联线缆 。</p>
+                </li>
+            </ul>
+        </note>
+        <note type="note">
+            <ul id="ul_ypc_std_cdb">
+                <li>
+                    <p>电极片的质量对于 VSM 信号影响很大，请使用优质电极片。</p>
+                </li>
+                <li>
+                    <p>在连接电极片之前需要使用肥皂水或润滑剂对皮肤做适当处理以确保连接质量。</p>
+                </li>
+                <li>
+                    <p>正式扫查之前需要训练病人屏气呼吸，观察信号，若有必要，调整电极片以提高信号 质量。</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

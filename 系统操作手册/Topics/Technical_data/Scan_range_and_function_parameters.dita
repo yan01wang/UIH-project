@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ltj_lnm_cdb" xml:lang="zh">
+    <title>扫描范围及功能参数</title>
+    <body>
+        <p>PET/CT 扫描范围</p>
+        <p xtrc="/w:document/w:body[1]/w:p[495]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+            >最大扫描视野：700 mm ± 10 mm</p>
+        <p xtrc="/w:document/w:body[1]/w:p[498]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+            >最大扫描长度：2000 mm ± 10 mm</p>
+    </body>
+</topic>

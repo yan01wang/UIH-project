@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tnm_qzx_bdb" xml:lang="zh">
+    <title>激光定位灯</title>
+    <shortdesc>PET/CT 系统机架装配有激光灯，位于机架外壳或机架内部，如图3-4所示。</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>J激光</index-sort-as>激光<indexterm>定位灯</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>激光定位灯能发出激光，用于患者的准确定位，使患者扫描部位处于扫描视野的中心区域。本设备激光灯属于2 类激光设备，使用时需要按激光安全规范操作，避免直视激光灯。</p>
+        </context>
+        <steps>
+            <stepsection>激光定位灯使用步骤：</stepsection>
+            <step>
+                <cmd>移动检查床，使患者待检查部位靠近激光定位灯。</cmd>
+            </step>
+            <step>
+                <cmd>开启激光定位灯之前，告知患者闭上眼睛，防止激光束对眼睛造成伤害。</cmd>
+            </step>
+            <step>
+                <cmd>在控制面板上，按下激光定位灯按钮，打开激光灯。</cmd>
+            </step>
+            <step>
+                <cmd>激光定位灯下方出现红色 “ 十 ” 字。</cmd>
+            </step>
+            <step>
+                <cmd>定位完成后，再次按下激光定位灯按钮，关闭激光灯。</cmd>
+                <info>
+                    <p>机架上也有关于激光安全的警告标签，具体请参见安全符号与标记。</p>
+                    <note type="note">
+                        <p>当进行头部检查并打开激光定位灯时，建议给患者佩戴专用保护眼镜。</p>
+                    </note>
+                    <note type="note">
+                        <p>激光定位灯打开后，机架上的激光定位灯将点亮。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

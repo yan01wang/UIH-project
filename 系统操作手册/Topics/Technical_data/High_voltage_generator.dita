@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_xlz_rfl_cdb" xml:lang="zh">
+    <title>X 射线高压发生器</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_oml_35l_cdb">
+            <ul id="ul_zqv_35l_cdb">
+                <li>
+                    <p>功率：最大 100 kW</p>
+                </li>
+                <li>
+                    <p>高压范围：60 kV ~ 140 kV（单极）</p>
+                </li>
+                <li>
+                    <p>电流范围：6 mA ~833 mA，管电流误差不大于 ± 20％。</p>
+                </li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

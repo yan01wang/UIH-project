@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_etp_ctx_bdb" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">扫描状态区</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">用户可在此查看扫描进度。</shortdesc><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+        <ul class="- topic/ul " id="ul_lhc_lbl_xdb" xtrc="ul:1;7:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+            <li class="- topic/li " xtrc="li:1;8:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">若当前没有扫描进行，该区域置灰。<fig class="- topic/fig " id="fig_a5m_3tx_bdb" xtrc="fig:1;8:59" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                    <title class="- topic/title " xtrc="title:2;9:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">未扫描状态</title>
+                    <image class="- topic/image " href="../../images/figure3-19.png" id="image_zs1_ltx_bdb" placement="break" xtrc="image:1;11:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita"/>
+                </fig></li>
+            <li class="- topic/li " xtrc="li:2;13:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">若当前处于 CT 扫描状态，则该区域如下图所示，其中：<ul class="- topic/ul " id="ul_wn2_mtx_bdb" xtrc="ul:2;13:68" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                    <li class="- topic/li " xtrc="li:3;14:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">扫描计时：扫描倒计时，记录 CT 扫描剩余时长。</li>
+                    <li class="- topic/li " xtrc="li:4;15:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">扫描延迟：为 CT 延迟扫描倒计时，达到预设延时后即可触发扫描。</li>
+                </ul><fig class="- topic/fig " id="fig_zfb_ptx_bdb" xtrc="fig:2;16:48" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                    <title class="- topic/title " xtrc="title:3;17:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">CT 扫描状态</title>
+                    <image class="- topic/image " href="../../images/figure3-20.png" id="image_vxw_ptx_bdb" placement="break" xtrc="image:2;19:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita"/>
+                </fig></li>
+            <li class="- topic/li " xtrc="li:5;21:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                <p class="- topic/p " xtrc="p:1;22:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">若当前处于PET 扫描状态，则该区域如下图所示，其中：</p>
+                <ul class="- topic/ul " id="ul_msz_qtx_bdb" xtrc="ul:3;23:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                    <li class="- topic/li " xtrc="li:6;24:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">扫描床位：指示已完成扫描床位（填充）和当前扫描床位（高亮）。</li>
+                    <li class="- topic/li " xtrc="li:7;25:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">剩余时间：指示当前 PET 扫描剩余时间。</li>
+                </ul>
+                <fig class="- topic/fig " id="fig_e3n_4bl_xdb" xtrc="fig:3;27:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                    <title class="- topic/title " xtrc="title:4;28:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">CT 扫描状态</title>
+                    <image class="- topic/image " href="../../images/figure3-20.png" id="image_f3n_4bl_xdb" placement="break" xtrc="image:3;30:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita"/>
+                </fig>
+            </li>
+            <li class="- topic/li " xtrc="li:8;33:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                <p class="- topic/p " xtrc="p:2;34:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">若当前处于PET 扫描状态，则该区域如下图所示，其中：</p>
+                <ul class="- topic/ul " id="ul_opz_cqw_d2b" xtrc="ul:4;35:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                    <li class="- topic/li " xtrc="li:9;36:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                        <p class="- topic/p " xtrc="p:3;37:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">扫描床位：指示已完成扫描床位（填充）和当前扫描床位（高亮）。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:10;39:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                        <p class="- topic/p " xtrc="p:4;40:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">剩余时间：指示当前 PET 扫描剩余时间。</p>
+                    </li>
+                </ul>
+                <fig class="- topic/fig " id="fig_mhq_stx_bdb" xtrc="fig:4;43:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+                    <title class="- topic/title " xtrc="title:5;44:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita"> PET 扫描状态</title>
+                    <image class="- topic/image " href="../../images/figure3-21.png" id="image_ijt_ttx_bdb" placement="break" xtrc="image:4;46:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita"/>
+                </fig>
+            </li>
+        </ul>
+        <note class="- topic/note " spectitle="overflow" type="note" xtrc="note:1;50:48" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">
+            <p class="- topic/p " xtrc="p:5;51:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Scan_status_area.dita">DDP 显示异常或出现异常时，请立即停止使用并联系联影客户服务部，以便及时维修或更换。</p>
+        </note>
+    </conbody>
+</concept>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kpm_zcm_1db" xml:lang="zh">
+    <title>第三方设备和材料</title>
+    <shortdesc>使用第三方部件或材料会降低产品的性能和安全度，请使用已获得联影认可的附件、可更换的部件和材料。</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>D第三方设备</index-sort-as>第三方设备</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>若有需要使用第三方设备，请务必向联影咨询下述问题。</p>
+        <ul id="ul_xfm_rdm_1db">
+            <li>
+                <p>设备的安全性和性能。</p>
+            </li>
+            <li>
+                <p>对人身和本系统的潜在安全风险。</p>
+            </li>
+        </ul>
+        <note type="warning">
+            <ul id="ul_cmr_55q_bdb">
+                <li>
+                    <p>对系统进行的所有装配操作、扩充、重新调整、修改或修理工作都应由制造商授权的 维修服务人员进行。</p>
+                </li>
+                <li>
+                    <p>禁止用户擅自更换系统部件，如需更换，请联系联影客户服务部。</p>
+                </li>
+            </ul>
+        </note>
+        <note type="note">
+            <p>信号的输入部分和输出部分只能与系统规定的设备相连接。如：不得随意将第三方的显 示器、计算机与设备相连接使用。</p>
+        </note>
+    </conbody>
+</concept>

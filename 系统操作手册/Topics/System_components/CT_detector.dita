@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zd3_qjx_bdb" xml:lang="zh">
+    <title> CT探测器</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>CT探测器</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <ul id="ul_ynw_x3l_xdb">
+            <li>
+                <p>功能概述</p>
+                <p>探测器用于接收穿过人体之后的 X 射线信号，并将接收到的 X 射线最终转换为数字信号数据。</p>
+            </li>
+            <li>
+                <p>冷却方式</p>
+                <p>风冷。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

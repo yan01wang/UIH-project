@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nb3_pnx_bdb" xml:lang="zh">
+    <title>患者信息区</title>
+    <shortdesc/>
+    <conbody>
+        <p>患者信息区显示患者姓名、性别、年龄和序列号信息，如下图所示。</p>
+        <image href="../../images/figure3-6.png" id="image_jsd_tnx_bdb"/>
+    </conbody>
+</concept>

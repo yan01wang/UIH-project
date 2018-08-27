@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kbv_4rw_bdb" xml:lang="zh">
+    <title> CT系统</title>
+    <shortdesc/>
+    <conbody>
+        <p>CT 系统位于PET/CT 机架前方，包括X 射线球管组件、高压发生器、准直系统和探测器等。X
+            射线通过球管发出，扫描需要检测的部位，由探测器接收带有患者信息的扫描数据，探测器接收到的扫描数据再传给计算机进行图像重建。</p>
+        <fig id="fig_sy5_fhx_bdb">
+            <title>CT 端机架示意图</title>
+            <image href="../../images/figure3-4.png" id="image_s4s_ghx_bdb" placement="break"/>
+        </fig>
+    </conbody>
+</concept>

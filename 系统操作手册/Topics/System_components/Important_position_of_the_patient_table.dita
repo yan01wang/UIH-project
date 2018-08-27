@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_g34_tmy_bdb" xml:lang="zh">
+    <title> 检查床重要位置</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>J检查床</index-sort-as>检查床<indexterm>移动方式</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section id="section_rhg_xmy_bdb">
+            <p>操作检查床时，用户必须熟悉检查床的几个重要位置。</p>
+            <table frame="all" rowsep="1" colsep="1" id="table_gkp_zmy_bdb">
+                <title>检查床位置按钮</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p>序号</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p>按钮图标</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>名称与描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="left" valign="middle"> 1</entry>
+                            <entry align="left" valign="middle"><image
+                                    href="../../Images/figure3-33.png" id="image_ipt_2ny_bdb"
+                                /></entry>
+                            <entry align="left" valign="middle">
+                                <p><b>初始位</b></p>
+                                <p>按下此键，检查床将移至初始位以释放患者。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left" valign="middle"> 2</entry>
+                            <entry align="left" valign="middle"><image
+                                    href="../../Images/figure3-34.jpeg" id="image_ht3_fny_bdb"
+                                /></entry>
+                            <entry align="left" valign="middle">
+                                <p><b>CT 扫描位</b></p>
+                                <p>按下此键，检查床底座移至 CT 位，再按无效。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="left" valign="middle"> 3</entry>
+                            <entry align="left" valign="middle"><image
+                                    href="../../Images/figure3-35.jpeg" id="image_yjx_fny_bdb"
+                                /></entry>
+                            <entry align="left" valign="middle">
+                                <p><b>PET 扫描位</b></p>
+                                <p>按下此键，检查床底座移至 PET 位，再按无效。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note type="caution">
+                <p>移动检查床时应注意安全，避免与机架干涉，同时注意避免患者损伤。</p>
+            </note>
+        </section>
+        <section>
+            <ul id="ul_svb_lny_bdb">
+                <li>
+                    <p>扫描开始前，应将检查床置于初始位置，以待患者就位。</p>
+                </li>
+                <li>
+                    <p>定位像和CT扫描开始前，按住控制盒上移动按钮，待检查床移至CT扫描初始位时，松开 按钮，完成定位像和 CT 扫描。</p>
+                </li>
+                <li>
+                    <p>PET 扫描开始前，按住控制盒上移动按钮，待检查床移至 PET 扫描初始位置时，松开按钮，完成 PET 扫描。</p>
+                </li>
+            </ul>
+            <note type="other" othertype="帮助信息">
+                <p>扫描开始前，选定协议和扫描体位后，检查床的位置 （含水平，垂直和底座）即可自动设定，用户可以根据需要进行微调。扫描过程中检查床的移动和定位将由
+                    系统控制，用户只需根据提示，进行相应操作即可。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_txr_vjx_bdb" xml:lang="zh">
+    <title> 准直系统</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>准直系统<index-sort-as>Z准直系统</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <ul id="ul_tfs_kjl_xdb">
+            <li>
+                <p>功能概述</p>
+                <p>准直系统用于 X 射线束定型，跟踪焦点，减少患者辐射剂量，并减少图像伪影。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

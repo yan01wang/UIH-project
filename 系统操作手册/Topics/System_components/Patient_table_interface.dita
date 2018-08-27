@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lfz_jky_bdb" xml:lang="zh">
+    <title> 检查床接口</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_i2g_mky_bdb">
+            <li>
+                <p>可以通过机架外壳上的控制面板按键、操作间的控制盒、主机上的软件控制检查床移 动。</p>
+            </li>
+            <li>
+                <p>检查床与机架通过 CANopen 控制总线连接。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

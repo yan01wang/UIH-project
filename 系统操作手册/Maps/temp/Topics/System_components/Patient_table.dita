@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="topic_ntz_nhy_bdb" xml:lang="zh" xtrc="topic:1;3:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">检查床</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+        <authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata " xtrc="metadata:1;6:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;7:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;8:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita"><index-sort-as class="+ topic/index-base indexing-d/index-sort-as " xtrc="index-sort-as:1;8:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">J检查床</index-sort-as>检查床</indexterm>
+            </keywords>
+        <othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata>
+    </prolog>
+    <body class="- topic/body " xtrc="body:1;12:11" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+        <p class="- topic/p " xtrc="p:1;13:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">PET/CT
+            系统检查床包括底部水平运动部件、垂直升降运动部件、床板水平运动部件、床板、检查床外壳和附件。可以通过控制盒和机架外壳上的控制面板控制检查床的移动，同时检查床的垂直和水平位置会显示在主机界面和机架外壳的显示屏上。</p>
+        <p class="- topic/p " xtrc="p:2;15:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">检查床最大负载为 250 kg，进行患者检查时要严格遵守体重限制。</p>
+        <fig class="- topic/fig " id="fig_iry_rhy_bdb" xtrc="fig:1;16:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+            <title class="- topic/title " xtrc="title:2;17:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">检查床床体</title>
+            <image class="- topic/image " href="../../images/figure3-43.png" id="image_vxv_5hy_bdb" placement="break" xtrc="image:1;18:97" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita"/>
+            <simpletable class="- topic/simpletable " id="simpletable_gqn_x1d_n2b" relcolwidth="1.0* 1.0*" xtrc="simpletable:1;19:79" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <strow class="- topic/strow " xtrc="strow:1;20:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:1;21:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">头托</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:2;22:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">底座</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:2;24:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:3;25:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">床体</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:4;26:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">释放按钮</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:3;28:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:5;29:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">垂直升降部分</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:6;30:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">床把手</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:4;32:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:7;33:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">水平移动部分</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:8;34:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">床板</stentry>
+                </strow>
+            </simpletable>
+        </fig>
+        <ul class="- topic/ul " id="ul_s4n_b3y_bdb" xtrc="ul:1;38:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+            <li class="- topic/li " xtrc="li:1;39:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <p class="- topic/p " xtrc="p:3;40:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">检查床主体由碳纤维可移动式床板构成。床板上为检查床床垫，用于患者扫描，主要功 能为防止漏液和生物污染，以及提升患者舒适度，详细操作请参见“检查床床板”</p>
+            </li>
+            <li class="- topic/li " xtrc="li:2;42:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <p class="- topic/p " xtrc="p:4;43:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">检查床的床板与底座之间由铰链支撑装置连接。该装置可以通过机架控制面板或软件操 控，详细操作请参见“垂直升降运动部件”。</p>
+            </li>
+            <li class="- topic/li " xtrc="li:3;45:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <p class="- topic/p " xtrc="p:5;46:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">PET/CT 检查床的床板下方设有两条运输轨道以供检查床移动，即滑轨。检查床在滑轨上方通过滑块前后移动。PET 与 CT
+                    检查床通过连接底板相接，详细操作请参见“床板水平运动部件”。</p>
+            </li>
+            <li class="- topic/li " xtrc="li:4;49:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <p class="- topic/p " xtrc="p:6;50:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">检查床床板下方由底座支撑整体，并允许床体沿着轨道滑动，详细操作请参见“床板水平运动部件”。</p>
+            </li>
+            <li class="- topic/li " xtrc="li:5;52:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <p class="- topic/p " xtrc="p:7;53:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">检查床设有头托插槽，头托插入后为悬空设计，可承重 30 kg。</p>
+            </li>
+            <li class="- topic/li " xtrc="li:6;55:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <p class="- topic/p " xtrc="p:8;56:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">检查床常见运动和控制方式请参见“检查床运动控制”。</p>
+            </li>
+            <li class="- topic/li " xtrc="li:7;58:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">
+                <p class="- topic/p " xtrc="p:9;59:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Patient_table.dita">同时，检查床带有辅助患者定位和提高扫描舒适度的附件，详细描述请参见“检查床附件及使用”。</p>
+            </li>
+        </ul>
+    </body>
+</topic>

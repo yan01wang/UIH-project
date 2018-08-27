@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_rxl_dly_zcb" xml:lang="zh">
+    <title>日常质控</title>
+    <body>
+        <p>为确保系统安全有效运行，用户应在患者扫描前对系统进行质量检查，一次完整的日常质控包括以下项目。</p>
+        <ul id="ul_o2z_2ly_zcb">
+            <li>CT 质控：CT 日常校正。</li>
+            <li>PET 质控：无源 QC。</li>
+            <li>其它预防性检查（如有）。</li>
+        </ul>
+    </body>
+</topic>

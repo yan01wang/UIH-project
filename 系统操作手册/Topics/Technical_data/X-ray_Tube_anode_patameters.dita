@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ocn_cbm_cdb" xml:lang="zh">
+    <title>X 射线球管内管</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>X射线<indexterm>球管内管</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody>
+        <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_c5x_fbm_cdb">
+            <tgroup cols="2">
+                <colspec colname="col1" colwidth="1.0*"/>
+                <colspec colname="col2" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry align="center" colsep="0">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[1]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >指标</p>
+                        </entry>
+                        <entry align="center">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[1]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >参数</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[2]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >靶材料</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[2]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >钨 - 铼靶面，钼和石墨靶基</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[3]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >标称阳极输入功率</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[3]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >80 kW （100 kW 仅用于心脏应用，利用 100 kW 进行曝光时需按以下周期执行：100 kW 最长曝光时间 0.5 s，需
+                                0.4 s 最短冷却时间）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[4]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >阳极最大热容量</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[4]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >7.5 MHU</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[5]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >产生最大输出电功率的管电压和管电流组合</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[5]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >大焦点：100 kW@120 kV，833 mA ；小焦点：44.8 kW@140 kV， 320 mA</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[6]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >标称电功率</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[6]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >80 kW@120 kV， 667 mA</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[7]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >双焦点</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[7]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >小焦点：0.7 mm × 0.7 mm 大焦点：1.0 mm × 1.0 mm</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[8]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >焦点位置与参考轴的距离及公差</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[8]/w:tc[2]/w:p[2]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >76 mm ± 2 mm</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="justify">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[9]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >X 射线球管组件的靶角和焦点特性涉及的参考轴</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[9]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >靶面角度为 -7 °，公差范围为 -0.25 ° ~ +0.25 °，参考轴垂直于 X 射线球管纵轴。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[10]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >旋转阳极最高转速</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[14]/w:tr[10]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >7800 RPM</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <section id="section_ahr_kbm_cdb">
+            <title>灯丝参数</title>
+            <p>灯丝参数包括灯丝电压、灯丝工作电流、灯丝电源频率、工作时间和灯丝电子发射特征，具 体参数如下表所示：</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_qxj_mbm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >参数名称</p>
+                            </entry>
+                            <entry align="center">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >参数描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >灯丝电压</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >小焦点最大电压：15 V</p>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[2]/w:tc[2]/w:p[2]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >大焦点最大电压：18 V</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >灯丝工作电流</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >2.5 A ~ 5 A</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >电源频率</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >50 Hz~40 kHz</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >工作时间</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >在管电压为 120 kV 下，管电流在小于或等于 50 ms 上升到 750 mA。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >发射特征</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[15]/w:tr[6]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >当选择大灯丝时，为大焦点。当选择小灯丝时，为小焦点。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_brs_mbm_cdb">
+            <title>最小固有过滤</title>
+            <p>1401.0 mm Al 当量。</p>
+        </section>
+        <section id="section_ftn_4bm_cdb">
+            <title>驱动旋转阳极的电机数据</title>
+            <p>∙ 低速档</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_m4p_pbm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[16]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >参数名称</p>
+                            </entry>
+                            <entry align="center">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[16]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >参数描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[16]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >加速</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[16]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >10 s， 0 Hz ~ 60 Hz-5 Hz， 0 RPM~3600 RPM</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[16]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >升压期间的电压范围</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[16]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >360 V ~ 440 V</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[16]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >稳定状态</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[16]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >80 V ± 5 V， 60 Hz</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p>高速档</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_in1_mcm_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >参数名称</p>
+                            </entry>
+                            <entry align="center">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >参数描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >加速</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >10 s， 0 Hz ~ 130 Hz-5 Hz， 0 RPM~7800 RPM</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >升压期间的电压范围</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >360 V ~ 440 V</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >稳定状态</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >170 V ± 5 V， 130 Hz</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >制动时间</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[17]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >10 s， 130 Hz-5 Hz ~ 60 Hz</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_r3m_qbm_cdb">
+            <title>阳极加热和冷却曲线</title>
+            <p>阳极加热和冷却曲线如所示：</p>
+            <fig id="fig_bnn_qcm_cdb">
+                <title>阳极加热和冷却曲线</title>
+                <image href="../../Images/figure8-4.png" id="image_hv2_scm_cdb" width="6in"
+                    placement="break"/>
+                <p> 阳极加热和冷却曲线 中的横轴和纵轴含义如下：</p>
+                <ul id="ul_p3l_wcm_cdb">
+                    <li>
+                        <p xtrc="/w:document/w:body[1]/w:p[288]"
+                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                            >横轴表示阳极加热或冷却的时间（单位：Min）</p>
+                    </li>
+                    <li>
+                        <p xtrc="/w:document/w:body[1]/w:p[289]"
+                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                            >纵轴有两个意义，纵轴外边的数字表示阳极内当前的热量（单位：kJ），纵轴里边的数
+                            字表示阳极内当前热量占阳极最大热量的百分比（单位：%）。</p>
+                    </li>
+                </ul>
+            </fig>
+        </section>
+        <section id="section_lsz_xcm_cdb">
+            <title>小焦点电子发射曲线</title>
+            <p>小焦点电子发射曲线如所示：</p>
+            <fig id="fig_ydb_1dm_cdb">
+                <title>小焦点电子发射曲线</title>
+                <image href="../../Images/figure8-5.png" id="image_xyz_2dm_cdb" placement="break"/>
+            </fig>
+            <p>小焦点电子发射曲线 横轴和纵轴含义如下：</p>
+            <ul id="ul_ybr_fdm_cdb">
+                <li>横轴表示灯丝电流（单位：A）。</li>
+                <li>纵轴表示管电流（单位：mA）。</li>
+            </ul>
+        </section>
+        <section id="section_bvx_gdm_cdb">
+            <title>大焦点电子发射曲线</title>
+            <p>大焦点电子发射曲线如所示：</p>
+            <fig id="fig_zsn_kdm_cdb">
+                <title>大焦点电子发射曲线</title>
+                <image href="../../Images/figure8-6.png" id="image_ykg_ndm_cdb" placement="break"/>
+            </fig>
+            <p>图 8-6 大焦点电子发射曲线 横轴和纵轴含义如下：</p>
+            <ul id="ul_p3l_pdm_cdb">
+                <li>横轴表示灯丝电流（单位：A）。</li>
+                <li>纵轴表示管电流（单位：mA）。</li>
+            </ul>
+        </section>
+        <section id="section_es1_ydm_cdb">
+            <note type="warning">
+                <p>为避免电击或挤压受伤， 请勿擅自打开外壳</p>
+                <ul id="ul_izy_zdm_cdb">
+                    <li>CT机架内部包含危险的高压部件和运动部件。</li>
+                    <li>只有经过联影授权，且培训合格的维修人员才能打开扫描架或其他设备的护盖。</li>
+                    <li>此处给出CT机架内部组件的相关信息旨在帮助用户更好理解系统工作原理。</li>
+                </ul>
+            </note>
+        </section>
+    </refbody>
+</reference>

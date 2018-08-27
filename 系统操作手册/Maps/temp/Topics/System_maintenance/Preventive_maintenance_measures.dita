@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_maintenance?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_maintenance/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_odj_xzq_bdb" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">预防性维护保养措施</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">预防性维护内容主要包括安全相关测试、系统部件保养维护、软件定期维护、图像质量定期 检查等。</p>
+        <fig class="- topic/fig " id="fig_fz2_jhp_d2b" xtrc="fig:1;8:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+            <note class="- topic/note " type="note" xtrc="note:1;9:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+                <p class="- topic/p " xtrc="p:2;10:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">需定期检查或测试接地设备。</p>
+            </note>
+        </fig>
+        <ul class="- topic/ul " id="ul_vg5_qfm_xdb" xtrc="ul:1;13:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+            <li class="- topic/li " xtrc="li:1;14:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+                <p class="- topic/p " xtrc="p:3;15:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">安全相关测试</p>
+                <p class="- topic/p " xtrc="p:4;16:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">安全相关测试必须按照安全相关测试条例中的要求进行，并按照安全相关测试报告进行记录。</p>
+                <note class="- topic/note " type="note" xtrc="note:2;17:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+                    <p class="- topic/p " xtrc="p:5;18:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">需定期检查或测试接地设备。</p>
+                </note>
+                <note class="- topic/note " type="note" xtrc="note:3;20:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+                    <p class="- topic/p " xtrc="p:6;21:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">需定期检查接线端子和接插件。</p>
+                </note>
+            </li>
+            <li class="- topic/li " xtrc="li:2;24:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+                <p class="- topic/p " xtrc="p:7;25:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">系统部件保养维护</p>
+                <p class="- topic/p " xtrc="p:8;26:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">系统部件保养维护包括系统部件定期功能检查和定期维护。</p>
+                <p class="- topic/p " xtrc="p:9;27:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">定期功能检查即检修或更换破损老化零件。同时还需要对系统组件及周边组件进行检查，检查这些组件是否有磨损或缺陷。同时检查系统的使用环境和无障碍区是否符合规范。实际操作时根据合同约定和维护周期执行相应项目。</p>
+            </li>
+            <li class="- topic/li " xtrc="li:3;29:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+                <p class="- topic/p " xtrc="p:10;30:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">软件定期维护</p>
+                <p class="- topic/p " xtrc="p:11;31:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">对软件版本及特定站点数据进行检查和维护，以及对软件版本的升级。</p>
+            </li>
+            <li class="- topic/li " xtrc="li:4;33:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">
+                <p class="- topic/p " xtrc="p:12;34:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">图像质量定期检查</p>
+                <p class="- topic/p " xtrc="p:13;35:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">预防性的设备保养可降低故障的发生频率，保证系统性能稳定。系统使用过程中，随时间推移，受到环境等多重因素影响，性能会发生一定的漂移。因此，为保证系统性能始终如一，扫描图像质量优异，需定期对设备进行性能测试和校正，包括PET
+                    子系统的二维解码图等，以确定设备的工作状态良好，保证图像质量。如发现有参数漂移，可将其校准至标准要求的范围之内。</p>
+                <p class="- topic/p " xtrc="p:14;37:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/Preventive_maintenance_measures.dita">联影会对系统进行定期维护和检测，未经联影书面允许，客户不得擅自进行相关操作，由于客户不当操作造成的损失，联影不承担任何责任。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

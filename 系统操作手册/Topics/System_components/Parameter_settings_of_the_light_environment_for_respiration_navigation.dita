@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lkr_x2y_bdb" xml:lang="zh">
+    <title>呼吸导航光环境参数设置</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>在门控扫描前和扫描过程中，用户可采用光环境的呼吸导航功能对患者进行呼吸训练，引导其平稳呼吸，保证临床数据的采集质量。用户可在检查界面进行光环境呼吸导航参数设置，
+                如下图所示。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在患者检查界面中，选择 PET 扫描协议，点击查看全部参数面板。</cmd>
+            </step>
+            <step>
+                <cmd>在弹出窗口的右下角更改光环境设置。</cmd>
+                <info>
+                    <fig id="fig_ah4_hfy_bdb">
+                        <title>光环境参数配置</title>
+                        <image href="../../images/figure3-42.jpeg" id="image_mcr_jfy_bdb"
+                            placement="break"/>
+                    </fig>
+                    <p>用户可以对以下参数进行设置：</p>
+                    <p><b>呼吸频率</b></p>
+                    <p>用户在此可设置需要患者每分钟呼吸的次数。</p>
+                    <p><b>亮度调节</b></p>
+                    <p>用户在此对光环境亮度进行调整，范围为 0 ~ 100 %。</p>
+                    <p>注：只有在勾选了光环境（呼吸）复选框，启用呼吸导航功能后，用户才可以对相应参数进行设置。</p>
+                    <note type="note">
+                        <p>头部扫描时，默认不开启光环境，以免影响脑部功能成像。若需在头部扫描时使用光环 境，请自定义头部扫描协议。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

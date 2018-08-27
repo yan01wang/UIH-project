@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qdr_gc3_bdb" xml:lang="zh">
+    <title>系统进场</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>扫描间部件拆箱，进场。</cmd>
+            </step>
+            <step>
+                <cmd>操作间部件拆箱，进场。</cmd>
+            </step>
+            <step>
+                <cmd>相关安全信息请参见第 7-22 页 “ 系统进场安全”。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

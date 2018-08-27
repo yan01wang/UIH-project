@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_maintenance?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_maintenance/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="task_g4w_mdp_bdb" xml:lang="zh" xtrc="task:1;3:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">系统清洁</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">用户可以清洁的系统部件包括：机架外壳、检查床外壳、系统附件、控制台。清洁工作每周至少需要进行一次，检查床建议每天一次。若有特殊情况（如漏液，血渍等），需随时清洁。</p>
+            <note class="- topic/note " type="warning" xtrc="note:1;9:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                <p class="- topic/p " xtrc="p:2;10:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">系统进行清洁操作之前请切断系统电源，以防触电。</p>
+            </note>
+            <note class="- topic/note " type="caution" xtrc="note:2;12:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                <p class="- topic/p " xtrc="p:3;13:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">清洁消毒时，操作人员必须佩戴合适的保护手套。</p>
+            </note>
+            <note class="- topic/note " type="note" xtrc="note:3;15:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                <p class="- topic/p " xtrc="p:4;16:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">切勿使用腐蚀性、溶解性或气体清洁剂。如果不能够确定清洁剂的性质，请勿使用。</p>
+            </note>
+            <note class="- topic/note " type="note" xtrc="note:4;18:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                <p class="- topic/p " xtrc="p:5;19:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">系统提交前，与患者或使用者接触的系统部件必须再次清洁，保证清洁干净。</p>
+            </note>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;22:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+            <step class="- topic/li task/step " xtrc="step:1;23:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;24:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">机架外壳清洁</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;25:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                    <p class="- topic/p " xtrc="p:6;26:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">清洁机架（包括控制面板、数据显示面板）、检查床、PSC 外壳、控制盒外壳以及VSM 外壳的一般步骤：</p>
+                </info>
+                <substeps class="- topic/ol task/substeps " id="substeps_upt_42p_bdb" xtrc="substeps:1;28:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:1;29:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:2;30:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">使用不起毛的软棉布清洁机架表面的灰尘。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:2;32:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:3;33:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">使用软棉布蘸取清水来擦拭机架外壳的Logo、亚克力表面、机架控制面板以及机架数据显示屏。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:3;35:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:4;36:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">使用蘸有中性泡沫清洗液或酒精稀释液（酒精体积与清水体积同等体积）的微湿无绒软布或超细纤维布小心擦拭外壳，然后用干净的布擦干。</cmd>
+                    </substep>
+                </substeps>
+                <info class="- topic/itemgroup task/info " xtrc="info:2;39:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                    <note class="- topic/note " type="note" xtrc="note:5;40:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <p class="- topic/p " xtrc="p:7;41:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">切勿使用具有腐蚀作用的清洁用品。如果不能确定清洁剂的性质，请勿使用。</p>
+                    </note>
+                    <note class="- topic/note " type="note" xtrc="note:6;43:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <p class="- topic/p " xtrc="p:8;44:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">对外壳进行清洁时，注意不能让液体流入或渗入外壳里面。</p>
+                    </note>
+                    <note class="- topic/note " type="note" xtrc="note:7;46:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <p class="- topic/p " xtrc="p:9;47:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">机架外壳上亚克力材料、Logo、CPAN、DDP禁止用酒精清洁，只能用棉布蘸清水清洁。</p>
+                    </note>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;51:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;52:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">控制台清洁</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:3;53:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                    <p class="- topic/p " xtrc="p:10;54:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">保证控制台桌的整洁，用干净的软布擦拭台面，整理文件物品，保证键盘周围没有液体、食物等物品。 清洁显示器时，应遵循如下注意事项：</p>
+                    <ul class="- topic/ul " id="ul_on5_4gp_bdb" xtrc="ul:1;55:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <li class="- topic/li " xtrc="li:1;56:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                            <p class="- topic/p " xtrc="p:11;57:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">每隔一个月需要清洁一次。&#x7f;</p>
+                        </li>
+                        <li class="- topic/li " xtrc="li:2;59:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                            <p class="- topic/p " xtrc="p:12;60:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">使用软布清洗擦拭显示器。&#x7f;</p>
+                        </li>
+                        <li class="- topic/li " xtrc="li:3;62:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                            <p class="- topic/p " xtrc="p:13;63:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">小心擦拭避免刮花屏幕。&#x7f;</p>
+                        </li>
+                        <li class="- topic/li " xtrc="li:4;65:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                            <p class="- topic/p " xtrc="p:14;66:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">显示器溅到水滴，必须立即擦除。&#x7f;</p>
+                        </li>
+                        <li class="- topic/li " xtrc="li:5;68:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                            <p class="- topic/p " xtrc="p:15;69:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">避免显示器受机械撞击。</p>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;74:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;75:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">水模的清洁</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:4;76:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                    <p class="- topic/p " xtrc="p:16;77:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">水模清洁方法及步骤如下：</p>
+                </info>
+                <substeps class="- topic/ol task/substeps " id="substeps_sst_5gp_bdb" xtrc="substeps:2;79:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:4;80:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:7;81:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">将清洁剂（微生物催化洗涤剂- 酶）喷在水模表面。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:5;83:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:8;84:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">然后使用蘸有水的微湿棉布（含棉量80% 以上）。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:6;86:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:9;87:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/System_cleaning.dita">反复擦洗物体表面。然后用干棉布擦干。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

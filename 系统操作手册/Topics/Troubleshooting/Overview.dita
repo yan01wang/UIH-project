@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_rxz_trk_cdb" xml:lang="zh">
+    <title>概述</title>
+    <body>
+        <p>本章主要介绍系统常见故障，以及其相应的排查和定位方法，以帮助用户尽快定位故障原 因，并采取相应措施予以排除，使得系统尽快恢复正常状态，进而保证稳定运行和图像质 量。</p>
+    </body>
+</topic>

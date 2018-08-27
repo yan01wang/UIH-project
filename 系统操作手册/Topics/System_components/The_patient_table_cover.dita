@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rky_dky_bdb" xml:lang="zh">
+    <title> 检查床外壳</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_axv_fky_bdb">
+            <li>
+                <p>检查床外壳用于保护内部机械和电子部件，还有隔离的作用。</p>
+            </li>
+            <li>
+                <p>检查床的外壳与金属结构保护接地。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

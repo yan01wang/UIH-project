@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cgk_4ky_zcb" xml:lang="zh">
+    <title>配置附件</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>配置床垫（安装后首次扫描）</cmd>
+                <substeps id="substeps_nnx_c4j_bdb">
+                    <substep>
+                        <cmd>拆除外包装后，将床垫对齐放在床板上。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>将床垫背后与床板的魔术粘严密贴合以确保床垫不会移动。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>配置头托（常规扫描）</cmd>
+                <substeps id="substeps_fdb_h4j_bdb">
+                    <substep>
+                        <cmd>安装头托时，将其尾部突出部分插进床板前端的卡槽，并推到底。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>当听到“ 咔哒” 一声，尾部下方的卡扣与卡槽上的卡口完全契合，说明安装到位。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>拆除时头托时，按住卡扣，使其从卡口脱离，再拔出头托即可。</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <note type="other" othertype="帮助信息">
+                        <p>定位患者时可根据需要同时配置膝关节垫、绑带等其他附件，以提高患者定位精度和扫描舒适程度。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

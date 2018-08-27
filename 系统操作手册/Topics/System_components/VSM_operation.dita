@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_k3h_vtd_cdb" xml:lang="zh">
+    <title>VSM 操作</title>
+    <shortdesc>使用VSM进行生理信号门控扫描的具体操作请参见《软件操作手册》中心电和呼吸门控扫描章节。</shortdesc>
+    <conbody>
+        <ul id="ul_p5v_dcl_xdb">
+            <li>
+                <p>导联切换</p>
+                <ul id="ul_vvg_ztd_cdb">
+                    <li>
+                        <p>长按导联切换可以实现 VSM 开机或关机。</p>
+                    </li>
+                    <li>
+                        <p>生理信号采集前，当心电电极有效连接后，需要按下导联切换按键，启动VSM手持端， 与接收端进行通信。</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>导联指示灯</p>
+                <ul id="ul_wc3_c5d_cdb">
+                    <li>
+                        <p>心电采集有 I，II，III 三种导联方式。</p>
+                    </li>
+                    <li>
+                        <p>当 VSM 处于正常运行状态时，按下导联切换按钮即可实现三个导联之间的切换，相应导联指示灯点亮。默认状态下为 II 导联点亮。</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>信号指示灯</p>
+                <ul id="ul_kq3_25d_cdb">
+                    <li>
+                        <p>信号指示灯指示系统当前状态，包括信号传输与电源状态。</p>
+                    </li>
+                    <li>
+                        <p>开机后信号指示灯点亮。</p>
+                    </li>
+                    <li>
+                        <p>当生理信号正常采集并传输时，信号指示灯匀速闪烁。</p>
+                    </li>
+                    <li>
+                        <p>当 VSM 手持端电量偏低时，信号指示灯以红色报警。</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>心电导联接口</p>
+                <ul id="ul_jyg_h5d_cdb">
+                    <li>
+                        <p>该接口用以连接心电导联线缆。</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p>呼吸气囊接口</p>
+                <ul id="ul_mwf_j5d_cdb">
+                    <li>
+                        <p>该接口用以连接呼吸气管和呼吸气囊。</p>
+                    </li>
+                </ul>
+                <note type="other" othertype="帮助信息">
+                    <p>VSM 手持端超过 30 分钟没有收到有效的生理信号（心电或呼吸信号）时会自动关机，以节省电量。</p>
+                </note>
+            </li>
+            <li>
+                <p>接收端一般安装在设备机架上，位于外壳后侧，用于接收生理信号。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

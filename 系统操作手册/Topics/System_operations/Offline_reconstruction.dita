@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_swd_ztf_1db" xml:lang="zh">
+    <title>离线重建</title>
+    <shortdesc/>
+    <taskbody>
+        <context id="context_fbw_dwf_1db">
+            <p>离线重建功能可用于修改重建参数，优化当前重建结果。或者在修改药物和核素信息后。执 行离线重建，获取正确图像。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开患者管理界面，选择所需离线重建序列。</cmd>
+            </step>
+            <step>
+                <cmd>点击离线重建标签，或者右键单击选择离线重建，进入离线重建界面。</cmd>
+            </step>
+            <step>
+                <cmd>新建或重复原有图像序列，进行必要的修改。</cmd>
+            </step>
+            <step>
+                <cmd>点击开始重建。</cmd>
+                <info>
+                    <p>此外，配置相应的设备后，系统支持呼吸和心电门控，以及动态采集。详细操作请参见《软件操作手册》特殊协议章节。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

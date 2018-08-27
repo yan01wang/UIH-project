@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ifb_g52_cdb" xml:lang="zh">
+    <title>质控模体*</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>系统<index-sort-as>X系统</index-sort-as><indexterm>附件</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>系统提供质控模体，用于进行日常质控和系统校正，包括PET质控模体，CT质控模体等，分别用于相应类型的质控扫描。同时，系统提供附件柜，用于安全置放和保存质控模体。</p>
+        <note type="warning">
+            <p>水模跌落，破损</p>
+            <ul id="ul_ghj_k52_cdb">
+                <li>水模运输过程中，推荐使用手推车运输，避免跌落破损，造成放射源暴露。</li>
+            </ul>
+        </note>
+        <note type="note">
+            <p>使用水模进行系统校正时，相关操作人员需进行辐射防护培训。</p>
+        </note>
+    </body>
+</topic>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xyf_hky_bdb" xml:lang="zh">
+    <title>浮动按钮</title>
+    <shortdesc/>
+    <conbody>
+        <p>检查床远离机架端左右两侧设有紧急制动按钮，用于锁定床板。一般情况下床板处于锁定状态。在特殊情况下（如用户启动急停或者紧急断电后），若需要释放床板，按下浮动按钮将
+            其解锁，床板即处于浮动状态。此时可抓住床把手将检查床拉出，辅助患者撤离。</p>
+    </conbody>
+</concept>

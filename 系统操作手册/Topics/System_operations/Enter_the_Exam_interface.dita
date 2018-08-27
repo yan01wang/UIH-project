@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bk1_tq2_1db" xml:lang="zh">
+    <title>进入患者检查</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>点击患者检查，进入患者检查界面。</p>
+            <p>常规PET/CT 检查包含定位像扫描，CT 扫描和PET 扫描。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击患者检查，进入患者检查界面。</cmd>
+                <info>
+                    <fig id="fig_zkl_vq2_1db">
+                        <title>患者检查界面</title>
+                        <image href="../../images/figure4-5.jpeg" id="image_jxr_wq2_1db"
+                            placement="break"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>常规PET/CT 检查包含定位像扫描，CT 扫描和PET 扫描。</cmd>
+                <info>
+                    <fig id="fig_msm_1r2_1db">
+                        <title>检查序列</title>
+                        <image href="../../images/figure4-6.jpeg" id="image_udx_br2_1db"
+                            placement="break"/>
+                    </fig>
+                    <p>若用户进入患者检查前未选择检查协议，或当前协议组已经完成扫描，也可点击添加协议组/ 添加协议进行选择。</p>
+                    <p>选定扫描协议和扫描参数之后，点击确认，系统将自动对运行的各项参数进行验证。若参数配置与扫描协议不符，系统将停止并弹出警告，此时用户应重新设置合适的参数。参数校验通过后，根据系统提示进行移床等操作，依序执行上述检查。</p>
+                    <p>定位像、CT 扫描和PET 扫描完成后，用户可以通过鼠标右键选定目标扫描序列，进行重复扫描。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

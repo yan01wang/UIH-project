@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_og2_v4v_d2b">
+    <title>Angle measurement</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Angle measurement</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Angle measurement accuracy relates to the length of the drawn line: the longer
+                    the line is, the more accurate the measurement angle is, and thus the lower
+                    error is.</cmd>
+            </step>
+            <step>
+                <cmd>Measurement accuracy is not lower than 5°.</cmd>
+            </step>
+            <step>
+                <cmd>Measurement error does not exceed±5°.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

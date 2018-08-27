@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qvt_dng_1db" xml:lang="zh">
+    <title>文本约定</title>
+    <shortdesc><b>简短的描述</b></shortdesc>
+    <conbody>
+        <p>本手册引用符号使用规范如下：</p>
+        <object outputclass="video" data="../../Images/m520.tvs"
+            type="application/x-shaockwave-flash" width="350" height="100">
+            <param name="move" value="../../Images/m520.tvs"/>
+        </object>
+        <object outputclass="video" type="application/x-shaockwave-flash"
+            data="../../Images/movie.ogg" width="350" height="100">
+            <param name="move" value="../../Images/movie.ogg"/>
+        </object>
+        <ul id="ul_w1n_1qf_1db">
+            <li>并列项目采用 “■” 符号标识。</li>
+            <li>单个步骤项目采用 "►" 符号标识，多个顺序步骤项用数字编号标识。</li>
+            <li>子项目（表格中并列项）采用 "" 符号标识。</li>
+            <li>用户界面显示（如：按钮提示、窗口标题、菜单）采用黑色字符标识。</li>
+            <li>键盘按键采用 “&lt;>” 符号标识。</li>
+            <li>凡是本手册中提示有关鼠标操作的“单击”、“点击”、“选择”、“按下该键”等操作时，均指鼠 标左键，而在使用鼠标中间键或右键时均会特别指出。</li>
+            <li>系统的用户接口为视窗、菜单和按钮，支持中英文界面。</li>
+        </ul>
+        <p> 单个帮助信息项的表述：</p>
+        <note conref="../../librarytopic/Helpinfo.dita#topic_frj_3qv_fdb/note_jbd_kqv_fdb"/>
+        <p>多个帮助信息项的表述：</p>
+        <note conref="../../librarytopic/Helpinfo.dita#topic_frj_3qv_fdb/note_krk_kqv_fdb"/>
+    </conbody>
+</concept>

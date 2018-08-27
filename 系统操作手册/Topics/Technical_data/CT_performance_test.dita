@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_gqj_rnm_cdb" xml:lang="zh">
+    <title>CT 性能测试</title>
+    <body>
+        <p>请参照第 5-10 页 “ 图像质量检测”。</p>
+        <note type="note">
+            <p>CT 扩展视野内的图像质量会有一定的下降。</p>
+        </note>
+    </body>
+</topic>

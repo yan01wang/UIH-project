@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Safety?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Safety/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_n4g_drg_1db" xtrc="reference:1;3:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">安全符号与标签</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+        <section class="- topic/section " id="section_vhc_jxg_1db" xtrc="section:1;7:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">必要的警示性安全符号或标记需永久贴牢在设备上或其它合适区域，并保证标记具有较强 的可读性。</p>
+            <note class="- topic/note " type="note" xtrc="note:1;9:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <ul class="- topic/ul " id="ul_xct_mmk_bdb" xtrc="ul:1;10:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <li class="- topic/li " xtrc="li:1;11:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <p class="- topic/p " xtrc="p:2;12:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">必要的警告和安全标记需固定良好且可读性强，另需注意地方法规要求。</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:2;14:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <p class="- topic/p " xtrc="p:3;15:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">手册中安全标记与系统硬件设备上粘贴的标签应保持一致。</p>
+                    </li>
+                </ul>
+            </note>
+        </section>
+        <section class="- topic/section " id="section_ymg_lwg_1db" xtrc="section:2;20:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+            <p class="- topic/p " xtrc="p:4;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">根据功能的不同，出现在本手册和设备上的安全符号和标签可以分为以下几类：</p>
+            <ul class="- topic/ul " id="ul_rr4_b1h_1db" xtrc="ul:2;22:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <li class="- topic/li " xtrc="li:3;23:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <p class="- topic/p " xtrc="p:5;24:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">指令符号</p>
+                </li>
+                <li class="- topic/li " xtrc="li:4;26:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <p class="- topic/p " xtrc="p:6;27:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">警告符号</p>
+                </li>
+                <li class="- topic/li " xtrc="li:5;29:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <p class="- topic/p " xtrc="p:7;30:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">禁止符号</p>
+                </li>
+                <li class="- topic/li " xtrc="li:6;32:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <p class="- topic/p " xtrc="p:8;33:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">电子电气安全标签</p>
+                </li>
+                <li class="- topic/li " xtrc="li:7;35:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <p class="- topic/p " xtrc="p:9;36:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">运输储存安全标签</p>
+                </li>
+                <li class="- topic/li " xtrc="li:8;38:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <p class="- topic/p " xtrc="p:10;39:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">设备分类指示</p>
+                </li>
+            </ul>
+            <p class="- topic/p " xtrc="p:11;42:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">各类符号和标签的含义和位置如下表格所示：</p>
+            <table class="- topic/table " colsep="0" frame="all" id="table_tyn_r2r_b2b" rowsep="1" xtrc="table:1;43:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;44:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:1;45:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:2;46:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:3;47:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;48:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:1;49:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;50:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:12;51:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">指令符号</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;53:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:13;54:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">说明</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;56:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:14;57:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;61:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:2;62:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;63:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-3.png" id="image_frc_14k_bdb" placement="inline" xtrc="image:1;64:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;65:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:15;66:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">参考使用说明书</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;68:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:16;69:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">手册中</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;72:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;73:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-2.png" id="image_xnq_14k_bdb" placement="inline" xtrc="image:2;74:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;75:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:17;76:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">婴幼儿眼睛保护</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;78:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:18;79:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">手册中</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table class="- topic/table " colsep="0" frame="all" id="table_uvb_v2r_b2b" rowsep="1" xtrc="table:2;85:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:2;86:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:4;87:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:5;88:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:6;89:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:2;90:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:4;91:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:10;92:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:19;93:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">警告符号</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:11;95:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:20;96:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">说明</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:12;98:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:21;99:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:2;103:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:5;104:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:13;105:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-5.png" id="image_wgx_n4k_bdb" placement="inline" xtrc="image:3;106:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:14;107:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:22;108:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">电离辐射</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:15;110:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:23;111:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">机架和外壳</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;114:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:16;115:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-6.png" id="image_ypr_44k_bdb" placement="inline" xtrc="image:4;116:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:17;117:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:24;118:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">危险电压</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:18;120:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:25;121:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">机架、外壳和电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;124:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:19;125:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-7.png" id="image_qq1_q4k_bdb" placement="inline" xtrc="image:5;126:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:20;127:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:26;128:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">警告，小心手被挤压</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:21;130:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:27;131:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">检查床和外壳</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:8;134:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:22;135:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-8.png" id="image_o3h_r4k_bdb" placement="inline" xtrc="image:6;136:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:23;137:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:28;138:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">表面高温</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:24;140:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:29;141:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">机架</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:9;144:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:25;145:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-9.png" id="image_gdl_s4k_bdb" placement="inline" xtrc="image:7;146:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:26;147:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><p class="- topic/p " xtrc="p:30;147:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>当心身体被挤压</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:27;148:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><p class="- topic/p " xtrc="p:31;148:40" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>检查床</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:10;150:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:28;151:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-10.png" id="image_rvr_t4k_bdb" placement="inline" xtrc="image:8;152:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:29;153:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:32;154:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">防止绊倒</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:30;156:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:33;157:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">检查床</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:11;160:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:31;161:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-11.png" id="image_itb_v4k_bdb" placement="inline" xtrc="image:9;162:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:32;163:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:34;164:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">当心夹脚</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:33;166:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:35;167:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">机架和检查床</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:12;170:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:34;171:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-12.png" id="image_nb2_w4k_bdb" placement="inline" xtrc="image:10;172:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:35;173:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:36;174:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">激光束</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9" xtrc="entry:36;176:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:37;177:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">机架和外壳</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:13;180:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:37;181:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-13.png" id="image_c3b_x4k_bdb" placement="inline" xtrc="image:11;182:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" xtrc="entry:38;183:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:38;184:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">激光束说明</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10" xtrc="entry:39;186:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:39;187:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">机架和外壳</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:14;190:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:40;191:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-14.png" id="image_sqy_x4k_bdb" placement="inline" xtrc="image:12;192:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11" xtrc="entry:41;193:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:40;194:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">通用警告标记</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11" xtrc="entry:42;196:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:41;197:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">机架、检查床和外壳</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table class="- topic/table " colsep="0" frame="all" id="table_ccq_vxq_b2b" rowsep="1" xtrc="table:3;203:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+               <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:3;204:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:7;205:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:8;206:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:9;207:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:3;208:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:15;209:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:43;210:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:42;211:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">禁止符号</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:44;213:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:43;214:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">说明</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:45;216:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:44;217:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:3;221:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:16;222:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:46;223:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-3.png" id="image_njy_wpk_bdb" placement="inline" xtrc="image:13;224:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:47;225:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:45;226:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">禁止推动</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:48;228:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:46;229:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:17;232:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:49;233:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-16.png" id="image_z15_hqk_bdb" placement="inline" xtrc="image:14;234:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:50;235:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:47;236:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">禁止踩踏</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:51;238:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:48;239:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">检查床和电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:18;242:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:52;243:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-17.png" id="image_q3k_3qk_bdb" placement="inline" xtrc="image:15;244:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:53;245:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:49;246:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">禁止吸烟</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:54;248:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:50;249:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">装机现场</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:19;252:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:55;253:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-18.png" id="image_cdw_3qk_bdb" placement="inline" xtrc="image:16;254:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:56;255:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:51;256:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">禁止明火</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:57;258:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:52;259:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">装机现场</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:20;262:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:58;263:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-19.png" id="image_ukn_jqk_bdb" placement="inline" xtrc="image:17;264:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:59;265:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:53;266:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">禁止坐卧</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:60;268:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:54;269:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">检查床和电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:21;272:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:61;273:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-20.png" id="image_i51_kqk_bdb" placement="inline" xtrc="image:18;274:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:62;275:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:55;276:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">最大负载 250 kg</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:63;278:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:56;279:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">检查床</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:22;282:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:64;283:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-21.png" id="image_gcp_kqk_bdb" placement="inline" xtrc="image:19;284:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:65;285:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:57;286:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">最大负载 30 kg</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:66;288:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:58;289:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">检查床头托</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table class="- topic/table " colsep="0" frame="all" id="table_pcg_zxq_b2b" rowsep="1" xtrc="table:4;295:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:4;296:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:10;297:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:11;298:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:12;299:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:4;300:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:23;301:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:67;302:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:59;303:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">电子和电气安全</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:68;305:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:60;306:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">说明</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:69;308:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:61;309:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:4;313:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:24;314:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:70;315:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-22.png" id="image_ovw_krk_bdb" placement="inline" xtrc="image:20;316:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:71;317:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:62;318:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">保护接地</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:72;320:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:63;321:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">机架、检查床和电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:25;324:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:73;325:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-23.png" id="image_jvk_prk_bdb" placement="inline" xtrc="image:21;326:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:74;327:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:64;328:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">请勿随意丢弃</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:75;330:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:65;331:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">外壳，系统标签</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:26;334:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:76;335:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-24.png" id="image_nk3_zrk_bdb" placement="inline" xtrc="image:22;336:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:77;337:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:66;338:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">生产日期</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:78;340:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:67;341:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">外壳，系统标签</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:27;344:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:79;345:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-25.png" id="image_wdy_zrk_bdb" placement="inline" xtrc="image:23;346:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:80;347:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:68;348:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">电气电子产品污染控制标志50 年期</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:81;350:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:69;351:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">外壳</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:28;354:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:82;355:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-26.png" id="image_v1m_1sk_bdb" placement="inline" xtrc="image:24;356:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:83;357:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:70;358:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">系统标签</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:84;360:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:71;361:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">外壳</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table class="- topic/table " colsep="0" frame="all" id="table_sry_cyq_b2b" rowsep="1" xtrc="table:5;367:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:5;368:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:13;369:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:14;370:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:15;371:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:5;372:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:29;373:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:85;374:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:72;375:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">运输储存安全标签</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:86;377:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:73;378:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">说明</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:87;380:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:74;381:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:5;385:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:30;386:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:88;387:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-27.png" id="image_ubl_d5k_bdb" placement="inline" xtrc="image:25;388:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:89;389:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:75;390:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">易碎，小心轻放</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:90;392:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:76;393:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:31;396:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:91;397:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-28.png" id="image_abv_d5k_bdb" placement="inline" xtrc="image:26;398:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:92;399:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:77;400:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">此面向上</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:93;402:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:78;403:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:32;406:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:94;407:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-29.png" id="image_vm2_25k_bdb" placement="inline" xtrc="image:27;408:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:95;409:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:79;410:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">避免受潮</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:96;412:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:80;413:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:33;416:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:97;417:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-30.png" id="image_mmn_25k_bdb" placement="inline" xtrc="image:28;418:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:98;419:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:81;420:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">重心</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:99;422:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:82;423:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:34;426:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:100;427:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-31.png" id="image_qxy_25k_bdb" placement="inline" xtrc="image:29;428:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:101;429:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:83;430:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">温度限制</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:102;432:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:84;433:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:35;436:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:103;437:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-32.png" id="image_ujq_f5k_bdb" placement="inline" xtrc="image:30;438:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:104;439:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:85;440:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">回收利用</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:105;442:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:86;443:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:36;446:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:106;447:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-24.png" id="image_dxm_mmd_cdb" placement="inline" xtrc="image:31;448:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:107;449:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:87;450:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">生产日期</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:108;452:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:88;453:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:37;456:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:109;457:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-31.png" id="image_nw4_4md_cdb" placement="inline" xtrc="image:32;458:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:110;459:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:89;460:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">运输环境条件</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9" xtrc="entry:111;462:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:90;463:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">系统</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:38;466:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:112;467:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-33.jpg" id="image_g1d_g5k_bdb" placement="inline" xtrc="image:33;468:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" xtrc="entry:113;469:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:91;470:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">倾斜</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10" xtrc="entry:114;472:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:92;473:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:39;476:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:115;477:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-34.jpg" id="image_nv5_h5k_bdb" placement="inline" xtrc="image:34;478:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11" xtrc="entry:116;479:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:93;480:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">震动</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11" xtrc="entry:117;482:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:94;483:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">发货箱</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table class="- topic/table " colsep="0" frame="all" id="table_uwg_gyq_b2b" rowsep="1" xtrc="table:6;489:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:6;490:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:16;491:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:17;492:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:18;493:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:6;494:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:40;495:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:118;496:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:95;497:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">设备分类指示</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:119;499:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:96;500:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">说明</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:120;502:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:97;503:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:6;507:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                        <row class="- topic/row " xtrc="row:41;508:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:121;509:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-35.png" id="image_zwg_q5k_bdb" placement="inline" xtrc="image:35;510:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:122;511:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:98;512:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">B 型应用部分</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:123;514:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:99;515:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">检查床</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:42;518:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:124;519:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"><image class="- topic/image " href="../../images/figure2-36.png" id="image_trq_q5k_bdb" placement="inline" xtrc="image:36;520:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:125;521:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:100;522:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">BF 型应用部分</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:126;524:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">
+                                <p class="- topic/p " xtrc="p:101;525:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_symbols_and_labels.dita">生理信号门控单元</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

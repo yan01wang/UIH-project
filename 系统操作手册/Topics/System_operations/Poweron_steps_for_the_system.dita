@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xpp_y4x_zcb" xml:lang="zh">
+    <title>系统上电步骤</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>系统<index-sort-as>X系统</index-sort-as><indexterm>供电</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <stepsection>启动系统之前，用户可执行以下步骤为本系统供电：</stepsection>
+            <step>
+                <cmd>确保 EPO 为弹起状态，PSC 内所有断路器处于闭合状态。</cmd>
+            </step>
+            <step>
+                <cmd>开启墙壁电源（配电箱）总闸，按下配电箱与 PSC 之间的通电按钮（若有）。</cmd>
+            </step>
+            <step>
+                <cmd>PSC 通电指示灯亮起，表示电力已传送至此。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lpt_ccm_1db" xml:lang="zh">
+    <title>设备兼容性</title>
+    <shortdesc/>
+    <conbody>
+        <p>本手册中描述的系统不得随意与其他软件或设备联合使用，除非此软件或设备被验证是可 被兼容的，并且得到联影许可。否则联影将不对因此而造成的损害承担任何责任。</p>
+        <p>只有联影或者被联影授权的第三方有权对系统进行更改。且这些更改应遵循相关法律法规。</p>
+    </conbody>
+</concept>

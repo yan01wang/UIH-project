@@ -1,0 +1,661 @@
+
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<!-- Sitemap 1.0 -->
+</head>
+<body>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="版权所有"><param name="Local" value="oxy_ex-1/Librarytopic/copyright.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="前言"><param name="Local" value="oxy_ex-1/Librarytopic/preface.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="简介"><param name="Local" value="oxy_ex-1/Topics/Introduction/Introduction.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="关于手册"><param name="Local" value="oxy_ex-1/Topics/Introduction/About_this_manual.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="文本约定"><param name="Local" value="oxy_ex-1/Topics/Introduction/Text_conventions.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="相关文档"><param name="Local" value="oxy_ex-1/Topics/Introduction/Relevant_documents.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="关于系统"><param name="Local" value="oxy_ex-1/Topics/Introduction/About_this_system.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统概述"><param name="Local" value="oxy_ex-1/Topics/Introduction/System_overview.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="预期用途"><param name="Local" value="oxy_ex-1/Topics/Introduction/Intended_use.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="人员资质"><param name="Local" value="oxy_ex-1/Topics/Introduction/Personnel_qualifications.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="缩略语"><param name="Local" value="oxy_ex-1/Topics/Introduction/Abbreviations.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Safety.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安全标记与符号"><param name="Local" value="oxy_ex-1/Topics/Safety/Safety_signs_and_symbols.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安全等级定义"><param name="Local" value="oxy_ex-1/Topics/Safety/Definitions_of_safety_levels.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安全符号与标签"><param name="Local" value="oxy_ex-1/Topics/Safety/Safety_symbols_and_labels.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="基本规范"><param name="Local" value="oxy_ex-1/Topics/Safety/Basic_specification.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="人身安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Personal_safety.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="辐射安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Radiation_safety.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="常规防护"><param name="Local" value="oxy_ex-1/Topics/Safety/Routine_protection.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" X射线防护"><param name="Local" value="oxy_ex-1/Topics/Safety/X_ray_protection.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="&gamma;射线防护"><param name="Local" value="oxy_ex-1/Topics/Safety/r_ray_protection.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="个人剂量检测"><param name="Local" value="oxy_ex-1/Topics/Safety/Individual_dose_test.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="低剂量措施"><param name="Local" value="oxy_ex-1/Topics/Safety/Low_dose_measures.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="电气安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Electrical_safety.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="防火安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Fire_safety.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机械安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Mechanical_safety.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="扫描前患者安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Patient_safety_before_the_scanning.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 扫描中患者安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Safety_of_patient_during_scanning.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="维修维护安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Safety_during_maintenance.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="激光安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Laser_safety.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="产品副作用及应对措施"><param name="Local" value="oxy_ex-1/Topics/Safety/Side_effects_of_the_products.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="产品禁忌症"><param name="Local" value="oxy_ex-1/Topics/Safety/Product_contraindications.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 紧急情况处理"><param name="Local" value="oxy_ex-1/Topics/Safety/Emergency_handling.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="中断系统运动和射线放射"><param name="Local" value="oxy_ex-1/Topics/Safety/Suspension_of_the_system_operation_and_X_ray_radiation.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 紧急情况下断电"><param name="Local" value="oxy_ex-1/Topics/Safety/Power_off_in_case_of_an_emergency.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统安全"><param name="Local" value="oxy_ex-1/Topics/Safety/System_safety.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 电磁兼容性"><param name="Local" value="oxy_ex-1/Topics/Safety/Electromagnetic_compatibility_EMC.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="设备兼容性"><param name="Local" value="oxy_ex-1/Topics/Safety/Equipment_compatibility.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 辅助设备安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Auxiliary_equipment_safety.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="第三方设备和材料"><param name="Local" value="oxy_ex-1/Topics/Safety/Third_party_equipment_and_materials.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="免责声明"><param name="Local" value="oxy_ex-1/Topics/Safety/Disclaimer.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 操作系统和数据安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Security_of_the_operating_system_and_data.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="运输安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Transportation_safety.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="静电安全"><param name="Local" value="oxy_ex-1/Topics/Safety/Electrostatic_safety.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="环境保护"><param name="Local" value="oxy_ex-1/Topics/Safety/Environmental_protection.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="放射废物处理风险"><param name="Local" value="oxy_ex-1/Topics/Safety/Risks_of_radioactive_waste_disposal.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="患者生物危险废物处理"><param name="Local" value="oxy_ex-1/Topics/Safety/Disposal_of_biohazardous_wastes_from_patients.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="电池安全与回收处理"><param name="Local" value="oxy_ex-1/Topics/Safety/Battery_safety_and_recycle.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="产品处置"><param name="Local" value="oxy_ex-1/Topics/Safety/Product_disposal.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="有害物质信息"><param name="Local" value="oxy_ex-1/Topics/Safety/Hazardous_material_information.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="拆解与回收"><param name="Local" value="oxy_ex-1/Topics/Safety/Disassembly_and_recycle.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="其它防范措施"><param name="Local" value="oxy_ex-1/Topics/Safety/Other_preventive_measures.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 油渗漏处理"><param name="Local" value="oxy_ex-1/Topics/Safety/Oil_leakage_handling.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="图像质量"><param name="Local" value="oxy_ex-1/Topics/Safety/Image_quality.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="不合理操作"><param name="Local" value="oxy_ex-1/Topics/Safety/Misoperation.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统状态不佳"><param name="Local" value="oxy_ex-1/Topics/Safety/Bad_status_of_the_system.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="患者生理因素"><param name="Local" value="oxy_ex-1/Topics/Safety/Physiological_factors_of_patient.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="符合性声明"><param name="Local" value="oxy_ex-1/Topics/Safety/Compliance_statement.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统组件"><param name="Local" value="oxy_ex-1/Topics/System_components/System_components.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="概述"><param name="Local" value="oxy_ex-1/Topics/System_components/Overview.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 系统"><param name="Local" value="oxy_ex-1/Topics/System_components/PET_system.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" PET 成像原理"><param name="Local" value="oxy_ex-1/Topics/System_components/PET_imaging_principles.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="构成简介"><param name="Local" value="oxy_ex-1/Topics/System_components/PET_Composition_introduction.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 探测器"><param name="Local" value="oxy_ex-1/Topics/System_components/PET_detector.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET电子学"><param name="Local" value="oxy_ex-1/Topics/System_components/PET_electronics_system.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="冷却系统"><param name="Local" value="oxy_ex-1/Topics/System_components/Cooling_system.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" PET机架主体结构"><param name="Local" value="oxy_ex-1/Topics/System_components/Main_structure_of_the_PET_gantry.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="技术数据"><param name="Local" value="oxy_ex-1/Topics/System_components/Technical_data.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" CT系统"><param name="Local" value="oxy_ex-1/Topics/System_components/CT_system.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" CT 成像原理"><param name="Local" value="oxy_ex-1/Topics/System_components/CT_imaging_principles.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="构成简介"><param name="Local" value="oxy_ex-1/Topics/System_components/CT_Composition_introduction.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机架固定部分"><param name="Local" value="oxy_ex-1/Topics/System_components/Fixed_parts_of_the_gantry.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" X射线球管组件"><param name="Local" value="oxy_ex-1/Topics/System_components/X-ray_tube_assembly.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="高压发生器"><param name="Local" value="oxy_ex-1/Topics/System_components/High_voltage_generator.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="滑环"><param name="Local" value="oxy_ex-1/Topics/System_components/Slip_ring.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" CT探测器"><param name="Local" value="oxy_ex-1/Topics/System_components/CT_detector.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 准直系统"><param name="Local" value="oxy_ex-1/Topics/System_components/Collimation_system.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="技术数据"><param name="Local" value="oxy_ex-1/Topics/System_components/CT_Technical_data.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机架外壳和相关部件"><param name="Local" value="oxy_ex-1/Topics/System_components/Gantry_cover_and_relevant_components.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="数据显示屏"><param name="Local" value="oxy_ex-1/Topics/System_components/DDP.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="患者信息区"><param name="Local" value="oxy_ex-1/Topics/System_components/Patient_information_area.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 辐射指示灯"><param name="Local" value="oxy_ex-1/Topics/System_components/Radiation_indicator.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="生理信号/ 扫描信息/ 温馨提示"><param name="Local" value="oxy_ex-1/Topics/System_components/Vital_signalscan_informationkind_reminder.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统状态区"><param name="Local" value="oxy_ex-1/Topics/System_components/System_status_area.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 帮助区"><param name="Local" value="oxy_ex-1/Topics/System_components/Help_area.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="扫描状态区"><param name="Local" value="oxy_ex-1/Topics/System_components/Scan_status_area.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机架控制面板"><param name="Local" value="oxy_ex-1/Topics/System_components/Gantry_control_panel.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="紧急停止按钮"><param name="Local" value="oxy_ex-1/Topics/System_components/E_Stop_button.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="激光定位灯"><param name="Local" value="oxy_ex-1/Topics/System_components/Laser_positioning_light.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="呼吸导航灯"><param name="Local" value="oxy_ex-1/Topics/System_components/Respiration_navigation_light.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="光环境"><param name="Local" value="oxy_ex-1/Topics/System_components/Light_environment.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="光环境照明参数设置"><param name="Local" value="oxy_ex-1/Topics/System_components/Settings_for_lighting_parameters_of_the_light_environment.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="呼吸导航光环境参数设置"><param name="Local" value="oxy_ex-1/Topics/System_components/Parameter_settings_of_the_light_environment_for_respiration_navigation.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="外触发接口"><param name="Local" value="oxy_ex-1/Topics/System_components/External_trigger_interface.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="检查床"><param name="Local" value="oxy_ex-1/Topics/System_components/Patient_table.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="检查床构成"><param name="Local" value="oxy_ex-1/Topics/System_components/Patient_table_composition.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 底部水平运动部件"><param name="Local" value="oxy_ex-1/Topics/System_components/Bottom_horizontal_moving_parts.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 垂直升降运动部件"><param name="Local" value="oxy_ex-1/Topics/System_components/Vertical_lifting_moving_parts.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 床板水平运动部件"><param name="Local" value="oxy_ex-1/Topics/System_components/Horizontal_moving_parts_of_the_table_top.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="检查床床板"><param name="Local" value="oxy_ex-1/Topics/System_components/Patient_table_top.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 检查床外壳"><param name="Local" value="oxy_ex-1/Topics/System_components/The_patient_table_cover.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="浮动按钮"><param name="Local" value="oxy_ex-1/Topics/System_components/Floating_button.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 检查床接口"><param name="Local" value="oxy_ex-1/Topics/System_components/Patient_table_interface.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 检查床运动控制"><param name="Local" value="oxy_ex-1/Topics/System_components/Patient_table_motion_control.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 检查床重要位置"><param name="Local" value="oxy_ex-1/Topics/System_components/Important_position_of_the_patient_table.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="检查床控制按键"><param name="Local" value="oxy_ex-1/Topics/System_components/Patient_table_control_buttons.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 检查床常见移动类型"><param name="Local" value="oxy_ex-1/Topics/System_components/Common_movement_types_of_the_patient_table.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 检查床附件 * 及使用"><param name="Local" value="oxy_ex-1/Topics/System_components/Patient_table_accessories_and_use.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="附件构成"><param name="Local" value="oxy_ex-1/Topics/System_components/Accessory_composition.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="控制台"><param name="Local" value="oxy_ex-1/Topics/System_components/Console.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="控制台桌和主机柜 "><param name="Local" value="oxy_ex-1/Topics/System_components/Console_table_and_host_cabinet.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="控制台主机"><param name="Local" value="oxy_ex-1/Topics/System_components/Console_host.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="显示器"><param name="Local" value="oxy_ex-1/Topics/System_components/Monitor.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="对讲系统"><param name="Local" value="oxy_ex-1/Topics/System_components/Intercom_system.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="麦克风和扬声器"><param name="Local" value="oxy_ex-1/Topics/System_components/Microphone_and_loudspeaker.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="控制盒"><param name="Local" value="oxy_ex-1/Topics/System_components/Control_box.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="其它"><param name="Local" value="oxy_ex-1/Topics/System_components/Others.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="电源分配机柜"><param name="Local" value="oxy_ex-1/Topics/System_components/PSC.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="电源分配机柜结构"><param name="Local" value="oxy_ex-1/Topics/System_components/PSC_structure.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="断路器开关"><param name="Local" value="oxy_ex-1/Topics/System_components/Breaker_switch.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="技术规格"><param name="Local" value="oxy_ex-1/Topics/System_components/Technical_specifications.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="生理信号门控单元 *"><param name="Local" value="oxy_ex-1/Topics/System_components/Vital_signal_monitor.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="VSM 构成"><param name="Local" value="oxy_ex-1/Topics/System_components/VSM_composition.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="VSM 操作"><param name="Local" value="oxy_ex-1/Topics/System_components/VSM_operation.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="VSM 附件"><param name="Local" value="oxy_ex-1/Topics/System_components/VSM_accessories.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="技术规格"><param name="Local" value="oxy_ex-1/Topics/System_components/VSM_Technical_specifications.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="充电相关"><param name="Local" value="oxy_ex-1/Topics/System_components/Bettry_charging.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="质控模体*"><param name="Local" value="oxy_ex-1/Topics/System_components/QC_phantom.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="操作方法"><param name="Local" value="oxy_ex-1/Topics/System_components/Operation_methods.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="取用存放"><param name="Local" value="oxy_ex-1/Topics/System_components/Use_and_storage.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="操作处理软件"><param name="Local" value="oxy_ex-1/Topics/System_components/Operation_and_processing_software.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统操作"><param name="Local" value="oxy_ex-1/Topics/System_operations/System_operations.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="常规工作流"><param name="Local" value="oxy_ex-1/Topics/System_operations/Regular_workflow.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统开关机"><param name="Local" value="oxy_ex-1/Topics/System_operations/System_startup_and_shutdown.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统上电启动"><param name="Local" value="oxy_ex-1/Topics/System_operations/Poweron_and_start_of_the_system.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统上电步骤"><param name="Local" value="oxy_ex-1/Topics/System_operations/Poweron_steps_for_the_system.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统供电注意事项"><param name="Local" value="oxy_ex-1/Topics/System_operations/Precautions_for_the_system_power_supply.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统开启和关闭"><param name="Local" value="oxy_ex-1/Topics/System_operations/System_startup_shutdown.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统控制区"><param name="Local" value="oxy_ex-1/Topics/System_operations/System_control_area.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统开启"><param name="Local" value="oxy_ex-1/Topics/System_operations/System_startup.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统关闭"><param name="Local" value="oxy_ex-1/Topics/System_operations/System_shutdown.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统重启"><param name="Local" value="oxy_ex-1/Topics/System_operations/System_restart.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="设备准备"><param name="Local" value="oxy_ex-1/Topics/System_operations/Equipmen_preparation.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="开机启动"><param name="Local" value="oxy_ex-1/Topics/System_operations/Start_up.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="配置附件"><param name="Local" value="oxy_ex-1/Topics/System_operations/Accessory_configuration.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="日常质控"><param name="Local" value="oxy_ex-1/Topics/System_operations/Daily_QC.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 日常质控"><param name="Local" value="oxy_ex-1/Topics/System_operations/CT_daily_QC.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 无源质控"><param name="Local" value="oxy_ex-1/Topics/System_operations/PET_QC_without_source.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="预防性检查措施"><param name="Local" value="oxy_ex-1/Topics/System_operations/Preventive_inspection_measures.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="患者准备"><param name="Local" value="oxy_ex-1/Topics/System_operations/Patient_preparation.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="扫描前准备"><param name="Local" value="oxy_ex-1/Topics/System_operations/Preparation_before_scan.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="患者摆位"><param name="Local" value="oxy_ex-1/Topics/System_operations/Patient_positioning.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="患者登记"><param name="Local" value="oxy_ex-1/Topics/System_operations/Patient_registration.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="进入患者登记"><param name="Local" value="oxy_ex-1/Topics/System_operations/Enter_the_patient_registration.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="患者和检查信息录入"><param name="Local" value="oxy_ex-1/Topics/System_operations/Patient_and_study_info_input.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="常规登记"><param name="Local" value="oxy_ex-1/Topics/System_operations/Routine_registration.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="预登记"><param name="Local" value="oxy_ex-1/Topics/System_operations/Pre-registration.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="紧急登记"><param name="Local" value="oxy_ex-1/Topics/System_operations/Emergency_registration.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="已知患者登记"><param name="Local" value="oxy_ex-1/Topics/System_operations/Existing_patient_registration.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="协议和体位选择"><param name="Local" value="oxy_ex-1/Topics/System_operations/Protocol_and_position_selection.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="扫描协议选择"><param name="Local" value="oxy_ex-1/Topics/System_operations/Selection_of_scan_protocol.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="扫描体位选择"><param name="Local" value="oxy_ex-1/Topics/System_operations/Scan_position_selection.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="参数设置和验证"><param name="Local" value="oxy_ex-1/Topics/System_operations/Parameter_setting_and_verification.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="患者检查"><param name="Local" value="oxy_ex-1/Topics/System_operations/Exam.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="进入患者检查"><param name="Local" value="oxy_ex-1/Topics/System_operations/Enter_the_Exam_interface.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="定位像扫描"><param name="Local" value="oxy_ex-1/Topics/System_operations/Scout_scan.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 扫描"><param name="Local" value="oxy_ex-1/Topics/System_operations/CT_scan.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 扫描"><param name="Local" value="oxy_ex-1/Topics/System_operations/PET_scan.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="完成扫描"><param name="Local" value="oxy_ex-1/Topics/System_operations/Completing_scanning.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="图像浏览"><param name="Local" value="oxy_ex-1/Topics/System_operations/Viewing.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="进入图像浏览"><param name="Local" value="oxy_ex-1/Topics/System_operations/Enter_the_Viewing_interface.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="融合浏览"><param name="Local" value="oxy_ex-1/Topics/System_operations/Fusion_viewing.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="二维浏览"><param name="Local" value="oxy_ex-1/Topics/System_operations/2D_viewing.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="三维浏览"><param name="Local" value="oxy_ex-1/Topics/System_operations/3D_viewing.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="胶片打印"><param name="Local" value="oxy_ex-1/Topics/System_operations/Filming.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="数据管理"><param name="Local" value="oxy_ex-1/Topics/System_operations/Data_management.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="数据归档"><param name="Local" value="oxy_ex-1/Topics/System_operations/Data_archiving.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="数据导入"><param name="Local" value="oxy_ex-1/Topics/System_operations/Data_import.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="离线重建"><param name="Local" value="oxy_ex-1/Topics/System_operations/Offline_reconstruction.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统维护保养"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/System_maintenance.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="概述"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Overview.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="常规维护保养"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Regular_maintenance.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="预防性检查"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Preventive_inspection.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统清洁、消毒"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/System_cleaning_and_disinfection.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统清洁"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/System_cleaning.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统消毒"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/System_disinfection.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="日常质控"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Daily_QC.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="球管预热"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Tube_warmup.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="空气校正"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Air_calibration.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="球管训管"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Tube_seasoning.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="图像质量检测"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Image_quality_test.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 无源质控"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/PET_QC_without_source.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET有源质控"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/PET_Full_QC.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="专业维护保"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Professional_maintenance.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="预防性维护保养措施"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Preventive_maintenance_measures.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="维修和备件更换"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Repair_and_spare_parts_replacement.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="记录结果"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Record_results.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="产品使用期限"><param name="Local" value="oxy_ex-1/Topics/System_maintenance/Service_life_of_the_product.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="常见故障排除"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/Troubleshooting.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="概述"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/Overview.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 相关报错和排查"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/PET-related_errors_and_troubleshooting.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="无源质控失败"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/Failure_for_QC_without_source.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="有源质控失败"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/Failure_for_Full_QC.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="放射源位置和活度报错"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/Errors_of_radioactive_source_position_and_activity.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="检查床位置信息报错"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/Error_for_patient_table_position_information.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 系统故障排除"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/Troubleshooting_of_CT_system.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="其它部件故障排除"><param name="Local" value="oxy_ex-1/Topics/Troubleshooting/Troubleshooting_of_other_components.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统运行技术参考"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Technical_references_for_the_system_operation.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="概述"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Overview.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="相关职责"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Relevant_responsibilities.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="联影职责"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/UIH_responsibilities.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="客户职责"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Customer_responsibilities.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="场地准备"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Site_preparation.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机房布局要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Requirement_for_equipment_room_layout.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机房布局尺寸"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机房布局通用原则"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="运行环境要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Operating_environment_requirements.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="温湿度要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Temperature_and_humidity_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="防尘要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Dustproof_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="空调要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Air_conditioner_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="振动需求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Vibration_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="噪音要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Noise_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="通风和消防要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Ventilation_and_fire_protection_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="电磁辐射要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Requirements_for_electromagnetic_radiation.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="部件尺寸及服务空间"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Component_dimension_and_service_space.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET/CT 机架尺寸"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Dimensions_of_PETCT_gantry.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="检查床尺寸"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Patient_table_dimension.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机架检查床服务空间"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Service_space_requirements_for_the_gantry_and_patient_table.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="控制台桌尺寸和服务空间"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_console_table.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PSC 尺寸和服务空间"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统主要部件线缆距离"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Cable_distance_between_main_components_of_the_system.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="地面要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Ground_requirements.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="地面水平要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Floor_levelness_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="混凝土基础要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Concrete_foundation_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="导轨运行地面要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Requirements_for_ground_during_guide_rail_operation.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="承重力要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Load_capacity_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="电缆沟槽要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Cable_trough_requirements.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="配电要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Power_distribution_requirements.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="配电箱概述"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="配电箱技术规格"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Technical_specifications_of_the_power_distribution_box.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="其它部件要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Requirements_for_other_components.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="网络要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Networkrequirements.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="标准协议"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Standard_protocol.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="插座网口要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Requirements_for_the_socket_network_interface.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="照明要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Lighting_requirements.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="辐射防护要求"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="运输存储"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Transportation_and_storage.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="运输存储环境"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Transportation_and_storage_environment.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="运输路径"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Transportation_route.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="机架运输尺寸"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Gantry_transportation_dimensions.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="检查床运输尺寸"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Transport_dimensions_of_the_patient_table.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PSC 运输尺寸"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/PSC_transport_dimensions.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="运输途径"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Transportationroute.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装调试"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installation_and_commissioning.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装安全"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installation_safety.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="通用安全总则"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/General_safety_instructions.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装着装安全"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Clothing_safety_for_installation.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统进场安全"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装操作安全"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装调试安全"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Safety_of_installation_and_commissioning.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装流程"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installation_process.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="地脚螺栓打孔"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Drilling_foundation_screw_holes.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统进场"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Transporting_the_system_to_the_site.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装电源分配机柜"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installation_of_PSC.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装 PET/CT 机架"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installing_the_PET_gantry.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装检查床"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installing_the_patient_table.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装控制台"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installing_the_console.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统线缆连接"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Connect_the_system_cables.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="安装外壳"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Installing_the_cover.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统启动"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/System_startup.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统测试"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/System_test.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统验收"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/System_acceptance.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="配置与查看"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统配置"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/System_configuration.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="系统常规设置"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Routine_settings_for_the_system.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="本地主机设置"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Local_host_settings.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="应用程序"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Applications.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="DICOM 设置"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/DICOM_configuration.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="工具使用"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Tool_operations.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="信息查看"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Information_viewing.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="备份还原"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Backup_and_recovery.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="性能测试"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/Performance_test.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT性能测试"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/CT_performance_test.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 性能测试"><param name="Local" value="oxy_ex-1/Topics/Technical_references_for_the_system_operation/PET_performance_test.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="技术支持"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Technical_support.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 系统技术数据"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Technical_data_of_the_PET_system.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 技术规格"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Technical_Specification_of_the_PET_system.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="断层成像装置的配置"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Configuration_of_the_Tomography_Device.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PET 性能参数"><param name="Local" value="oxy_ex-1/Topics/Technical_data/PET_performance_parameters.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 系统技术数据"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Technical_data_of_CT_system.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT技术规格"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Technical_specifications_of_CT.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="探测器参数"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Detector_parameters.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="X 射线高压发生器"><param name="Local" value="oxy_ex-1/Topics/Technical_data/High_voltage_generator.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="X 射线球管"><param name="Local" value="oxy_ex-1/Topics/Technical_data/X-ray_tube.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="X 射线球管组件"><param name="Local" value="oxy_ex-1/Topics/Technical_data/X-ray_tube_assembly.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="X 射线球管内管"><param name="Local" value="oxy_ex-1/Topics/Technical_data/X-ray_Tube_anode_patameters.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="剂量信息"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Dose_information.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CTDI 定义"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Definition_of_CTDI.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="体模信息及摆位"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Phantom_information_and_position.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="典型扫描条件"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Typical_scan_conditions.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CTDI 值"><param name="Local" value="oxy_ex-1/Topics/Technical_data/CTDI_value.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="剂量分布曲线和灵敏度曲线"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Dose_and_sensitivity_profiles.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="杂散辐射剂量图"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Stray_radiation_dose_map.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 性能参数"><param name="Local" value="oxy_ex-1/Topics/Technical_data/CT_performance_parameters.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="图像噪声"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Image_performance.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 值的均匀性"><param name="Local" value="oxy_ex-1/Topics/Technical_data/CT_value_uniformity.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 值的准确性"><param name="Local" value="oxy_ex-1/Topics/Technical_data/CT_value_Accuracy.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 重建矩阵"><param name="Local" value="oxy_ex-1/Topics/Technical_data/CT_Reconstruction_matrix.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="空间分辨率"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Spatial_resolution_of_CT_system.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="低对比度分辨率"><param name="Local" value="oxy_ex-1/Topics/Technical_data/low_resolution.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="伪影"><param name="Local" value="oxy_ex-1/Topics/Technical_data/artefacts.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 值的线性度"><param name="Local" value="oxy_ex-1/Topics/Technical_data/CT_value_linearity.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="体层切片厚度"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Thickness_of_body_slice.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="单次断层扫描最大层数"><param name="Local" value="oxy_ex-1/Topics/Technical_data/scanning_maximum_number_of_layers.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="扫描范围及功能参数"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Scan_range_and_function_parameters.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 性能测试"><param name="Local" value="oxy_ex-1/Topics/Technical_data/CT_performance_test.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="检查床技术数据"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Technical_data_of_patient_table.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="控制台技术数据"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Technical_data_of_console.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="控制台桌和主机柜"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Console_table_and_host_cabinet.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="控制主机"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Control_host.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="重建机"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Reconstruction_computer.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" PET 重建机"><param name="Local" value="oxy_ex-1/Topics/Technical_data/PET_Reconstruction_computer.html"></OBJECT>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CT 重建机"><param name="Local" value="oxy_ex-1/Topics/Technical_data/CT_Reconstruction_computer.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value=" 附件技术规格"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Attachment_Technical_specifications.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="VSM 技术规格"><param name="Local" value="oxy_ex-1/Topics/Technical_data/VSM_Technical_specifications.html"></OBJECT>
+</LI></UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="电磁干扰要求"><param name="Local" value="oxy_ex-1/Topics/Technical_data/Electromagnetic_interference_requirements.html"></OBJECT>
+</LI></UL>
+</LI></UL>
+</body>
+</html>

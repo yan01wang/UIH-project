@@ -1,0 +1,77 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh">
+<head><meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<meta name="copyright" content="(C) 版权 2018">
+<meta name="DC.rights.owner" content="(C) 版权 2018">
+<meta name="DC.Type" content="topic">
+<meta name="DC.Title" content="放射源位置和活度报错">
+<meta name="DC.Relation" scheme="URI" content="../../../oxy_ex-1/Topics/Troubleshooting/Troubleshooting.html">
+<meta name="DC.Relation" scheme="URI" content="../../../oxy_ex-1/Topics/Troubleshooting/PET-related_errors_and_troubleshooting.html">
+<meta name="DC.Relation" scheme="URI" content="../../../oxy_ex-1/Topics/Troubleshooting/Failure_for_Full_QC.html">
+<meta name="DC.Creator" content="Wang Yan TCC编辑团队">
+<meta name="DC.Creator" content="WangYan">
+<meta name="DC.Date.Created" content="2018-03-20">
+<meta name="DC.Date.Modified" content="2018-03-21">
+<meta name="Market" content="China">
+<meta name="DC.Format" content="XHTML">
+<meta name="DC.Identifier" content="topic_ny2_r5k_cdb">
+<meta name="DC.Language" content="zh">
+<link rel="stylesheet" type="text/css" href="../../../css/UIHltr_zh.css">
+<title>放射源位置和活度报错</title>
+</head>
+<body class="outer_body" id="topic_ny2_r5k_cdb"><a name="topic_ny2_r5k_cdb"><!-- --></a>
+<main role="main"><article role="article" aria-labelledby="ariaid-title1"><div style="margin-top:20pt;"><div style="margin-bottom:-5pt;"><div style="text-align:right;"></div><nav role="navigation" class="related-links">
+<span class="familylinks">
+<span class="parentlink"> <a class="link" href="../../../oxy_ex-1/Topics/Troubleshooting/Troubleshooting.html">常见故障排除</a> &gt; </span>
+<span class="parentlink"> <a class="link" href="../../../oxy_ex-1/Topics/Troubleshooting/PET-related_errors_and_troubleshooting.html">PET 相关报错和排查</a> &gt; </span>
+<span class="parentlink"> <a class="link" href="../../../oxy_ex-1/Topics/Troubleshooting/Failure_for_Full_QC.html">有源质控失败</a> &gt; </span>
+</span>
+</nav>放射源位置和活度报错</div><hr></div>
+    <h1 class="title topictitle1" id="ariaid-title1">放射源位置和活度报错</h1>
+
+    <div class="body">
+        <a name="topic_ny2_r5k_cdb__ul_whs_dkl_xdb"><!-- --></a><ul style="margin-left:12pt;" class="ul" id="topic_ny2_r5k_cdb__ul_whs_dkl_xdb">
+            <li class="li">
+                <p class="p">执行PET 无源质控，如有放射源干扰，则系统报错，告知检测到放射源，此时需要消除放射源干扰。</p>
+
+            </li>
+
+            <li class="li">
+                <p class="p">执行 PET 有源质控时：</p>
+
+            </li>
+
+        </ul>
+
+        <a name="topic_ny2_r5k_cdb__ol_lgv_y5k_cdb"><!-- --></a><ol class="ol" id="topic_ny2_r5k_cdb__ol_lgv_y5k_cdb">
+            <li class="li">系统首先自动检查放射源活度是否满足要求。如满足要求时即可自动开启质控扫描。<a name="topic_ny2_r5k_cdb__ul_drb_1vk_cdb"><!-- --></a><ul style="margin-left:12pt;" class="ul" id="topic_ny2_r5k_cdb__ul_drb_1vk_cdb">
+                    <li class="li">如提示 &ldquo; 放射源活度过低，请更换。&rdquo; 说明放射源活度低于最低阈值，需要更换。</li>
+
+                    <li class="li">如提示 &ldquo; 放射源活度过低，请更换。&rdquo; 说明放射源活度低于最低阈值，需要更换。</li>
+
+                    <li class="li">如提示&ldquo;放射源活度过低，请确认是否继续？&rdquo;说明放射源活度高于最低阈值，但是低于推荐值，此时如果点击确认则将继续执行，可能会需要较长的时间。如果点击取消可以更换活度适宜的放射源。</li>
+
+                    <li class="li">如提示&ldquo; 放射源活度过高，请更换。&rdquo; 说明所使用的固体放射源活度过高，需要更换。</li>
+
+                    <li class="li">如提示&ldquo; 放射源活度过高，请等待XX 时间后执行。&rdquo; 说明所使用的液体放射源活度过高，请在界面的进度条倒计时结束后开启质控扫描。</li>
+
+                </ul>
+</li>
+
+            <li class="li">活度检测通过后，自动检测放射源位置是否满足要求。<a name="topic_ny2_r5k_cdb__ul_isp_fvk_cdb"><!-- --></a><ul style="margin-left:12pt;" class="ul" id="topic_ny2_r5k_cdb__ul_isp_fvk_cdb">
+                    <li class="li">如不满足要求，请按照系统提示调整放射源位置。</li>
+
+                </ul>
+</li>
+
+        </ol>
+
+    </div>
+
+<nav role="navigation" class="related-links">
+<span class="familylinks">
+</span>
+</nav></article></main><footer role="contentinfo" class="footerDiv"><span class="footer"><table><tr><td style="text-align:left;border-top:0.5pt solid grey;">&copy; 2017 上海联影医疗科技有限公司，保留所有权利。</td><td style="text-align:right;padding-top:5pt;border-top:0.5pt solid grey;"><img align="right" src="../../../artwork/UIH_Logo_zh.jpg"></td></tr></table></span></footer></body>
+</html>

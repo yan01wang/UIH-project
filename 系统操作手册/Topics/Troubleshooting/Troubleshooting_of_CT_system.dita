@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_fk3_qvk_cdb" xml:lang="zh">
+    <title>CT 系统故障排除</title>
+    <shortdesc/>
+    <refbody>
+        <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_nv1_svk_cdb">
+            <title>CT 系统常见故障排除</title>
+            <tgroup cols="2">
+                <colspec colname="col1" colwidth="150.5pt"/>
+                <colspec colname="col2" colwidth="246.4pt"/>
+                <thead>
+                    <row>
+                        <entry align="center" colsep="0" valign="middle">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[1]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >故障描述</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[1]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >排查建议</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[2]/w:tc[1]/w:p[2]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >环状伪影</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[2]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >若系统出现环状伪影，首先进行空气校正。</p>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[2]/w:tc[2]/w:p[2]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >如在24小时内出现两次及以上环状伪影，则需要执行球管训管。</p>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[2]/w:tc[2]/w:p[3]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >若训管结束后，环状伪影仍然反复出现，此时请联系联影</p>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[2]/w:tc[2]/w:p[4]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >客户服务工程师。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[3]/w:tc[1]/w:p[2]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >高压打火报错</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[3]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >24 小时之内出现两次及以上高压打火时，请首先进行球管训管。</p>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[3]/w:tc[2]/w:p[2]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >若训管结束后，报错仍然反复出现，此时请联系联影客户</p>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[3]/w:tc[2]/w:p[3]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >服务工程师。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[4]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >高压链接报错</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[4]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >当系统反复提示检查高压连接器连接时，请重启系统。</p>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[4]/w:tc[2]/w:p[2]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >若错误仍然存在，联系联影客户服务工程师。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[5]/w:tc[1]/w:p[2]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >球管报错</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[5]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >若在扫描过程中出现球管超温报错，则待扫描结束，球管冷却后重启系统。</p>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[3]/w:tr[5]/w:tc[2]/w:p[2]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                >如错误仍然存在，立即联系联影客户服务工程师。</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

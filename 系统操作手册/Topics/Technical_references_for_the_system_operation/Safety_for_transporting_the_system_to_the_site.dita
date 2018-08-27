@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_pdm_ywh_bdb" xml:lang="zh">
+    <title>系统进场安全</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_zsb_1xh_bdb">
+            <p xtrc="/w:document/w:body[1]/w:p[521]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >系统进场前，需要确认包装盒标识是否完好。</p>
+            <note type="note">
+                <p>拆箱前需检查包装箱上的标识和检查包装箱是否完好。</p>
+            </note>
+            <p xtrc="/w:document/w:body[1]/w:p[523]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >本系统包装箱材料为木箱板，统一采用 M5 × 60 mm 的十字沉头木螺钉进行包装固定。拆箱所需工具如下表所示。</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_mdr_cxh_bdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="165.35pt"/>
+                    <colspec colname="col2" colwidth="231.55pt"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >序号</p>
+                            </entry>
+                            <entry align="center">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >工具名称</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >1</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >活动扳手</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >2</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >电动螺丝批</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >3</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[18]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                    >运输工装</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p xtrc="/w:document/w:body[1]/w:p[526]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >在进行拆箱时，需要由专业人员进行，操作时需遵守相关安全规范，装备好相应的安全措 施。使用适当的工具，避免发生安全事故或对箱内物品造成损坏。切开打包带时，需要小心
+                操作，此处存在事故风险，特别有可能伤及眼睛。因此需要戴好防护眼镜，穿工作鞋。拆箱 完毕后，拔出板条箱木板上的螺钉，将螺钉按照操作安全规范处理，防止对相关人员造成伤
+                害。</p>
+            <note type="note">
+                <p>拆箱后需检查是否有短发，错发，货损等问题，若有，应填写短发，错发，货损报告并拍照记录。</p>
+            </note>
+            <note type="note">
+                <ul id="ul_nny_gxh_bdb">
+                    <li>
+                        <p>按照发货箱标签说明进行先后拆箱。</p>
+                    </li>
+                    <li>
+                        <p>拆箱后根据物料清单核对部件。</p>
+                    </li>
+                </ul>
+            </note>
+            <p xtrc="/w:document/w:body[1]/w:p[529]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >操作人员在进行木箱组装或搬运作业时需要佩戴粗线手套，防止手部被木刺扎伤；操作人 员必须十分注意操作，不能在产品外观面留下污渍和任何可见痕迹。</p>
+            <note type="warning">
+                <ul id="ul_owk_nxh_bdb">
+                    <li>搬运过程中设备可能会对地板造成损坏，需对客户地板进行保护。</li>
+                    <li>不要在部件结构下面直接使用起重机或在机架上面直接使用吊车的方式抬起机架或检查床。</li>
+                    <li>为了防止系统倾倒，机架倾斜角度不要超过10°。</li>
+                </ul>
+            </note>
+            <note type="attention">
+                <p>若有特殊情况，请遵守安全操作规范并听从安装负责人的安排和指挥。</p>
+            </note>
+            <p xtrc="/w:document/w:body[1]/w:p[534]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >通常情况下，检查床、机架配有专用运输小车运输到国内各地安装。联影服务工程师有责任 将运输小车运回公司，安装完成后需清理现场。</p>
+            <p xtrc="/w:document/w:body[1]/w:p[535]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >系统发往场地的运输包装应尽量回收，不回收的情况下需按照所在国家的法律和当地法规 要求处理。</p>
+            <p xtrc="/w:document/w:body[1]/w:p[537]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >系统部件的包装上有朝向、易碎、避免潮湿等标识。在运输和存储时，要注意包装的朝向与
+                包装标识的方向一致。如果在场地发现包装上的朝向标识被倒置，应马上联系相关负责人。</p>
+        </section>
+    </refbody>
+</reference>

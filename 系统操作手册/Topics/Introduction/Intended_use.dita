@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ykw_qmg_1db" xml:lang="zh">
+    <title>预期用途</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>预期用途<index-sort-as>Y预期用途</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>本系统是一台将正电子发射断层仪和 X 射线计算机断层仪结合在一起的一体化诊断图像设备。其中，CT 子系统通过对 X 射线采集数据进行重建，得到人体断层解剖图像，这些 CT
+            图像除了可以在PET 的重建中用于衰减矫正和提供位置信息，还可以独立地用于疾病诊断。基于 CT 衰减矫正及提供的位置信息，PET
+            子系统可以通过探测放射性物质在人体的分布，进行分子代谢级别的定量分析及反映人体生理进程。本系统预期被用于全身和多器官的扫描
+            和诊断，以及疾病的分期评估、是否复发的评判和治疗效果的评价。</p>
+        <p>依据国家 / 地区的特定法规，本系统只能由拥有相应知识并接受过相应培训的人员（例如医生、放射科技师或技术人员）根据预期用途使用。</p>
+        <p>不得将本系统用于设计用途之外的其它目的。</p>
+    </conbody>
+</concept>

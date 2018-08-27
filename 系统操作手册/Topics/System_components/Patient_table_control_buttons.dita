@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_kkx_tny_bdb" xml:lang="zh">
+    <title>检查床控制按键</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>J检查床</index-sort-as>检查床<indexterm>控制按钮</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section id="section_tf4_vny_bdb">
+            <p>用户可通过机架控制面板上的按键，来控制检查床的运动。</p>
+            <fig id="fig_xgg_wny_bdb">
+                <title>检查床运动控制</title>
+                <image href="../../Images/figure3-44.png" id="image_xdr_n4y_bdb" placement="break"/>
+            </fig>
+            <table frame="all" rowsep="1" colsep="1" id="table_npc_54y_bdb">
+                <title>检查床运动控制按键说明</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p>序号</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p>按钮名称</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>功能</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry align="center" valign="middle">
+                                <p>1</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>出床</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>按住此键，检查床朝向孔径前进，松开后停。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">
+                                <p>2</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>下降</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>按住此键，检查床下降，松开后停。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">
+                                <p>3</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>进床</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>按住此键，检查床远离孔径后退，松开后停。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">
+                                <p>4</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>加速</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>按住进床 / 出床键的同时按住此键，检查床水平运动速度增加，松开后回到默认速度。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry align="center" valign="middle">
+                                <p>5</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>上移</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>按住此键，检查床上升，松开后停。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

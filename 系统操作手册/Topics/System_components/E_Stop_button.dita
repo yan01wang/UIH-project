@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_mgl_fyx_bdb" xml:lang="zh">
+    <title>紧急停止按钮</title>
+    <shortdesc>紧急停止按钮位于机架和控制盒上，用于在紧急情况下停止机架运转、X 射线曝光和检查床运动。</shortdesc>
+    <conbody>
+        <p>遇到人身损伤、系统损害等紧急情况时，应立即按下距离最近的紧急停止按钮，使系统进入 紧急中断状态。待故障排除后，再将系统复位，重新启动。</p>
+        <fig id="fig_jyf_nyx_bdb">
+            <title>机架急停按钮</title>
+            <image href="../../images/figure3-36.png" id="image_eht_4yx_bdb" placement="break"/>
+        </fig>
+        <fig id="fig_orh_pyx_bdb">
+            <title>图 3-18 控制盒急停按钮</title>
+            <image href="../../images/figure3-37.png" id="image_fyg_qyx_bdb" placement="break"/>
+        </fig>
+    </conbody>
+</concept>

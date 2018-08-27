@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_syj_nkm_cdb" xml:lang="zh">
+    <title>CT 值的准确性</title>
+    <body>
+        <ul id="ul_x3q_pkm_cdb">
+            <li>
+                <p>空气：-1000 HU ± 10 HU。</p>
+            </li>
+            <li>
+                <p>水：0 HU ± 4 HU。</p>
+            </li>
+        </ul>
+    </body>
+</topic>

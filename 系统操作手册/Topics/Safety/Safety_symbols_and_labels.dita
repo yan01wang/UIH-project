@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_n4g_drg_1db">
+    <title>安全符号与标签</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_vhc_jxg_1db">
+            <p>必要的警示性安全符号或标记需永久贴牢在设备上或其它合适区域，并保证标记具有较强 的可读性。</p>
+            <note type="note">
+                <ul id="ul_xct_mmk_bdb">
+                    <li>
+                        <p>必要的警告和安全标记需固定良好且可读性强，另需注意地方法规要求。</p>
+                    </li>
+                    <li>
+                        <p>手册中安全标记与系统硬件设备上粘贴的标签应保持一致。</p>
+                    </li>
+                </ul>
+            </note>
+        </section>
+        <section id="section_ymg_lwg_1db">
+            <p>根据功能的不同，出现在本手册和设备上的安全符号和标签可以分为以下几类：</p>
+            <ul id="ul_rr4_b1h_1db">
+                <li>
+                    <p>指令符号</p>
+                </li>
+                <li>
+                    <p>警告符号</p>
+                </li>
+                <li>
+                    <p>禁止符号</p>
+                </li>
+                <li>
+                    <p>电子电气安全标签</p>
+                </li>
+                <li>
+                    <p>运输储存安全标签</p>
+                </li>
+                <li>
+                    <p>设备分类指示</p>
+                </li>
+            </ul>
+            <p>各类符号和标签的含义和位置如下表格所示：</p>
+            <table frame="all" rowsep="1" colsep="0" id="table_tyn_r2r_b2b">
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c2" colnum="3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>指令符号</p>
+                            </entry>
+                            <entry>
+                                <p>说明</p>
+                            </entry>
+                            <entry>
+                                <p>位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image href="../../images/figure2-3.png" id="image_frc_14k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>参考使用说明书</p>
+                            </entry>
+                            <entry>
+                                <p>手册中</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-2.png" id="image_xnq_14k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>婴幼儿眼睛保护</p>
+                            </entry>
+                            <entry>
+                                <p>手册中</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" rowsep="1" colsep="0" id="table_uvb_v2r_b2b">
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c2" colnum="3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>警告符号</p>
+                            </entry>
+                            <entry>
+                                <p>说明</p>
+                            </entry>
+                            <entry>
+                                <p>位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image href="../../images/figure2-5.png" id="image_wgx_n4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>电离辐射</p>
+                            </entry>
+                            <entry>
+                                <p>机架和外壳</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-6.png" id="image_ypr_44k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>危险电压</p>
+                            </entry>
+                            <entry>
+                                <p>机架、外壳和电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-7.png" id="image_qq1_q4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>警告，小心手被挤压</p>
+                            </entry>
+                            <entry>
+                                <p>检查床和外壳</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-8.png" id="image_o3h_r4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>表面高温</p>
+                            </entry>
+                            <entry>
+                                <p>机架</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-9.png" id="image_gdl_s4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry><p/>当心身体被挤压</entry>
+                            <entry><p/>检查床</entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-10.png" id="image_rvr_t4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>防止绊倒</p>
+                            </entry>
+                            <entry>
+                                <p>检查床</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-11.png" id="image_itb_v4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>当心夹脚</p>
+                            </entry>
+                            <entry>
+                                <p>机架和检查床</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-12.png" id="image_nb2_w4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>激光束</p>
+                            </entry>
+                            <entry>
+                                <p>机架和外壳</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-13.png" id="image_c3b_x4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>激光束说明</p>
+                            </entry>
+                            <entry>
+                                <p>机架和外壳</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-14.png" id="image_sqy_x4k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>通用警告标记</p>
+                            </entry>
+                            <entry>
+                                <p>机架、检查床和外壳</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" rowsep="1" colsep="0" id="table_ccq_vxq_b2b">
+               <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                <colspec colname="c2" colnum="3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>禁止符号</p>
+                            </entry>
+                            <entry>
+                                <p>说明</p>
+                            </entry>
+                            <entry>
+                                <p>位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image href="../../images/figure2-3.png" id="image_njy_wpk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>禁止推动</p>
+                            </entry>
+                            <entry>
+                                <p>电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-16.png" id="image_z15_hqk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>禁止踩踏</p>
+                            </entry>
+                            <entry>
+                                <p>检查床和电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-17.png" id="image_q3k_3qk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>禁止吸烟</p>
+                            </entry>
+                            <entry>
+                                <p>装机现场</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-18.png" id="image_cdw_3qk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>禁止明火</p>
+                            </entry>
+                            <entry>
+                                <p>装机现场</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-19.png" id="image_ukn_jqk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>禁止坐卧</p>
+                            </entry>
+                            <entry>
+                                <p>检查床和电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-20.png" id="image_i51_kqk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>最大负载 250 kg</p>
+                            </entry>
+                            <entry>
+                                <p>检查床</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-21.png" id="image_gcp_kqk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>最大负载 30 kg</p>
+                            </entry>
+                            <entry>
+                                <p>检查床头托</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" rowsep="1" colsep="0" id="table_pcg_zxq_b2b">
+                <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                <colspec colname="c2" colnum="3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>电子和电气安全</p>
+                            </entry>
+                            <entry>
+                                <p>说明</p>
+                            </entry>
+                            <entry>
+                                <p>位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image href="../../images/figure2-22.png" id="image_ovw_krk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>保护接地</p>
+                            </entry>
+                            <entry>
+                                <p>机架、检查床和电源分配机柜</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-23.png" id="image_jvk_prk_bdb"
+                            /></entry>
+                            <entry>
+                                <p>请勿随意丢弃</p>
+                            </entry>
+                            <entry>
+                                <p>外壳，系统标签</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-24.png" id="image_nk3_zrk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>生产日期</p>
+                            </entry>
+                            <entry>
+                                <p>外壳，系统标签</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-25.png" id="image_wdy_zrk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>电气电子产品污染控制标志50 年期</p>
+                            </entry>
+                            <entry>
+                                <p>外壳</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-26.png" id="image_v1m_1sk_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>系统标签</p>
+                            </entry>
+                            <entry>
+                                <p>外壳</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" rowsep="1" colsep="0" id="table_sry_cyq_b2b">
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c2" colnum="3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>运输储存安全标签</p>
+                            </entry>
+                            <entry>
+                                <p>说明</p>
+                            </entry>
+                            <entry>
+                                <p>位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image href="../../images/figure2-27.png" id="image_ubl_d5k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>易碎，小心轻放</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-28.png" id="image_abv_d5k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>此面向上</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-29.png" id="image_vm2_25k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>避免受潮</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-30.png" id="image_mmn_25k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>重心</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-31.png" id="image_qxy_25k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>温度限制</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-32.png" id="image_ujq_f5k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>回收利用</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-24.png" id="image_dxm_mmd_cdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>生产日期</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-31.png" id="image_nw4_4md_cdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>运输环境条件</p>
+                            </entry>
+                            <entry>
+                                <p>系统</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-33.jpg" id="image_g1d_g5k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>倾斜</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-34.jpg" id="image_nv5_h5k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>震动</p>
+                            </entry>
+                            <entry>
+                                <p>发货箱</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table frame="all" rowsep="1" colsep="0" id="table_uwg_gyq_b2b">
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c2" colnum="3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>设备分类指示</p>
+                            </entry>
+                            <entry>
+                                <p>说明</p>
+                            </entry>
+                            <entry>
+                                <p>位置</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image href="../../images/figure2-35.png" id="image_zwg_q5k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>B 型应用部分</p>
+                            </entry>
+                            <entry>
+                                <p>检查床</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><image href="../../images/figure2-36.png" id="image_trq_q5k_bdb"
+                                    placement="inline"/></entry>
+                            <entry>
+                                <p>BF 型应用部分</p>
+                            </entry>
+                            <entry>
+                                <p>生理信号门控单元</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

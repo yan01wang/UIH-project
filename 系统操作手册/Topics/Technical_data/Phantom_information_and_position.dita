@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lk5_v2m_cdb" xml:lang="zh">
+    <title>体模信息及摆位</title>
+    <shortdesc/>
+    <conbody>
+        <p>剂量体模是由聚甲基丙烯酸酯制成的圆柱体，用于头部的剂量体模直径为160 mm。用于体部的剂量体模直径为 320 mm，其高度不小于 140 mm。</p>
+        <p xtrc="/w:document/w:body[1]/w:p[343]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+            >测量时将体模放置到患者支架上，置于机架旋转轴的中心，在无任何附加衰减物质的情况下 进行剂量测试得到的。</p>
+        <image href="../../images/figure8-8.png" id="image_bzm_2fm_cdb"/>
+        <p>如上图所示，BC、B1、B2、B3、B4 的位置分别为：</p>
+        <p>BC：沿着体模的旋转轴线（CTDI100中心）。</p>
+        <p>B1：沿着旋转轴的平行线、距体模的表面向里10 mm。</p>
+        <p>B2：沿着旋转轴的平行线、距体模的表面向里10 mm，从B1的位置转270°。</p>
+        <p>B3：沿着旋转轴的平行线、距体模的表面向里10 mm，从B1的位置转180°。</p>
+        <p>B4：沿着旋转轴的平行线、距体模的表面向里10 mm，从B1的位置转90°。</p>
+    </conbody>
+</concept>

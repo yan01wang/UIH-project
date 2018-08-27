@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_djy_fkx_bdb" xml:lang="zh">
+    <title>机架外壳和相关部件</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>HMI部件</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body id="body_yy2_yds_g2b">
+        <p id="p_n4t_kwd_ldb">PET/CT机架外壳用于HMI（Human Machine
+            Interface，HMI）部件的支撑和装配。机架外壳可以包装机体内部，达到美观、装饰的效果，还具有安全保护、辅助通风散热、支撑HMI部件等功能。机架内部机械结构用于支持 CT
+            和 PET 探测器正常工作。</p>
+        <ul id="ul_vzq_njl_xdb">
+            <li>机架孔径范围为 700 mm ± 10 mm。</li>
+            <li>机架外壳主体部分材料为玻璃钢。</li>
+        </ul>
+        <p>PET/CT 机架外壳如下图所示，配有人机交互部件，用于控制检查床，支持患者扫描顺利完成。</p>
+        <fig id="fig_b4y_blx_bdb">
+            <title>机架外壳</title>
+            <image href="../../images/figure3-4.png" id="image_iyb_glx_bdb" placement="break"/>
+        </fig>
+        <simpletable relcolwidth="1.0* 1.0*" id="simpletable_fn3_kxc_n2b">
+            <strow>
+                <stentry>急停按钮 （两侧）</stentry>
+                <stentry>机架数据显示屏</stentry>
+            </strow>
+            <strow>
+                <stentry>机架控制面板 （两侧）</stentry>
+                <stentry>呼吸导航</stentry>
+            </strow>
+            <strow>
+                <stentry>激光定位灯 （两侧、上方）</stentry>
+                <stentry>外触发接口</stentry>
+            </strow>
+        </simpletable>
+        <ul id="ul_ip5_hmx_bdb">
+            <li>机架扫描孔径正上方为数据显示屏，用以显示检查床位置信息和患者信息，以及患者生 理信号，详细功能描述请参见第 3-10 页 “ 数据显示屏 ”。</li>
+            <li>机架左右两侧配有控制面板，用于控制检查床运动、激光定位、患者呼吸导航等，详细功能描述请参见第 3-14 页 “ 机架控制面板”。</li>
+            <li>机架左右两侧有急停按钮，用于在紧急情况下中断扫描，停止检查床运行，X射线放射 等，详细功能描述请参见第 3-16 页 “ 紧急停止按钮 ”。</li>
+            <li>机架孔径内安装激光定位灯，用于在CT 扫描时精准定位患者，详细功能描述请参见第3-16 页 “ 激光定位灯 ”。</li>
+            <li>机架CT 端装有呼吸导航灯，用于进行患者呼吸导航，详细功能描述请参见第3-17 页 “ 呼吸导航灯 ”。</li>
+            <li>机架孔径内安装光环境，用于照明或引导患者呼吸，详细功能描述请参见第3-18页 “光环境 ”。</li>
+            <li>机架上预留外置生理信号门控单元接口，详细功能描述请参见第 3-20 页 “ 外触发接口”。</li>
+        </ul>
+        <note type="other" othertype="帮助信息">
+            <p>只在 PET 和 CT 端同时配有机架控制面板、急停按钮、呼吸导航和数据显示屏。</p>
+        </note>
+    </body>
+</topic>

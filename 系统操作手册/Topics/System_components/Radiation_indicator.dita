@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bhy_tnx_bdb" xml:lang="zh">
+    <title> 辐射指示灯</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_xmd_wnx_bdb">
+            <li>在扫描间期，辐射指示灯为黄色。</li>
+            <li>系统高压球管放线时，辐射指示灯指示 X 射线辐射，如下图所示。<image href="../../images/figure3-7.png"
+                    id="image_irb_ynx_bdb" placement="break"/></li>
+            <li>系统处于 PET 扫描时，辐射指示灯指示 γ射线辐射，如下图所示。<image href="../../images/figure3-8.png"
+                    id="image_djv_14x_bdb" placement="break"/></li>
+        </ul>
+    </conbody>
+</concept>

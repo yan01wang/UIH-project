@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_oqx_gjp_bdb" xml:lang="zh">
+    <title>球管预热</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>在进行扫描之前，必须对 X 射线球管进行完整的预热。否则将会影响球管的常规曝光效果。日检的预热程序可使 X 射线球管达到正常运行的温度。</p>
+            <p>球管的热容量状态会显示在控制台软件界面上。在以下三种情况下，需要执行球管预热程序：</p>
+            <ul id="ul_edh_mjp_bdb">
+                <li>
+                    <p>球管的热容量低于10% 时。</p>
+                </li>
+                <li>
+                    <p>当系统终止操作超过5 小时后。</p>
+                </li>
+                <li>
+                    <p>每天开始扫描患者前。</p>
+                </li>
+            </ul>
+        </context>
+        <steps>
+            <stepsection>X 射线球管预热操作步骤如下：</stepsection>
+            <step>
+                <cmd>确认扫描间现场没有人员。</cmd>
+            </step>
+            <step>
+                <cmd>点击球管预热进入球管预热界面。</cmd>
+                <info><image href="../../images/figure5-3.jpeg" id="image_fbv_41q_bdb" width="5in" placement="break"/></info>
+            </step>
+            <step>
+                <cmd>选择所需达到的球管热容量，及热容量精度，然后点击开始启动球管预热程序。</cmd>
+            </step>
+            <step>
+                <cmd>球管预热结束后，球管的热容量应高于预设值，此时系统准备完毕可以进行正常的扫描操作。</cmd>
+                <info>
+                    <note type="warning">
+                        <p>CT 预热过程中会产生辐射，开始操作前请确保扫描间内无人。</p>
+                    </note>
+                    <note type="caution">
+                        <p>在需要对急诊患者进行紧急扫描时可以跳过预热程序，但需在大焦点且功率低于30kw条件下进行曝光。</p>
+                    </note>
+                    <note type="note">
+                        <p>所需达到的球管目标热容量建议选择15%。每日扫描开始前首次预热，目标热容建议选择50%。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

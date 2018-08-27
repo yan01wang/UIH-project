@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_qbq_fwd_cdb" xml:lang="zh">
+    <title>断路器开关</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>配电柜<index-sort-as>P配电柜</index-sort-as><indexterm>断路器开关</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section id="section_xjf_nwd_cdb">
+            <p>断路器内开关示意图如下所示。</p>
+            <fig id="fig_lsm_nwd_cdb">
+                <title>PSC 断路器开关区放大图</title>
+                <image href="../../images/figure3-62.png" width="128.30mm" height="46.50mm"
+                    id="image_m3s_nwd_cdb" placement="break"/>
+            </fig>
+            <p>电源分配机柜断路器标号对应的电源开关功能如下表所示。</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_p4j_qwd_cdb">
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="1.0*" colnum="1"/>
+                    <colspec colname="col2" colwidth="1.0*" colnum="2"/>
+                    <colspec colname="col3" colwidth="1.0*" colnum="3"/>
+                    <thead>
+                        <row>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p>断路器标号</p>
+                            </entry>
+                            <entry align="center" valign="middle" colsep="0">
+                                <p>对应电源</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p>功能说明</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p>Q</p>
+                            </entry>
+                            <entry>
+                                <p>主开关</p>
+                            </entry>
+                            <entry>
+                                <p>整个 PSC 的开关，控制 Q1 ~ Q11</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>F1</p>
+                            </entry>
+                            <entry>
+                                <p>控制开关 1</p>
+                            </entry>
+                            <entry>
+                                <p>除 Q 之外的第二个主开关，控制Q1 ~ Q11</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>F2</p>
+                            </entry>
+                            <entry>
+                                <p>控制开关 2</p>
+                            </entry>
+                            <entry>
+                                <p>除 Q 和 F1 之外的第三个主开关， 控制 Q1 ~ Q11</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Q2</p>
+                            </entry>
+                            <entry>
+                                <p>主驱动</p>
+                            </entry>
+                            <entry>
+                                <p>CT 机架的主驱动</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Q3</p>
+                            </entry>
+                            <entry>
+                                <p>检查床开关</p>
+                            </entry>
+                            <entry>
+                                <p>检查床子部件开关</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Q4</p>
+                            </entry>
+                            <entry>
+                                <p>CT 机架开关</p>
+                            </entry>
+                            <entry>
+                                <p>CT 子部件开关</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Q5</p>
+                            </entry>
+                            <entry>
+                                <p>控制台开关</p>
+                            </entry>
+                            <entry>
+                                <p>子部件开关</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Q6</p>
+                            </entry>
+                            <entry>
+                                <p>PET 电源开关</p>
+                            </entry>
+                            <entry>
+                                <p>PET 电源开关</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Q7 ~ Q11</p>
+                            </entry>
+                            <entry>
+                                <p>备用开关</p>
+                            </entry>
+                            <entry>
+                                <p>NA</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Q1</p>
+                            </entry>
+                            <entry>
+                                <p>CT 高压发生器</p>
+                            </entry>
+                            <entry>
+                                <p>CT 高压发生器的开关，Q、F1 和F2 同时开，才能开，输出电压为400 V</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

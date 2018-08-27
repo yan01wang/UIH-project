@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_operations?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_operations/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="task_j1z_hs2_1db" xml:lang="zh" xtrc="task:1;3:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">定位像扫描</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">定位像的目的是定位扫描患者，扫描开始前请先确认患者在检查中没有移位，并告知其在定位片结束前不要移动。</shortdesc><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+        <steps class="- topic/ol task/steps " xtrc="steps:1;7:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+            <stepsection class="- topic/li task/stepsection " xtrc="stepsection:1;8:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">用户可以遵循以下步骤进行定位像扫描：</stepsection>
+            <step class="- topic/li task/step " xtrc="step:1;9:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">在X 射线放射前，确保所有人员已经撤离扫描间。操作人员返回控制台，检查患者定位和扫描参数。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;12:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;13:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">确认患者是否已安全定位，按下扫描控制区确认按钮。此时系统弹出提示 “ 请按住移床按钮 ”。并且控制盒移床按钮背光灯点亮。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;15:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;16:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">根据提示按下控制盒的移床按钮。在到达目标位置前，该按钮将一直快速闪烁。到达预 设位置后，背光灯熄灭。</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_rpl_4s2_1db" xtrc="substeps:1;17:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:1;18:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:4;19:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">移床过程中，可以通过检查床位置信息显示区或者控制面板实时观察检查床位置。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:2;21:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:5;22:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">如果同时在水平和垂直方向移动检查床，需要按照系统提示，长按移床按钮，直至到达目标位置。如果在此过程中松开按钮，移床按钮背光灯将持续快速闪烁，提示尚未完成移床。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:3;24:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:6;25:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">此时如果想要放弃当前移床操作，可以点击取消。取消后定位像处于未扫描状态，可以继续修改其扫描参数重新执行。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;29:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:7;30:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">完成移床后，系统弹出提示“ 请按下扫描按钮”，并且控制盒扫描按钮背光灯点亮。按下控制盒扫描按钮，开启定位像扫描。</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_rfm_ts2_1db" xtrc="substeps:2;31:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:4;32:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:8;33:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">X 射线放射期间控制盒上的放射指示灯会点亮。确保X 射线放射期间无人进入扫描间。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:5;35:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:9;36:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">需要确认患者在检查中没有移动并指示其在定位片结束前保持不动。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:6;38:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:10;39:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">此时如果想要放弃当前扫描，可以点击取消，取消后定位像处于已扫描状态，可以重复并修改定位像协议，再次执行扫描。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;43:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:11;44:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Scout_scan.dita">扫描完成后，可以在定位像浏览区观察定位像。同一个协议组内的 CT 和 PET 序列的扫描和重建定位框也显示在定位像上，可根据需要调整。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

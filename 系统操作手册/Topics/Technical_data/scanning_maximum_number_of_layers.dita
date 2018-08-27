@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_m3l_jnm_cdb" xml:lang="zh">
+    <title>单次断层扫描最大层数</title>
+    <body>
+        <p>对于一次断层扫描，最大图像层数为 128 层或 64 层，取决于具体配置。</p>
+    </body>
+</topic>

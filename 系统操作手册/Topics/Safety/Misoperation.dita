@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_vd1_1tm_1db" xml:lang="zh">
+    <title>不合理操作</title>
+    <body>
+        <p>为避免不合理操作造成的伪影或者图像质量下降，需要由经过培训，具有相应资格的用户按照要求执行图像采集，数据查看和分析等操作。</p>
+        <p>同时，在扫描，重建和数据分析参数设置超出所允许的阈值范围时，系统会有相应的提示， 需要按照系统提示修改参数至合理范围。</p>
+    </body>
+</topic>

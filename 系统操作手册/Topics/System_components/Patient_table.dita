@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ntz_nhy_bdb" xml:lang="zh">
+    <title>检查床</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>J检查床</index-sort-as>检查床</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>PET/CT
+            系统检查床包括底部水平运动部件、垂直升降运动部件、床板水平运动部件、床板、检查床外壳和附件。可以通过控制盒和机架外壳上的控制面板控制检查床的移动，同时检查床的垂直和水平位置会显示在主机界面和机架外壳的显示屏上。</p>
+        <p>检查床最大负载为 250 kg，进行患者检查时要严格遵守体重限制。</p>
+        <fig id="fig_iry_rhy_bdb">
+            <title>检查床床体</title>
+            <image href="../../images/figure3-43.png" id="image_vxv_5hy_bdb" placement="break"/>
+            <simpletable relcolwidth="1.0* 1.0*" id="simpletable_gqn_x1d_n2b">
+                <strow>
+                    <stentry>头托</stentry>
+                    <stentry>底座</stentry>
+                </strow>
+                <strow>
+                    <stentry>床体</stentry>
+                    <stentry>释放按钮</stentry>
+                </strow>
+                <strow>
+                    <stentry>垂直升降部分</stentry>
+                    <stentry>床把手</stentry>
+                </strow>
+                <strow>
+                    <stentry>水平移动部分</stentry>
+                    <stentry>床板</stentry>
+                </strow>
+            </simpletable>
+        </fig>
+        <ul id="ul_s4n_b3y_bdb">
+            <li>
+                <p>检查床主体由碳纤维可移动式床板构成。床板上为检查床床垫，用于患者扫描，主要功 能为防止漏液和生物污染，以及提升患者舒适度，详细操作请参见“检查床床板”</p>
+            </li>
+            <li>
+                <p>检查床的床板与底座之间由铰链支撑装置连接。该装置可以通过机架控制面板或软件操 控，详细操作请参见“垂直升降运动部件”。</p>
+            </li>
+            <li>
+                <p>PET/CT 检查床的床板下方设有两条运输轨道以供检查床移动，即滑轨。检查床在滑轨上方通过滑块前后移动。PET 与 CT
+                    检查床通过连接底板相接，详细操作请参见“床板水平运动部件”。</p>
+            </li>
+            <li>
+                <p>检查床床板下方由底座支撑整体，并允许床体沿着轨道滑动，详细操作请参见“床板水平运动部件”。</p>
+            </li>
+            <li>
+                <p>检查床设有头托插槽，头托插入后为悬空设计，可承重 30 kg。</p>
+            </li>
+            <li>
+                <p>检查床常见运动和控制方式请参见“检查床运动控制”。</p>
+            </li>
+            <li>
+                <p>同时，检查床带有辅助患者定位和提高扫描舒适度的附件，详细描述请参见“检查床附件及使用”。</p>
+            </li>
+        </ul>
+    </body>
+</topic>

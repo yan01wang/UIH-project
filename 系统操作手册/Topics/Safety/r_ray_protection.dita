@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zgw_ljh_1db" xml:lang="zh">
+    <title>γ射线防护</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>J伽马射线防护</index-sort-as>伽马射线防护</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>PET/CT
+            系统在扫描、测试和校准时需要使用放射源。放射源需要存放于铅屏蔽中。但在使用放射源进行测试和校准程序的情况下，设备附近可能会产生γ射线辐射。为了避免对人体造成伤害，用户应设立防护操作规范并积极予以遵守。</p>
+        <image href="../../images/figure2-5.png" id="image_rf5_v3p_bdb"/>
+        <p>为防止 γ射线危害，操作人员应采取以下措施：</p>
+        <ul id="ul_nct_hkh_1db">
+            <li>
+                <p>根据国家法律规定设置并执行放射源测试。</p>
+            </li>
+            <li>
+                <p>当使用放射源测试或校准设备时，操作员请勿进入扫描间，并与其保持一定的距离。</p>
+            </li>
+            <li>
+                <p>非必要时，请勿将放射源暴露于铅屏蔽之外。如果在使用放射源过程中出现任何问题， 请立即停止测试并致电联影客户服务部。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

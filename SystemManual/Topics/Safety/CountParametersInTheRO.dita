@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ffr_2pv_d2b">
+    <title>Count parameters in the RO</title>
+    <body>
+        <p>With respect to reducing the statistical errors, the number of voxel not involved in the
+            sta-tistical calculation should not exceed the half of total voxel.</p>
+    </body>
+</topic>

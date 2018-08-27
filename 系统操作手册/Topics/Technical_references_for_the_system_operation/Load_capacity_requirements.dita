@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_28" xtrc="" xml:lang="zh_CN">
+  <title xtrc="/w:document/w:body[1]/w:p[264]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    >承重力要求</title>
+  <body xtrc="/w:document/w:body[1]/w:p[265]">
+    <p xtrc="/w:document/w:body[1]/w:p[265]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >系统机架自重约为 3000 kg，检查床自重为 850 kg，均采用地脚螺栓的方式固定在地板 / 地面上。推荐采用 C25 以上的混凝土地板/ 地面，厚度至少为 150 mm，地板 /
+      地面相应的承重能力需达到 25 MPa（25 N/mm2）。</p>
+    <note type="note">
+      <p>客户负责为设备提供合适的地板固定方案和结构。联影对因地板固定（包括地震需求）不妥出现的问题概不负责。</p>
+    </note>
+  </body>
+</topic>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_o23_cnx_bdb" xml:lang="zh">
+    <title id="title_w54_pwd_ldb">数据显示屏</title>
+    <shortdesc id="shortdesc_ezc_qwd_ldb">机架数据显示屏（Data Display
+        Panel，DDP）位于机架外壳孔径上部，显示界面如图3-6，为用户提供一些重要的患者扫描信息。</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>数据显示屏<index-sort-as>S数据显示屏</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <fig id="fig_j5m_fnx_bdb">
+            <title>机架数据显示屏</title>
+            <image href="../../Images/figure3-5.png" id="image_ott_hnx_bdb" placement="break"/>
+        </fig>
+        <simpletable relcolwidth="1.0* 1.0*" id="simpletable_fn3_kxc_n2b">
+            <strow>
+                <stentry>患者信息区</stentry>
+                <stentry>系统状态区</stentry>
+            </strow>
+            <strow>
+                <stentry>辐射指示灯</stentry>
+                <stentry>帮助区</stentry>
+            </strow>
+            <strow>
+                <stentry>生理信号 / 扫描信息 / 温馨提示</stentry>
+                <stentry>扫描状态区</stentry>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

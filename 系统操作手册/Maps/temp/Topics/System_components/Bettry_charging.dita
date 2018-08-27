@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="topic_hgj_jrd_cdb" xml:lang="zh" xtrc="topic:1;3:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">充电相关</title><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">VSM 手持端电池需要及时充电，用户应当在每天早上开始注射、扫描前检查 VSM 电量，以防电量过低不能使用。</p>
+        <p class="- topic/p " xtrc="p:2;7:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">VSM 采用可充电电池供电，推荐使用电池型号为 NITECORE 的NL189。满足大于 500 次的充电放电需求，按一周充电 2 次计算，理想情况下可以使用 4
+            年左右。</p>
+        <p class="- topic/p " xtrc="p:3;9:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">在提示 VSM 电量较低时请及时将电池拔出，使用充电器进行充电。充电器请使用配套NITECORE i1 智能充电器。</p>
+        <p class="- topic/p " xtrc="p:4;10:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">电池充电出现异常时，请电话联系联影客户服务工程师。确认生命周期结束后需要进行充电电池更换。</p>
+        <note class="- topic/note " spectitle="overflow" type="caution" xtrc="note:1;11:51" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+            <p class="- topic/p " xtrc="p:5;12:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">请定期检查 VSM 手持端和相关组件，如心电导联线缆和呼吸气囊，出现故障时请立即停止扫描并联系联影客户服务工程师。</p>
+        </note>
+        <note class="- topic/note " type="note" xtrc="note:2;14:27" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+            <p class="- topic/p " xtrc="p:6;15:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">VSM 中使用的电池必需符合相应国家和地区法规需求，更换后电池应按照相应法规予以回收处理，不可自行处理或丢弃。</p>
+            <ul class="- topic/ul " id="ul_g4t_trd_cdb" xtrc="ul:1;16:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+                <li class="- topic/li " xtrc="li:1;17:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+                    <p class="- topic/p " xtrc="p:7;18:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">在 VSM 长期不使用时，请将电池取出，避免可能的漏液危险。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:2;20:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+                    <p class="- topic/p " xtrc="p:8;21:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">VSM 充电电池出现异常时，请联系联影客户服务工程师，确认问题后方可更换，请勿擅自拆装电池。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:3;23:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+                    <p class="- topic/p " xtrc="p:9;24:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">过度充放电可能引起电池和VSM 设备损伤，降低其使用寿命。在正常使用中，充电完毕后应及时取出电池。</p>
+                </li>
+            </ul>
+        </note>
+        <note class="- topic/note " type="caution" xtrc="note:3;28:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+            <ul class="- topic/ul " id="ul_zhq_wrd_cdb" xtrc="ul:2;29:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+                <li class="- topic/li " xtrc="li:4;30:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+                    <p class="- topic/p " xtrc="p:10;31:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">VSM 手持端电池需要及时充电，用户应当在每天早上注射、扫描开始之前检查 VSM 电量，以防电量过低不能使用。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:5;33:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+                    <p class="- topic/p " xtrc="p:11;34:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">当VSM 手持端电量低于20 % 时，紧急情况下充电至少5 分钟后使用。非紧急情况下充满电后再使用。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:6;36:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+                    <p class="- topic/p " xtrc="p:12;37:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">长时间不使用VSM 且电池电量耗尽的情况下，第一次充电时间需要4 ~ 5 小时，以保证电池电量充足，避免影响使用。</p>
+                </li>
+            </ul>
+        </note>
+        <note class="- topic/note " type="note" xtrc="note:4;41:27" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+            <p class="- topic/p " xtrc="p:13;42:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">生理信号门控单元使用的电池型号为 NL189，可采用座充充电。只能使用联影指定品牌和型号的电池。</p>
+        </note>
+        <note class="- topic/note " type="warning" xtrc="note:5;44:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">
+            <p class="- topic/p " xtrc="p:14;45:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Bettry_charging.dita">VSM 出现信号传输异常时，请停止使用并联系联影客户服务工程师，以便及时维修。未经许可，请勿擅自拆装 VSM。</p>
+        </note>
+    </body>
+</topic>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kmy_3qw_bdb" xml:lang="zh">
+    <title>冷却系统</title>
+    <conbody>
+        <p>PET 冷却系统位于机架底部，主要由压缩机、风机、冷凝器、蒸发器、膨胀阀和管路组成，并通过控制电路实现自动温度调节。PET 冷却系统为 PET
+            探测器模块及其电子学提供冷却功能。</p>
+    </conbody>
+</concept>

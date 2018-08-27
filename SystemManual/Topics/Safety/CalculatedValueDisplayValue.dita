@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qh4_jpv_d2b">
+    <title>Calculated value and display value </title>
+    <body>
+        <p>The statistics and analysis are calculated based on float type or double type data, but
+            the result will be rounded according to the display accuracy requirement for each
+            application. Therefore, these two data may vary slightly:</p>
+        <ul id="ul_pq3_qpv_d2b">
+            <li>
+                <p>After the system performs measurement, the measurement results are utilized by
+                    the user as the basis for performing further calculations to obtain more
+                    results.</p>
+            </li>
+            <li>
+                <p>Results are completed by the system after performing the same calculation.</p>
+            </li>
+        </ul>
+    </body>
+</topic>

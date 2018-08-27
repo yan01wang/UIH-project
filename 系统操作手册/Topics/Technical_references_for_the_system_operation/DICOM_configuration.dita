@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vj1_lgj_bdb" xml:lang="zh">
+    <title>DICOM 设置</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>在此可以设置与DICOM 相关的信息，如Archiving、MPPS、Worklist、Printer。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>进入Service->Configuration 界面。</cmd>
+            </step>
+            <step>
+                <cmd>从左侧导航栏中选择Archiving，进入Archiving 配置页面。在此进行 PASC 、DVD/USB归档设置。</cmd>
+            </step>
+            <step>
+                <cmd>从左侧导航栏中选择MPPS，进入MPPS 配置页面。MPPS 主要用于与RIS 设备通讯，更新当前检查的状态，使得设备与RIS
+                    中的信息保持同步。此节点的配置同PACS 节点配置类似，可以增加、删除、修改每一个RIS 节点的参数，只可查看不可修改。</cmd>
+            </step>
+            <step>
+                <cmd>从左侧导航栏中选择WorkList，进入Worklist配置页面。设置好各选项信息后，点击Save保存配置。</cmd>
+            </step>
+            <step>
+                <cmd>从左侧导航栏中选择Printer，进入Printer 配置页面。可在此查看打印机属性设置，不可修改。其中PeerAE
+                    为只读属性，不可修改该字段的值。修改完成后，点击Save，保存修改信息。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

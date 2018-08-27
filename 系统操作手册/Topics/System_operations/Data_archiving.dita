@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_t2k_ftf_1db" xml:lang="zh">
+    <title>数据归档</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <stepsection>
+                <p>用户可选择将患者扫描数据存档至 CD/DVD、USB 和 PACS（Picture Archiving and Communication
+                    Systems，PACS）。</p>
+            </stepsection>
+            <step>
+                <cmd>进入患者管理界面，点击归档按钮，打开归档窗口。</cmd>
+            </step>
+            <step>
+                <cmd>在归档窗口中选择目标归档位置，如 CD/DVD、USB 或 PACS。</cmd>
+                <substeps id="substeps_ykd_ltf_1db">
+                    <substep>
+                        <cmd>用户可在任务管理器中查看归档任务完成状态，也可对多个任务进行优先级操作。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>归档完成后，该任务将在任务管理器列表消失。如果归档失败，则该任务将保存在任务管理器列表中。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

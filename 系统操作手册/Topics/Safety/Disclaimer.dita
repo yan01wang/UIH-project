@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hbn_c2m_1db" xml:lang="zh">
+    <title>免责声明</title>
+    <shortdesc/>
+    <conbody>
+        <p>联影公司为本系统的设计者、生产者和装配者，不承担由于下述情况造成的系统安全性、可 靠性问题或其它责任：</p>
+        <ul id="ul_epw_32m_1db">
+            <li>
+                <p>未严格按照联影用户手册指导，操作错误从而引发的产品安全问题。</p>
+            </li>
+            <li>
+                <p>由未经联影许可的人员执行设备维护而造成的设备故障和损坏。</p>
+            </li>
+            <li>
+                <p>系统外部非联影负责的电气安装不符合法规标准和接线要求。</p>
+            </li>
+            <li>
+                <p>使用未经联影许可的第三方设备或辅助器件而造成的人员伤害或设备损坏。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

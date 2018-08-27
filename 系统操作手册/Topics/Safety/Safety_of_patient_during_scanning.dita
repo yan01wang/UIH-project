@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_twc_2sh_1db" xml:lang="zh">
+    <title> 扫描中患者安全</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_rfx_hsh_1db">
+            <li>扫描期间，操作员应时刻注意扫描进程，确保患者有人监管。如遇任何潜在安全隐患，请尽快将患者从此撤离。</li>
+            <li>检查床运动时，无论是手动或软件控制，请注意不要使患者与机架相碰。</li>
+            <li>留意系统对体重较重或超重型患者的要求和限制，这类患者可能会造成设备和组件损坏 或脱落并造成人员损伤。如有任何疑问，请联系联影客户服务部。</li>
+        </ul>
+        <note type="warning">
+            <p>在下列情况下，应立即按下最近的急停 （Emergency Stop,E-Stop）按钮：</p>
+            <ul id="ul_bjb_lsh_1db">
+                <li>
+                    <p>系统出现异常运动。</p>
+                </li>
+                <li>
+                    <p>按下其它急停按钮后按键卡住或不能立即中断。</p>
+                </li>
+                <li>
+                    <p>开始扫描后发现患者定位不准。</p>
+                </li>
+                <li>
+                    <p>检查床移动方向错误。</p>
+                </li>
+            </ul>
+        </note>
+        <note type="caution">
+            <p>患者与扫描孔径碰撞</p>
+            <ul id="ul_rhx_4jq_bdb">
+                <li>
+                    <p>执行 2000 mm 范围扫描时，如需使用绑带支持患者，降床时请注意将绑带解开，并保证患者与孔径不会发生碰撞。不支持使用患者释放按钮直接释放患者。</p>
+                </li>
+                <li>
+                    <p>扫描过程中，请注意时刻观察患者状态，保证扫描顺利进行。</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

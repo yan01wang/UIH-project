@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xcl_hrq_d2b">
+ <title>Abbreviations</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <table frame="all" rowsep="1" colsep="1" id="table_nxm_jrq_d2b">
+   <tgroup cols="2">
+    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+    <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+    <thead>
+     <row>
+      <entry>
+       <p>Abbreviation</p>
+      </entry>
+      <entry>
+       <p>English</p>
+      </entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry>
+       <p>ACCT</p>
+      </entry>
+      <entry>
+       <p>Attenuation Correction CT</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>CAPAN</p>
+      </entry>
+      <entry>
+       <p>Control Panel</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>CTCA</p>
+      </entry>
+      <entry>
+       <p>Curved Planar Reconstruction</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>CPR</p>
+      </entry>
+      <entry>
+       <p>CT Coronary Angiography</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>CTCA</p>
+      </entry>
+      <entry>
+       <p>Data Display Panel</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>DDP</p>
+      </entry>
+      <entry>
+       <p>Digital Imaging and Communications in Medicine</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>DICOM</p>
+      </entry>
+      <entry>
+       <p>DICOM Direction</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>DICOMDIR</p>
+      </entry>
+      <entry>
+       <p>Daily Quality Check</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>DQC</p>
+      </entry>
+      <entry>
+       <p>Emergency Stop</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>E-STOP</p>
+      </entry>
+      <entry>
+       <p>Emergency Power Off</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>FOV</p>
+      </entry>
+      <entry>
+       <p>Field of View</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>HMC</p>
+      </entry>
+      <entry>
+       <p>Head Motion Correction</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>MinIP</p>
+      </entry>
+      <entry>
+       <p>Minimum intensity Projection</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>MIP</p>
+      </entry>
+      <entry>
+       <p>Max Intensity Projection</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>MPPS</p>
+      </entry>
+      <entry>
+       <p>Modality Performed Procedure Step</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>MPR</p>
+      </entry>
+      <entry>
+       <p>Multiple Plane Reconstruction</p>
+      </entry>
+     </row>
+     <row>
+      <entry>
+       <p>MSE</p>
+      </entry>
+      <entry>
+       <p>Multiple Plane Reconstruction</p>
+      </entry>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+ </conbody>
+</concept>

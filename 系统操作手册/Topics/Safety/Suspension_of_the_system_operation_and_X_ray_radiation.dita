@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jpr_k5l_1db" xml:lang="zh">
+    <title>中断系统运动和射线放射</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>紧急停止<index-sort-as>J紧急停止</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context><p>在设备操作过程中如遇到设备故障或其他紧急情况，请立即按下距离最近的红色急停按钮（E-stop）。按下急停按钮后，0.5 s
+                内主驱动系统和检查床的电源将会切断。检查床的运动会在 10 mm 范围内停止，X 射线发射也会停止。</p><image
+                href="../../images/figure2-42.png" id="image_ep4_wnq_bdb"/></context>
+        <steps>
+            <step>
+                <cmd>按下急停按钮后，在扫描控制台界面会弹出 “ 设备正处于急停状态 ” 的对话框。当故障排除后，按照对话框中的指示复位系统。</cmd>
+            </step>
+            <step>
+                <cmd>设备停止运行后，把检查床移出，协助患者从检查床上下来。如果是设备故障，待患者安全 离开扫描间后，通知设备维修人员或者联系制造商对设备进行检修。</cmd>
+                <info>
+                    <p>如果是其他紧急情况，联系相关人员进行解决。</p>
+                    <p>急停按钮位于机架和控制盒上，具体位置请参见第 3-16 页 “ 紧急停止按钮 ”。</p>
+                    <note type="note">
+                        <p>按动急停按钮后，检查床水平方向的最大制动距离小于 10 mm。若检查床未能响应，且存在危险，应按下紧急断电按钮。</p>
+                    </note>
+                    <note type="note">
+                        <p>急停按钮仅适用于紧急情况下使用。急停操作可能造成球管的损坏或者数据的丢失。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

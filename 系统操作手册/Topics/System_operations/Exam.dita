@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_bg3_pq2_1db" xml:lang="zh">
+    <title>患者检查</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>H患者扫描</index-sort-as>患者扫描</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>完成患者登记，选定检查协议后，即可开始对患者执行检查。</p>
+    </body>
+</topic>

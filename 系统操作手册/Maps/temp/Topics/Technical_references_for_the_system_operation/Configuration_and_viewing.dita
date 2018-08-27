@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_references_for_the_system_operation?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_references_for_the_system_operation/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="topic_65" xml:lang="zh" xtrc="topic:1;4:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+  <title class="- topic/title " id="title__TOC_250007" xtrc="title:1;7:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">配置与查看</title><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+  <body class="- topic/body " xtrc="body:1;8:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+    <p class="- topic/p " xtrc="p:1;11:8" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">系统安装完成后，如需在操作处理界面进行软件和系统配置，或查看系统及质控服务信息信息。软件配置、系统信息查看主要在服务界面进行，可以获取用户登陆服务密码，进入相应 页面。</p>
+    <ol class="- topic/ol " id="ol_lcr_gpg_1db" xtrc="ol:1;12:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+      <li class="- topic/li " xtrc="li:1;15:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">点击 PA 界面右上角的联影图标，选择服务。</li>
+      <li class="- topic/li " xtrc="li:2;18:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">输入服务码，进入服务主界面。</li>
+      <li class="- topic/li " xtrc="li:3;21:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">点击 Configuration 进入配置页面，左侧为菜单导航，右侧为功能区。</li>
+      <li class="- topic/li " xtrc="li:4;24:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">在导航菜单中依次选择 System、Local Host、Applications、DICOM 等配置项，进行设置或查看。</li>
+      <li class="- topic/li " xtrc="li:5;27:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">点击 Tools&amp;Utilities、About、PET Service 标签，可切换查看相应页面。</li>
+    </ol>
+    <p class="- topic/p " xtrc="p:2;31:8" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">用户级别的权限登陆后可以查看到的功能如下表所示，请根据需要执行具体操作。</p>
+    <table class="- topic/table " colsep="1" frame="all" rowsep="1" xtrc="table:1;32:54" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+      <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;33:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+        <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="116.75pt" rowheader="headers" xtrc="colspec:1;34:54" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita"/>
+        <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="163.4pt" rowheader="headers" xtrc="colspec:2;35:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita"/>
+        <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="116.75pt" rowheader="headers" xtrc="colspec:3;36:54" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita"/>
+        <thead class="- topic/thead " xtrc="thead:1;37:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+          <row class="- topic/row " xtrc="row:1;38:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;39:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:3;42:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">所属类别</p>
+            </entry>
+            <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;44:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:4;47:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">项目名称</p>
+            </entry>
+            <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;49:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:5;52:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">用户权限</p>
+            </entry>
+          </row>
+        </thead>
+        <tbody class="- topic/tbody " xtrc="tbody:1;56:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+          <row class="- topic/row " xtrc="row:2;57:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;58:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:6;61:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;System</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;63:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:7;66:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Language and Time</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;68:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:8;71:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可配置</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:3;74:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;75:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:9;78:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;System</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;80:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:10;83:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">TCP/IP LAN</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;85:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:11;88:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可配置</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:4;91:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;92:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:12;95:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;Local Host</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;97:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:13;100:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Site info</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;102:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:14;105:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可查看，不可修改</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:5;108:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;109:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:15;112:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;Local Host</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;114:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:16;117:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Filming</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;119:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:17;122:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可配置</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:6;125:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:16;126:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:18;129:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;Local Host</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:17;131:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:19;134:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">FTP</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:18;136:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:20;139:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可查看，不可修改</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:7;142:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:19;143:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:21;146:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;Application</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:20;148:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:22;151:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Service Setting</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:21;153:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:23;156:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可查看，不可修改</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:8;159:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:22;160:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:24;163:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;Application</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:23;165:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:25;168:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Remote Configure</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:24;170:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:26;173:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可配置</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:9;176:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:25;177:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:27;180:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;Application</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:26;182:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:28;185:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">User Setting</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9" xtrc="entry:27;187:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:29;190:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可配置</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:10;193:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:28;194:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:30;197:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;Application</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" xtrc="entry:29;199:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:31;202:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Panel Configure</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10" xtrc="entry:30;204:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:32;207:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可配置</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:11;210:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:31;211:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:33;214:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;DICOM</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11" xtrc="entry:32;216:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:34;219:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Archiving</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11" xtrc="entry:33;221:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:35;224:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可查看，不可修改</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:12;227:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12" xtrc="entry:34;228:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:36;231:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;DICOM</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12" xtrc="entry:35;233:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:37;236:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">MPPS</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12" xtrc="entry:36;238:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:38;241:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可查看，不可修改</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:13;244:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13" xtrc="entry:37;245:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:39;248:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;DICOM</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13" xtrc="entry:38;250:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:40;253:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Worklist</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="13" xtrc="entry:39;255:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:41;258:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可配置</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:14;261:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14" xtrc="entry:40;262:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:42;265:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Configuration&gt;DICOM</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14" xtrc="entry:41;267:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:43;270:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Printer</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="14" xtrc="entry:42;272:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:44;275:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可查看，不可修改</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:15;278:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15" xtrc="entry:43;279:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:45;282:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Tools&amp;Utilities</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15" xtrc="entry:44;284:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:46;287:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">UtilityTool Common Tool</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="15" xtrc="entry:45;289:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:47;292:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可使用</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:16;295:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="16" xtrc="entry:46;296:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:48;299:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">About</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="16" xtrc="entry:47;301:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:49;304:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">Product Info System Info</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="16" xtrc="entry:48;306:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:50;309:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可查看，不可修改</p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrc="row:17;312:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="17" xtrc="entry:49;313:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:51;316:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">PET Service</p>
+            </entry>
+            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="17" xtrc="entry:50;318:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:52;321:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">备份与还原</p>
+            </entry>
+            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="17" xtrc="entry:51;323:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">
+              <p class="- topic/p " xtrc="p:53;326:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita">可执行</p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

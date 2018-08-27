@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_xrm_zr3_bdb" xml:lang="zh">
+    <title>系统测试</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>系统<index-sort-as>X系统</index-sort-as><indexterm>测试</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>安装完成后，需要由联影客户服务工程师进行系统测试并填写测试报告。确认所有测试项目通过后方可结束。</p>
+        <note type="note">
+            <ul id="ul_dbs_ds3_bdb">
+                <li>系统安装后，需对地线连接进行检测。</li>
+                <li>系统安装之后，需要进行相应的图像配准和测试。</li>
+                <li>系统安装完成后，用于第一次扫描前，联影客户服务工程师需手动操作所有运动控制，以保证不会有干涉。</li>
+            </ul>
+        </note>
+        <note type="other" othertype="帮助信息">
+            <ul id="ul_xgy_fs3_bdb">
+                <li>若系统安装在某些特殊地区，需要对系统采取额外的安装防护措施。</li>
+                <li>特殊地区需根据国家法律和当地法规进行系统安装。</li>
+            </ul>
+        </note>
+    </body>
+</topic>

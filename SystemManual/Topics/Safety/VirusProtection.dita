@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pk3_cjv_d2b">
+    <title>Virus protection</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Microsoft Security Essential (MSE) is the anti-virus software built into the system to
+            prevent malicious intrusion and protect data security.</p>
+        <p>When the computer is connected to a network system without security certification, the
+            computer may be at risk of being infected by computer viruses or other destructive
+            software. This system prevents virus infection through the use of MSE anti-virus
+            software.</p>
+        <ul id="ul_psh_hjv_d2b">
+            <li>
+                <p>MSE takes a series of measures to protect data security and prevent malicious
+                    intrusion of computer viruses.</p>
+            </li>
+            <li>
+                <p>To find and remove viruses effectively, MSE can be configured to periodically
+                    scan documents and data from the operating system and medical imaging
+                    post-processing system.</p>
+                <ul id="ul_c2t_3jv_d2b">
+                    <li>
+                        <p>MSE will perform virus detection on data entering the medical imaging
+                            post-processing system.</p>
+                    </li>
+                    <li>
+                        <p>MSE will automatically scan and detect the USB storage devices inserted
+                            into USB interfaces of the system.</p>
+                    </li>
+                    <li>
+                        <p>MSE performs virus detection when the user inserts a USB memory or CD/DVD
+                            into the system. If any virus is found, a window pops up to notify the
+                            user.</p>
+                    </li>
+                </ul>
+            </li>
+            <li>P<p>The customer service engineer will establish a virus scanning policy for the
+                    user according to specific service conditions.</p></li>
+            <li>
+                <p>Data communication can only be performed in the defined ways. All unnecessary
+                    ports or channels are locked.</p>
+            </li>
+        </ul>
+        <p>Since MSE has regularly scheduled scanning according to the actual conditions of a
+            user,the system operation may be slightly slower while scanning for and removing
+            viruses. However, this will not influence the normal operations of the system.</p>
+        <p>In order to deal with new types of viruses, the virus database needs to be upgraded. If
+            the database is not updated regularly, MSE may be unable to find and prevent certain new
+            types of viruses. According to user requirements, the customer service engineer will
+            help upgrade the virus database. In most cases, it is not recommended that the user
+            upgrades the virus database. This is because upgrading the virus database without strict
+            testing may result in unexpected problems and/or failure of the product.</p>
+        <note type="note">
+            <ul id="ul_cdt_tjv_d2b">
+                <li>
+                    <p>The anti-virus software keeps running by default to monitor and keep the
+                        security of the operation system.It is recommended that user triggers the
+                        full scan periodically at system idle time.</p>
+                </li>
+                <li>
+                    <p>The system may be updated with security patch for anti-virus after UIH's
+                        evaluation based on threatening level.</p>
+                </li>
+            </ul>
+        </note>
+        <note>
+            <ul id="ul_w5b_yjv_d2b">
+                <li>
+                    <p>The user should regularly check whether the anti-virus software is running.
+                        If the software does not work, please contact UIH customer service
+                        engineers.</p>
+                </li>
+                <li>
+                    <p>By default, firewall is open for domain network, public network and private
+                        network.Call service in case of the requirement for modification.</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

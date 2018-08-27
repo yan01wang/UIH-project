@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_sv4_tqq_d2b">
+ <title>Function descriptions</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>This system operation and processing software consists of two major function modules, including
+   image acquisition and image post-processing. The software performs medical CT image acquisition,
+   data management, image viewing and other operations through medical imaging and computer
+   software/hardware technologies. This aims to provide basis for image diagnosis or scientific
+   research process and offer auxiliary means to radiologists for disease diagnosis.</p>
+  <ul id="ul_n4t_vqq_d2b">
+   <li>
+    <p>Patient administration: It is mainly used for managing the patient data through managing and
+     displaying the exam information stored in the system. With this function, the user can inquire
+     the exam records, correct the patient information, merge/split the exams, and protect/unprotect
+     the image information, as well as save the patient exam information and transmit it to other
+     devices.</p>
+   </li>
+   <li>
+    <p>Patient registration: mainly used for registering patients, recording patient information and
+     scanning information, and choosing scan protocols and patient positions. Emergency registration
+     is provided for emergency patients. Pre-registration is supported for the patient who is not
+     scanned once being registered.</p>
+   </li>
+   <li>
+    <p>Exam: Mainly used for data acquisition and reconstruction, and for acquisition of CT, PET and
+     PET/CT scanning series, including scout scan, CT helical scan, CT axial scan, enhanced scan and
+     coronary scan.</p>
+   </li>
+   <li>
+    <p>Review 2D: The user can zoom, rotate, mirror, pan and locate the images, etc., process the
+     pseudo-colors, reverse the colors, adjust the window width and window level; make statistics on
+     histograms and dynamic curves of images; measure the length, angle and area of images, and add
+     texts and arrows.</p>
+   </li>
+   <li>
+    <p>Review 3D: The user can perform VR (Volume Rendering), MPR (Multi-Planar Reconstruction),
+     MaxIP (Maximum Intensity Projection) and MinIP (Minimum Intensity Projection). The
+     post-processing technologies include Sculpt - Volume Cropping and Target Volume - Tissue
+     Segmentation Box.</p>
+   </li>
+   <li>
+    <p>Fusion: mainly includes the review and analysis of the PET, CT or fusion image.</p>
+   </li>
+   <li>
+    <p>Filming: It mainly includes viewport and cell layout; image copying, cutting and pasting to
+     the designated position is supported in the film typesetting; you can insert a blank image,
+     cell or blank page before or after the selected image, merge multiple images into one picture
+     according to certain layout and display the picture within a cell, re-arrange the selected
+     continuous images in an inverted sequence; the functions of series comparison and interval
+     printing are provided.</p>
+   </li>
+   <li>
+    <p>Post-processing function configuration: Embed independent post-processing function modules
+     based on the actual need of users and the License configuration.</p>
+   </li>
+  </ul>
+ </conbody>
+</concept>

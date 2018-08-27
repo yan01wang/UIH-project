@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zbz_msf_1db" xml:lang="zh">
+    <title>胶片打印</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>在图像处理完成，并且所有的图像以最合适的方式显示和评估后，可以保存并且进入胶片打印界面</p>
+        </context>
+        <steps>
+            <stepsection>
+                <p>用户可将需要打印的图像发送至打印界面，进行相关编辑后发送至打印机，打印成胶片。操作步骤概述如下。</p>
+            </stepsection>
+            <step>
+                <cmd>将患者图像发送至胶片打印界面。</cmd>
+            </step>
+            <step>
+                <cmd>在胶片打印界面对胶片进行编辑。</cmd>
+            </step>
+            <step>
+                <cmd>确认打印机可用，发送编辑好的胶片至打印机进行胶片打印。</cmd>
+                <info>
+                    <fig id="fig_nsp_wsf_1db">
+                        <title>胶片打印界面</title>
+                        <image href="../../images/figure4-9.jpeg" id="image_l1f_ysf_1db"
+                            placement="break"/>
+                    </fig>
+                    <p>胶片打印界面分为序列列表区，控制面板区和胶片显示区，在此可以新建胶片，打印图像， 用于生成文档和报告以利于医生的诊断。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

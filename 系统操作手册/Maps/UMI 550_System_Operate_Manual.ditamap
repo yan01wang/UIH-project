@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xtrc="" xml:lang="en-US" rev="1.0" type="uMI550">
+  <title>UMI 550 系统操作手册</title>
+  <bookmeta>
+    <author>WangYan</author>
+    <authorinformation>
+      <organizationinfo>
+        <namedetails>
+          <personname>
+            <firstname>Wang</firstname>
+            <lastname>Yan</lastname>
+          </personname>
+          <organizationnamedetails>
+            <organizationname>TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation>
+    <critdates>
+      <created date="2018-03-20"/>
+      <revised modified="2018-03-21"/>
+    </critdates>
+    <othermeta name="Market" content="China"/>
+    <bookrights>
+      <bookowner>
+        <person>XXXX</person>
+        <organization>XXXX</organization>
+      </bookowner>
+      <bookrestriction value=""/>
+    </bookrights>
+  </bookmeta>
+  <frontmatter>
+    <preface href="../Librarytopic/preface.dita" rev="1.0">
+      <topicmeta>
+        <copyright>
+          <copyryear year="2018"/>
+          <copyrholder>UIH</copyrholder>
+        </copyright>
+      </topicmeta>
+    </preface>
+    <booklists>
+      <figurelist/>
+      <tablelist/>
+    </booklists>
+    <booklists>
+      <toc/>
+    </booklists>
+  </frontmatter>
+  <chapter href="Submaps/chapter_1.ditamap" format="ditamap"/>
+  <chapter href="../Topics/Safety/Basic_specification.dita" navtitle="安全">
+    <topicref href="../Topics/Safety/Safety_signs_and_symbols.dita" navtitle="2.1 安全标记与符号">
+      <topicref href="../Topics/Safety/Definitions_of_safety_levels.dita" navtitle="2.1.1 安全等级定义"
+        keys="uuid_0011"/>
+      <topicref href="../Topics/Safety/Safety_symbols_and_labels.dita" navtitle="2.1.2 安全符号与标签"
+        keys="UUID_0011"/>
+    </topicref>
+    <topicref href="../Topics/Safety/Basic_specification.dita" navtitle="2.2 基本规范"/>
+    <topicref href="../Topics/Safety/Personal_safety.dita" navtitle="2.3 人身安全">
+      <topicref href="../Topics/Safety/Radiation_safety.dita" navtitle="2.3.1 辐射安全">
+        <topicref href="../Topics/Safety/Routine_protection.dita" navtitle="2.3.1.1 常规防护"/>
+        <topicref href="../Topics/Safety/X_ray_protection.dita" navtitle="2.3.1.2 X射线防护"/>
+        <topicref href="../Topics/Safety/r_ray_protection.dita" navtitle="2.3.1.3 γ射线防护"/>
+        <topicref href="../Topics/Safety/Individual_dose_test.dita" navtitle="2.3.1.4 个人剂量检测"/>
+        <topicref href="../Topics/Safety/Low_dose_measures.dita" navtitle="2.3.1.5 低剂量措施"/>
+      </topicref>
+      <topicref href="../Topics/Safety/Electrical_safety.dita" navtitle="2.3.2 电气安全"/>
+      <topicref href="../Topics/Safety/Fire_safety.dita" navtitle="2.3.3 防火安全"/>
+      <topicref href="../Topics/Safety/Mechanical_safety.dita" navtitle="2.3.4 机械安全">
+        <topicref href="../Topics/Safety/Patient_safety_before_the_scanning.dita"
+          navtitle="2.3.4.1 扫描前患者安全"/>
+        <topicref href="../Topics/Safety/Safety_of_patient_during_scanning.dita"
+          navtitle="2.3.4.2 扫描中患者安全"/>
+        <topicref href="../Topics/Safety/Safety_during_maintenance.dita" navtitle="2.3.4.3 维修维护安全"/>
+      </topicref>
+      <topicref href="../Topics/Safety/Laser_safety.dita" navtitle="2.3.5 激光安全"/>
+      <topicref href="../Topics/Safety/Side_effects_of_the_products.dita"
+        navtitle="2.3.6 产品副作用及应对措施"/>
+      <topicref href="../Topics/Safety/Product_contraindications.dita" navtitle="2.3.7 产品禁忌症"/>
+      <topicref href="../Topics/Safety/Emergency_handling.dita" navtitle="2.3.8 禁忌情况处理">
+        <topicref
+          href="../Topics/Safety/Suspension_of_the_system_operation_and_X_ray_radiation.dita"
+          navtitle="2.3.8.1 中断系统运动和射线放射"/>
+        <topicref href="../Topics/Safety/Power_off_in_case_of_an_emergency.dita"
+          navtitle="2.3.8.2 紧急情况下断电"/>
+      </topicref>
+    </topicref>
+    <topicref href="../Topics/Safety/System_safety.dita" navtitle="2.4 系统安全">
+      <topicref href="../Topics/Safety/Electromagnetic_compatibility_EMC.dita"
+        navtitle="2.4.1 电磁兼容性"/>
+      <topicref href="../Topics/Safety/Equipment_compatibility.dita" navtitle="2.4.2 设备兼容性">
+        <topicref href="../Topics/Safety/Auxiliary_equipment_safety.dita" navtitle="2.4.2.1 辅助设备安全"/>
+        <topicref href="../Topics/Safety/Third_party_equipment_and_materials.dita"
+          navtitle="2.4.2.2 第三方设备和材料"/>
+        <topicref href="../Topics/Safety/Disclaimer.dita" navtitle="2.4.2.3 免责声明"/>
+      </topicref>
+      <topicref navtitle="2.4.3 操作系统和数据安全"
+        href="../Topics/Safety/Security_of_the_operating_system_and_data.dita"/>
+      <topicref href="../Topics/Safety/Transportation_safety.dita" navtitle="2.4.4 运输安全"/>
+      <topicref href="../Topics/Safety/Electrostatic_safety.dita" navtitle="2.4.5 静电安全"/>
+    </topicref>
+    <topicref href="../Topics/Safety/Environmental_protection.dita" navtitle="2.5 环境保护">
+      <topicref href="../Topics/Safety/Risks_of_radioactive_waste_disposal.dita"
+        navtitle="2.5.1 放射废物处理风险"/>
+      <topicref href="../Topics/Safety/Disposal_of_biohazardous_wastes_from_patients.dita"
+        navtitle="2.5.2 患者生物危险废物处理"/>
+      <topicref href="../Topics/Safety/Battery_safety_and_recycle.dita" navtitle="2.5.3 电池安全与回收处理"/>
+      <topicref href="../Topics/Safety/Product_disposal.dita" navtitle="2.5.4 产品处置">
+        <topicref href="../Topics/Safety/Hazardous_material_information.dita"
+          navtitle="2.5.4.1 有害物质信息"/>
+        <topicref href="../Topics/Safety/Disassembly_and_recycle.dita" navtitle="2.5.4.2 拆解与回收"/>
+        <topicref href="../Topics/Safety/Other_preventive_measures.dita" navtitle="2.5.4.3 其它防范措施"/>
+      </topicref>
+      <topicref href="../Topics/Safety/Oil_leakage_handling.dita" navtitle="2.5.5 油渗漏处理"/>
+    </topicref>
+    <topicref href="../Topics/Safety/Image_quality.dita" navtitle="2.6 图像质量">
+      <topicref href="../Topics/Safety/Misoperation.dita" navtitle="2.6.1 不合理操作"/>
+      <topicref href="../Topics/Safety/Bad_status_of_the_system.dita" navtitle="2.6.2 系统状态不佳"/>
+      <topicref href="../Topics/Safety/Physiological_factors_of_patient.dita"
+        navtitle="2.6.3 患者生理因素"/>
+    </topicref>
+    <topicref href="../Topics/Safety/Compliance_statement.dita" navtitle="2.7 符合性声明"/>
+  </chapter>
+  <chapter href="../Topics/System_components/System_components.dita" navtitle="系统组件">
+    <topicref href="../Topics/System_components/Overview.dita" navtitle="3.1 概述"/>
+    <topicref href="../Topics/System_components/PET_system.dita" navtitle="3.2 PET系统">
+      <topicref href="../Topics/System_components/PET_imaging_principles.dita"
+        navtitle="3.2.1 PET成像原理"/>
+      <topicref href="../Topics/System_components/PET_Composition_introduction.dita"
+        navtitle="3.2.2 构成简介">
+        <topicref href="../Topics/System_components/PET_detector.dita" navtitle="3.2.2.1 PET探测器"/>
+        <topicref href="../Topics/System_components/PET_electronics_system.dita"
+          navtitle="3.2.2.2 PET电子学"/>
+        <topicref href="../Topics/System_components/Cooling_system.dita" navtitle="3.2.2.3 冷却系统"/>
+        <topicref href="../Topics/System_components/Main_structure_of_the_PET_gantry.dita"
+          navtitle="3.2.2.4 PET机架主题结构"/>
+      </topicref>
+      <topicref href="../Topics/System_components/Technical_data.dita" navtitle="3.2.3 技术数据"/>
+    </topicref>
+    <topicref href="../Topics/System_components/CT_system.dita" navtitle="3.3 CT系统">
+      <topicref href="../Topics/System_components/CT_imaging_principles.dita"
+        navtitle="3.3.1 CT成像原理"/>
+      <topicref href="../Topics/System_components/CT_Composition_introduction.dita"
+        navtitle="3.3.2 构成简介">
+        <topicref href="../Topics/System_components/Fixed_parts_of_the_gantry.dita"
+          navtitle="3.3.2.1 机架固定部分"/>
+        <topicref href="../Topics/System_components/X-ray_tube_assembly.dita"
+          navtitle="3.3.2.2 X射线球管组件"/>
+        <topicref href="../Topics/System_components/High_voltage_generator.dita"
+          navtitle="3.3.2.3 高压发生器"/>
+        <topicref href="../Topics/System_components/Slip_ring.dita" navtitle="3.3.2.4 滑环"/>
+        <topicref href="../Topics/System_components/CT_detector.dita" navtitle="3.3.2.5 CT探测器"/>
+        <topicref href="../Topics/System_components/Collimation_system.dita" navtitle="3.3.2.6 准直系统"
+        />
+      </topicref>
+      <topicref href="../Topics/System_components/CT_Technical_data.dita" navtitle="3.3.3 技术数据"/>
+    </topicref>
+    <topicref href="../Topics/System_components/Gantry_cover_and_relevant_components.dita"
+      navtitle="3.4 机架外壳和相关部件">
+      <topicref href="../Topics/System_components/DDP.dita" navtitle="3.4.1 数据显示屏">
+        <topicref href="../Topics/System_components/Patient_information_area.dita"
+          navtitle="3.4.1.1 患者信息区"/>
+        <topicref href="../Topics/System_components/Radiation_indicator.dita"
+          navtitle="3.4.1.2 辐射指示灯"/>
+        <topicref href="../Topics/System_components/Vital_signalscan_informationkind_reminder.dita"
+          navtitle="3.4.1.3 生理信号扫描信息温馨提示"/>
+        <topicref href="../Topics/System_components/System_status_area.dita"
+          navtitle="3.4.1.4 系统状态区"/>
+        <topicref href="../Topics/System_components/Help_area.dita" navtitle="3.4.1.5 帮助区"/>
+        <topicref href="../Topics/System_components/Scan_status_area.dita" navtitle="3.4.1.6 扫描状态区"
+        />
+      </topicref>
+      <topicref href="../Topics/System_components/Gantry_control_panel.dita" navtitle="3.4.2 机架控制面板"/>
+      <topicref href="../Topics/System_components/E_Stop_button.dita" navtitle="3.4.3 紧急停止按钮"/>
+      <topicref href="../Topics/System_components/Laser_positioning_light.dita"
+        navtitle="3.4.4 激光定位灯"/>
+      <topicref href="../Topics/System_components/Respiration_navigation_light.dita"
+        navtitle="3.4.5 呼吸导航灯"/>
+      <topicref href="../Topics/System_components/Light_environment.dita" navtitle="3.4.6 光环境">
+        <topicref
+          href="../Topics/System_components/Settings_for_lighting_parameters_of_the_light_environment.dita"
+          navtitle="3.4.6.1 光环境照明参数设置"/>
+        <topicref
+          href="../Topics/System_components/Parameter_settings_of_the_light_environment_for_respiration_navigation.dita"
+          navtitle="3.4.6.2 呼吸导航光环境参数设置"/>
+      </topicref>
+      <topicref href="../Topics/System_components/External_trigger_interface.dita"
+        navtitle="3.4.7 外触发接口"/>
+    </topicref>
+    <topicref href="../Topics/System_components/Patient_table.dita" navtitle="3.5 检查床">
+      <topicref href="../Topics/System_components/Patient_table_composition.dita"
+        navtitle="3.5.1 检查床构成">
+        <topicref href="../Topics/System_components/Bottom_horizontal_moving_parts.dita"
+          navtitle="3.5.1.1 底部水平运动部件"/>
+        <topicref href="../Topics/System_components/Vertical_lifting_moving_parts.dita"
+          navtitle="3.5.1.2 垂直升降运动部件"/>
+        <topicref href="../Topics/System_components/Horizontal_moving_parts_of_the_table_top.dita"
+          navtitle="3.5.1.3 床板水平运动部件"/>
+        <topicref href="../Topics/System_components/Patient_table_top.dita" navtitle="3.5.1.4 检查床床板"/>
+        <topicref href="../Topics/System_components/The_patient_table_cover.dita"
+          navtitle="3.5.1.5 检查床外壳"/>
+        <topicref href="../Topics/System_components/Floating_button.dita" navtitle="3.5.1.6 浮动按钮"/>
+        <topicref href="../Topics/System_components/Patient_table_interface.dita"
+          navtitle="3.5.1.7 检查床接口"/>
+      </topicref>
+      <topicref href="../Topics/System_components/Patient_table_motion_control.dita"
+        navtitle="3.5.2 检查床运动控制">
+        <topicref href="../Topics/System_components/Important_position_of_the_patient_table.dita"
+          navtitle="3.5.2.1 检查床重要位置"/>
+        <topicref href="../Topics/System_components/Patient_table_control_buttons.dita"
+          navtitle="3.5.2.2 检查床控制按键"/>
+        <topicref href="../Topics/System_components/Common_movement_types_of_the_patient_table.dita"
+          navtitle="3.5.2.3 检查床常见移动类型"/>
+      </topicref>
+      <topicref href="../Topics/System_components/Patient_table_accessories_and_use.dita"
+        navtitle="3.5.3 检查床附件及使用">
+        <topicref href="../Topics/System_components/Accessory_composition.dita"
+          navtitle="3.5.3.1 附件构成"/>
+      </topicref>
+    </topicref>
+    <topicref href="../Topics/System_components/Console.dita" navtitle="3.6 控制台">
+      <topicref href="../Topics/System_components/Console_table_and_host_cabinet.dita"
+        navtitle="3.6.1 控制台桌和主机柜"/>
+      <topicref href="../Topics/System_components/Console_host.dita" navtitle="3.6.2 控制台主机"/>
+      <topicref href="../Topics/System_components/Monitor.dita" navtitle="3.6.3 显示器"/>
+      <topicref href="../Topics/System_components/Intercom_system.dita" navtitle="3.6.4 对讲系统">
+        <topicref href="../Topics/System_components/Microphone_and_loudspeaker.dita"
+          navtitle="3.6.4.1 麦克风和扬声器"/>
+        <topicref href="../Topics/System_components/Control_box.dita" navtitle="3.6.4.2 控制盒"/>
+      </topicref>
+      <topicref href="../Topics/System_components/Others.dita" navtitle="3.6.5 其它"/>
+    </topicref>
+    <topicref href="../Topics/System_components/PSC.dita" navtitle="3.7 电源分配机柜">
+      <topicref href="../Topics/System_components/PSC_structure.dita" navtitle="3.7.1 电源分配机柜结构"/>
+      <topicref href="../Topics/System_components/Breaker_switch.dita" navtitle="3.7.2 断路器开关"/>
+      <topicref href="../Topics/System_components/Technical_specifications.dita"
+        navtitle="3.7.3 技术规格"/>
+    </topicref>
+    <topicref href="../Topics/System_components/Vital_signal_monitor.dita" navtitle="3.8 生理信号门控单元">
+      <topicref href="../Topics/System_components/VSM_composition.dita" navtitle="3.8.1 VSM构成"/>
+      <topicref href="../Topics/System_components/VSM_operation.dita" navtitle="3.8.2 VSM操作"/>
+      <topicref href="../Topics/System_components/VSM_accessories.dita" navtitle="3.8.3 VSM附件"/>
+      <topicref href="../Topics/System_components/VSM_Technical_specifications.dita"
+        navtitle="3.8.4 技术规格"/>
+      <topicref href="../Topics/System_components/Bettry_charging.dita" navtitle="3.8.5 充电相关"/>
+    </topicref>
+    <topicref href="../Topics/System_components/QC_phantom.dita" navtitle="3.9 质控模体">
+      <topicref href="../Topics/System_components/Operation_methods.dita" navtitle="3.9.1 操作方法"/>
+      <topicref href="../Topics/System_components/Use_and_storage.dita" navtitle="3.9.2 取用存放"/>
+    </topicref>
+    <topicref href="../Topics/System_components/Operation_and_processing_software.dita"
+      navtitle="3.10 操作处理软件"/>
+  </chapter>
+  <chapter href="../Topics/System_operations/System_operations.dita" xtrc="" navtitle="系统操作">
+    <topicmeta xtrc="">
+      <navtitle xtrc="/w:document/w:body[1]/w:p[6]">系统操作</navtitle>
+      <metadata/>
+    </topicmeta>
+    <topicref href="../Topics/System_operations/Regular_workflow.dita" navtitle="4.1 常规工作流"/>
+    <topicref href="../Topics/System_operations/System_startup_and_shutdown.dita"
+      navtitle="4.2 系统开关机">
+      <topicref href="../Topics/System_operations/Poweron_and_start_of_the_system.dita"
+        navtitle="4.2.1 系统上电启动">
+        <topicref href="../Topics/System_operations/Poweron_steps_for_the_system.dita"
+          navtitle="4.2.1.1 系统上电步骤"/>
+        <topicref href="../Topics/System_operations/Precautions_for_the_system_power_supply.dita"
+          navtitle="4.2.1.2 系统供电注意事项"/>
+      </topicref>
+      <topicref href="../Topics/System_operations/System_startup_shutdown.dita"
+        navtitle="4.2.2 系统开启和关闭">
+        <topicref href="../Topics/System_operations/System_control_area.dita"
+          navtitle="4.2.2.1 系统控制区"/>
+        <topicref href="../Topics/System_operations/System_startup.dita" navtitle="4.2.2.2 系统开启"/>
+        <topicref href="../Topics/System_operations/System_shutdown.dita" navtitle="4.2.2.3 系统关闭"/>
+      </topicref>
+      <topicref href="../Topics/System_operations/System_restart.dita" navtitle="4.2.3 系统重启"/>
+    </topicref>
+    <topicref href="../Topics/System_operations/Equipmen_preparation.dita" navtitle="4.3 设备准备">
+      <topicref href="../Topics/System_operations/Start_up.dita" navtitle="4.3.1 开机启动"/>
+      <topicref href="../Topics/System_operations/Accessory_configuration.dita"
+        navtitle="4.3.2 配置附件"/>
+      <topicref href="../Topics/System_operations/Daily_QC.dita" navtitle="4.3.3 日常质控">
+        <topicref href="../Topics/System_operations/CT_daily_QC.dita" navtitle="4.3.3.1 CT日常质控"/>
+        <topicref href="../Topics/System_operations/PET_QC_without_source.dita"
+          navtitle="4.3.3.2 PET无源质控"/>
+        <topicref href="../Topics/System_operations/Preventive_inspection_measures.dita"
+          navtitle="4.3.3.3 预防性检查措施"/>
+      </topicref>
+    </topicref>
+    <topicref href="../Topics/System_operations/Patient_preparation.dita" navtitle="4.4 患者准备">
+      <topicref href="../Topics/System_operations/Preparation_before_scan.dita"
+        navtitle="4.4.1 扫描前准备"/>
+      <topicref href="../Topics/System_operations/Patient_positioning.dita" navtitle="4.4.2 患者摆位"/>
+    </topicref>
+    <topicref href="../Topics/System_operations/Patient_registration.dita" navtitle="4.5 患者登记">
+      <topicref href="../Topics/System_operations/Enter_the_patient_registration.dita"
+        navtitle="4.5.1 进入患者登记"/>
+      <topicref href="../Topics/System_operations/Patient_and_study_info_input.dita"
+        navtitle="4.5.2 患者和检查信息录入">
+        <topicref href="../Topics/System_operations/Routine_registration.dita"
+          navtitle="4.5.2.1 常规登记"/>
+        <topicref href="../Topics/System_operations/Pre-registration.dita" navtitle="4.5.2.2 预登记"/>
+        <topicref href="../Topics/System_operations/Emergency_registration.dita"
+          navtitle="4.5.2.3 紧急登记"/>
+        <topicref href="../Topics/System_operations/Existing_patient_registration.dita"
+          navtitle="4.5.2.4 已知患者登记"/>
+      </topicref>
+      <topicref href="../Topics/System_operations/Protocol_and_position_selection.dita"
+        navtitle="4.5.3 协议和体位选择">
+        <topicref href="../Topics/System_operations/Selection_of_scan_protocol.dita"
+          navtitle="4.5.3.1 扫描协议选择"/>
+        <topicref href="../Topics/System_operations/Scan_position_selection.dita"
+          navtitle="4.5.3.2 扫描体位选择"/>
+      </topicref>
+      <topicref href="../Topics/System_operations/Parameter_setting_and_verification.dita"
+        navtitle="4.5.4 参数设置和验证"/>
+    </topicref>
+    <topicref href="../Topics/System_operations/Exam.dita" navtitle="4.6 患者检查">
+      <topicref href="../Topics/System_operations/Enter_the_Exam_interface.dita"
+        navtitle="4.6.1 进入患者检查"/>
+      <topicref href="../Topics/System_operations/Scout_scan.dita" navtitle="4.6.2 定位像扫描"/>
+      <topicref href="../Topics/System_operations/CT_scan.dita" navtitle="4.6.3 CT扫描"/>
+      <topicref href="../Topics/System_operations/PET_scan.dita" navtitle="4.6.4 PET扫描"/>
+      <topicref href="../Topics/System_operations/Completing_scanning.dita" navtitle="4.6.5 完成扫描"/>
+    </topicref>
+    <topicref href="../Topics/System_operations/Viewing.dita" navtitle="4.7 图像浏览">
+      <topicref href="../Topics/System_operations/Enter_the_Viewing_interface.dita"
+        navtitle="4.7.1 进入图像浏览"/>
+      <topicref href="../Topics/System_operations/Fusion_viewing.dita" navtitle="4.7.2 融合浏览"/>
+      <topicref href="../Topics/System_operations/2D_viewing.dita" navtitle="4.7.3 二维浏览"/>
+      <topicref href="../Topics/System_operations/3D_viewing.dita" navtitle="4.7.4 三维浏览"/>
+    </topicref>
+    <topicref href="../Topics/System_operations/Filming.dita" navtitle="4.8 胶片打印"/>
+    <topicref href="../Topics/System_operations/Data_management.dita" navtitle="4.9 数据管理">
+      <topicref href="../Topics/System_operations/Data_archiving.dita" navtitle="4.9.1 数据归档"/>
+      <topicref href="../Topics/System_operations/Data_import.dita" navtitle="4.9.2 数据导入"/>
+      <topicref href="../Topics/System_operations/Offline_reconstruction.dita" navtitle="4.9.3 离线重建"
+      />
+    </topicref>
+  </chapter>
+  <chapter href="../Topics/System_maintenance/System_maintenance.dita" navtitle="系统维护保养">
+    <topicref href="../Topics/System_maintenance/Overview.dita" navtitle="5.1 概述"/>
+    <topicref href="../Topics/System_maintenance/Regular_maintenance.dita" navtitle="5.2 常规维护保养">
+      <topicref href="../Topics/System_maintenance/Preventive_inspection.dita"
+        navtitle="5.2.1 预防性检查"/>
+      <topicref href="../Topics/System_maintenance/System_cleaning_and_disinfection.dita"
+        navtitle="5.2.2 系统清洁消毒">
+        <topicref href="../Topics/System_maintenance/System_cleaning.dita" navtitle="5.2.2.1 系统清洁"/>
+        <topicref href="../Topics/System_maintenance/System_disinfection.dita"
+          navtitle="5.2.2.2 系统消毒"/>
+      </topicref>
+      <topicref href="../Topics/System_maintenance/Daily_QC.dita" navtitle="5.2.3 日常质控">
+        <topicref href="../Topics/System_maintenance/Tube%20warmup.dita" navtitle="5.2.3.1 球管预热"/>
+        <topicref href="../Topics/System_maintenance/Air_calibration.dita" navtitle="5.2.3.2 空气校正"/>
+        <topicref href="../Topics/System_maintenance/Tube_seasoning.dita" navtitle="5.2.3.3 球管训管"/>
+        <topicref href="../Topics/System_maintenance/Image_quality_test.dita"
+          navtitle="5.2.3.4 图像质量检测"/>
+        <topicref href="../Topics/System_maintenance/PET_QC_without_source.dita"
+          navtitle="5.2.3.5 PET无源质控"/>
+        <topicref href="../Topics/System_maintenance/PET_Full_QC.dita" navtitle="5.2.3.6 PET有源质控"/>
+      </topicref>
+    </topicref>
+    <topicref href="../Topics/System_maintenance/Professional_maintenance.dita"
+      navtitle="5.3 专业维护保养">
+      <topicref href="../Topics/System_maintenance/Preventive_maintenance_measures.dita"
+        navtitle="5.3.1 预防性维护保养措施"/>
+      <topicref href="../Topics/System_maintenance/Repair_and_spare_parts_replacement.dita"
+        navtitle="5.3.2 维修和备件更换"/>
+      <topicref href="../Topics/System_maintenance/Record_results.dita" navtitle="5.3.3 记录结果"/>
+    </topicref>
+    <topicref href="../Topics/System_maintenance/Service_life_of_the_product.dita"
+      navtitle="5.4 产品使用期限"/>
+  </chapter>
+  <chapter href="../Topics/Troubleshooting/Troubleshooting.dita" navtitle="常见故障排除">
+    <topicref href="../Topics/Troubleshooting/Overview.dita" navtitle="6.1 概述"/>
+    <topicref href="../Topics/Troubleshooting/PET-related_errors_and_troubleshooting.dita"
+      navtitle="6.2 PET相关报错和排查">
+      <topicref href="../Topics/Troubleshooting/Failure_for_QC_without_source.dita"
+        navtitle="6.2.1 无源质控失败"/>
+      <topicref href="../Topics/Troubleshooting/Failure_for_Full_QC.dita" navtitle="6.2.2 有源质控失败">
+        <topicref
+          href="../Topics/Troubleshooting/Errors_of_radioactive_source_position_and_activity.dita"
+          navtitle="6.2.2.1 放射源位置和活度报错"/>
+        <topicref href="../Topics/Troubleshooting/Error_for_patient_table_position_information.dita"
+          navtitle="6.2.2.2 检查床位置信息报错"/>
+      </topicref>
+    </topicref>
+    <topicref href="../Topics/Troubleshooting/Troubleshooting_of_CT_system.dita"
+      navtitle="6.3 CT系统故障排除"/>
+    <topicref href="../Topics/Troubleshooting/Troubleshooting_of_other_components.dita"
+      navtitle="6.4 其它部件故障排除"/>
+  </chapter>
+  <chapter
+    href="../Topics/Technical_references_for_the_system_operation/Technical_references_for_the_system_operation.dita"
+    navtitle="系统运行技术参考">
+    <topicref href="../Topics/Technical_references_for_the_system_operation/Overview.dita"
+      navtitle="7.1 概述"/>
+    <topicref
+      href="../Topics/Technical_references_for_the_system_operation/Relevant_responsibilities.dita"
+      navtitle="7.2 相关职责"/>
+    <topicref href="../Topics/Technical_references_for_the_system_operation/Site_preparation.dita"
+      navtitle="7.3 场地准备">
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Requirement_for_equipment_room_layout.dita"
+        navtitle="7.3.1 机房布局要求">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Dimensions_for_equipment_room_layout.dita"
+          navtitle="7.3.1.1 机房布局尺寸"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/General_rules_for_the_equipment_room_layout.dita"
+          navtitle="7.3.1.2 机房布局通用原则"/>
+      </topicref>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Operating_environment_requirements.dita"
+        navtitle="7.3.2 运行环境要求">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Temperature_and_humidity_requirements.dita"
+          navtitle="7.3.2.1 温湿度要求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Dustproof_requirements.dita"
+          navtitle="7.3.2.2 防尘要求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Air_conditioner_requirements.dita"
+          navtitle="7.3.2.3 空调要求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Vibration_requirements.dita"
+          navtitle="7.3.2.4 震动需求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Noise_requirements.dita"
+          navtitle="7.3.2.5 噪音需求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Ventilation_and_fire_protection_requirements.dita"
+          navtitle="7.3.2.6 通风和消防要求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Requirements_for_electromagnetic_radiation.dita"
+          navtitle="7.3.2.7 电磁辐射要求"/>
+      </topicref>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Component_dimension_and_service_space.dita"
+        navtitle="7.3.3 部件尺寸及服务空间">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Dimensions_of_PETCT_gantry.dita"
+          navtitle="7.3.3.1 PETCT机架尺寸"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Patient_table_dimension.dita"
+          navtitle="7.3.3.2 检查床尺寸"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Service_space_requirements_for_the_gantry_and_patient_table.dita"
+          navtitle="7.3.3.3 机架检查床服务空间"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_console_table.dita"
+          navtitle="7.3.3.4 控制台桌尺寸和服务空间"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Dimension_and_service_space_of_PSC.dita"
+          navtitle="7.3.3.5 PSC尺寸和服务空间"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Cable_distance_between_main_components_of_the_system.dita"
+          navtitle="7.3.3.6 系统主要部件线缆距离"/>
+      </topicref>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Ground_requirements.dita"
+        navtitle="7.3.4 地面要求">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Floor_levelness_requirements.dita"
+          navtitle="7.3.4.1 地面水平要求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Concrete_foundation_requirements.dita"
+          navtitle="7.3.4.2 混凝土基础要求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Requirements_for_ground_during_guide_rail_operation.dita"
+          navtitle="7.3.4.3 导轨运行地面要求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Load_capacity_requirements.dita"
+          navtitle="7.3.4.4 承重力要求"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Cable%20_trough_requirements.dita"
+          navtitle="7.3.4.5 电缆沟槽要求"/>
+      </topicref>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Power_distribution_requirements.dita"
+        navtitle="7.3.5 配电要求">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Profile_of_power_distribution_box.dita"
+          navtitle="7.3.5.1 配电箱概述"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Technical_specifications_of_the_power_distribution_box.dita"
+          navtitle="7.3.5.2 配电箱技术规格"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Requirements_for_other_components.dita"
+          navtitle="7.3.5.3 其他部件要求"/>
+      </topicref>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Networkrequirements.dita"
+        navtitle="7.3.6 网络要求">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Standard_protocol.dita"
+          navtitle="7.3.6.1 标准协议"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Requirements_for_the_socket_network_interface.dita"
+          navtitle="7.3.6.2 插座网口要求"/>
+      </topicref>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Lighting_requirements.dita"
+        navtitle="7.3.7 照明要求"/>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Requirements_for_radiation_protection.dita"
+        navtitle="7.3.8 辐射防护要求"/>
+    </topicref>
+    <topicref
+      href="../Topics/Technical_references_for_the_system_operation/Transportation_and_storage.dita"
+      navtitle="7.4 运输存储">
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Transportation_and_storage_environment.dita"
+        navtitle="7.4.1 运输存储环境"/>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Transportation_route.dita"
+        navtitle="7.4.2 运输路径">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Gantry_transportation_dimensions.dita"
+          navtitle="7.4.2.1 机架运输尺寸"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Transport_dimensions_of_the_patient_table.dita"
+          navtitle="7.4.2.2 检查床运输尺寸"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/PSC_transport_dimensions.dita"
+          navtitle="7.4.2.3 PSC运输尺寸"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Transportationroute.dita"
+          navtitle="7.4.2.4 运输途径"/>
+      </topicref>
+    </topicref>
+    <topicref
+      href="../Topics/Technical_references_for_the_system_operation/Installation_and_commissioning.dita"
+      navtitle="7.5 安装调试">
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Installation_safety.dita"
+        navtitle="7.5.1 安装安全">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/General_safety_instructions.dita"
+          navtitle="7.5.1.1 通用安全总则"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Clothing_safety_for_installation.dita"
+          navtitle="7.5.1.2 安装着装安全"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Safety_for_transporting_the_system_to_the_site.dita"
+          navtitle="7.5.1.3 系统进场安全"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita"
+          navtitle="7.5.1.4 安装操作安全"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Safety_of_installation_and_commissioning.dita"
+          navtitle="7.5.1.5 安装调试安全"/>
+      </topicref>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Installation_process.dita"
+        navtitle="7.5.2 安装流程">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Drilling_foundation_screw_holes.dita"
+          navtitle="7.5.2.1 地脚螺栓打孔"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Transporting_the_system_to_the_site.dita"
+          navtitle="7.5.2.2 系统进场"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Installation_of_PSC.dita"
+          navtitle="7.5.2.3 安装电源分配机柜"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Installing_the_PET_gantry.dita"
+          navtitle="7.5.2.4 安装PETCT机架"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Installing_the_patient_table.dita"
+          navtitle="7.5.2.5 安装检查床"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Installing_the_console.dita"
+          navtitle="7.5.2.6 安装控制台"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Connect_the_system_cables.dita"
+          navtitle="7.5.2.7 系统线缆连接"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Installing_the_cover.dita"
+          navtitle="7.5.2.8 安装外壳"/>
+        <topicref href="../Topics/Technical_references_for_the_system_operation/System_startup.dita"
+          navtitle="7.5.2.9 系统启动"/>
+        <topicref href="../Topics/Technical_references_for_the_system_operation/System_test.dita"
+          navtitle="7.5.2.10 系统测试"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/System_acceptance.dita"
+          navtitle="7.5.2.11 系统验收"/>
+      </topicref>
+    </topicref>
+    <topicref
+      href="../Topics/Technical_references_for_the_system_operation/Configuration_and_viewing.dita"
+      navtitle="7.6 配置与查看">
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/System_configuration.dita"
+        navtitle="7.6.1 系统配置">
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Routine_settings_for_the_system.dita"
+          navtitle="7.6.1.1 系统常规设置"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/Local_host_settings.dita"
+          navtitle="7.6.1.2 本地主机设置"/>
+        <topicref href="../Topics/Technical_references_for_the_system_operation/Applications.dita"
+          navtitle="7.6.1.3 应用程序"/>
+        <topicref
+          href="../Topics/Technical_references_for_the_system_operation/DICOM_configuration.dita"
+          navtitle="7.6.1.4 DICOM 设置"/>
+      </topicref>
+      <topicref href="../Topics/Technical_references_for_the_system_operation/Tool_operations.dita"
+        navtitle="7.6.2 工具使用"/>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Information_viewing.dita"
+        navtitle="7.6.3 信息查看"/>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/Backup_and_recovery.dita"
+        navtitle="7.6.4 备份还原"/>
+    </topicref>
+    <topicref href="../Topics/Technical_references_for_the_system_operation/Performance_test.dita"
+      navtitle="7.7 性能测试">
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/CT_performance_test.dita"
+        navtitle="7.7.1 CT性能测试"/>
+      <topicref
+        href="../Topics/Technical_references_for_the_system_operation/PET_performance_test.dita"
+        navtitle="7.7.2 PET性能测试"/>
+    </topicref>
+  </chapter>
+  <chapter href="../Topics/Technical_data/Technical_data_of_the_PET_system.dita" navtitle="技术支持">
+    <topicref href="../Topics/Technical_data/Technical_data_of_the_PET_system.dita"
+      navtitle="8.1 PET系统技术数据">
+      <topicref href="../Topics/Technical_data/PET_performance_parameters.dita"
+        navtitle="8.1.3 PET性能参数"/>
+    </topicref>
+    <topicref href="../Topics/Technical_data/Technical_data_of_CT_system.dita"
+      navtitle="8.2 CT系统技术数据">
+      <topicref href="../Topics/Technical_data/Technical_specifications_of_CT.dita"
+        navtitle="8.2.1 CT技术规格">
+        <topicref href="../Topics/Technical_data/Detector_parameters.dita" navtitle="8.2.1.1 探测器参数"/>
+        <topicref href="../Topics/Technical_data/High%20voltage%20generator.dita"
+          navtitle="8.2.1.2 X射线高压发生器"/>
+        <topicref href="../Topics/Technical_data/X-ray_tube.dita" navtitle="8.2.1.3 X射线球管"/>
+        <topicref href="../Topics/Technical_data/X-ray_tube_assembly.dita"
+          navtitle="8.2.1.4 X射线球管组件"/>
+        <topicref href="../Topics/Technical_data/X-ray_Tube_anode_patameters.dita"
+          navtitle="8.2.1.5 X射线球管内管"/>
+      </topicref>
+      <topicref href="../Topics/Technical_data/Dose_information.dita" navtitle="8.2.2 剂量信息">
+        <topicref href="../Topics/Technical_data/Definition_of_CTDI.dita" navtitle="8.2.2.1 CTDI定义"/>
+        <topicref href="../Topics/Technical_data/Phantom_information_and_position.dita"
+          navtitle="8.2.2.2 体模信息及摆位"/>
+        <topicref href="../Topics/Technical_data/Typical_scan_conditions.dita"
+          navtitle="8.2.2.3 典型扫描条件"/>
+        <topicref href="../Topics/Technical_data/CTDI_value.dita" navtitle="8.2.2.4 CTDI值"/>
+        <topicref href="../Topics/Technical_data/Dose_and_sensitivity_profiles.dita"
+          navtitle="8.2.2.5 剂量分布曲线和灵敏度曲线"/>
+        <topicref href="../Topics/Technical_data/Stray_radiation_dose_map.dita"
+          navtitle="8.2.2.6 杂散辐射剂量图"/>
+      </topicref>
+      <topicref href="../Topics/Technical_data/CT_performance_parameters.dita"
+        navtitle="8.2.3 CT性能参数">
+        <topicref href="../Topics/Technical_data/Image_performance.dita" navtitle="8.2.3.1 图像噪声"/>
+        <topicref href="../Topics/Technical_data/CT_value_uniformity.dita"
+          navtitle="8.2.3.2 CT值的均匀性"/>
+        <topicref href="../Topics/Technical_data/CT_value_Accuracy.dita" navtitle="8.2.3.3 CT值的准确性"/>
+        <topicref href="../Topics/Technical_data/CT_Reconstruction_matrix.dita"
+          navtitle="8.2.3.4 CT重建矩阵"/>
+        <topicref href="../Topics/Technical_data/Spatial_resolution_of%20_CT_system.dita"
+          navtitle="8.2.3.5 空间分辨率"/>
+        <topicref href="../Topics/Technical_data/low_resolution.dita" navtitle="8.2.3.6 低对比度分辨率"/>
+        <topicref href="../Topics/Technical_data/artefacts.dita" navtitle="8.2.3.7 伪影"/>
+        <topicref href="../Topics/Technical_data/CT_value_%20linearity.dita"
+          navtitle="8.2.3.8 CT值的线性度"/>
+        <topicref href="../Topics/Technical_data/Thickness_of_body_slice.dita"
+          navtitle="8.2.3.9 体层切片厚度"/>
+        <topicref href="../Topics/Technical_data/scanning_maximum_number_of_layers.dita"
+          navtitle="8.2.3.10 单次断层扫描最大层数"/>
+        <topicref href="../Topics/Technical_data/Scan_range_and_function_parameters.dita"
+          navtitle="8.2.3.11 扫描范围及功能参数"/>
+      </topicref>
+      <topicref href="../Topics/Technical_data/CT_performance_test.dita" navtitle="8.2.4 CT性能测试"/>
+    </topicref>
+    <topicref href="../Topics/Technical_data/Technical_data_of_patient_table.dita"
+      navtitle="8.3 检查床技术数据"/>
+    <topicref href="../Topics/Technical_data/Technical_data_of_console.dita" navtitle="8.4 控制台技术数据">
+      <topicref href="../Topics/Technical_data/Console_table_and_host_cabinet.dita"
+        navtitle="8.4.1 控制台桌和主机柜"/>
+      <topicref href="../Topics/Technical_data/Control_host.dita" navtitle="8.4.2 控制主机"/>
+      <topicref href="../Topics/Technical_data/Reconstruction_computer.dita" navtitle="8.4.3 重建机">
+        <topicref href="../Topics/Technical_data/PET_Reconstruction_computer.dita"
+          navtitle="8.4.3.1 PET重建机"/>
+        <topicref href="../Topics/Technical_data/CT_Reconstruction_computer.dita"
+          navtitle="8.4.3.2 CT重建机"/>
+      </topicref>
+    </topicref>
+    <topicref href="../Topics/Technical_data/Attachment_Technical_specifications.dita"
+      navtitle="8.5 附件技术规格">
+      <topicref href="../Topics/Technical_data/VSM_Technical_specifications.dita"
+        navtitle="8.5.1 VSM技术规格"/>
+    </topicref>
+    <topicref href="../Topics/Technical_data/Electromagnetic_interference_requirements.dita"
+      navtitle="8.6 电磁干扰要求"/>
+  </chapter>
+  <backmatter>
+    <booklists>
+      <indexlist/>
+    </booklists>
+  </backmatter>
+</bookmap>

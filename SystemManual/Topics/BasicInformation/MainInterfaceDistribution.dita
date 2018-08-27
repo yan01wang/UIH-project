@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_sny_tm4_f2b">
+ <title>Main interface distribution</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>After the host is started, the system will directly log in the uExceed software. The system
+   with standard configurations will display the Patient Administration interface, and automatically
+   load and display the latest patient information and related data. The PA interface is shown in
+   the following figure.</p>
+  <fig id="fig_dqf_bn4_f2b">
+   <title>Main interface distribution</title>
+   <image href="../../Images/figure3-1.png" placement="break" id="image_jdm_zm4_f2b"/>
+  </fig>
+  <table frame="none" rowsep="1" colsep="1" id="table_owv_fn4_f2b">
+   <tgroup cols="2">
+    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+    <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+    <tbody>
+     <row>
+      <entry colsep="0" rowsep="0">
+       <p>
+        <msgblock>1. PA/PR Interface Switching area</msgblock>
+       </p>
+      </entry>
+      <entry rowsep="0">
+       <p>
+        <msgblock>4. System Status area</msgblock>
+       </p>
+      </entry>
+     </row>
+     <row>
+      <entry colsep="0" rowsep="0">
+       <p>
+        <msgblock>2. Patient Unit area</msgblock>
+       </p>
+      </entry>
+      <entry rowsep="0">
+       <p>
+        <msgblock>5. System Work area</msgblock>
+       </p>
+      </entry>
+     </row>
+     <row>
+      <entry colsep="0">
+       <p>
+        <msgblock>3. System Control area</msgblock>
+       </p>
+      </entry>
+      <entry rowsep="0">
+       <p>
+        <msgblock>6. System Tool area</msgblock>
+       </p>
+      </entry>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+  <p>Main interfaces of the operation and processing system are divided into the following six areas
+   based on the main functions and types of common operations:</p>
+  <ul id="ul_thv_tn4_f2b">
+   <li>
+    <p>The PA/PR Interface Switching area. Please refer to "PA/PR Interface Switching area" on page
+     3-3 for details.</p>
+   </li>
+   <li>
+    <p>The Patient Unit area. Please refer to "Patient Unit area" on page 3-4 for details.</p>
+   </li>
+   <li>
+    <p>The System Control area. Please refer to "System Control area" on page 3-4 for details.</p>
+   </li>
+   <li>
+    <p>The System Work area. Please refer to "System Work area" on page 3-5 for details.</p>
+   </li>
+   <li>
+    <p>The System Tool area. Please refer to "System tool" on page 3-5 for details.</p>
+   </li>
+   <li>
+    <p>The System Status area. Please refer to "System status bar" on page 3-17 for details.</p>
+   </li>
+  </ul>
+ </conbody>
+</concept>

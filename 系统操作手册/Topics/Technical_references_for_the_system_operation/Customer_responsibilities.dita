@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_m4j_fhm_xdb" xml:lang="zh">
+  <title>客户职责</title>
+  <body>
+    <ul id="ul_rmw_fqg_1db">
+      <li xtrc="/w:document/w:body[1]/w:p[23]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >客户负责按照联影项目管理部提供的详细的场地规划要求，进行场地准备。场地准备应 当遵守与设备安装相关的安全、电气、建筑和射线防护等国家法律和当地法规规范，由
+        具有资质的设计人员和施工单位执行。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[24]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >客户对最终的机房质量负责，配合联影完成场地验收。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[25]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >客户支持安装后系统调试，配合完成系统状态确认和验收。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[26]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >客户负责记录和存档系统的使用和日常质控记录，以供相关机构查验。</li>
+    </ul>
+  </body>
+</topic>

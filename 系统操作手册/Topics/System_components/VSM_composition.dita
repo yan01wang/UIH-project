@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gvv_w5d_cdb" xml:lang="zh">
+    <title>VSM 构成</title>
+    <shortdesc/>
+    <conbody>
+        <p>VSM 分为手持端和接收端。</p>
+        <ul id="ul_umf_z5d_cdb">
+            <li>
+                <p>接收端是安装在机架内部的无线接收器。</p>
+            </li>
+            <li>
+                <p>手持端由如下几部分组成：主体部分（包括信号采集单元，信号处理单元以及无线发射 器），导联线缆，电极，呼吸绑带和气囊等。VSM 手持端结构图如下所示：</p>
+            </li>
+        </ul>
+        <fig id="fig_mzs_bvd_cdb">
+            <title>VSM 信号采集单元</title>
+            <image href="../../images/figure3-61.png" id="image_itk_fvd_cdb" placement="break"/>
+        </fig>
+        <simpletable frame="all" relcolwidth="1.0* 1.0*" id="simpletable_bpr_q51_r2b">
+            <strow>
+                <stentry>导联切换</stentry>
+                <stentry>心电导联接口</stentry>
+            </strow>
+            <strow>
+                <stentry>导联指示灯</stentry>
+                <stentry>呼吸气囊接口</stentry>
+            </strow>
+            <strow>
+                <stentry>信号指示灯</stentry>
+                <stentry/>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

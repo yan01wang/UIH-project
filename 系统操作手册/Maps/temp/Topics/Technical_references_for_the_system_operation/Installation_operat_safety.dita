@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_references_for_the_system_operation?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_references_for_the_system_operation/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="topic_51" xml:lang="zh" xtrc="topic:1;4:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+  <title class="- topic/title " xtrc="title:1;7:6" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">安装操作安全</title><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+  <body class="- topic/body " xtrc="body:1;8:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+    <p class="- topic/p " xtrc="p:1;11:8" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">系统安装包括系统硬件安装和系统软件安装。现场安装时，需要遵循如下通用安全事项：</p>
+    <note class="- topic/note " type="danger" xtrc="note:1;12:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+      <p class="- topic/p " xtrc="p:2;13:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">系统内部电路存在高压电源，需谨慎操作，操作不当可能会引起严重伤害或伤亡。</p>
+    </note>
+    <note class="- topic/note " type="warning" xtrc="note:2;15:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+      <p class="- topic/p " xtrc="p:3;16:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">系统损伤</p>
+      <ul class="- topic/ul " id="ul_ljx_yxh_bdb" xtrc="ul:1;17:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+        <li class="- topic/li " xtrc="li:1;18:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">进行电路板操作时，务必带上防静电防护设施，避免部件和元器件损伤。</li>
+        <li class="- topic/li " xtrc="li:2;19:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">为了防止对系统造成损害，请不要使用电气火灾不适用的灭火器。</li>
+      </ul>
+    </note>
+    <note class="- topic/note " type="warning" xtrc="note:3;22:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+      <p class="- topic/p " xtrc="p:4;23:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">电击伤害</p>
+      <ul class="- topic/ul " id="ul_ezk_byh_bdb" xtrc="ul:2;24:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+        <li class="- topic/li " xtrc="li:3;25:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">系统带电情况下，不要拆开外壳。安装系统或触碰内部部件前，需确保配电箱和电源分配机柜处于断电状态。</li>
+      </ul>
+    </note>
+    <ul class="- topic/ul " id="ul_nkd_cyh_bdb" xtrc="ul:3;28:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+      <li class="- topic/li " xtrc="li:4;31:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">现场安装操作需确保至少两人在场。</li>
+      <li class="- topic/li " xtrc="li:5;34:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">系统安装过程中的对齐和校准操作时需使用激光。所使用的激光灯，属于 2 类产品，需要在激光器上粘贴标有 " 激光辐射 " " 勿直视激光束 "
+        等标签进行提示和说明，并牢固粘贴在激光器的外壳上。相关人员进行激光器使用和维修等操作时，必须事先经过激光防护
+        的培训并且通过考核。操作过程中，要注意不能直视激光束，同时戴好防护眼镜。</li>
+    </ul>
+    <note class="- topic/note " type="warning" xtrc="note:4;38:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+      <ul class="- topic/ul " id="ul_gfl_fyh_bdb" xtrc="ul:4;39:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+        <li class="- topic/li " xtrc="li:6;40:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">未经联影书面允许，严禁更改系统中任何一部分。</li>
+        <li class="- topic/li " xtrc="li:7;41:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita"> 禁止客户擅自复制/ 安装软件。</li>
+        <li class="- topic/li " xtrc="li:8;42:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">未规定的组件不应接入系统。</li>
+      </ul>
+    </note>
+    <note class="- topic/note " type="warning" xtrc="note:5;45:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+      <ul class="- topic/ul " id="ul_b2m_hyh_bdb" xtrc="ul:5;46:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+        <li class="- topic/li " xtrc="li:9;47:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">激光属于2 类产品（功率不大于1mW，波长650nm），请勿直视激光束。</li>
+        <li class="- topic/li " xtrc="li:10;48:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">统所有部件的电源线插座都固定在系统指定的安装板上，其它附加的可移式多孔插座或延长线不应接入系统，否则可能存在触电风险。</li>
+      </ul>
+    </note>
+    <ul class="- topic/ul " id="ul_fpc_dyh_bdb" xtrc="ul:6;51:29" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">
+      <li class="- topic/li " xtrc="li:11;54:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">搬运和安装系统部件时，如果部件重量太大，可能造成人身伤害，需要采用专门的拖车 或吊车进行运输。在搬运和转移系统的过程中，操作人员需遵守拖车或吊机的相关操作 标准。</li>
+      <li class="- topic/li " xtrc="li:12;57:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">安装和移动 30 kg 以上的系统部件（如球管、高压、数据采集系统等）需使用专门工装， 安装时需正确使用工装，做好防护措施。</li>
+      <li class="- topic/li " xtrc="li:13;60:10" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_references_for_the_system_operation/Installation_operat_safety.dita">安装系统时需按照操作规范进行操作。安装拆卸螺钉、螺母等小器件时，需要小心谨慎， 避免零件掉入系统内部。</li>
+    </ul>
+  </body>
+</topic>

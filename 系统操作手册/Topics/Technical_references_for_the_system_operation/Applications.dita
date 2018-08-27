@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fzh_sfj_bdb" xml:lang="zh">
+    <title>应用程序</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <stepsection>
+                <p xtrc="/w:document/w:body[1]/w:p[686]"
+                    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                    >应用程序设置下，可以查看服务设置、远程配置、用户设置和控制面板设置。</p>
+            </stepsection>
+            <step>
+                <cmd>进入<uicontrol>Service</uicontrol>-><uicontrol>Configuration</uicontrol>
+                    界面。</cmd>
+            </step>
+            <step>
+                <cmd>从左侧导航栏中选择<uicontrol>Service Setting</uicontrol> ，显示Screen Shot, FTP, Tenet
+                    等设置选项。只可查看，不可修改。</cmd>
+            </step>
+            <step>
+                <cmd>从左侧导航栏中选择<uicontrol> Remote Config</uicontrol>，进入远程配置界面。在导航菜单选择 Remote
+                    Config，显示远程配置相关选项。若将上传服务从开启调整至关闭，会删除缓存在数据 库中的待上传数据和正在上传数据。</cmd>
+            </step>
+            <step>
+                <cmd>从左侧导航栏中选择 <uicontrol>User Setting</uicontrol>，可以查看用户设置相关内容。</cmd>
+            </step>
+            <step>
+                <cmd>从左侧导航栏中选择 <uicontrol>Panel Configure</uicontrol>，进入 Panel Config
+                    页面，配置各界面中控制面板的位置。选中
+                    <uicontrol>Panel（Left）</uicontrol>，则控制面板显示在界面你左侧，反之，显示在右边。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

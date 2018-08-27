@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pwl_y4g_1db" xml:lang="zh">
+    <title>安全标记与符号</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>安全标记与符号<index-sort-as
+                        class="+ topic/index-base indexing-d/index-sort-as "
+                        >A安全标记与符号</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>本章将对基本安全规范、人身安全和设备操作安全进行说明。为确保系统操作的安全和有
+            效，操作人员应遵守本手册安全警示标记和安全规范中所描述的所有相关注意事项。本手册把与系统安全相关的警示标记划分为四个等级：危险、警告、小心和注意。</p>
+    </conbody>
+</concept>

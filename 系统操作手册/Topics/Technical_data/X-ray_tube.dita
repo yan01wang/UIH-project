@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ypx_l5l_cdb" xml:lang="zh">
+    <title>X 射线球管</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>X射线<indexterm>球管</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section id="section_lyr_45l_cdb">
+            <title>运输和存储环境要求：</title>
+            <ul id="ul_x5g_p5l_cdb">
+                <li>
+                    <p>温度要求：-20 °C ~ 75 °C</p>
+                </li>
+                <li>
+                    <p>湿度要求：10% ~90%（非冷凝）</p>
+                </li>
+                <li>
+                    <p>振动加速度：最大 10 g</p>
+                </li>
+            </ul>
+        </section>
+        <section id="section_plb_w5l_cdb">
+            <title>操作环境要求：</title>
+            <ul id="ul_j4l_x5l_cdb">
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[78]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        > 温度要求：5°C ~ 40°C</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[79]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >湿度要求：30% ~ 90%（非冷凝）</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[80]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >振动要求：扫描过程中振动的最大加速度应不超过 107.8 m/s²，紧急断电情况下振动的最大加速度为不超过 107.8 m/s²</p>
+                </li>
+            </ul>
+        </section>
+        <section id="section_qg5_y5l_cdb">
+            <title>辐射泄露加载因素</title>
+            <p xtrc="/w:document/w:body[1]/w:p[82]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >与带有球管准直系统的辐射泄漏有关的加载因素为：</p>
+            <ul id="ul_u1r_1vl_cdb">
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[83]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        > 140 kV</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[84]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >29 mA</p>
+                </li>
+            </ul>
+        </section>
+        <section id="section_ob4_cvl_cdb">
+            <title>质量当量滤过</title>
+            <ul id="ul_npk_dvl_cdb">
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[88]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >X 射线球管组件固有滤过由铍框，油层和塑料窗组成，其等效滤过为 1 mm 铝当量。</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[89]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >限束装置的等效滤过为：6.5175 mm 铝当量（@120 kV）。</p>
+                </li>
+                <li>
+                    <p xtrc="/w:document/w:body[1]/w:p[90]"
+                        xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                        >X 射线设备总滤过：7.5175 mm 铝当量。</p>
+                </li>
+            </ul>
+        </section>
+        <section id="section_uct_lvl_cdb">
+            <p xtrc="/w:document/w:body[1]/w:p[91]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >GB9706.12-29.201.5 规定：X 射线设备总等效滤过应不小于2.5 mm Al，本设备满足此法规要求。</p>
+            <note type="note">
+                <p>当X 射线机在工作时，应使一切人员（被检者除外）尽可能远离X 射线源，对被检者在检查时，应尽可能增大焦点到皮肤的距离。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

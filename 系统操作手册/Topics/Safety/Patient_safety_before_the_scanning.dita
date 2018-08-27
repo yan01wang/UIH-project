@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_cmd_x4h_1db" xml:lang="zh_CN">
+    <title>扫描前患者安全</title>
+    <shortdesc>用户需要正确输入患者个人信息，以免造成诊断错误，导致重复扫描。扫描前医生应参考患 者病史，并进行必要的身体检查，以确认其是否适合接受本次检查。</shortdesc>
+    <refbody>
+        <section id="section_uft_cph_1db"
+                    ><title>最大载重</title><indexterm>最大载重<index-sort-as>Z最大载重</index-sort-as></indexterm><p>本系统检查床最大承重为
+                250 kg，请勿将超过此重量的负载置于检查床之上。体重较大患者在检查床上集中施力会导致检查床装置损坏，或致使碳纤维床板与机架碰撞。</p><note
+                type="caution">
+                <p>人身伤害，系统损坏</p>
+                <ul id="ul_mdx_kdq_bdb">
+                    <li>
+                        <p>检查床承重过大有可能造成人身伤害或系统损坏。</p>
+                    </li>
+                    <li>
+                        <p>请勿将超过 250 kg 的负载置于检查床上，这或将导致检查床故障或患者跌落。</p>
+                    </li>
+                </ul>
+            </note></section>
+        <section id="section_whz_3ph_1db"
+                    ><title>危险位置</title><indexterm>危险位置<index-sort-as>W危险位置</index-sort-as></indexterm><p>检查床移动时存在安全风险，可能造成人体损伤的危险位置上标识有如下标签。请勿将手或脚搁在以下位置，以防发生夹手、夹脚、身体挤压或其它人身危险。</p><image
+                href="../../images/figure2-38.png" id="image_lyl_sdq_bdb" placement="inline"/><image
+                href="../../images/figure2-11.png" id="image_rk1_tdq_bdb" placement="inline"/><image
+                href="../../images/figure2-9.png" id="image_arm_tdq_bdb" placement="inline"/><note
+                type="caution">
+                <p>人身伤害</p>
+                <ul id="ul_qv3_12q_bdb">
+                    <li>
+                        <p>检查床和机架移动之前，请确认患者的四肢没有放到检查床侧盖或机架和检查床缝隙 之间。</p>
+                    </li>
+                    <li>
+                        <p>操作前请仔细检查，以确保患者和其它设备之间不会出现干扰或碰撞。</p>
+                    </li>
+                    <li>
+                        <p>在设备活动范围内不要放置无关物品。</p>
+                    </li>
+                    <li>
+                        <p>无论患者还是操作人员，都不要在设备活动范围内停留，以免发生碰撞。</p>
+                    </li>
+                    <li>
+                        <p>在进行患者定位前，请确保检查床的床板处于锁定状态。</p>
+                    </li>
+                </ul>
+            </note><fig id="fig_xnj_rgq_bdb">
+                <title>危险位置图</title>
+                <image href="../../images/figure2-39.png" id="image_nqr_tgq_bdb" placement="break"/>
+                <simpletable id="simpletable_sbp_rqc_n2b">
+                    <strow>
+                        <stentry>1. 检查机床床尾</stentry>
+                        <stentry>3. 检查床与机架连接处</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>2. 机架入口处</stentry>
+                        <stentry/>
+                    </strow>
+                    <strow/>
+                </simpletable>
+            </fig></section>
+        <section id="section_ln4_1rh_1db">
+            <title>扫描前患者安全定位</title>
+            <ul id="ul_zcw_drh_1db">
+                <li>床板未锁定时，机架数据显示屏上以黄色解锁警告提示<image href="../../images/figure2-40.png"
+                        id="image_myq_r3q_bdb" placement="inline"/>。患者上下床前请确保移动式床板已锁定。</li>
+                <li>应将检查床调至一个舒适的高度。患者上下检查床时，操作员应施以必要帮助。请勿将 患者置于检查床以外的任何其它系统部件上。</li>
+                <li>患者在检查床上就位时，可使用头托、膝关节垫等，辅助其舒适就位。</li>
+                <li>操作员在扫描前应确保患者正确安全就位，无跌落风险。操作员应指导患者脱掉外套或 任何可能引起拖拽的衣服，以防被卡住，同时注意不要让检查床或辅助设施勾住患者的
+                    头发和衣物等。</li>
+                <li>对婴幼儿、身体直径较大、行动不便或体型较大的患者应特别小心（尤其在患者输液时
+                    或注射示踪剂之后）。应确保其不会从检查床上跌落，必要时应使用绑带将患者绑住。对于情绪不稳定患者，请慎用绑带等辅助装置。</li>
+                <li>请向患者详尽说明将要进行的检查。确保其了解系统操作和床板运动时在检查床上应遵 守的行为守则。告知患者在定位和检查期间不要移动。</li>
+                <li>移动检查床（底部水平进给装置）或床板前确保无障碍物阻挡或卡在中间。移动检查床 时注意不要撞到任何物体。</li>
+                <li>注意患者输液管、氧气管等不要被移动设备绊住。</li>
+                <li>请勿同时接触患者和外壳。</li>
+                <li>请勿在机架或检查床上放置任何无关物体。因为设备移动可能会推翻物体，同时还可能 造成人身伤害或设备损坏。</li>
+            </ul>
+            <note type="other" othertype="帮助信息">
+                <ul id="ul_exg_w3q_bdb">
+                    <li>
+                        <p>扫描前应给心率不稳或心率过快的患者服用镇定剂以使其心律稳定。</p>
+                    </li>
+                    <li>
+                        <p>带有心脏起搏器的患者需慎用PET/CT系统，医生应酌情判断该患者是否适合进行 PET/CT 扫描。</p>
+                    </li>
+                </ul>
+            </note>
+        </section>
+    </refbody>
+</reference>

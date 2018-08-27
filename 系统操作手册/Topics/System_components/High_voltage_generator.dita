@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_n1c_fjx_bdb" xml:lang="zh">
+    <title>高压发生器</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>G高压发生器</index-sort-as>高压发生器</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p><b>功能概述</b></p>
+        <p>高压发生器为球管阴、阳极之间提供一个高压，用于加速灯丝逸出的电子。此外，高压发生 器还通过旋阳线给旋转阳极靶提供一个 230 VAC 的辅助电源，驱动阳极靶旋转。</p>
+    </conbody>
+</concept>

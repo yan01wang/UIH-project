@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_pzf_1kx_bdb" xml:lang="zh">
+    <title>技术数据</title>
+    <shortdesc>本手册提供关于 CT 系统的详细技术数据。</shortdesc>
+    <refbody>
+        <section id="section_ofw_ckx_bdb">
+            <ul id="ul_jwb_m3s_ldb">
+                <li>CT 系统的技术规格请参见第 8-5 页 “CT 技术规格 ”。</li>
+                <li>CT 系统的性能参数请参见第 8-24 页 “CT 性能参数 。</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

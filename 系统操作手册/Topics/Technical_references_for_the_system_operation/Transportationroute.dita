@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_hjp_c5h_bdb" xml:lang="zh">
+    <title>运输途径</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_k11_25h_bdb">
+            <p xtrc="/w:document/w:body[1]/w:p[492]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >设备发货前，需确保设备能顺利通过运输路径运进安装房间。</p>
+            <note type="note">
+                <p>推荐运输路径没有门槛，如有，安装房间门槛高度不得高于20mm。</p>
+            </note>
+            <p xtrc="/w:document/w:body[1]/w:p[494]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >若运输途径需要使用到电梯，务必要考虑其尺寸和载重能力。进入电梯时，可能需要拆卸运 输工装，以保证安全运输。</p>
+            <p xtrc="/w:document/w:body[1]/w:p[495]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >同时，最好使用货运电梯进行运输。若必须使用客梯，承重能力和尺寸都需要满足系统的运 输尺寸及重量要求。</p>
+        </section>
+    </refbody>
+</reference>

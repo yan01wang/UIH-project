@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qxx_qcm_1db" xml:lang="zh">
+    <title> 辅助设备安全</title>
+    <shortdesc/>
+    <conbody>
+        <p>用户在使用检查床附件等辅助设备时应遵照以下安全注意事项。</p>
+        <ul id="ul_zmq_tcm_1db">
+            <li>
+                <p>请使用联影公司建议的扫描辅助设备。</p>
+            </li>
+            <li>
+                <p>在每次使用前检查辅助设备，若有损坏或破裂应予以更换。</p>
+            </li>
+            <li>
+                <p>检查床垫是否已经固定在床板上，若有松弛或损坏须进行修复和替换。</p>
+            </li>
+            <li>
+                <p>为防止患者损伤和设备损害，当延长板和头托定位完成时，应特别注意，以防止此类附 件碰撞到机架。</p>
+            </li>
+            <li>
+                <p>检查床辅助设备或组件均无法承受患者的整体重量，如果用户施加过多的压力，这些设 备或组件可能会破裂或脱落并造成人身伤害。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

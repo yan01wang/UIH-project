@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xpj_xn4_f2b">
+ <title>PA/PR Interface Switching area</title>
+ <shortdesc>The PA/PR Interface Switching area is in the top left corner of the main
+  interface.</shortdesc>
+ <conbody>
+  <p>Click corresponding icon in this area, and switch to the PA/PR interface quickly</p>
+  <ul id="ul_qfk_b44_f2b">
+   <li>
+    <p>Click PA shortcut keys (Note 1 in Figure 3-2) to jump to the PA interface from PR, Exam,
+     Viewing, Scan, Filming or any other interfaces.</p>
+   </li>
+   <li>
+    <p>Click PR shortcut keys (Note 2 in Figure 3-2) to jump to the PR interface from PA, Exam,
+     Viewing, Scan, Filming or any other interfaces.</p>
+   </li>
+  </ul>
+  <fig id="fig_avy_c44_f2b">
+   <title>PA/PR shortcut keys</title>
+   <image href="../../Images/figure3-2.png" id="image_kz5_f44_f2b"/>
+  </fig>
+ </conbody>
+</concept>

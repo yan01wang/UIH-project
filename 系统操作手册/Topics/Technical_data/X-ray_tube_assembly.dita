@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_cdm_5vl_cdb" xml:lang="zh">
+    <title>X 射线球管组件</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_j2c_wvl_cdb">
+            <note type="other">
+                <p>GB9706.12-29.201.5规定：X射线设备总等效滤过应不小于2.5 mm Al，本设备满足此法规要求。</p>
+            </note>
+            <title>标签</title>
+            <p xtrc="/w:document/w:body[1]/w:p[97]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >根据标准 GB9706.11，X 射线球管带有用于识别组件的制造商、型号和序列号的标签。该标签经过良好设计，从正常使用一段时间的 X
+                射线球管仍然可以看到清晰可辨的标签。</p>
+        </section>
+        <section>
+            <title>标志</title>
+            <p xtrc="/w:document/w:body[1]/w:p[99]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >X 射线球管组件带有满足 GB9706.11 要求的组合说明形式的标志。</p>
+            <p xtrc="/w:document/w:body[1]/w:p[100]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >如果适用，X 射线球管组件也带有相应标签以证明其符合用户所在地区的法规。</p>
+        </section>
+        <section id="section_f5s_yvl_cdb">
+            <title>靶角和聚焦轨道的参考轴</title>
+            <p>垂直于 X 射线球管纵轴。</p>
+            <p xtrc="/w:document/w:body[1]/w:p[103]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >主要尺寸</p>
+            <ul id="ul_ix3_1wl_cdb">
+                <li>宽度：40.25 mm</li>
+                <li>深度：29.95 mm</li>
+                <li>高度：30.97 mm</li>
+            </ul>
+        </section>
+        <section id="section_llt_2wl_cdb">
+            <title>构造</title>
+            <p xtrc="/w:document/w:body[1]/w:p[109]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >X射线球管组件有基于中心部分的射线管，包含阳极插座、阴极插座和冷却装置，重量（不带 任何可拆开的装配部件）大约为 63.2 kg。</p>
+            <p xtrc="/w:document/w:body[1]/w:p[109]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                    ><b>限束光阑</b></p>
+            <p>距离球管焦点81 mm处固定一限束光阑，其在X-Z平面（距焦点81 mm）的尺寸如下：</p>
+            <ul id="ul_uqr_rzm_cdb">
+                <li>X方向：93 mm。</li>
+                <li>Z方向：9.6 mm。</li>
+            </ul>
+            <p>球管射线经过上述限束光阑后，X射线经过准直器再度限束，限束后，射线束在距焦点197mm处，X方向和Z方向出射的最大尺寸如下：</p>
+            <ul id="ul_ahx_tzm_cdb">
+                <li>X方向：257.6 mm。</li>
+                <li>Z方向：31 mm。</li>
+            </ul>
+            <p>最小可以全部遮挡。</p>
+            <fig id="fig_qnd_gwl_cdb">
+                <title>Z 方向：X 射线球管组件的限束光阑</title>
+                <image href="../../images/figure8-1.png" id="image_b3x_nwl_cdb" placement="break"/>
+            </fig>
+            <table frame="none" rowsep="1" colsep="1" id="table_zzv_4wl_cdb">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <tbody>
+                        <row>
+                            <entry colsep="0">
+                                <p>1.球管出口</p>
+                            </entry>
+                            <entry>
+                                <p>2.准直器出口</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p> X射线球管的线束经过球管出口（如图8-1 数字1指示所示），X射线被限束后在X - Z平面的尺寸如下：</p>
+            <ul id="ul_a1y_wwl_cdb">
+                <li>X 方向：99.20 mm</li>
+                <li>Z 方向：16.32 mm</li>
+            </ul>
+            <p>X 射线经过准直器再度限束，限束后在X - Z 平面（距离焦点204 mm）的尺寸为：</p>
+            <ul id="ul_w2w_ywl_cdb">
+                <li>X 方向：216 mm</li>
+                <li>Z 方向：12.2 mm</li>
+            </ul>
+        </section>
+        <section id="section_xtn_dxl_cdb">
+            <title>高压连接装置的极性</title>
+            <ul id="ul_dz3_2xl_cdb">
+                <li>阳极：与高压发生器连接，电压大小为 +0 kV，阳极回流线（由球管插线角边缘到高压线缆锁定螺母）长度为 120 cm。</li>
+                <li>阴极：与高压发生器连接，电压大小为-140 kV，阴极高压线缆线缆长度（由球管插线角边缘到高压线缆锁定螺母）为 96.52 cm。</li>
+            </ul>
+        </section>
+        <section id="section_bkt_gxl_cdb">
+            <title>管电压</title>
+            <p>管电压有五个档，包括 70 kV、80 kV、100 kV、120 kV 和 140 kV，管电压误差不大于 ±10％。小焦点的最大功率定义在 140 kV
+                下，大焦点的最大功率定义在 120 kV 和 140 kV 下。</p>
+            <p>各档管电压的最大 mA 限制</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_jyf_kxl_cdb">
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="1.0*"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <colspec colname="col3" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >kV</p>
+                            </entry>
+                            <entry colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >mA （小焦点）</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[1]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >mA （大焦点）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >70</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >230</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[2]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >610</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >80</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >260</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[3]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >680</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >100</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >290</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[4]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >780</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >120</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >310</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[5]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >833</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[6]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >140</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[6]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >320</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[10]/w:tr[6]/w:tc[3]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >714</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p><b>标称管电压及管电流加载组合</b></p>
+            <p xtrc="/w:document/w:body[1]/w:p[129]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >标称管电压运行时可以获得的相应最大管电流（最大管电流 @ 标称管电压）</p>
+            <ul id="ul_m21_5xl_cdb">
+                <li> 大焦点：714 mA@140 kV</li>
+                <li>小焦点：320 mA@140 kV</li>
+            </ul>
+            <p>最大管电流运行时可以获得的相应最高管电压（最高管电压 @ 最大管电流）</p>
+            <ul id="ul_wn4_wxl_cdb">
+                <li>大焦点：120 kV@833 mA</li>
+                <li>小焦点：140 kV@320 mA</li>
+            </ul>
+            <p>单次负载定额</p>
+            <ul id="ul_qgz_yxl_cdb">
+                <li>大焦点：<table xtrc="" frame="all" rowsep="1" colsep="1" id="table_ghx_zxl_cdb">
+                        <tgroup cols="9">
+                            <colspec colname="col1" colwidth="1.0*"/>
+                            <colspec colname="col2" colwidth="1.0*"/>
+                            <colspec colname="col3" colwidth="1.0*"/>
+                            <colspec colname="col4" colwidth="1.0*"/>
+                            <colspec colname="col5" colwidth="1.0*"/>
+                            <colspec colname="col6" colwidth="1.0*"/>
+                            <colspec colname="col7" colwidth="1.0*"/>
+                            <colspec colname="col8" colwidth="1.0*"/>
+                            <colspec colname="col9" colwidth="1.0*"/>
+                            <thead>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >功率</p>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[1]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >（kW）</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[2]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >0.5</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[3]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >5</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[4]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >10</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[5]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >20</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[6]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >36</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[7]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >60</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[8]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >80</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[1]/w:tc[9]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >100</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >时间</p>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[1]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >（s）</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[2]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >2000</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[3]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >2000</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[4]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >650</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[5]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >260</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[6]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >100</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[7]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >33</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[8]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >10</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[11]/w:tr[2]/w:tc[9]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >0.5</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table></li>
+                <li>小焦点：<table xtrc="" frame="all" rowsep="1" colsep="1" id="table_x12_byl_cdb">
+                        <tgroup cols="8">
+                            <colspec colname="col1" colwidth="1.0*"/>
+                            <colspec colname="col2" colwidth="1.0*"/>
+                            <colspec colname="col3" colwidth="1.0*"/>
+                            <colspec colname="col4" colwidth="1.0*"/>
+                            <colspec colname="col5" colwidth="1.0*"/>
+                            <colspec colname="col6" colwidth="1.0*"/>
+                            <colspec colname="col7" colwidth="1.0*"/>
+                            <colspec colname="col8" colwidth="1.0*"/>
+                            <thead>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >功率</p>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[1]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >（kW）</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[2]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >0.5</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[3]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >5</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[4]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >10</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[5]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >20</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[6]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >30</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[7]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >37</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[1]/w:tc[8]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >44.8</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >时间</p>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[1]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >（s）</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[2]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >2000</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[3]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >2000</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[4]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >650</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[5]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >220</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[6]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >100</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[7]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >65</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[12]/w:tr[2]/w:tc[8]/w:p[2]"
+                                            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                            >55</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table></li>
+            </ul>
+        </section>
+        <section id="section_nnz_myl_cdb">
+            <title>射线球管组件最大热容量</title>
+            <p>11.7 MHU</p>
+            <note type="warning">
+                <p>在高压加载过程中，球管热容量超过球管最大热容量的71.2% 时，应该给予操作人员警告提示。</p>
+            </note>
+            <note type="warning">
+                <p>在扫描过程中，用户如果发现因球管过热而导致的禁止新扫描，请联系联影客户服务工 程师，此情况只有客户服务工程师才能清除。</p>
+            </note>
+        </section>
+        <section id="section_tld_syl_cdb">
+            <title>高压停止加载的热容量警告提示</title>
+            <p>在扫描过程中，当球管热容量超过球管最大热容量的一定百分比时（具体标准参见下表）， 系统自动会弹出球管热容量警告提示对话框，此时扫描工作停止，高压停止加载。</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_jk1_tyl_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="1.0*" colsep="1"/>
+                    <colspec colname="col2" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[13]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >剂量等级</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[13]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >热容量警告临界值</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[13]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >大剂量 （40 kW ~ 50 kW）放线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[13]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >球管最大热容量的 59%</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[13]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >中等剂量 （25 kW ~ 40 kW）放线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[13]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >球管最大热容量的 80%</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[13]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >小剂量 （&lt; 25 kW）放线</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[13]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                    >球管最大热容量的 90%</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section id="section_t5k_tyl_cdb">
+            <title>冷却要求</title>
+            <p xtrc="/w:document/w:body[1]/w:p[151]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >X 射线球管组件冷却装置是热交换器，它由 1 个油泵和 2 个冷却风扇组成。热交换器不仅冷却X 射线球管组件，还为 X
+                射线球管组件提供超压和热保护，热敏电阻和压力开关都集成在热交换器中，以监控油循环并向系统提供反馈。</p>
+            <p xtrc="/w:document/w:body[1]/w:p[152]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >X 射线球管组件的冷却要求如下：</p>
+            <ul id="ul_gxc_vyl_cdb">
+                <li>热交换器的电源输入：电压为 220 V-14% VAC ~ 220 V+10% VAC，电流为 3.5 A，频率为50/60
+                    Hz。电源输入管主要安装在外罩的中央。</li>
+                <li>阳极最大冷却速率：16.5 kW 或 23.1 KHU/sec 。</li>
+                <li>阳极持续热耗散：12 kW 或 16.8 KHU/sec。</li>
+                <li>X 射线球管组件最大冷却速率：当大气压强为 86 kPa，温度差（油与周围的空气温度差） 增加到 31 °C 时，需要用最大功率 5.9 kW
+                    来冷却。</li>
+            </ul>
+            <note type="warning">
+                <p>客户服务工程师重装机架外壳前，需要检查球管热交换器上风扇的工作状态：</p>
+                <ul id="ul_ulv_3zl_cdb">
+                    <li>若风扇状态异常，则禁止设备放线，必须先由客户服务工程师完成风扇维修；如果客户服务工程师不在设备跟前，应锁定设备电源，以防止不安全的事故发生，后续由客户服务工程师完成风扇维修工作。</li>
+                    <li>若风扇状态正常，客户服务工程师可以重装机架外壳，然后进行设备放线工作。</li>
+                </ul>
+            </note>
+        </section>
+        <section id="section_b3d_4zl_cdb">
+            <title>X 射线球管组件加热和冷却曲线</title>
+            <p>X 射线球管组件加热和冷却曲线如图8-2 所示</p>
+            <fig id="fig_bl2_pzl_cdb">
+                <title>X 射线球管组件加热和冷却曲线</title>
+                <image href="../../images/figure8-2.png" id="image_hml_tzl_cdb" width="7in"/>
+            </fig>
+            <p>在<xref href="#reference_cdm_5vl_cdb/fig_bl2_pzl_cdb" format="dita">图8-2</xref> 中，</p>
+            <ul id="ul_ocr_wzl_cdb">
+                <li>横轴表示球管加热或冷却的时间（单位：min）</li>
+                <li>纵轴有两个意义，纵轴外边的数字表示球管当前存储的热量（单位：kJ），纵轴里面的 数字表示球管内当前温度（单位：℃）。</li>
+            </ul>
+        </section>
+        <section id="section_wbt_zzl_cdb">
+            <title>辐射输出的线性度</title>
+            <p xtrc="/w:document/w:body[1]/w:p[173]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >辐射输出线性度的最大偏差是 ±10%。</p>
+        </section>
+        <section id="section_r1f_f1m_cdb">
+            <title>机械调整和算法校正</title>
+            <p>机械调整措施</p>
+            <p>机械调整措施包括以下四个方面：</p>
+            <ul id="ul_oky_c1m_cdb">
+                <li>客户服务工程师按精度要求调整球管X 方向机构。</li>
+                <li>客户服务工程师按精度要求调整球管X 方向机构。</li>
+                <li>螺钉拧紧前，如果不加弹性垫圈，必须涂适量防松胶。</li>
+                <li>用力矩扳手将螺钉拧紧到合适的位置。</li>
+            </ul>
+            <p> 球管校正原理与方法</p>
+            <p xtrc="/w:document/w:body[1]/w:p[184]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >由于机械加工误差和安装误差，球管位置会发生偏移，需要经过球管Ｘ方向校正和探测器Ｚ 方向校正使焦点、旋转中心和探测器中心共线。</p>
+            <p xtrc="/w:document/w:body[1]/w:p[185]"
+                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                >球管 X 方向校正过程：</p>
+            <ol id="ol_hmh_p1m_cdb">
+                <li>扫描一组空气，用于空气校正。</li>
+                <li>扫描一个偏心金属球，对其进行空气校正，通过金属球的投影值来计算中心通道的偏移量。</li>
+                <li>若球管Z 方向偏移量在允许误差范围内，则校正完成。否则，需要根据界面提示在Z 方向调整球管位置后重复上述步骤，直至满足误差要求为止。</li>
+            </ol>
+        </section>
+        <section id="section_qhg_w1m_cdb">
+            <title>高压与球管的电气连接</title>
+            <p>高压与球管的电气连接图如图 8-3 所示：</p>
+            <fig id="fig_bv1_1bm_cdb">
+                <title>高压与球管的电气连接图</title>
+                <image href="../../images/figure8-3.png" id="image_bdr_1bm_cdb" placement="break"/>
+            </fig>
+        </section>
+    </refbody>
+</reference>

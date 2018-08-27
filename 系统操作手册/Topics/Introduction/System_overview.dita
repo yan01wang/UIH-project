@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fz5_1ng_1db" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    xml:lang="zh">
+    <title>系统概述</title>
+    <shortdesc/>
+    <conbody>
+        <p>本系统可进行全身以及头部的X 射线和正电子发射断层扫描。设备部件包括采集患者解剖结构信息的 CT（Computer Tomography,CT）机架、采集患者功能信息的 PET
+            机架、检查床、控制台、电源分配机柜和检查相关标选配附件等。</p>
+        <p>本系统根据国家标准 GB9706.1《医用电气设备第一部分：安全通用要求》和 GB7247.1《激光产品的安全第 1 部分：设备分类、要求》有以下分类：</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_bz1_cyx_b2b">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry colsep="0" align="center" valign="middle">
+                            <p>分类标准</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>安全特征</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>按防电击类型</p>
+                        </entry>
+                        <entry>
+                            <p>I 类</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>按防电击的程度</p>
+                        </entry>
+                        <entry>
+                            <p>B 型应用部分 （检查床）</p>
+                            <p>BF 型应用部分（VSM）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>按对进液的防护程度</p>
+                        </entry>
+                        <entry>
+                            <p>不防进液的封闭普通设备（IPX0）</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>按在与空气混合的易燃麻醉气体或与氧或氧化亚氮混合的易燃麻醉气体情况下使用时的安全程度</p>
+                        </entry>
+                        <entry>
+                            <p>不适用</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>按运行模式分类</p>
+                        </entry>
+                        <entry>
+                            <p>间歇加载连续运行</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>设备是否具有对除颤放电效应防护的应用部分</p>
+                        </entry>
+                        <entry>
+                            <p>否</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>设备是否具有信号输出或输入部分</p>
+                        </entry>
+                        <entry>
+                            <p>是</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>永久性安装设备或非永久性安装设备</p>
+                        </entry>
+                        <entry>
+                            <p>永久性安装设备</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>激光分类</p>
+                        </entry>
+                        <entry>
+                            <p>2 类</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>
+

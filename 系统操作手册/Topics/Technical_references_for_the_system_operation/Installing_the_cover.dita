@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_e3v_4r3_bdb" xml:lang="zh">
+    <title>安装外壳</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>A安装</index-sort-as>安装<indexterm>外壳</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>安装检查床外壳</cmd>
+            </step>
+            <step>
+                <cmd>安装机架外壳</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

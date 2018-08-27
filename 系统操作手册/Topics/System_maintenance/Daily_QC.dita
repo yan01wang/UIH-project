@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rmx_vhp_bdb">
+    <title>日常质控</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p xtrc="/w:document/w:body[1]/w:p[89]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >为保证系统正常运行和扫描图像质量，需要定期进行系统质控扫描，主要包含 CT 系统质控和 PET 系统质控。可在系统工具箱中日常服务主界面下进行。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在工具箱中点击日常服务图标<image href="../../images/figure5-1.png" id="image_jvn_w3p_bdb"
+                        placement="inline"/>，进入日常服务主界面。</cmd>
+            </step>
+            <step>
+                <cmd>在其中点击相应项目图标进入相应的质控项目。</cmd>
+            </step>
+            <step>
+                <cmd>完成操作后，点击右下角退出键返回主界面。</cmd>
+                <info>
+                    <fig id="fig_ny5_y3p_bdb">
+                        <title>日常服务主界面</title>
+                        <image href="../../images/figure5-2.jpeg" id="image_btt_1jp_bdb"
+                            placement="break"/>
+                    </fig>
+                    <ul id="ul_thn_bjp_bdb">
+                        <li>
+                            <p>CT 系统质控主要包括CT 球管预热、球管训管、空气校正和图像质量检测。</p>
+                        </li>
+                        <li>
+                            <p>PET
+                                质控按照采集项目不同和是否使用放射源分为无源和有源质控。系统将分析所采集数据并产生报告，为确保扫描影像能够准确反应人体功能和代谢信息，同时对操作进行监控以便于进行维护维修服务。</p>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

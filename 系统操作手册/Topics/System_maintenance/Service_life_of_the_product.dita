@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_18" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[334]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+    id="title__TOC_250000">产品使用期限</title>
+  <body xtrc="/w:document/w:body[1]/w:p[335]">
+    <p xtrc="/w:document/w:body[1]/w:p[335]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+      >本系统使用期限为10年，请根据本手册要求对系统进行日常维护。如果使用时间远大于此时间和正常使用频率，您可能需要对系统进行日常维护之外的检查和维修。如有需要，请提前
+      通知联影客户服务部。产品到达使用期限后，需要按照相关法规进行处理。</p>
+    <p xtrc="/w:document/w:body[1]/w:p[336]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+      >本系统核心部件使用期限（理论值）如下表所示：</p>
+    <table xtrc="" frame="all" rowsep="1" colsep="1">
+      <tgroup cols="2">
+        <colspec colname="col1" colwidth="1*"/>
+        <colspec colname="col2" colwidth="2.08*"/>
+        <thead>
+          <row>
+            <entry align="center" valign="middle" colsep="0">
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[1]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >部件</p>
+            </entry>
+            <entry align="center" valign="middle">
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[1]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >使用期限</p>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[2]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >高压</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[2]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >包含交流逆变器以及高压倍增器两个模块。高压的平均使用寿命为 10 年。</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[3]/w:tc[1]/w:p[2]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >球管</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[3]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >球管平均寿命可达到 20 万曝光秒。球管的实际寿命与系统的使用情况相关性很大 ,
+                不同的扫描条件、扫描习惯、扫描的功率分布、每天的扫描量、维护保养情况等均会影响球管的实际寿命。实际球管寿命范围从早期失效到使用数年均有可能。</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[4]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >CT 探测器</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[4]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >探测器部件的平均使用寿命为 13.5 年。</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[5]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >PET 探测器</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[6]/w:tr[5]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >10 年</p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

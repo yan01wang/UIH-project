@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_jrp_4hv_d2b">
+    <title>Safety prompts</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>When a problem occurs, the system shows a dialog box to prompt the user.</p>
+        <ul id="ul_csm_thv_d2b">
+            <li><p>General prompt messages</p><p>This type of prompt message is to provide
+                    additional information. Click OK to go.</p><image href="../../Images/2-1.png"
+                    id="image_dwm_13v_d2b"/></li>
+            <li><p>Problem prompt message</p><p>It informs the user to decide whether to perform the
+                    next step of operation.</p><ul id="ul_pnv_b3v_d2b">
+                    <li>
+                        <p>Click Yes to continue the operation.</p>
+                    </li>
+                    <li>
+                        <p>Click No to cancel the operation.</p>
+                    </li>
+                </ul><image href="../../Images/2-2.png" id="image_wbq_d3v_d2b"/></li>
+            <li><p>Warning prompt message</p><p>It informs the user of some warning information.
+                    Click OK according to the prompts or to take other corresponding
+                    actions.</p><image href="../../Images/2-3.png" id="image_xly_f3v_d2b"/></li>
+            <li><p>Error prompt message</p><p>The error message prompt box informs the user of some
+                    additional information. The prompt may appear at the system status bar or in the
+                    system information at the bottom left corner of the page. Click OK according to
+                    the prompts or take corresponding actions.</p><image href="../../Images/2-4.png"
+                    id="image_it5_33v_d2b"/></li>
+        </ul>
+    </conbody>
+</concept>

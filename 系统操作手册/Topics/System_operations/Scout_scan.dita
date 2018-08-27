@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_j1z_hs2_1db" xml:lang="zh">
+    <title>定位像扫描</title>
+    <shortdesc>定位像的目的是定位扫描患者，扫描开始前请先确认患者在检查中没有移位，并告知其在定位片结束前不要移动。</shortdesc>
+    <taskbody>
+        <steps>
+            <stepsection>用户可以遵循以下步骤进行定位像扫描：</stepsection>
+            <step>
+                <cmd>在X 射线放射前，确保所有人员已经撤离扫描间。操作人员返回控制台，检查患者定位和扫描参数。</cmd>
+            </step>
+            <step>
+                <cmd>确认患者是否已安全定位，按下扫描控制区确认按钮。此时系统弹出提示 “ 请按住移床按钮 ”。并且控制盒移床按钮背光灯点亮。</cmd>
+            </step>
+            <step>
+                <cmd>根据提示按下控制盒的移床按钮。在到达目标位置前，该按钮将一直快速闪烁。到达预 设位置后，背光灯熄灭。</cmd>
+                <substeps id="substeps_rpl_4s2_1db">
+                    <substep>
+                        <cmd>移床过程中，可以通过检查床位置信息显示区或者控制面板实时观察检查床位置。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>如果同时在水平和垂直方向移动检查床，需要按照系统提示，长按移床按钮，直至到达目标位置。如果在此过程中松开按钮，移床按钮背光灯将持续快速闪烁，提示尚未完成移床。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>此时如果想要放弃当前移床操作，可以点击取消。取消后定位像处于未扫描状态，可以继续修改其扫描参数重新执行。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>完成移床后，系统弹出提示“ 请按下扫描按钮”，并且控制盒扫描按钮背光灯点亮。按下控制盒扫描按钮，开启定位像扫描。</cmd>
+                <substeps id="substeps_rfm_ts2_1db">
+                    <substep>
+                        <cmd>X 射线放射期间控制盒上的放射指示灯会点亮。确保X 射线放射期间无人进入扫描间。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>需要确认患者在检查中没有移动并指示其在定位片结束前保持不动。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>此时如果想要放弃当前扫描，可以点击取消，取消后定位像处于已扫描状态，可以重复并修改定位像协议，再次执行扫描。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>扫描完成后，可以在定位像浏览区观察定位像。同一个协议组内的 CT 和 PET 序列的扫描和重建定位框也显示在定位像上，可根据需要调整。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

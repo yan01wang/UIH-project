@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_j1l_p1j_bdb" xml:lang="zh">
+    <title>本地主机设置</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>在本地主机（Local Host）设置中，可以进行医院信息、胶片打印和FTP 设置。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>医院信息设置</cmd>
+                <substeps id="substeps_zqd_cfj_bdb">
+                    <substep>
+                        <cmd>进入<uicontrol>Service</uicontrol>-><uicontrol>Configuration</uicontrol>
+                            界面。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>从左侧导航栏中选择Site Info，进入医院信息配置页面。</cmd>
+                        <info>
+                            <p>右边显示系统信息（System）、客服中心（Service Center）、客户和地址（Customer and
+                                Address）的相关配置。可查看，不可修改。</p>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>胶片打印</cmd>
+                <substeps id="substeps_d44_hfj_bdb">
+                    <substep>
+                        <cmd>进入<uicontrol>Service</uicontrol>-><uicontrol>Configuration</uicontrol>
+                            界面。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>从左侧导航栏中选择<uicontrol>Filming</uicontrol>，进入打印配置页面。</cmd>
+                        <info>
+                            <note type="note">
+                                <p>打印胶片后，如果需要重复打印该胶片，可以使用Save As New Series 和 New Series Description
+                                    进行保存。</p>
+                            </note>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>FTP</cmd>
+                <substeps id="substeps_u2t_nfj_bdb">
+                    <substep>
+                        <cmd>进入<uicontrol>Service</uicontrol>-><uicontrol>Configuration</uicontrol>
+                            界面。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>从左侧导航栏中选择<uicontrol>FTP</uicontrol>，显示FTP 相关内容。此配置内容只可查看，不可修改。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

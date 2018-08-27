@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_maintenance?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_maintenance/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " id="task_jqy_2pj_bdb" xml:lang="zh" xtrc="task:1;3:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">PET 无源质控</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;6:15" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+        <context class="- topic/section task/context " xtrc="context:1;7:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">需要在每日扫描前完成无源PET质控扫描，所检测的项目包括系统环境温湿度、系统计数率和电压等。</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;10:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+            <stepsection class="- topic/li task/stepsection " xtrc="stepsection:1;11:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">无源PET 质控扫描操作步骤如下：</stepsection>
+            <step class="- topic/li task/step " xtrc="step:1;12:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;13:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">进入日常服务主界面，选择PET 无源质控，进入PET 无源质控界面。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;15:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;16:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">点击开始，系统开始质控扫描。依序进行系统温度、系统湿度、PET 探测器电压和计数率检查。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;18:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;19:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">各项参数检查均通过，显示质控成功。若其中任意一项不通过，则显示质控失败。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;21:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;22:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">在检查过程中随时可以点击取消退出扫描。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;24:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;25:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">查看和打印报告</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_nst_jpj_bdb" xtrc="substeps:1;26:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:1;27:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:6;28:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">质控完成后，可在该界面查看本次质控报告。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:2;30:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:7;31:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">点击历史报告，可以查看历史报告。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;35:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:8;36:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">重复/ 退出</cmd>
+                <substeps class="- topic/ol task/substeps " id="substeps_p4c_lpj_bdb" xtrc="substeps:2;37:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                    <substep class="- topic/li task/substep " xtrc="substep:3;38:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:9;39:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">质控完成后，点击退出，退出无源质控界面。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrc="substep:4;41:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                        <cmd class="- topic/ph task/cmd " xtrc="cmd:10;42:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">若界面提示质控失败，可重复此过程。若仍然失败，请立即联系联影客户服务部。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrc="postreq:1;47:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+            <p class="- topic/p " xtrc="p:2;48:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">用户可设置无源质控自动执行，则系统自动执行无源质控并记录检测结果。</p>
+            <ol class="- topic/ol " id="ol_kxj_npj_bdb" xtrc="ol:1;49:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">
+                <li class="- topic/li " xtrc="li:1;50:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">点击自动执行时间设定前复选框，在其后输入自动执行时间。</li>
+                <li class="- topic/li " xtrc="li:2;51:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_maintenance/PET_QC_without_source.dita">系统在预设时间自动启动无源质控扫描，并给出报告。</li>
+            </ol>
+        </postreq>
+    </taskbody>
+</task>

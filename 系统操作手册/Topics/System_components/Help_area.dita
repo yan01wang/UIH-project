@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bzv_5sx_bdb" xml:lang="zh">
+    <title> 帮助区</title>
+    <shortdesc>帮助区内显示生理信号隐藏 / 显示按钮，点击可以隐藏或者显示生理信号。</shortdesc>
+    <conbody>
+        <fig id="fig_n3g_xsx_bdb">
+            <title>帮助区</title>
+            <image href="../../images/figure3-18.png" id="image_xbr_ysx_bdb" placement="break"/>
+        </fig>
+    </conbody>
+</concept>

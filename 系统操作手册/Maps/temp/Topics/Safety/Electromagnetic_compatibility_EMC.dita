@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Safety?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Safety/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_cyx_xxl_1db" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita"> 电磁兼容性</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">电磁兼容性（Electromagnetic
+        Compatibility，EMC）是指设备或系统在其电磁环境中符合要求运行，并不对其环境中的任何设备产生无法忍受的电磁干扰的能力。EMC
+        包括两个方面：一方面是指设备在正常运行过程中对所在环境产生的电磁干扰不能超过一定的限值。另一方面是指设备对所在环境中存在的电磁干扰具有一定程度的抗扰度，即电磁抗扰度（Electromagnetic
+        Susceptibility，EMS）。</shortdesc>
+    <prolog class="- topic/prolog " xtrc="prolog:1;9:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+        <authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata " xtrc="metadata:1;10:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;12:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita"><index-sort-as class="+ topic/index-base indexing-d/index-sort-as " xtrc="index-sort-as:1;12:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">D电磁兼容性</index-sort-as>电磁兼容性</indexterm>
+            </keywords>
+        <othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;16:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+        <p class="- topic/p " xtrc="p:1;17:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">本系统符合标准 YY0505 中有关医用电气设备的电磁兼容（EMC）标准。此标准规定了设备自身所允许的辐射级别，同时规定了设备抗外来电磁干扰的能力。</p>
+        <p class="- topic/p " xtrc="p:2;18:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">医疗电气设备需要采取特殊措施以确保电磁兼容安全。便携式和移动式射频通信设备，如手机，在某些情况下可能影响医用电气设备的正常工作。这可能导致致命或其他严重的人身伤害或临床误诊。因此，不得将射频（RF）通讯设备（即使设备关机）带入扫描间。</p>
+        <p class="- topic/p " xtrc="p:3;19:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">在系统中使用其它电缆和附件可能会造成电磁兼容性能故障。</p>
+        <p class="- topic/p " xtrc="p:4;20:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">详细的电磁干扰要求技术数据请参见第 8-32 页 “ 电磁干扰要求”。</p>
+        <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:1;21:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+            <p class="- topic/p " xtrc="p:5;22:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">除设备或系统的制造商作为内部元器件的备件出售的换能器和电缆外，使用规定外的附件、换能器和电缆可能导致设备或系统电磁发射的增加或抗扰度的降低。</p>
+        </note>
+        <note class="- topic/note " type="caution" xtrc="note:2;24:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+            <p class="- topic/p " xtrc="p:6;25:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">进行门控扫描时，请使用已通过 IEC60601-1 电磁兼容性认证的外触发装置。</p>
+        </note>
+        <note class="- topic/note " type="warning" xtrc="note:3;27:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+            <p class="- topic/p " xtrc="p:7;28:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">设备损伤</p>
+            <ul class="- topic/ul " id="ul_w1w_rtq_bdb" xtrc="ul:1;29:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">
+                <li class="- topic/li " xtrc="li:1;30:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">系统附近禁止出现强磁性物质。</li>
+                <li class="- topic/li " xtrc="li:2;31:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">系统应仅在所规定的射线防护场所内使用。</li>
+                <li class="- topic/li " xtrc="li:3;32:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Electromagnetic_compatibility_EMC.dita">系统不应与其他设备接近或叠放使用。如果必须接近或叠放使用，则应观察验证在其 使用的配置下能正常运行。</li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

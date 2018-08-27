@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_kt5_2mg_1db" xml:lang="zh">
+    <title>缩略语</title>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_n4x_4yx_b2b">
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+                <thead>
+                    <row>
+                        <entry colsep="0" align="center" valign="middle">
+                            <p>英文缩写</p>
+                        </entry>
+                        <entry colsep="0" align="center" valign="middle">
+                            <p>英文全称</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>中文</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>CPAN</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Control Panel</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>控制面板</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>CT</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Computer Tomography</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>电子计算机 X 线断层扫描技术</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>DDP</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Data Display Panel</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>数据显示屏</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>DICOM</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Digital Imaging and Communications in Medicine</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>数字影像和通信标准</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>DMS</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Data Management System</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Data Management System</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>EMC</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Electromagnetic Compatibility</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>电磁兼容性</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>EPO</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Emergency Power Off</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>紧急断电按钮</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>E-Stop</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Emergency Stop</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>紧急停止按钮</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>FDG</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Fluoro Deoxy Glucose</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>氟 18- 脱氧葡萄糖</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>FOV</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Field of View</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>视野</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>HMI</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Human Machine Interface</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>人机交互</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>IP</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Internet Protocol</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>网络协议</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>LUT</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Look Up Table</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>查找表</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>LYSO</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Lutetium Yttrium orthosilicate</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>硅酸钇镥</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>PACS</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Picture Archiving and Communication Systems</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>图片存档及通信系统</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>PET/CT</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Positron Emission Tomography and Computed Tomography</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>正电子发射及 X 射线计算机断层成像扫描</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>PSC</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Power Supply Cabinet</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>电源分配机柜</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>RIS</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Radiology Information System</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>远程信息系统</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>TOF</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Time of Flight</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>飞行时间</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>UPS</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Uninterrupted Power Supply</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>不间断电源</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>VSM</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>Vital Signal Module</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>生理信号门控单元</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

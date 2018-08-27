@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_r52_yrk_cdb" xml:lang="zh">
+    <title>PET 相关报错和排查</title>
+    <body>
+        <p>PET 相关报错包括 PET 质控不通过和图像重建失败等。</p>
+        <p>PET 质控，用于检查和确认PET 系统状态，分为有源质控和无源质控两种类型，检测周期和检测项目请参见第 5-6 页 “ 日常质控
+            ”。扫描结束后，所有项目均通过，即质控成功，如有任一项目不通过，则将以红色标识，辅助用户排查并锁定系统异常状态的原因。</p>
+        <p>同时，用户可以调取详细的质控报告，确认当前检测失败项目的具体信息，更准确判断出错 原因，更高效排除故障并恢复正常。</p>
+    </body>
+</topic>

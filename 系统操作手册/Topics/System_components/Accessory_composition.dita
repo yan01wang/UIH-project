@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nw3_1yy_bdb" xml:lang="zh">
+    <title>附件构成</title>
+    <shortdesc/>
+    <conbody>
+        <p>检查床可选附件包括：床垫、头侧垫、头垫、延长板垫、头托垫、膝关节垫、绑带、支撑板、头托、延长板、平床板等，另外，本系统可选配临床应用综合组件，包括输液架、固定架和卷纸架。其中：</p>
+        <ul id="ul_yqw_2yy_bdb">
+            <li>
+                <p>床垫可以辅助患者舒适定位于检查床上。</p>
+            </li>
+            <li>
+                <p>检查床延长板用于特殊扫描协议或者身高较高的患者，长度为 300 mm。</p>
+            </li>
+            <li>
+                <p>膝关节垫主要用于支撑患者膝盖。</p>
+            </li>
+            <li>
+                <p>绑带主要用于将患者固定在检查床上，防止患者跌落。</p>
+            </li>
+            <li>
+                <p>输液架，托盘等用于需要输液的扫描患者提供输液悬挂装置。</p>
+            </li>
+        </ul>
+        <p>使用检查床附件可以让患者安全舒适就位，同时防止产生运动伪影。</p>
+        <table frame="all" rowsep="0" colsep="0" id="table_yys_jyy_bdb">
+            <title>检查床附件</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1.57*"/>
+                <colspec colname="c2" colnum="2" colwidth="2.13*"/>
+                <colspec colname="newCol3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>外观</p>
+                        </entry>
+                        <entry namest="c2" nameend="newCol3" align="center" valign="middle"
+                            >描述</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry morerows="1" rowsep="1" valign="middle"><image
+                                href="../../images/figure3-45.png" id="image_v1m_nzy_bdb"/></entry>
+                        <entry align="left" valign="bottom" rowsep="0">
+                            <p><b>头托</b></p>
+                        </entry>
+                        <entry align="center" valign="bottom" rowsep="0">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>插入附件卡槽中与检查床连接，常规检查时用。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1" valign="middle"><image
+                                href="../../images/figure3-46.jpeg" id="image_w1c_4zy_bdb"/></entry>
+                        <entry valign="bottom" rowsep="0" align="left">
+                            <p><b>延长板</b></p>
+                        </entry>
+                        <entry align="center" valign="bottom" rowsep="0">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>插入附件卡槽中与检查床连接。检查床床面的延伸部分。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-47.jpeg"
+                                id="image_s5q_4zy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>绑带</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：5对</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>用于绑住患者，使身体与床板位置相对固定，并且保护患者安全。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-48.png"
+                                id="image_ubd_pzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>床垫</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>放在床面板上，增加患者舒适度。增加患者与床板间隙， 减小伪影。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-49.png"
+                                id="image_c24_pzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>临床应用类附件</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>临床应用类附件包括点滴架、卷纸架、托盘等。点滴架可以用于悬挂点滴瓶。卷纸架用于放置卷纸。托盘内可
+                                以临时放置医生诊断患者需要的点滴瓶、棉签等医药品。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-50.png"
+                                id="image_lxj_qzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>头垫</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry nameend="newCol3" namest="c2" rowsep="1" align="left" valign="middle">
+                            <p>放在检查床垫上或延长板上，用于支撑患者头部，增加患者头部的舒适性。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-55.png"
+                                id="image_cbh_rzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>头托垫</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：2</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>左右各 1 个，放在头托内，防止患者头部向左右两侧晃动。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-52.png"
+                                id="image_z3x_rzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>头托垫</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>放在头托内，增加患者头部舒适度。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-53.png"
+                                id="image_bb5_szy_bdb"/></entry>
+                        <entry align="left" rowsep="0" valign="bottom">
+                            <p><b>U 型头托垫</b></p>
+                        </entry>
+                        <entry align="center" valign="bottom" rowsep="0">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" valign="middle" align="left">
+                            <p>放在头托内，满足头部扫描摆位要求，增加患者舒适度。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-54.png"
+                                id="image_e2n_tzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>延长板垫</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="bottom">
+                            <p>放在延长板上，与延长板合并成一个整体，用于放置患者头部或双脚。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-51.png"
+                                id="image_lkm_vzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>膝关节垫</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>做腰椎检查时，或者患者躺在床上腿不能伸直 （被动体位）时，垫在患者腿部下方</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-56.png"
+                                id="image_xbg_wzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>平床板</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>用于引导定位，提高定位精度。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-57.png"
+                                id="image_wzx_wzy_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>平床板支撑块</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>用于支撑平床板。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" rowsep="1"><image href="../../images/figure3-58.png"
+                                id="image_tqt_m1z_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>平床板支撑块后端</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" rowsep="1" align="left" valign="middle">
+                            <p>用于支撑平床板。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry morerows="1"><image href="../../images/figure3-59.png"
+                                id="image_msl_n1z_bdb"/></entry>
+                        <entry rowsep="0" align="left" valign="bottom">
+                            <p><b>手臂托</b></p>
+                        </entry>
+                        <entry align="center" rowsep="0" valign="bottom">
+                            <p><b>数量：1</b></p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry namest="c2" nameend="newCol3" align="left" valign="middle">
+                            <p>做胸腹部检查时， 病人头朝前躺手 抬高支撑病人头 部和手臂。</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <note type="other" othertype="帮助信息">
+            <p>以上图片仅为示意，请以实物为准。</p>
+        </note>
+    </conbody>
+</concept>

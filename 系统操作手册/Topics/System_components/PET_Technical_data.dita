@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ob4_rqw_bdb">
+    <title>技术数据</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <section id="section_ngx_vqw_bdb">
+            <ul id="ul_ujg_wqw_bdb">
+                <li>
+                    <p>PET 系统的技术规格请参见第 8-2 页 “PET 技术规格 ”。</p>
+                </li>
+                <li>
+                    <p>PET 系统的性能参数请参见第 8-2 页 “PET 性能参数 ”。</p>
+                </li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

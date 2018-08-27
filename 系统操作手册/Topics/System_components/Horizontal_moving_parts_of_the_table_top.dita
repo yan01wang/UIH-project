@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_i5y_qjy_bdb" xml:lang="zh">
+    <title> 床板水平运动部件</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_ah1_tjy_bdb">
+            <li>
+                <p>检查床床板水平运动部件用于实现床板水平运动，确保 PET 和 CT 扫描时的有效扫描视野。</p>
+            </li>
+            <li>
+                <p>检查床四角配有释放按钮，用于锁定床板。一般情况下床板处于锁定状态。若需要释床 板，按下释放按钮解锁，此时床板处于浮动状态。</p>
+            </li>
+            <li>
+                <p>床板水平运动的最大行程为2160 mm，可确保2000 mm 的系统最长扫描范围（包括延长板或头托的 300 mm 长度在内）。</p>
+            </li>
+            <li>
+                <p>床板水平移动的速度可达 200 mm/s 。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

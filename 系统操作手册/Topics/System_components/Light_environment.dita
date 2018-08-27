@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kls_5dy_bdb" xml:lang="zh">
+    <title>光环境</title>
+    <shortdesc/>
+    <conbody>
+        <p>光环境为 PET/CT 扫描应用组件，置于机架环中，有以下用途：</p>
+        <ul id="ul_rdc_xdy_bdb">
+            <li>
+                <p>扫描中照明</p>
+            </li>
+            <li>
+                <p>呼吸训练</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

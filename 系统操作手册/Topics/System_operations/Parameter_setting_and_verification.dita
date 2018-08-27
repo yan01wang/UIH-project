@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_esy_zk2_1db" xml:lang="zh">
+    <title>参数设置和验证</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>进入患者检查界面后，用户查看和修改当前添加的扫描协议，并编辑其重建序列。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>追加或删除扫描协议组或协议</cmd>
+                <substeps id="substeps_gv3_3l2_1db">
+                    <substep>
+                        <cmd>点击增加协议组 / 协议按钮，可以追加新的扫描协议组 / 协议。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>选择需要删除的协议组 / 协议，鼠标右键选择删除即可。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>新增协议 / 序列</cmd>
+                <substeps id="substeps_mfd_ll2_1db">
+                    <substep>
+                        <cmd>选择一条已有扫描协议 / 重建序列，鼠标右键选择复制并粘贴。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>在复制出的协议 / 序列中修改相关参数，点击确认即可。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>重复协议 / 序列</cmd>
+                <info>
+                    <p>选择一条已有的扫描协议 / 重建序列，鼠标右键选择重复。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>删除重建序列</cmd>
+                <info>
+                    <p>选定一条需要删除的重建序列，鼠标右键选择删除，该协议从重建队列移除。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>编辑扫描 / 重建参数</cmd>
+                <info>
+                    <p>每一个扫描协议及重建序列都对应相应的参数面板，可在此进行参数的确认和编辑。针对不合规参数，系统会以标红等给予警告，需要修改至合理范围。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>自定义扫描协议</cmd>
+                <info>
+                    <p>为了达到最好的效果，用户应根据设备情况创建一组可以代表系统使用习惯的默认扫描协 议和重建序列并适时使用，具体请参考《软件操作手册》快速操作章节。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

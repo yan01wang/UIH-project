@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_g34_tmy_bdb" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"> 检查床重要位置</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+        <authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata " xtrc="metadata:1;7:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;8:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;9:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"><index-sort-as class="+ topic/index-base indexing-d/index-sort-as " xtrc="index-sort-as:1;9:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">J检查床</index-sort-as>检查床<indexterm class="- topic/indexterm " xtrc="indexterm:2;9:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">移动方式</indexterm></indexterm>
+            </keywords>
+        <othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;13:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+        <section class="- topic/section " id="section_rhg_xmy_bdb" xtrc="section:1;14:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+            <p class="- topic/p " xtrc="p:1;15:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">操作检查床时，用户必须熟悉检查床的几个重要位置。</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_gkp_zmy_bdb" rowsep="1" xtrc="table:1;16:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                <title class="- topic/title " xtrc="title:2;17:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">检查床位置按钮</title>
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;18:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" rowheader="headers" xtrc="colspec:1;19:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:2;20:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" rowheader="headers" xtrc="colspec:3;21:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;22:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                        <row class="- topic/row " xtrc="row:1;23:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:1;24:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                                <p class="- topic/p " xtrc="p:2;25:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">序号</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" valign="middle" xtrc="entry:2;27:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                                <p class="- topic/p " xtrc="p:3;28:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">按钮图标</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" valign="middle" xtrc="entry:3;30:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                                <p class="- topic/p " xtrc="p:4;31:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">名称与描述</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;35:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                        <row class="- topic/row " xtrc="row:2;36:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" valign="middle" xtrc="entry:4;37:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"> 1</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" valign="middle" xtrc="entry:5;38:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"><image class="- topic/image " href="../../Images/figure3-33.png" id="image_ipt_2ny_bdb" placement="inline" xtrc="image:1;40:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"/></entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" valign="middle" xtrc="entry:6;41:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                                <p class="- topic/p " xtrc="p:5;42:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;42:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">初始位</b></p>
+                                <p class="- topic/p " xtrc="p:6;43:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">按下此键，检查床将移至初始位以释放患者。</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;46:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" valign="middle" xtrc="entry:7;47:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"> 2</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" valign="middle" xtrc="entry:8;48:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"><image class="- topic/image " href="../../Images/figure3-34.jpeg" id="image_ht3_fny_bdb" placement="inline" xtrc="image:2;50:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"/></entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" valign="middle" xtrc="entry:9;51:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                                <p class="- topic/p " xtrc="p:7;52:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;52:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">CT 扫描位</b></p>
+                                <p class="- topic/p " xtrc="p:8;53:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">按下此键，检查床底座移至 CT 位，再按无效。</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;56:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" valign="middle" xtrc="entry:10;57:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"> 3</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" valign="middle" xtrc="entry:11;58:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"><image class="- topic/image " href="../../Images/figure3-35.jpeg" id="image_yjx_fny_bdb" placement="inline" xtrc="image:3;60:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"/></entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" valign="middle" xtrc="entry:12;61:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                                <p class="- topic/p " xtrc="p:9;62:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita"><b class="+ topic/ph hi-d/b " xtrc="b:3;62:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">PET 扫描位</b></p>
+                                <p class="- topic/p " xtrc="p:10;63:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">按下此键，检查床底座移至 PET 位，再按无效。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <note class="- topic/note " type="caution" xtrc="note:1;69:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                <p class="- topic/p " xtrc="p:11;70:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">移动检查床时应注意安全，避免与机架干涉，同时注意避免患者损伤。</p>
+            </note>
+        </section>
+        <section class="- topic/section " xtrc="section:2;73:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+            <ul class="- topic/ul " id="ul_svb_lny_bdb" xtrc="ul:1;74:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                <li class="- topic/li " xtrc="li:1;75:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                    <p class="- topic/p " xtrc="p:12;76:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">扫描开始前，应将检查床置于初始位置，以待患者就位。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:2;78:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                    <p class="- topic/p " xtrc="p:13;79:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">定位像和CT扫描开始前，按住控制盒上移动按钮，待检查床移至CT扫描初始位时，松开 按钮，完成定位像和 CT 扫描。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:3;81:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                    <p class="- topic/p " xtrc="p:14;82:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">PET 扫描开始前，按住控制盒上移动按钮，待检查床移至 PET 扫描初始位置时，松开按钮，完成 PET 扫描。</p>
+                </li>
+            </ul>
+            <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:2;85:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">
+                <p class="- topic/p " xtrc="p:15;86:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Important_position_of_the_patient_table.dita">扫描开始前，选定协议和扫描体位后，检查床的位置 （含水平，垂直和底座）即可自动设定，用户可以根据需要进行微调。扫描过程中检查床的移动和定位将由
+                    系统控制，用户只需根据提示，进行相应操作即可。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

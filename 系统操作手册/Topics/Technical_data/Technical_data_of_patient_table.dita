@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_dky_wnm_cdb" xml:lang="zh">
+    <title>检查床技术数据</title>
+    <shortdesc/>
+    <refbody>
+        <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_jbc_ynm_cdb">
+            <tgroup cols="2">
+                <colspec colname="col1" colwidth="198.5pt"/>
+                <colspec colname="col2" colwidth="198.4pt"/>
+                <thead>
+                    <row>
+                        <entry align="center" colsep="0">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[35]/w:tr[1]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >参数名称</p>
+                        </entry>
+                        <entry align="center">
+                            <p xtrc="/w:document/w:body[1]/w:tbl[35]/w:tr[1]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >参数范围</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[35]/w:tr[2]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >轴向扫描范围</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[35]/w:tr[2]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >0 mm ~ 2000 mm</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[35]/w:tr[3]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >垂直移动范围</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[35]/w:tr[3]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >550 mm ~ 945 mm</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[35]/w:tr[4]/w:tc[1]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >最大载重</p>
+                        </entry>
+                        <entry>
+                            <p xtrc="/w:document/w:body[1]/w:tbl[35]/w:tr[4]/w:tc[2]/w:p[1]"
+                                xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+                                >250 kg</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

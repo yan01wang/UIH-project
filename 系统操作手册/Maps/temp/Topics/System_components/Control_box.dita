@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_components?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_components/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_tv2_mm2_cdb" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">控制盒</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+        <p class="- topic/p " xtrc="p:1;9:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">控制盒放置在操作间的控制台桌上，用于控制扫描放射的启动和暂停。包括扫描操作部分和线缆连接部分。控制盒线缆连接部分包括信号连接口、供电电源连接口和 E-Stop
+            连接口。信号连接线缆与控制主机相连，供电电源线缆连接到控制台的供电电源相连，E-Stop 连接线缆与扫描间的 CT 机架相连。</p>
+        <fig class="- topic/fig " id="fig_hl2_wm2_cdb" xtrc="fig:1;11:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+            <title class="- topic/title " xtrc="title:2;12:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">PET/CT 控制盒</title>
+            <image class="- topic/image " href="../../images/figure3-65.png" id="image_ipc_xm2_cdb" placement="inline" xtrc="image:1;13:79" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/>
+            <simpletable class="- topic/simpletable " id="simpletable_ct2_qhd_n2b" relcolwidth="1.0* 1.0*" xtrc="simpletable:1;14:79" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                <strow class="- topic/strow " xtrc="strow:1;15:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:1;16:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">1.急停按钮</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:2;17:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">9.释放患者</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:2;19:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:3;20:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">2.扬声器音量</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:4;21:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">10.扬声器孔</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:3;23:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:5;24:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">3.麦克风音量</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:6;25:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">11.检查床下移</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:4;27:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:7;28:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">4.开始扫描</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:8;29:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">12.移床按键</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:5;31:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:9;32:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">5.信息显示框以及放线指示灯</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:10;33:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">13.暂停按键</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:6;35:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:11;36:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">6.检查床移入</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:12;37:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">14.语音按键</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:7;39:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:13;40:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">7.检查床上移</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:14;41:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">15.警告标签</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:8;43:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:15;44:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">8.检查床移出</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:16;45:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/>
+                </strow>
+            </simpletable>
+        </fig>
+        <table class="- topic/table " colsep="1" frame="all" id="table_ozs_kn2_cdb" rowsep="1" xtrc="table:1;49:81" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+            <title class="- topic/title " xtrc="title:3;50:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">控制盒按钮</title>
+            <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;51:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="57.3pt" rowheader="headers" xtrc="colspec:1;52:60" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="67.4pt" rowheader="headers" xtrc="colspec:2;53:60" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="272.2pt" rowheader="headers" xtrc="colspec:3;54:61" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/>
+                <thead class="- topic/thead " xtrc="thead:1;55:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <row class="- topic/row " xtrc="row:1;56:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:1;57:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:2;60:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">序号</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" valign="middle" xtrc="entry:2;62:74" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:3;65:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">外观</p>
+                        </entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" valign="middle" xtrc="entry:3;67:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:4;70:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">描述</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:1;74:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                    <row class="- topic/row " xtrc="row:2;75:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" valign="middle" xtrc="entry:4;76:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:5;79:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">1</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;81:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-66.jpeg" id="image_pkc_m42_cdb" placement="inline" xtrc="image:2;82:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;83:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:6;86:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;86:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">急停按钮</b></p>
+                            <p class="- topic/p " xtrc="p:7;89:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按下此键，中断系统运动和放射。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:3;92:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" valign="middle" xtrc="entry:7;93:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:8;96:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">2</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;98:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-67.png" id="image_qzd_q42_cdb" placement="inline" xtrc="image:3;99:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;100:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:9;103:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;103:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">扬声器音量</b></p>
+                            <p class="- topic/p " xtrc="p:10;106:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">调节扬声器音量大小，顺时针旋转音量调高。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:4;109:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" valign="middle" xtrc="entry:10;110:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:11;113:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">3</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;115:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-68.png" id="image_wz4_r42_cdb" placement="inline" xtrc="image:4;116:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;117:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:12;120:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:3;120:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">麦克风音量</b></p>
+                            <p class="- topic/p " xtrc="p:13;123:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">调节麦克风音量大小，顺时针旋转音量调高。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:5;126:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" valign="middle" xtrc="entry:13;127:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:14;130:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">4</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;132:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-71.png" id="image_htf_z42_cdb" placement="inline" xtrc="image:5;133:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;134:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:15;137:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:4;137:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">开始扫描</b></p>
+                            <p class="- topic/p " xtrc="p:16;140:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按下此键，开始扫描。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:6;143:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" morerows="1" valign="middle" xtrc="entry:16;144:76" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:17;145:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">5</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:17;147:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-72.png" id="image_utw_2p2_cdb" placement="inline" width="20mm" xtrc="image:6;148:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:18;149:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:18;152:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:5;152:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">信息显示框</b></p>
+                            <p class="- topic/p " xtrc="p:19;155:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">LCD 屏幕，显示检查中的检查床水平 / 垂直位置信息。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:7;158:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:19;159:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-70.png" id="image_k1n_fp2_cdb" placement="inline" xtrc="image:7;160:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:20;161:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:20;162:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:6;162:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">放线指示灯</b></p>
+                            <p class="- topic/p " xtrc="p:21;165:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">与信息显示框同位于一个 LCD 显示屏中，系统放线时高亮显</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:8;168:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" valign="middle" xtrc="entry:21;169:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:22;170:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">6</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:22;172:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-73.png" id="image_ulh_3p2_cdb" placement="inline" xtrc="image:8;173:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:23;174:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:23;175:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:7;175:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">检查床移入</b></p>
+                            <p class="- topic/p " xtrc="p:24;178:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按住此键，检查床移入。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:9;181:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" valign="middle" xtrc="entry:24;182:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:25;183:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">7</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:25;185:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-74.png" id="image_lzn_jp2_cdb" placement="inline" xtrc="image:9;186:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9" xtrc="entry:26;187:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:26;190:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:8;190:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">检查床上移</b></p>
+                            <p class="- topic/p " xtrc="p:27;193:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按住此键，检查床升高。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:10;196:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" valign="middle" xtrc="entry:27;197:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:28;198:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">8</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" xtrc="entry:28;200:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-75.png" id="image_olh_mp2_cdb" placement="inline" xtrc="image:10;201:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10" xtrc="entry:29;202:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:29;205:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:9;205:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">检查床移出</b></p>
+                            <p class="- topic/p " xtrc="p:30;208:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按住此键，检查床移出。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:11;211:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" valign="middle" xtrc="entry:30;212:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:31;213:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">9</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11" xtrc="entry:31;215:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-76.png" id="image_cz5_np2_cdb" placement="inline" xtrc="image:11;216:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11" xtrc="entry:32;217:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:32;220:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:10;220:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">患者释放</b></p>
+                            <p class="- topic/p " xtrc="p:33;223:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">检查结束后按下此键，检查床回到原位并降床。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:12;226:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12" valign="middle" xtrc="entry:33;227:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:34;228:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">10</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12" xtrc="entry:34;230:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-77.png" id="image_hy4_tp2_cdb" placement="inline" xtrc="image:12;231:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="12" xtrc="entry:35;232:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:35;235:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:11;235:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">扬声器孔</b></p>
+                            <p class="- topic/p " xtrc="p:36;238:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">用于医患交流中的扬声器。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:13;241:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13" valign="middle" xtrc="entry:36;242:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:37;243:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">11</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13" xtrc="entry:37;245:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-78.png" id="image_ttn_vp2_cdb" placement="inline" xtrc="image:13;246:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="13" xtrc="entry:38;247:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:38;250:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:12;250:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">检查床下移</b></p>
+                            <p class="- topic/p " xtrc="p:39;253:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按住此键，检查床降低。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:14;256:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14" valign="middle" xtrc="entry:39;257:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:40;258:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">12</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14" xtrc="entry:40;260:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-79.png" id="image_dbz_wp2_cdb" placement="inline" xtrc="image:14;261:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="14" xtrc="entry:41;262:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:41;265:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:13;265:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">移床按键</b></p>
+                            <p class="- topic/p " xtrc="p:42;268:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按住此键，移动检查床。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:15;271:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15" valign="middle" xtrc="entry:42;272:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:43;273:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">13</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15" xtrc="entry:43;275:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-80.png" id="image_vt4_xp2_cdb" placement="inline" xtrc="image:15;276:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="15" xtrc="entry:44;277:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:44;280:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:14;280:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">暂停按键</b></p>
+                            <p class="- topic/p " xtrc="p:45;283:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按住此键，检查中止。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:16;286:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="16" valign="middle" xtrc="entry:45;287:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:46;288:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">14</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="16" xtrc="entry:46;290:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-81.png" id="image_t34_zp2_cdb" placement="inline" width="2cm" xtrc="image:16;291:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="16" xtrc="entry:47;292:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:47;295:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:15;295:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">语音按键</b></p>
+                            <p class="- topic/p " xtrc="p:48;298:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">按住此键，操作员可向患者传达信息。</p>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:17;301:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="17" valign="middle" xtrc="entry:48;302:63" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:49;303:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">15</p>
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="17" xtrc="entry:49;305:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><image class="- topic/image " href="../../images/figure3-82.png" id="image_cmk_1q2_cdb" placement="inline" width="25mm" xtrc="image:17;306:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"/></entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="17" xtrc="entry:50;307:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+                            <p class="- topic/p " xtrc="p:50;310:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita"><b class="+ topic/ph hi-d/b " xtrc="b:16;310:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">警告标签</b></p>
+                            <p class="- topic/p " xtrc="p:51;313:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">This X-Ray unit may be dangerous to patient and operator unless
+                                safe exposure factors,operating instructions and maintenance
+                                schedules are observed.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <ul class="- topic/ul " id="ul_afn_cq2_cdb" xtrc="ul:1;321:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">
+            <li class="- topic/li " xtrc="li:1;322:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">控制盒各按钮采用背光设计。为更好指引操作，按钮以不同的方式指示当前所需操作。 未被点亮的按钮表示当前不可用，点亮的按钮表示当前可用。</li>
+            <li class="- topic/li " xtrc="li:2;323:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">如果检查床同时需要在水平和垂直位置移动方可达到目标位置，移床按钮将快速闪烁， 同时在操作界面弹出提示“
+                请按住移床按钮”。按下移床按钮后，在到达目标位置前，该按钮将一直快速闪烁，提示用户不要松开。到达目标位置后，按钮背光灯将熄灭，此时方可松开。</li>
+            <li class="- topic/li " xtrc="li:3;325:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_components/Control_box.dita">若未到达目标位置就松开，移床按钮持续快速闪烁，提示用户继续完成当前移床操作。 此时如果想要放弃当前操作，可以点击取消。</li>
+        </ul>
+    </conbody>
+</concept>

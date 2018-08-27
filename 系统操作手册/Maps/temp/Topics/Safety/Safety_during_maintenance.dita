@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Safety?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Safety/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="concept_ghk_zsh_1db" xml:lang="zh" xtrc="concept:1;3:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">维修维护安全</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+        <ul class="- topic/ul " id="ul_j1h_2th_1db" xtrc="ul:1;7:33" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+            <li class="- topic/li " xtrc="li:1;8:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">现场维修调试时，必须要确认系统部件都已安装固定好。为防止 CT 旋转部件转动带来的危险，调试前必须确定旋转锁定销已经锁定旋转部件。</li>
+            <li class="- topic/li " xtrc="li:2;9:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">安装和移动 30 kg 以上的系统部件（如球管、高压发生器、数据管理系统（Data Management System,
+                DMS）等应使用专门工装，做好防护措施。</li>
+            <li class="- topic/li " xtrc="li:3;11:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">准备地脚螺栓孔时需要在安装现场进行钻孔，进行相关操作时，必须要考虑到粉尘或细 屑飞溅给设备和人员可能带来的危害，做好清洁和防护措施。</li>
+            <li class="- topic/li " xtrc="li:4;12:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">安装拆卸螺钉、螺母等小器件时，需要小心谨慎，避免零件散落，如遇特殊情况，需及时 向相关负责人汇报。</li>
+            <li class="- topic/li " xtrc="li:5;13:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">安装系统时需保证一定的安装力矩，如有必要，可先在螺钉上涂上螺纹锁固胶，然后用 力矩扳手予以拧紧。</li>
+            <li class="- topic/li " xtrc="li:6;14:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">进行PET机架抬升操作时，会用到专用的抬升工具。进行机架的相关操作前，抬升工具必 须要先插上快速插销。</li>
+        </ul>
+        <note class="- topic/note " othertype="帮助信息" type="other" xtrc="note:1;16:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+            <p class="- topic/p " xtrc="p:1;17:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">机架移动或系统维修完成后，需重新进行系统配准和校正。</p>
+        </note>
+        <note class="- topic/note " type="caution" xtrc="note:2;19:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+            <p class="- topic/p " xtrc="p:2;20:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">部件跌落，人身损伤</p>
+            <ul class="- topic/ul " id="ul_qcb_wlq_bdb" xtrc="ul:2;21:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+                <li class="- topic/li " xtrc="li:7;22:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+                    <p class="- topic/p " xtrc="p:3;23:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">维修时，若需抬起PET 机架，要按照正确的操作步骤抬升机架，机架抬升时另一侧不要站人。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:8;25:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+                    <p class="- topic/p " xtrc="p:4;26:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">抬升机架时，禁止将身体或头部伸入探测器环下方。</p>
+                </li>
+                <li class="- topic/li " xtrc="li:9;28:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">
+                    <p class="- topic/p " xtrc="p:5;29:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Safety/Safety_during_maintenance.dita">为防止部件跌落造成人员损伤，维修人员需有防护措施。</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

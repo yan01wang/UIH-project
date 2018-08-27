@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_mks_ygn_1db" xml:lang="zh">
+    <title>PSC 尺寸和服务空间</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_k4x_chn_1db">
+            <p>PSC 放置在扫描间（如果有设备间，推荐放置在设备间）。PSC 底部有 4 个 360 度转向的运输及支撑轮，可以通过前后侧的两个轮子固定 PSC。</p>
+            <ul id="ul_k5p_mhn_1db">
+                <li>
+                    <p>PSC技术规格</p>
+                    <p>PSC 重量和复位状态下尺寸如下表所示：</p>
+                    <table frame="all" rowsep="1" colsep="1" id="table_lbl_5jy_b2b">
+                        <tgroup cols="4">
+                            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                            <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                            <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+                            <colspec colname="c4" colnum="4" colwidth="1.0*"/>
+                            <thead>
+                                <row>
+                                    <entry align="center" valign="middle" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[7]/w:tr[1]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                            >宽度 （mm）</p>
+                                    </entry>
+                                    <entry align="center" valign="middle" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[7]/w:tr[1]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                            >深度 （mm）</p>
+                                    </entry>
+                                    <entry align="center" valign="middle" colsep="0">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[7]/w:tr[1]/w:tc[3]/w:p[1]"
+                                            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                            >高度 （mm）</p>
+                                    </entry>
+                                    <entry align="center" valign="middle">
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[7]/w:tr[1]/w:tc[4]/w:p[1]"
+                                            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                            >重量 （kg）</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[7]/w:tr[2]/w:tc[1]/w:p[1]"
+                                            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                            >700</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[7]/w:tr[2]/w:tc[2]/w:p[1]"
+                                            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                            >625</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[7]/w:tr[2]/w:tc[3]/w:p[1]"
+                                            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                            >1600</p>
+                                    </entry>
+                                    <entry>
+                                        <p
+                                            xtrc="/w:document/w:body[1]/w:tbl[7]/w:tr[2]/w:tc[4]/w:p[1]"
+                                            xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                                            >700</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </li>
+                <li>
+                    <p>PSC服务空间要求</p>
+                    <p>PSC 服务空间为一矩形，长：700 mm，宽：750 mm。</p>
+                </li>
+                <li>
+                    <p>PSC 放置间隔要求</p>
+                    <p>PSC 放置间隔要求：左右两侧需保证各留有 100 mm 的空间。</p>
+                </li>
+            </ul>
+            <note type="other" othertype="帮助信息">
+                <p>以上参数仅供场地准备时参考。</p>
+            </note>
+        </section>
+    </refbody>
+</reference>

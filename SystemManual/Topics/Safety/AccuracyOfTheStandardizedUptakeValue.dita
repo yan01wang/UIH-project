@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_m23_1qv_d2b">
+    <title>Accuracy of the standardized uptake value</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <note type="caution">
+            <ul id="ul_pt4_fqv_d2b">
+                <li>
+                    <p>The standardized uptake value (SUV) is intrinsically variable. Please pay
+                        more attention to this while explaining and using the SUV. Lots of factors,
+                        such as the physical quality of patients, glucose level, scanning
+                        parameters, reconstruction parameters, VOI shape and size, may influence the
+                        SUV calculation. </p>
+                </li>
+                <li>
+                    <p>SUV is not the most important factor for interpreting and analyzing PET/CT
+                        images and cannot be used as the exclusive criteria.</p>
+                </li>
+                <li>
+                    <p>While performing quantitative comparison to the quality of PET/CT images,
+                        make sure that all the interferences brought by the above factors have been
+                        eliminated. In addition, take the measurement error of SUV into account.</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

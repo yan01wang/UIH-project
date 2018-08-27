@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nch_4sx_zcb" xml:lang="zh">
+    <title>系统关闭</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>系统<index-sort-as>X系统</index-sort-as><indexterm>关闭</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <stepsection>若因系统维修维护，需要关闭整个系统，建议在停止放线十分钟后再执行。一次完整的系统 关机包括以下步骤：</stepsection>
+            <step>
+                <cmd>扫描系统复位。</cmd>
+                <substeps id="substeps_hll_3nj_bdb">
+                    <substep>
+                        <cmd>确认没有正在进行的检查，复位机架。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>按下释放患者按钮<image href="../../images/figure4-4.png" id="image_xlb_1cx_ddb"
+                            />，复位检查床。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>关闭系统。</cmd>
+                <substeps id="substeps_p3v_jnj_bdb">
+                    <substep>
+                        <cmd>确认没有执行中的重建、打印和归档任务。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>单击界面右上角的联影 LOGO，弹出下拉菜单。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>单击关闭选项，弹出关机对话框。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>单击是。各应用依次正常退出，关机按钮可用。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>点击关机。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>等待系统自行关闭。</cmd>
+            </step>
+            <step>
+                <cmd>关闭 UPS（若有）。</cmd>
+                <substeps id="substeps_mc5_rnj_bdb">
+                    <substep>
+                        <cmd>在 UPS 发出 “ 滴滴 ” 的响声后，按住关机按钮不放。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>听到 “ 滴滴 ” 声转为长鸣时松开按钮。此时，UPS 将被关闭。</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <note type="other" othertype="帮助信息">
+                        <p>必要时，如系统检修或更换熔断装置，可断开PSC 与配电箱之间电源开关。此时PSC 通电指示灯熄灭，表示已断电。</p>
+                    </note>
+                    <note type="attention">
+                        <p>在设备操作过程中如遇到设备故障或其它紧急情况，请立即按下机架控制面板或控制盒上的红色急停按钮。按下急停按钮后，0.5s
+                            内将会切断主驱动系统、检查床及机架电源，检查床会在10mm 范围内停下来； X 射线发射也会停止。</p>
+                    </note>
+                    <note type="warning">
+                        <ul id="ul_c1v_25x_zcb">
+                            <li>用户必须按照本手册操作要求依次关闭系统。</li>
+                            <li>
+                                <p>在设备操作过程中如遇到严重的紧急情况（如火灾、需停止系统运动和放线而急停按钮不响应时），请按下位于操作间的紧急断电按钮（EPO）。按下后PSC
+                                    与网电源断开连接，系统断电。</p>
+                            </li>
+                        </ul>
+                    </note>
+                    <p>关机之后，离开之前，请再次检查控制台计算机、控制盒、机架数据显示屏等，确认为断电 状态，并确认机架及检查床已停止运动。</p>
+                    <note type="other" othertype="帮助信息">
+                        <ul id="ul_mn5_k5x_zcb">
+                            <li>
+                                <p>日常操作时，无需频繁开关机架电源。为保证系统良好的运行环境，建议定期执行系统下电重启，推荐每周最后一个工作日扫描结束后进行。</p>
+                            </li>
+                            <li>
+                                <p>UPS 起续航作用，用于在网电源意外断开时给控制台供电，以便操作人员能及时保存检查数据，推荐使用。</p>
+                            </li>
+                        </ul>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

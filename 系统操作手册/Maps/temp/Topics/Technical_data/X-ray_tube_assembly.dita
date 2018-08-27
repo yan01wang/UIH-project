@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_data?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_data/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_cdm_5vl_cdb" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线球管组件</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+        <section class="- topic/section " id="section_j2c_wvl_cdb" xtrc="section:1;7:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <note class="- topic/note " type="other" xtrc="note:1;8:32" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <p class="- topic/p " xtrc="p:1;9:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">GB9706.12-29.201.5规定：X射线设备总等效滤过应不小于2.5 mm Al，本设备满足此法规要求。</p>
+            </note>
+            <title class="- topic/title " xtrc="title:2;11:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">标签</title>
+            <p class="- topic/p " xtrc="p:2;14:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">根据标准 GB9706.11，X 射线球管带有用于识别组件的制造商、型号和序列号的标签。该标签经过良好设计，从正常使用一段时间的 X
+                射线球管仍然可以看到清晰可辨的标签。</p>
+        </section>
+        <section class="- topic/section " xtrc="section:2;17:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:3;18:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">标志</title>
+            <p class="- topic/p " xtrc="p:3;21:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线球管组件带有满足 GB9706.11 要求的组合说明形式的标志。</p>
+            <p class="- topic/p " xtrc="p:4;24:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">如果适用，X 射线球管组件也带有相应标签以证明其符合用户所在地区的法规。</p>
+        </section>
+        <section class="- topic/section " id="section_f5s_yvl_cdb" xtrc="section:3;26:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:4;27:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">靶角和聚焦轨道的参考轴</title>
+            <p class="- topic/p " xtrc="p:5;28:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">垂直于 X 射线球管纵轴。</p>
+            <p class="- topic/p " xtrc="p:6;31:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">主要尺寸</p>
+            <ul class="- topic/ul " id="ul_ix3_1wl_cdb" xtrc="ul:1;32:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:1;33:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">宽度：40.25 mm</li>
+                <li class="- topic/li " xtrc="li:2;34:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">深度：29.95 mm</li>
+                <li class="- topic/li " xtrc="li:3;35:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">高度：30.97 mm</li>
+            </ul>
+        </section>
+        <section class="- topic/section " id="section_llt_2wl_cdb" xtrc="section:4;38:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:5;39:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">构造</title>
+            <p class="- topic/p " xtrc="p:7;42:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X射线球管组件有基于中心部分的射线管，包含阳极插座、阴极插座和冷却装置，重量（不带 任何可拆开的装配部件）大约为 63.2 kg。</p>
+            <p class="- topic/p " xtrc="p:8;45:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;45:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">限束光阑</b></p>
+            <p class="- topic/p " xtrc="p:9;46:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">距离球管焦点81 mm处固定一限束光阑，其在X-Z平面（距焦点81 mm）的尺寸如下：</p>
+            <ul class="- topic/ul " id="ul_uqr_rzm_cdb" xtrc="ul:2;47:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:4;48:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X方向：93 mm。</li>
+                <li class="- topic/li " xtrc="li:5;49:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">Z方向：9.6 mm。</li>
+            </ul>
+            <p class="- topic/p " xtrc="p:10;51:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">球管射线经过上述限束光阑后，X射线经过准直器再度限束，限束后，射线束在距焦点197mm处，X方向和Z方向出射的最大尺寸如下：</p>
+            <ul class="- topic/ul " id="ul_ahx_tzm_cdb" xtrc="ul:3;52:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:6;53:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X方向：257.6 mm。</li>
+                <li class="- topic/li " xtrc="li:7;54:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">Z方向：31 mm。</li>
+            </ul>
+            <p class="- topic/p " xtrc="p:11;56:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">最小可以全部遮挡。</p>
+            <fig class="- topic/fig " id="fig_qnd_gwl_cdb" xtrc="fig:1;57:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <title class="- topic/title " xtrc="title:6;58:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">Z 方向：X 射线球管组件的限束光阑</title>
+                <image class="- topic/image " href="../../images/figure8-1.png" id="image_b3x_nwl_cdb" placement="break" xtrc="image:1;59:100" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+            </fig>
+            <table class="- topic/table " colsep="1" frame="none" id="table_zzv_4wl_cdb" rowsep="1" xtrc="table:1;61:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;62:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" rowheader="headers" xtrc="colspec:1;63:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" rowheader="headers" xtrc="colspec:2;64:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;65:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                        <row class="- topic/row " xtrc="row:1;66:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;67:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:12;68:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">1.球管出口</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;70:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:13;71:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">2.准直器出口</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:14;77:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"> X射线球管的线束经过球管出口（如图8-1 数字1指示所示），X射线被限束后在X - Z平面的尺寸如下：</p>
+            <ul class="- topic/ul " id="ul_a1y_wwl_cdb" xtrc="ul:4;78:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:8;79:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 方向：99.20 mm</li>
+                <li class="- topic/li " xtrc="li:9;80:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">Z 方向：16.32 mm</li>
+            </ul>
+            <p class="- topic/p " xtrc="p:15;82:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线经过准直器再度限束，限束后在X - Z 平面（距离焦点204 mm）的尺寸为：</p>
+            <ul class="- topic/ul " id="ul_w2w_ywl_cdb" xtrc="ul:5;83:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:10;84:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 方向：216 mm</li>
+                <li class="- topic/li " xtrc="li:11;85:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">Z 方向：12.2 mm</li>
+            </ul>
+        </section>
+        <section class="- topic/section " id="section_xtn_dxl_cdb" xtrc="section:5;88:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:7;89:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">高压连接装置的极性</title>
+            <ul class="- topic/ul " id="ul_dz3_2xl_cdb" xtrc="ul:6;90:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:12;91:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">阳极：与高压发生器连接，电压大小为 +0 kV，阳极回流线（由球管插线角边缘到高压线缆锁定螺母）长度为 120 cm。</li>
+                <li class="- topic/li " xtrc="li:13;92:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">阴极：与高压发生器连接，电压大小为-140 kV，阴极高压线缆线缆长度（由球管插线角边缘到高压线缆锁定螺母）为 96.52 cm。</li>
+            </ul>
+        </section>
+        <section class="- topic/section " id="section_bkt_gxl_cdb" xtrc="section:6;95:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:8;96:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">管电压</title>
+            <p class="- topic/p " xtrc="p:16;97:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">管电压有五个档，包括 70 kV、80 kV、100 kV、120 kV 和 140 kV，管电压误差不大于 ±10％。小焦点的最大功率定义在 140 kV
+                下，大焦点的最大功率定义在 120 kV 和 140 kV 下。</p>
+            <p class="- topic/p " xtrc="p:17;99:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">各档管电压的最大 mA 限制</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_jyf_kxl_cdb" rowsep="1" xtrc="table:2;100:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:2;101:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:3;102:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:4;103:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:5;104:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;105:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                        <row class="- topic/row " xtrc="row:2;106:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:3;107:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:18;110:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:4;112:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:19;115:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">mA （小焦点）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:5;117:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:20;120:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">mA （大焦点）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:2;124:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                        <row class="- topic/row " xtrc="row:3;125:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:6;126:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:21;129:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">70</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:7;131:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:22;134:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">230</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:8;136:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:23;139:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">610</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;142:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:9;143:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:24;146:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">80</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:10;148:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:25;151:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">260</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:11;153:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:26;156:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">680</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;159:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:12;160:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:27;163:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">100</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:13;165:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:28;168:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">290</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:14;170:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:29;173:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">780</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;176:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:15;177:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:30;180:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">120</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:16;182:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:31;185:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">310</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:17;187:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:32;190:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">833</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;193:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:18;194:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:33;197:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">140</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:19;199:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:34;202:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">320</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:20;204:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:35;207:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">714</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:36;213:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;213:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">标称管电压及管电流加载组合</b></p>
+            <p class="- topic/p " xtrc="p:37;216:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">标称管电压运行时可以获得的相应最大管电流（最大管电流 @ 标称管电压）</p>
+            <ul class="- topic/ul " id="ul_m21_5xl_cdb" xtrc="ul:7;217:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:14;218:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"> 大焦点：714 mA@140 kV</li>
+                <li class="- topic/li " xtrc="li:15;219:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">小焦点：320 mA@140 kV</li>
+            </ul>
+            <p class="- topic/p " xtrc="p:38;221:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">最大管电流运行时可以获得的相应最高管电压（最高管电压 @ 最大管电流）</p>
+            <ul class="- topic/ul " id="ul_wn4_wxl_cdb" xtrc="ul:8;222:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:16;223:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">大焦点：120 kV@833 mA</li>
+                <li class="- topic/li " xtrc="li:17;224:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">小焦点：140 kV@320 mA</li>
+            </ul>
+            <p class="- topic/p " xtrc="p:39;226:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">单次负载定额</p>
+            <ul class="- topic/ul " id="ul_qgz_yxl_cdb" xtrc="ul:9;227:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:18;228:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">大焦点：<table class="- topic/table " colsep="1" frame="all" id="table_ghx_zxl_cdb" rowsep="1" xtrc="table:3;228:97" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                        <tgroup class="- topic/tgroup " cols="9" xtrc="tgroup:3;229:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:6;230:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:7;231:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:8;232:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1.0*" rowheader="headers" xtrc="colspec:9;233:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col5" colnum="5" colwidth="1.0*" rowheader="headers" xtrc="colspec:10;234:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col6" colnum="6" colwidth="1.0*" rowheader="headers" xtrc="colspec:11;235:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col7" colnum="7" colwidth="1.0*" rowheader="headers" xtrc="colspec:12;236:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col8" colnum="8" colwidth="1.0*" rowheader="headers" xtrc="colspec:13;237:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col9" colnum="9" colwidth="1.0*" rowheader="headers" xtrc="colspec:14;238:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:2;239:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <row class="- topic/row " xtrc="row:8;240:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:21;241:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:40;245:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">功率</p>
+                                        <p class="- topic/p " xtrc="p:41;249:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">（kW）</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:22;251:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:42;255:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">0.5</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:23;257:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:43;261:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">5</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1" xtrc="entry:24;263:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:44;267:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">10</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="1" xtrc="entry:25;269:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:45;273:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">20</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col6" dita-ot:x="6" dita-ot:y="1" xtrc="entry:26;275:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:46;279:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">36</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col7" dita-ot:x="7" dita-ot:y="1" xtrc="entry:27;281:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:47;285:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">60</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col8" dita-ot:x="8" dita-ot:y="1" xtrc="entry:28;287:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:48;291:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">80</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col9" dita-ot:x="9" dita-ot:y="1" xtrc="entry:29;293:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:49;297:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">100</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:3;301:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <row class="- topic/row " xtrc="row:9;302:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:30;303:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:50;307:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">时间</p>
+                                        <p class="- topic/p " xtrc="p:51;311:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">（s）</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:31;313:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:52;317:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">2000</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:32;319:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:53;323:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">2000</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2" xtrc="entry:33;325:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:54;329:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">650</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="2" xtrc="entry:34;331:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:55;335:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">260</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col6" dita-ot:x="6" dita-ot:y="2" xtrc="entry:35;337:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:56;341:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">100</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col7" dita-ot:x="7" dita-ot:y="2" xtrc="entry:36;343:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:57;347:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">33</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col8" dita-ot:x="8" dita-ot:y="2" xtrc="entry:37;349:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:58;353:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">10</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col9" dita-ot:x="9" dita-ot:y="2" xtrc="entry:38;355:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:59;359:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">0.5</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table></li>
+                <li class="- topic/li " xtrc="li:19;365:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">小焦点：<table class="- topic/table " colsep="1" frame="all" id="table_x12_byl_cdb" rowsep="1" xtrc="table:4;365:97" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                        <tgroup class="- topic/tgroup " cols="8" xtrc="tgroup:4;366:42" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:15;367:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:16;368:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:17;369:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1.0*" rowheader="headers" xtrc="colspec:18;370:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col5" colnum="5" colwidth="1.0*" rowheader="headers" xtrc="colspec:19;371:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col6" colnum="6" colwidth="1.0*" rowheader="headers" xtrc="colspec:20;372:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col7" colnum="7" colwidth="1.0*" rowheader="headers" xtrc="colspec:21;373:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <colspec class="- topic/colspec " colname="col8" colnum="8" colwidth="1.0*" rowheader="headers" xtrc="colspec:22;374:70" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                            <thead class="- topic/thead " xtrc="thead:3;375:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <row class="- topic/row " xtrc="row:10;376:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:39;377:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:60;381:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">功率</p>
+                                        <p class="- topic/p " xtrc="p:61;385:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">（kW）</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:40;387:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:62;391:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">0.5</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:41;393:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:63;397:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">5</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1" xtrc="entry:42;399:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:64;403:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">10</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="1" xtrc="entry:43;405:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:65;409:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">20</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col6" dita-ot:x="6" dita-ot:y="1" xtrc="entry:44;411:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:66;415:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">30</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col7" dita-ot:x="7" dita-ot:y="1" xtrc="entry:45;417:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:67;421:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">37</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col8" dita-ot:x="8" dita-ot:y="1" xtrc="entry:46;423:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:68;427:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">44.8</p>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody class="- topic/tbody " xtrc="tbody:4;431:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <row class="- topic/row " xtrc="row:11;432:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                    <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:47;433:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:69;437:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">时间</p>
+                                        <p class="- topic/p " xtrc="p:70;441:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">（s）</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:48;443:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:71;447:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">2000</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:49;449:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:72;453:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">2000</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2" xtrc="entry:50;455:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:73;459:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">650</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="2" xtrc="entry:51;461:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:74;465:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">220</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col6" dita-ot:x="6" dita-ot:y="2" xtrc="entry:52;467:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:75;471:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">100</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col7" dita-ot:x="7" dita-ot:y="2" xtrc="entry:53;473:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:76;477:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">65</p>
+                                    </entry>
+                                    <entry class="- topic/entry " colname="col8" dita-ot:x="8" dita-ot:y="2" xtrc="entry:54;479:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                        <p class="- topic/p " xtrc="p:77;483:46" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">55</p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table></li>
+            </ul>
+        </section>
+        <section class="- topic/section " id="section_nnz_myl_cdb" xtrc="section:7;491:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:9;492:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">射线球管组件最大热容量</title>
+            <p class="- topic/p " xtrc="p:78;493:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">11.7 MHU</p>
+            <note class="- topic/note " type="warning" xtrc="note:2;494:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <p class="- topic/p " xtrc="p:79;495:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">在高压加载过程中，球管热容量超过球管最大热容量的71.2% 时，应该给予操作人员警告提示。</p>
+            </note>
+            <note class="- topic/note " type="warning" xtrc="note:3;497:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <p class="- topic/p " xtrc="p:80;498:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">在扫描过程中，用户如果发现因球管过热而导致的禁止新扫描，请联系联影客户服务工 程师，此情况只有客户服务工程师才能清除。</p>
+            </note>
+        </section>
+        <section class="- topic/section " id="section_tld_syl_cdb" xtrc="section:8;501:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:10;502:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">高压停止加载的热容量警告提示</title>
+            <p class="- topic/p " xtrc="p:81;503:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">在扫描过程中，当球管热容量超过球管最大热容量的一定百分比时（具体标准参见下表）， 系统自动会弹出球管热容量警告提示对话框，此时扫描工作停止，高压停止加载。</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_jk1_tyl_cdb" rowsep="1" xtrc="table:5;504:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:5;505:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colsep="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:23;506:73" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:24;507:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:4;508:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                        <row class="- topic/row " xtrc="row:12;509:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:55;510:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:82;513:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">剂量等级</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:56;515:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:83;518:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">热容量警告临界值</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:5;522:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                        <row class="- topic/row " xtrc="row:13;523:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:57;524:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:84;527:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">大剂量 （40 kW ~ 50 kW）放线</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:58;529:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:85;532:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">球管最大热容量的 59%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:14;535:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:59;536:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:86;539:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">中等剂量 （25 kW ~ 40 kW）放线</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:60;541:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:87;544:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">球管最大热容量的 80%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:15;547:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:61;548:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:88;551:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">小剂量 （&lt; 25 kW）放线</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:62;553:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                                <p class="- topic/p " xtrc="p:89;556:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">球管最大热容量的 90%</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " id="section_t5k_tyl_cdb" xtrc="section:9;563:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:11;564:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">冷却要求</title>
+            <p class="- topic/p " xtrc="p:90;567:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线球管组件冷却装置是热交换器，它由 1 个油泵和 2 个冷却风扇组成。热交换器不仅冷却X 射线球管组件，还为 X
+                射线球管组件提供超压和热保护，热敏电阻和压力开关都集成在热交换器中，以监控油循环并向系统提供反馈。</p>
+            <p class="- topic/p " xtrc="p:91;571:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线球管组件的冷却要求如下：</p>
+            <ul class="- topic/ul " id="ul_gxc_vyl_cdb" xtrc="ul:10;572:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:20;573:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">热交换器的电源输入：电压为 220 V-14% VAC ~ 220 V+10% VAC，电流为 3.5 A，频率为50/60
+                    Hz。电源输入管主要安装在外罩的中央。</li>
+                <li class="- topic/li " xtrc="li:21;575:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">阳极最大冷却速率：16.5 kW 或 23.1 KHU/sec 。</li>
+                <li class="- topic/li " xtrc="li:22;576:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">阳极持续热耗散：12 kW 或 16.8 KHU/sec。</li>
+                <li class="- topic/li " xtrc="li:23;577:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线球管组件最大冷却速率：当大气压强为 86 kPa，温度差（油与周围的空气温度差） 增加到 31 °C 时，需要用最大功率 5.9 kW
+                    来冷却。</li>
+            </ul>
+            <note class="- topic/note " type="warning" xtrc="note:4;580:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <p class="- topic/p " xtrc="p:92;581:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">客户服务工程师重装机架外壳前，需要检查球管热交换器上风扇的工作状态：</p>
+                <ul class="- topic/ul " id="ul_ulv_3zl_cdb" xtrc="ul:11;582:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                    <li class="- topic/li " xtrc="li:24;583:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">若风扇状态异常，则禁止设备放线，必须先由客户服务工程师完成风扇维修；如果客户服务工程师不在设备跟前，应锁定设备电源，以防止不安全的事故发生，后续由客户服务工程师完成风扇维修工作。</li>
+                    <li class="- topic/li " xtrc="li:25;584:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">若风扇状态正常，客户服务工程师可以重装机架外壳，然后进行设备放线工作。</li>
+                </ul>
+            </note>
+        </section>
+        <section class="- topic/section " id="section_b3d_4zl_cdb" xtrc="section:10;588:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:12;589:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线球管组件加热和冷却曲线</title>
+            <p class="- topic/p " xtrc="p:93;590:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线球管组件加热和冷却曲线如图8-2 所示</p>
+            <fig class="- topic/fig " id="fig_bl2_pzl_cdb" xtrc="fig:2;591:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <title class="- topic/title " xtrc="title:13;592:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">X 射线球管组件加热和冷却曲线</title>
+                <image class="- topic/image " href="../../images/figure8-2.png" id="image_hml_tzl_cdb" placement="inline" width="7in" xtrc="image:2;593:94" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+            </fig>
+            <p class="- topic/p " xtrc="p:94;595:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">在<xref class="- topic/xref " format="dita" href="#reference_cdm_5vl_cdb/fig_bl2_pzl_cdb" xtrc="xref:1;595:83" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita" type="fig"><?ditaot usertext?>图8-2</xref> 中，</p>
+            <ul class="- topic/ul " id="ul_ocr_wzl_cdb" xtrc="ul:12;596:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:26;597:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">横轴表示球管加热或冷却的时间（单位：min）</li>
+                <li class="- topic/li " xtrc="li:27;598:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">纵轴有两个意义，纵轴外边的数字表示球管当前存储的热量（单位：kJ），纵轴里面的 数字表示球管内当前温度（单位：℃）。</li>
+            </ul>
+        </section>
+        <section class="- topic/section " id="section_wbt_zzl_cdb" xtrc="section:11;601:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:14;602:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">辐射输出的线性度</title>
+            <p class="- topic/p " xtrc="p:95;605:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">辐射输出线性度的最大偏差是 ±10%。</p>
+        </section>
+        <section class="- topic/section " id="section_r1f_f1m_cdb" xtrc="section:12;607:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:15;608:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">机械调整和算法校正</title>
+            <p class="- topic/p " xtrc="p:96;609:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">机械调整措施</p>
+            <p class="- topic/p " xtrc="p:97;610:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">机械调整措施包括以下四个方面：</p>
+            <ul class="- topic/ul " id="ul_oky_c1m_cdb" xtrc="ul:13;611:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:28;612:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">客户服务工程师按精度要求调整球管X 方向机构。</li>
+                <li class="- topic/li " xtrc="li:29;613:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">客户服务工程师按精度要求调整球管X 方向机构。</li>
+                <li class="- topic/li " xtrc="li:30;614:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">螺钉拧紧前，如果不加弹性垫圈，必须涂适量防松胶。</li>
+                <li class="- topic/li " xtrc="li:31;615:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">用力矩扳手将螺钉拧紧到合适的位置。</li>
+            </ul>
+            <p class="- topic/p " xtrc="p:98;617:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"> 球管校正原理与方法</p>
+            <p class="- topic/p " xtrc="p:99;620:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">由于机械加工误差和安装误差，球管位置会发生偏移，需要经过球管Ｘ方向校正和探测器Ｚ 方向校正使焦点、旋转中心和探测器中心共线。</p>
+            <p class="- topic/p " xtrc="p:100;623:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">球管 X 方向校正过程：</p>
+            <ol class="- topic/ol " id="ol_hmh_p1m_cdb" xtrc="ol:1;624:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <li class="- topic/li " xtrc="li:32;625:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">扫描一组空气，用于空气校正。</li>
+                <li class="- topic/li " xtrc="li:33;626:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">扫描一个偏心金属球，对其进行空气校正，通过金属球的投影值来计算中心通道的偏移量。</li>
+                <li class="- topic/li " xtrc="li:34;627:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">若球管Z 方向偏移量在允许误差范围内，则校正完成。否则，需要根据界面提示在Z 方向调整球管位置后重复上述步骤，直至满足误差要求为止。</li>
+            </ol>
+        </section>
+        <section class="- topic/section " id="section_qhg_w1m_cdb" xtrc="section:13;630:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+            <title class="- topic/title " xtrc="title:16;631:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">高压与球管的电气连接</title>
+            <p class="- topic/p " xtrc="p:101;632:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">高压与球管的电气连接图如图 8-3 所示：</p>
+            <fig class="- topic/fig " id="fig_bv1_1bm_cdb" xtrc="fig:3;633:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">
+                <title class="- topic/title " xtrc="title:17;634:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita">高压与球管的电气连接图</title>
+                <image class="- topic/image " href="../../images/figure8-3.png" id="image_bdr_1bm_cdb" placement="break" xtrc="image:3;635:100" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/X-ray_tube_assembly.dita"/>
+            </fig>
+        </section>
+    </refbody>
+</reference>

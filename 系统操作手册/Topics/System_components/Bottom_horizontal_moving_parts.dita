@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_klk_2jy_bdb" xml:lang="zh">
+    <title> 底部水平运动部件</title>
+    <shortdesc/>
+    <conbody>
+        <ul id="ul_ddy_gjy_bdb">
+            <li>
+                <p>检查床底部水平进给部分包括电机、减速箱、驱动带轮及其它相应附属部件组成。</p>
+            </li>
+            <li>
+                <p>底部水平运动部件使系统能在 PET 扫描位和 CT 扫描位之间进行切换。</p>
+            </li>
+            <li>
+                <p>底部水平进给的范围为690 mm，按下急停按钮后，检查床的底部水平进给能够在10 mm内停止。</p>
+            </li>
+            <li>
+                <p>遇到大于 450 N 的阻力时，底部水平进给将会自动停止，以防夹住患者。</p>
+            </li>
+            <li>
+                <p>底部水平进给的速度可达 200 mm/s。断电情况下，可以手动拖动承载着患者（最大体重250 kg）的检查床底座。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

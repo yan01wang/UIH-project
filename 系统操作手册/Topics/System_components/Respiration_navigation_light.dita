@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_o4c_4cy_bdb" xml:lang="zh">
+    <title>呼吸导航灯</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>H呼吸导航灯</index-sort-as>呼吸导航灯</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>患者呼吸导航灯位于机架 CT 端的患者进口正前方，如图 3-19 所示。当患者就位，床板移至扫描位后，系统自动播放语音，指导患者屏气，以协助检查。同时，呼吸导航灯将配合显示
+            相应的图标（屏气或呼吸），帮助患者更好执行。屏气过程中，呼吸导航灯还将显示倒计时。</p>
+        <fig id="fig_xp5_5cy_bdb">
+            <title>呼吸导航灯和光环境</title>
+            <image href="../../images/figure3-38.jpeg" id="image_gj4_xcy_bdb" placement="break"/>
+            <simpletable relcolwidth="1.0* 1.0*" id="simpletable_bv5_xbd_n2b">
+                <strow>
+                    <stentry> 呼吸导航灯</stentry>
+                    <stentry>光环境</stentry>
+                </strow>
+            </simpletable>
+        </fig>
+        <fig id="fig_zq2_fdy_bdb">
+            <title>呼吸导航</title>
+            <image href="../../images/figure3-40.png" id="image_zly_gdy_bdb" placement="break"/>
+            <simpletable relcolwidth="1.0* 1.0*" id="simpletable_xq4_1cd_n2b">
+                <strow>
+                    <stentry>麦克风</stentry>
+                    <stentry>屏住呼吸</stentry>
+                </strow>
+                <strow>
+                    <stentry>正常呼吸</stentry>
+                    <stentry>屏气倒计时</stentry>
+                </strow>
+            </simpletable>
+        </fig>
+        <section id="section_lqk_rdy_bdb">
+            <p>其中各图标作用如下描述。</p>
+            <ul id="ul_id3_qdy_bdb">
+                <li>麦克风：供患者与操作者对话使用。</li>
+                <li>呼吸指示灯：绿色灯亮，患者呼吸。</li>
+                <li>屏息指示灯：黄色灯亮，患者屏住呼吸。</li>
+                <li>呼吸导航倒计时：显示剩余屏息时间。</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

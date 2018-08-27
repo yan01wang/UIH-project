@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_l4r_wkk_zdb" xml:lang="zh">
+  <title>断层成像装置的配置</title>
+  <body>
+    <ul id="ul_ct3_lcl_cdb">
+      <li>
+        <p>能量阈：不小于 430 keV 。</p>
+      </li>
+      <li>
+        <p>轴向可接受角度：PET 子系统采用三维模式成像，轴向可接受角度为 -18.4° ~ +18.4°。</p>
+      </li>
+      <li>
+        <p>重建算法：PET成像重建算法包括滤波反投影（FBP）、有序子集最大期望值法（OSEM）。可实现点扩展函数（PSF）重建。</p>
+      </li>
+      <li>
+        <p>偶然符合评估的方法：通过延迟窗评估随机符合。</p>
+      </li>
+    </ul>
+  </body>
+</topic>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qpc_4m4_f2b">
+ <title>Overview</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>Name of the operation and processing software integrated for this system: uExceed, software
+   version: R00x. uExceed is a public software platform system for medical imaging and can be
+   applied to the management and analysis of medical imaging data. In addition, it supports
+   different imaging devices. It has the functions of patient registration, information management,
+   image viewing, image analysis and processing, measurement and film typesetting and filming,
+   helping doctors to analyze, process and archive the exam result. The uExceed system is used to
+   acquire and process medical images in compliance with DICOM standards by applying medical imaging
+   technologies and computer software/hardware technologies, thus providing a basis for image
+   diagnosis or scientific researches, and serving as an auxiliary tool for the physicians of
+   Imaging Department during their diagnosis.</p>
+  <p>Main interfaces of the operation and processing software include the Patient tab, main
+   operation areas, system control area, system tools, system status bar and other areas. Please
+   refer to "Main interface distribution" on page 3-3 for detailed introduction.</p>
+  <p>For all functions of this system, such as distributions and function overview of the Patient
+   Registration interface, the Patient Administration interface, the Exam interface, the Viewing
+   interface and the Filming interface, please refer to "Configuration performance" on page 3-19
+   .</p>
+  <p>For the performance parameters, recommended configurations and other information of this
+   system, please refer to "Configuration performance" on page 3-19 .</p>
+ </conbody>
+</concept>

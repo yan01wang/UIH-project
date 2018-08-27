@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_brm_f2m_cdb" xml:lang="zh">
+    <title>CTDI 定义</title>
+    <shortdesc/>
+    <conbody>
+        <p>计算机体层成像剂量指数（CTDI）是沿体层平面垂直线的剂量曲线积分除以同一次扫描中生成的额定体层截面厚度与体层数量的乘积，如下所示：</p>
+        <image href="../../images/figure8-7.png" id="image_xq1_s2m_cdb"/>
+        <p xtrc="/w:document/w:body[1]/w:p[333]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+            >公式中符号定义如下。</p>
+        <p xtrc="/w:document/w:body[1]/w:p[334]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+            >z：沿体层平面垂直线的位置。</p>
+        <p xtrc="/w:document/w:body[1]/w:p[335]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+            >D（z）：在位置 z 处的空气剂量（CTDI100）。</p>
+        <p xtrc="/w:document/w:body[1]/w:p[336]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+            >T：额定的体层截面厚度。</p>
+        <p xtrc="/w:document/w:body[1]/w:p[339]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/8%20%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE/word/document.xml"
+            >n：一次扫描中生成的体层数量。</p>
+    </conbody>
+</concept>

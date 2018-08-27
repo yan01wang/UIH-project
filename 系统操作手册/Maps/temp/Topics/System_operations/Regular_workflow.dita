@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\System_operations?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/System_operations/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_kby_4hx_zcb" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">常规工作流</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+        <section class="- topic/section " id="section_mvz_5mj_bdb" xtrc="section:1;7:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+            <p class="- topic/p " xtrc="p:1;8:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">为了人身、设备安全，有效的采集患者数据以及获得准确的诊断依据，用户应遵循规范的工 作流程对患者进行检查。常规工作流和所涉及的界面如下流程图所示。</p>
+            <fig class="- topic/fig " id="fig_hgv_3hx_zcb" xtrc="fig:1;9:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                <title class="- topic/title " xtrc="title:2;10:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">常规工作流程图</title>
+                <image class="- topic/image " href="../../images/figure4-1.png" id="image_jf2_chx_zcb" placement="break" xtrc="image:1;11:100" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"/>
+            </fig>
+            <table class="- topic/table " colsep="1" frame="all" id="table_vsk_njx_zcb" rowsep="1" xtrc="table:1;13:77" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                <title class="- topic/title " xtrc="title:3;14:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">常规工作流程</title>
+                <tgroup class="- topic/tgroup " cols="4" xtrc="tgroup:1;15:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" rowheader="headers" xtrc="colspec:1;16:69" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.35*" rowheader="headers" xtrc="colspec:2;17:72" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="4.49*" rowheader="headers" xtrc="colspec:3;18:72" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"/>
+                    <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1.3*" rowheader="headers" xtrc="colspec:4;19:71" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;20:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                        <row class="- topic/row " xtrc="row:1;21:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" valign="middle" xtrc="entry:1;22:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:2;23:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">序号</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" valign="middle" xtrc="entry:2;25:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:3;26:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">步骤和操作</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col3" colsep="0" dita-ot:x="3" dita-ot:y="1" valign="middle" xtrc="entry:3;28:78" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:4;29:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">所用界面</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1" valign="middle" xtrc="entry:4;31:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:5;32:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">参考信息</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;36:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                        <row class="- topic/row " xtrc="row:2;37:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" morerows="1" valign="middle" xtrc="entry:5;38:80" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:6;39:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">1</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:6;41:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <ul class="- topic/ul " id="ul_z2b_1kx_zcb" xtrc="ul:1;42:57" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                    <li class="- topic/li " xtrc="li:1;43:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                        <p class="- topic/p " xtrc="p:7;44:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">设备准备</p>
+                                    </li>
+                                    <li class="- topic/li " xtrc="li:2;46:41" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                        <p class="- topic/p " xtrc="p:8;47:44" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">患者准备</p>
+                                    </li>
+                                </ul>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:7;51:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:9;52:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"><image class="- topic/image " href="../../images/figure4-3.png" id="image_grd_l3x_zcb" placement="break" scale="55" xtrc="image:2;52:130" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"/></p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2" xtrc="entry:8;54:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:10;55:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"> “ <xref class="- topic/xref " href="Accessory_configuration.dita#task_cgk_4ky_zcb" xtrc="xref:1;55:99" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita" type="task"><?ditaot gentext?>配置附件<?ditaot genshortdesc?><desc class="- topic/desc "/></xref>
+                                    ”</p>
+                                <p class="- topic/p " xtrc="p:11;57:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"> “ <xref class="- topic/xref " href="Patient_preparation.dita#topic_htv_pny_zcb" xtrc="xref:2;57:96" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita" type="topic"><?ditaot gentext?>患者准备</xref>”</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;60:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:9;61:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:12;62:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">日常质控</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:10;64:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:13;65:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita"><xref class="- topic/xref " href="../System_maintenance/Daily_QC.dita#task_rmx_vhp_bdb/fig_ny5_y3p_bdb" xtrc="xref:3;67:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita" type="fig"><?ditaot gentext?>图 1</xref></p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3" xtrc="entry:11;69:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:14;70:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">第 4-7 页 “ 日常质控 ”</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;73:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" valign="middle" xtrc="entry:12;74:67" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:15;75:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">2</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:13;77:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:16;78:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">患者登记</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:14;80:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:17;81:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">图 4-4</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="4" xtrc="entry:15;83:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:18;84:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">第 4-12 页 “ 患者登记 ”</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;87:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" morerows="1" valign="middle" xtrc="entry:16;88:80" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:19;89:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">3</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:17;91:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:20;92:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">参数确认和验证</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:18;94:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:21;95:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">N.A</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="5" morerows="1" xtrc="entry:19;97:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:22;98:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">第 4-15 页 “ 患者检查 ”</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;101:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:20;102:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:23;103:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">患者检查</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:21;105:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:24;106:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">图 4-5</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;109:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" morerows="1" valign="middle" xtrc="entry:22;110:80" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:25;111:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">4</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:23;113:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:26;114:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">图像浏览</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:24;116:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">图 4-7和图 4-8</entry>
+                            <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="7" xtrc="entry:25;117:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:27;118:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">第 4-19页 “ 图像浏览 ”</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:8;121:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:26;122:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:28;123:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">胶片打印</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:27;125:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:29;126:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">图 4-9</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="8" xtrc="entry:28;128:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">
+                                <p class="- topic/p " xtrc="p:30;129:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/System_operations/Regular_workflow.dita">第 4-21页 “ 胶片打印 ”</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

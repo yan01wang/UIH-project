@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_l2r_fpg_1db" xml:lang="zh_CN">
+    <title>安全等级定义</title>
+    <shortdesc/>
+    <conbody>
+        <p>本手册包含以下四种等级的安全警告标记：</p>
+        <p>在操作本系统前，用户必须阅读并熟知本手册中涉及的所有安全信息，必须严格遵守本手册中标记有 " 危险 "、" 警告 "、" 小心 "、" 注意 "
+            字样的安全信息，明确各项安全措施，防范安全事故。</p>
+        <p>法规中对 " 危险 "、" 警告 "、" 小心 "、" 注意 " 有如下定义：</p>
+        <p>" 危险"：如果忽略这些指示，可能会有导致死亡或严重伤害的紧急危害。</p>
+        <p>" 警告 "：如果忽略这些指示，可能会导致死亡或严重伤害。</p>
+        <p>" 小心 "：如果忽略这些指示，可能会导致人员轻微或中等伤害及设备或其他财产损害的潜在危险。</p>
+        <p>" 注意 "：表明直接或间接涉及人员安全或财产保护的提示信息。本章主要描述了本系统的操作安全信息，描述格式如下。</p>
+        <p>本章主要描述了本系统的操作安全信息，描述格式如下。</p>
+        <note type="danger">
+            <p>安全信息 - 风险因素及结果。</p>
+            <ul id="ul_rzy_yjk_bdb">
+                <li>
+                    <p>安全信息 - 预防措施。</p>
+                </li>
+            </ul>
+        </note>
+        <note type="warning">
+            <p>安全信息 - 风险因素及结果。</p>
+            <ul id="ul_onp_bkk_bdb">
+                <li>
+                    <p>安全信息 - 预防措施。</p>
+                </li>
+            </ul>
+        </note>
+        <note type="caution">
+            <p>安全信息 - 风险因素及结果。</p>
+            <ul id="ul_ajr_3kk_bdb">
+                <li>
+                    <p>安全信息 - 预防措施。</p>
+                </li>
+            </ul>
+        </note>
+        <note type="note" spectitle="overflow">
+            <p>需要遵从的安全注意信息。</p>
+        </note>
+    </conbody>
+</concept>

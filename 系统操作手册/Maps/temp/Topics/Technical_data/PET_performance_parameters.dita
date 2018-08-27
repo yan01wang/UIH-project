@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_data?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_data/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="topic_d1w_ncl_cdb" xml:lang="zh" xtrc="topic:1;3:45" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">PET 性能参数</title><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+        <section class="- topic/section " xtrc="section:1;6:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+            <title class="- topic/title " xtrc="title:2;7:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">扫描性能</title>
+            <ul class="- topic/ul " id="ul_rq5_rcl_cdb" xtrc="ul:1;8:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                <li class="- topic/li " xtrc="li:1;9:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:1;12:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">断层扫描</p>
+                </li>
+                <li class="- topic/li " xtrc="li:2;14:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:2;17:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">动态成像及延迟成像</p>
+                </li>
+                <li class="- topic/li " xtrc="li:3;19:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:3;22:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">呼吸门控扫描</p>
+                </li>
+                <li class="- topic/li " xtrc="li:4;24:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:4;27:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">心电门控扫描</p>
+                </li>
+            </ul>
+        </section>
+        <section class="- topic/section " xtrc="section:2;31:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+            <title class="- topic/title " xtrc="title:3;32:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">重建矩阵</title>
+            <ul class="- topic/ul " id="ul_awz_vcl_cdb" xtrc="ul:2;33:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                <li class="- topic/li " xtrc="li:5;34:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:5;37:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"> 128 × 128</p>
+                </li>
+                <li class="- topic/li " xtrc="li:6;39:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:6;42:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"> 150 × 150</p>
+                </li>
+                <li class="- topic/li " xtrc="li:7;44:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:7;47:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">PET 系统技术数据 | 技术数据</p>
+                </li>
+                <li class="- topic/li " xtrc="li:8;49:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:8;52:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"> 192 × 192</p>
+                </li>
+                <li class="- topic/li " xtrc="li:9;54:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:9;57:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"> 256 × 256</p>
+                </li>
+                <li class="- topic/li " xtrc="li:10;59:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:10;62:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"> 512 × 512</p>
+                </li>
+                <li class="- topic/li " xtrc="li:11;64:21" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <p class="- topic/p " xtrc="p:11;67:26" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"> 600 × 600</p>
+                </li>
+            </ul>
+        </section>
+        <section class="- topic/section " xtrc="section:3;71:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+            <title class="- topic/title " xtrc="title:4;72:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">空间分辨率</title>
+            <table class="- topic/table " colsep="1" frame="all" id="table_spp_bdl_cdb" rowsep="1" xtrc="table:1;73:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;74:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="132.3pt" rowheader="headers" xtrc="colspec:1;75:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="132.3pt" rowheader="headers" xtrc="colspec:2;76:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="132.3pt" rowheader="headers" xtrc="colspec:3;77:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;78:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:1;79:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;80:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:12;83:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">离开横向视野中心距离</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;85:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:13;88:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">1 cm</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;90:51" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:14;93:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">10 cm</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;97:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:2;98:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;99:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:15;102:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">112 环</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;104:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:16;107:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">2.9 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;109:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:17;112:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">3.2 mm</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;115:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;116:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:18;119:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">88 环</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;121:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:19;124:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">3.0 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;126:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:20;129:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">3.3 mm</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " xtrc="section:4;136:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+            <title class="- topic/title " xtrc="title:5;137:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">散射分数、计数损失和偶然符合</title>
+            <table class="- topic/table " colsep="1" frame="all" id="table_l5h_2dl_cdb" rowsep="1" xtrc="table:2;138:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:2;139:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="132.3pt" rowheader="headers" xtrc="colspec:4;140:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="132.3pt" rowheader="headers" xtrc="colspec:5;141:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="132.3pt" rowheader="headers" xtrc="colspec:6;142:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:2;143:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:4;144:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:10;145:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:21;148:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">指标项</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:11;150:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:22;153:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">散射分数</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:12;155:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:23;158:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">噪声等效计数率</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:2;162:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:5;163:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:13;164:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:24;167:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">112 环</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:14;169:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:25;172:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">0.38</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:15;174:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:26;177:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">160 kcps</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;180:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:16;181:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:27;184:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">88 环</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:17;186:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:28;189:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">0.38</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:18;191:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:29;194:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">100 kcps</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " xtrc="section:5;201:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+            <title class="- topic/title " xtrc="title:6;202:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">灵敏度</title>
+            <table class="- topic/table " colsep="1" frame="all" id="table_zff_s2l_cdb" rowsep="1" xtrc="table:3;203:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:3;204:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="132.3pt" rowheader="headers" xtrc="colspec:7;205:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="132.3pt" rowheader="headers" xtrc="colspec:8;206:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="132.3pt" rowheader="headers" xtrc="colspec:9;207:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:3;208:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:7;209:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:19;210:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:30;213:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">距离视野中心距离</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:20;215:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:31;218:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">参数值范围（112 环）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" colsep="0" dita-ot:x="3" dita-ot:y="1" xtrc="entry:21;220:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:32;223:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">参数值范围 （88 环）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:3;227:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:8;228:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:22;229:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:33;232:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">0 cm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:23;234:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:34;237:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">15 cps /kBq</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:24;239:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:35;242:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">9 cps /kBq</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:9;245:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:25;246:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:36;249:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">10 cm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:26;251:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:37;254:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">15 cps /kBq</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:27;256:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:38;259:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">9 cps /kBq</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " xtrc="section:6;266:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+            <title class="- topic/title " xtrc="title:7;267:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">精确性：计数损失与偶然符合计数校正</title>
+            <table class="- topic/table " colsep="1" frame="all" id="table_wcp_v2l_cdb" rowsep="1" xtrc="table:4;268:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:4;269:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="198.5pt" rowheader="headers" xtrc="colspec:10;270:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="198.4pt" rowheader="headers" xtrc="colspec:11;271:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:4;272:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:10;273:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:28;274:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:39;277:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">软件配置环数</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:29;279:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:40;282:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">NECR 峰值处的偏差</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:4;286:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:11;287:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:30;288:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:41;291:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">112 环</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:31;293:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:42;296:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≤ 6.5%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:12;299:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:32;300:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:43;303:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">88 环</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:33;305:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:44;308:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≤ 6.5%</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " xtrc="section:7;315:18" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+            <title class="- topic/title " xtrc="title:8;316:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">图像质量、衰减校正和散射校正的精确性</title>
+            <p class="- topic/p " xtrc="p:45;317:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">百分对比度最小值如下表：</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_qmk_bfl_cdb" rowsep="1" xtrc="table:5;318:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:5;319:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="132.3pt" rowheader="headers" xtrc="colspec:12;320:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="132.3pt" rowheader="headers" xtrc="colspec:13;321:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="132.3pt" rowheader="headers" xtrc="colspec:14;322:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:5;323:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:13;324:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:34;325:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:46;328:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">小球尺寸（mm）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:35;330:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:47;333:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">百分对比度（112 环）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:36;335:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:48;338:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">百分对比度 （88 环）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:5;342:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:14;343:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:37;344:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:49;347:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">10</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:38;349:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:50;352:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 45%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:39;354:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:51;357:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 45%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:15;360:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:40;361:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:52;364:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">13</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:41;366:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:53;369:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 55%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:42;371:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:54;374:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 55%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:16;377:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:43;378:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:55;381:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">17</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:44;383:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:56;386:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 65%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:45;388:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:57;391:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 65%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:17;394:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:46;395:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:58;398:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">22</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:47;400:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:59;403:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 72%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:48;405:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:60;408:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 72%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:18;411:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:49;412:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:61;415:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">28</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:50;417:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:62;420:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 65%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:51;422:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:63;425:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 65%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:19;428:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:52;429:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:64;432:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">37</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:53;434:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:65;437:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 70%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:54;439:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:66;442:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≥ 70%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:20;445:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:55;446:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:67;449:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">肺区</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:56;451:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:68;454:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≤ 16%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:57;456:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:69;459:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">≤ 16%</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:70;465:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">百分本底变化率最大值如下表：</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_cbm_gfl_cdb" rowsep="1" xtrc="table:6;466:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:6;467:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="132.3pt" rowheader="headers" xtrc="colspec:15;468:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="132.3pt" rowheader="headers" xtrc="colspec:16;469:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="132.3pt" rowheader="headers" xtrc="colspec:17;470:65" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:6;471:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:21;472:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:58;473:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:71;476:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">小球尺寸（mm）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:59;478:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:72;481:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">百分对比度 （112 环）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:60;483:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:73;486:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">百分对比度 （88 环）</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:6;490:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                        <row class="- topic/row " xtrc="row:22;491:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:61;492:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:74;495:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">10</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:62;497:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:75;500:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.5%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:63;502:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:76;505:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.5%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:23;508:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:64;509:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:77;512:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">13</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:65;514:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:78;517:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:66;519:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:79;522:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:24;525:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:67;526:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:80;529:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">17</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:68;531:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:81;534:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:69;536:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:82;539:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:25;542:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:70;543:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:83;546:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">22</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:71;548:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:84;551:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:72;553:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:85;556:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:26;559:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:73;560:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:86;563:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">28</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:74;565:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:87;568:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:75;570:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:88;573:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:27;576:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:76;577:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:89;580:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">37</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:77;582:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:90;585:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:78;587:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:91;590:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:28;593:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:79;594:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:92;597:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">肺区</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:80;599:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:93;602:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:81;604:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">
+                                <p class="- topic/p " xtrc="p:94;607:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/PET_performance_parameters.dita">＜ 7.0%</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </body>
+</topic>

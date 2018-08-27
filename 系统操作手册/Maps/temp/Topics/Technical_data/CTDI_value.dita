@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\UIM项目\012 Data\LianYing\data\General\系统操作手册\Maps\temp\Topics\Technical_data?><?workdir-uri file:/D:/UIM%E9%A1%B9%E7%9B%AE/012%20Data/LianYing/data/General/%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C/Maps/temp/Topics/Technical_data/?><?path2project ..\..\out\?><?path2project-uri ../../out/?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="reference_kmv_5fm_cdb" xml:lang="zh" xtrc="reference:1;3:53" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI 值</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/><prolog class="- topic/prolog "><authorinformation class="+ topic/author xnal-d/authorinformation " xtrc="authorinformation:1;8:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <organizationinfo class="+ topic/data xnal-d/organizationinfo " xtrc="organizationinfo:1;9:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+        <namedetails class="+ topic/data xnal-d/namedetails " xtrc="namedetails:1;10:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+          <personname class="+ topic/data xnal-d/personname " xtrc="personname:1;11:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <firstname class="+ topic/data xnal-d/firstname " xtrc="firstname:1;12:24" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Wang</firstname>
+            <lastname class="+ topic/data xnal-d/lastname " xtrc="lastname:1;13:23" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">Yan</lastname>
+          </personname>
+          <organizationnamedetails class="+ topic/ph xnal-d/organizationnamedetails " xtrc="organizationnamedetails:1;15:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+            <organizationname class="+ topic/ph xnal-d/organizationname " xtrc="organizationname:1;16:31" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">TCC编辑团队</organizationname>
+          </organizationnamedetails>
+        </namedetails>
+      </organizationinfo>
+    </authorinformation><author class="- topic/author " xtrc="author:1;7:13" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">WangYan</author><critdates class="- topic/critdates " xtrc="critdates:1;21:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap">
+      <created class="- topic/created " date="2018-03-20" xtrc="created:1;22:35" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+      <revised class="- topic/revised " modified="2018-03-21" xtrc="revised:1;23:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/>
+    </critdates><metadata class="- topic/metadata "><othermeta class="- topic/othermeta " content="China" name="Market" xtrc="othermeta:1;25:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Maps/UMI%20780_System_Operate_Manual.ditamap"/></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+        <section class="- topic/section " id="section_evb_yfm_cdb" xtrc="section:1;7:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+            <title class="- topic/title " xtrc="title:2;8:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">典型运行条件下的 CTDI<sub class="+ topic/ph hi-d/sub " xtrc="sub:1;8:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100</sub></title>
+            <p class="- topic/p " xtrc="p:1;9:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">体模在BC、B1、B2、B3、B4、周边位置上的 CTDI100 值如下表所示。以下 CTDI 值的最大偏差为±20 %，单位 mGy。</p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_ox5_zfm_cdb" rowsep="1" xtrc="table:1;10:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="7" xtrc="tgroup:1;11:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:1;12:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:2;13:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:3;14:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1.0*" rowheader="headers" xtrc="colspec:4;15:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col5" colnum="5" colwidth="1.0*" rowheader="headers" xtrc="colspec:5;16:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col6" colnum="6" colwidth="1.0*" rowheader="headers" xtrc="colspec:6;17:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col7" colnum="7" colwidth="1.0*" rowheader="headers" xtrc="colspec:7;18:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;19:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:1;20:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;21:47" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:2;24:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col2" colsep="0" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;26:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:3;29:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">BC</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col3" colsep="0" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;31:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:4;34:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">B1</p>
+                            </entry>
+                            <entry align="right" class="- topic/entry " colname="col4" colsep="0" dita-ot:x="4" dita-ot:y="1" xtrc="entry:4;36:61" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:5;39:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">B2</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col5" colsep="0" dita-ot:x="5" dita-ot:y="1" xtrc="entry:5;41:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:6;44:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">B3</p>
+                            </entry>
+                            <entry align="center" class="- topic/entry " colname="col6" colsep="0" dita-ot:x="6" dita-ot:y="1" xtrc="entry:6;46:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:7;49:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">B4</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col7" dita-ot:x="7" dita-ot:y="1" xtrc="entry:7;51:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:8;54:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">周边</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;58:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:2;59:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:8;60:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:9;63:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">头部</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:9;65:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:10;68:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">37.043</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:10;70:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:11;73:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">40.445</p>
+                            </entry>
+                            <entry align="right" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2" xtrc="entry:11;75:50" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:12;78:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">37.724</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="2" xtrc="entry:12;80:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:13;83:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">38.524</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col6" dita-ot:x="6" dita-ot:y="2" xtrc="entry:13;85:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:14;88:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">39.795</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col7" dita-ot:x="7" dita-ot:y="2" xtrc="entry:14;90:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:15;93:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">39.122</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;96:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:15;97:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:16;100:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">体部</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:16;102:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:17;105:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">20.15</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:17;107:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:18;110:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">43.99</p>
+                            </entry>
+                            <entry align="right" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3" xtrc="entry:18;112:50" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:19;115:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">43.10</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="3" xtrc="entry:19;117:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:20;120:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">38.99</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col6" dita-ot:x="6" dita-ot:y="3" xtrc="entry:20;122:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:21;125:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">43.38</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col7" dita-ot:x="7" dita-ot:y="3" xtrc="entry:21;127:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:22;130:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">42.36</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " id="section_wlf_1gm_cdb" xtrc="section:2;137:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+            <title class="- topic/title " xtrc="title:3;138:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">不同 mAs 下的 CTDI<sub class="+ topic/ph hi-d/sub " xtrc="sub:2;138:39" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100 </sub>（中心）归一化数值</title>
+            <p class="- topic/p " xtrc="p:23;139:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">剂量与射线管电流 - 照射时间的乘积呈线性函数关系。</p>
+            <p class="- topic/p " xtrc="p:24;140:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;140:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 头部：</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_svk_dgm_cdb" rowsep="1" xtrc="table:2;141:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:2;142:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:8;143:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:9;144:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:10;145:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:2;146:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:4;147:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="1" nameend="col2" namest="col1" xtrc="entry:22;148:91" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:25;151:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:23;153:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:26;156:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:2;160:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:5;161:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:24;162:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:27;165:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">最小mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:25;167:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:28;170:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（2.1mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:26;172:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:29;175:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.012</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;178:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:27;179:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:30;182:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">中等mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:28;184:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:31;187:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（600mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:29;189:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:32;192:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">2.66</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;195:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:30;196:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:33;199:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">最大mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:31;201:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:34;204:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（1334mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:32;206:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:35;209:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">5.68</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:36;215:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;215:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 体部：</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_olj_fgm_cdb" rowsep="1" xtrc="table:3;216:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:3;217:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:11;218:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:12;219:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:13;220:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:3;221:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:8;222:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="1" nameend="col2" namest="col1" xtrc="entry:33;223:91" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:37;226:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:34;228:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:38;231:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:3;235:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:9;236:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:35;237:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:39;240:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">最小mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:36;242:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:40;245:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（2.1mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:37;247:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:41;250:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.005</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:10;253:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:38;254:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:42;257:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">中等mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:39;259:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:43;262:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（600 mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:40;264:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:44;267:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.48</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:11;270:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:41;271:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:45;274:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">最大mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:42;276:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:46;279:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（1334 mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:43;281:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:47;284:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">3.263</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " id="section_vwn_fgm_cdb" xtrc="section:3;291:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+            <title class="- topic/title " xtrc="title:4;292:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">不同 mAs 下 CTDI<sub class="+ topic/ph hi-d/sub " xtrc="sub:3;292:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100</sub> （周边）归一化数值</title>
+            <p class="- topic/p " xtrc="p:48;293:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">剂量与射线管电流 - 照射时间的乘积呈线性函数关系。</p>
+            <p class="- topic/p " xtrc="p:49;294:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:3;294:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 头部：</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_jvx_hgm_cdb" rowsep="1" xtrc="table:4;295:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:4;296:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:14;297:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:15;298:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1.0*" rowheader="headers" xtrc="colspec:16;299:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:4;300:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:12;301:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="1" nameend="col2" namest="col1" xtrc="entry:44;302:91" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:50;305:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:45;307:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:51;310:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:4;314:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:13;315:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:46;316:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:52;319:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">最小mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:47;321:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:53;324:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（2.1 mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:48;326:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:54;329:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.012</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:14;332:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:49;333:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:55;336:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">中等mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:50;338:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:56;341:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（600 mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:51;343:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:57;346:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">2.66</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:15;349:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:52;350:49" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:58;353:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">最大mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:53;355:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:59;358:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">（133 4mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:54;360:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:60;363:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">5.68</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:61;369:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:4;369:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 体部：</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_wjm_jgm_cdb" rowsep="1" xtrc="table:5;370:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:5;371:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:17;372:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:18;373:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:5;374:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:16;375:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:55;376:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:62;379:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">mAs</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:56;381:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:63;384:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:5;388:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:17;389:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:57;390:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:64;393:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">最小mAs （2.1 mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:58;395:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:65;398:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.005</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:18;401:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:59;402:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:66;405:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">中 等 mAs （600 mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:60;407:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:67;410:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.475</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:19;413:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:61;414:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:68;417:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">最 大 mAs （1334 mAs）</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:62;419:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:69;422:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">3.258</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " id="section_oc5_ngm_cdb" xtrc="section:4;429:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+            <title class="- topic/title " xtrc="title:5;430:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">不同准直宽度下的 CTDI<sub class="+ topic/ph hi-d/sub " xtrc="sub:4;430:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100</sub>（中心）归一化数值</title>
+            <p class="- topic/p " xtrc="p:70;431:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:5;431:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 头部：</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_ulm_pgm_cdb" rowsep="1" xtrc="table:6;432:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:6;433:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:19;434:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:20;435:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:6;436:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:20;437:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:63;438:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:71;441:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">准直宽度</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:64;443:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:72;446:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:6;450:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:21;451:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:65;452:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:73;455:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">40 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:66;457:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:74;460:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:22;463:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:67;464:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:75;467:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">20 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:68;469:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:76;472:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.075</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:23;475:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:69;476:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:77;479:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">10 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:70;481:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:78;484:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.247</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:79;490:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:6;490:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 体部：</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_mzp_qgm_cdb" rowsep="1" xtrc="table:7;491:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:7;492:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:21;493:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:22;494:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:7;495:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:24;496:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:71;497:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:80;500:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">准直宽度</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:72;502:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:81;505:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:7;509:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:25;510:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:73;511:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:82;514:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">40 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:74;516:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:83;519:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:26;522:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:75;523:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:84;526:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">20 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:76;528:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:85;531:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.078</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:27;534:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:77;535:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:86;538:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">10 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:78;540:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:87;543:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.247</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " id="section_nn1_rgm_cdb" xtrc="section:5;550:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+            <title class="- topic/title " xtrc="title:6;551:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">不同准直宽度下的 CTDI<sub class="+ topic/ph hi-d/sub " xtrc="sub:5;551:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100</sub> （周边）归一化数值</title>
+            <p class="- topic/p " xtrc="p:88;552:16" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:7;552:19" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 头部</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_wts_sgm_cdb" rowsep="1" xtrc="table:8;553:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:8;554:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:23;555:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:24;556:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:8;557:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:28;558:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:79;559:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:89;562:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">准直宽度</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:80;564:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:90;567:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:8;571:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:29;572:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:81;573:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:91;576:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">40 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:82;578:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:92;581:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:30;584:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:83;585:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:93;588:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">20 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:84;590:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:94;593:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.074</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:31;596:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:85;597:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:95;600:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">10 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:86;602:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:96;605:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.245</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:97;613:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:8;613:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 体部</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_vgf_tgm_cdb" rowsep="1" xtrc="table:9;614:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:9;615:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:25;616:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:26;617:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:9;618:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:32;619:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:87;620:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:98;623:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">准直宽度</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:88;625:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:99;628:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:9;632:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:33;633:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:89;634:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:100;637:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">40 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:90;639:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:101;642:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:34;645:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:91;646:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:102;649:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">20 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:92;651:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:103;654:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.072</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:35;657:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:93;658:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:104;661:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">10 mm</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:94;663:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:105;666:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.245</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " id="section_rg1_5gm_cdb" xtrc="section:6;673:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+            <title class="- topic/title " xtrc="title:7;674:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">不同管电压下的 CTDI<sub class="+ topic/ph hi-d/sub " xtrc="sub:6;674:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100</sub>（中心）归一化数值</title>
+            <p class="- topic/p " xtrc="p:106;677:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:9;677:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 头部：</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_zsz_5gm_cdb" rowsep="1" xtrc="table:10;678:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:10;679:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:27;680:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:28;681:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:10;682:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:36;683:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:95;684:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:107;687:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">电压</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:96;689:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:108;692:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:10;696:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:37;697:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:97;698:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:109;701:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">70 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:98;703:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:110;706:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.188</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:38;709:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:99;710:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:111;713:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:100;715:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:112;718:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.608</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:39;721:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:101;722:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:113;725:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">140 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:102;727:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:114;730:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.459</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:115;738:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:10;738:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 体部：</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_er5_wgm_cdb" rowsep="1" xtrc="table:11;739:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:11;740:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:29;741:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:30;742:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:11;743:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:40;744:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:103;745:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:116;748:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">电压</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:104;750:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:117;753:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:11;757:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:41;758:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:105;759:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:118;762:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">70 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:106;764:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:119;767:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.136</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:42;770:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:107;771:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:120;774:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:108;776:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:121;779:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.564</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:43;782:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:109;783:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:122;786:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">140 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:110;788:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:123;791:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.537</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section class="- topic/section " id="section_amq_xgm_cdb" xtrc="section:7;798:43" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+            <title class="- topic/title " xtrc="title:8;799:20" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">不同管电压下的 CTDI<sub class="+ topic/ph hi-d/sub " xtrc="sub:7;799:37" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100</sub> （周边）归一化数值</title>
+            <p class="- topic/p " xtrc="p:124;802:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:11;802:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 头部</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_ek2_zgm_cdb" rowsep="1" xtrc="table:12;803:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:12;804:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:31;805:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:32;806:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:12;807:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:44;808:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:111;809:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:125;812:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">电压</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:112;814:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:126;817:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:12;821:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:45;822:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:113;823:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:127;826:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">70 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:114;828:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:128;831:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.201</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:46;834:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:115;835:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:129;838:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:116;840:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:130;843:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.62</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:47;846:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:117;847:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:131;850:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">140 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:118;852:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:132;855:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.45</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p class="- topic/p " xtrc="p:133;863:22" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"><b class="+ topic/ph hi-d/b " xtrc="b:12;863:25" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">■ 体部</b></p>
+            <table class="- topic/table " colsep="1" frame="all" id="table_fk2_zgm_cdb" rowsep="1" xtrc="table:13;864:85" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:13;865:34" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1.0*" rowheader="headers" xtrc="colspec:33;866:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.0*" rowheader="headers" xtrc="colspec:34;867:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:13;868:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:48;869:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry align="center" class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" xtrc="entry:119;870:62" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:134;873:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">电压</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:120;875:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:135;878:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">CTDI100 归一化</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:13;882:28" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                        <row class="- topic/row " xtrc="row:49;883:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:121;884:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:136;887:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">70 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:122;889:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:137;892:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.18</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:50;895:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:123;896:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:138;899:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">100 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:124;901:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:139;904:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">0.60</p>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:51;907:30" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:125;908:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:140;911:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">140 kV</p>
+                            </entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:126;913:36" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">
+                                <p class="- topic/p " xtrc="p:141;916:38" xtrf="file:/D:/UIM项目/012%20Data/LianYing/data/General/系统操作手册/Topics/Technical_data/CTDI_value.dita">1.48</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

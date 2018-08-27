@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_yhp_lsm_1db" xml:lang="zh">
+    <title> 油渗漏处理</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>油渗漏<index-sort-as>Y油渗漏</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p>X 射线管通过油冷却，这是一个密封的闭路系统。设备使用一段时间后，要注意检查扫描架里面的热交换循环油是否发生渗漏。</p>
+        <note type="caution">
+            <p>油渗漏</p>
+            <ul id="ul_bml_qsm_1db">
+                <li>如果发现油渗漏，请关闭扫描设备并立即与联影客户服务部联系。</li>
+            </ul>
+        </note>
+    </body>
+</topic>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tl4_vx2_1db" xml:lang="zh">
+    <title>CT 扫描</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>定位像扫描结束后，确认 CT 扫描和重建参数。</cmd>
+            </step>
+            <step>
+                <cmd>点击患者检查界面控制面板确认按钮，此时系统弹出提示 “ 请按下移床按钮 ”，同时控制盒上移床按钮背光灯点亮。</cmd>
+            </step>
+            <step>
+                <cmd>点击控制盒移床按钮，将检查床移动至预设 CT 扫描位置。系统弹出提示 “ 请按下扫描按钮 ”，同时控制盒上扫描按钮背光灯点亮。</cmd>
+                <substeps id="substeps_xpr_zx2_1db">
+                    <substep>
+                        <cmd>移床过程中，如果点击检查界面或控制盒取消按钮，移床取消，并且 CT 协议处于未扫描状态，可以修改参数后重新执行。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>点击控制盒扫描按钮，执行 CT 扫描与重建。</cmd>
+                <substeps id="substeps_itr_cy2_1db">
+                    <substep>
+                        <cmd>扫描过程中，如果点击取消，CT 协议变为已扫描状态，参数不可修改。可对其进行补扫，立即重扫等操作。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>扫描和重建任务完成后，可在断层图像浏览区查看 CT 断层图像。</cmd>
+                <substeps id="substeps_bqm_dy2_1db">
+                    <substep>
+                        <cmd>也可以直接点击图像浏览标签切换至图像浏览界面查看图像。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

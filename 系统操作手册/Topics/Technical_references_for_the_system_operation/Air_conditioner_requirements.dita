@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_12" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[136]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    >空调要求</title>
+  <body xtrc="/w:document/w:body[1]/w:p[137]">
+    <p xtrc="/w:document/w:body[1]/w:p[137]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >请根据系统功率提供合适的冷却装置，保证系统良好的运行环境。空调位置最好在系统机架的前后两侧。若采用悬挂或吊顶方式，务必避开机架正上方。考虑散热的同时降低空调对系
+      统安全运行和患者的舒适度带来的不利影响。</p>
+    <p xtrc="/w:document/w:body[1]/w:p[138]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >考虑到系统发热需求，建议安装立式的恒温恒湿空调设备，保持场地温度和湿度。推荐房间 布局中，空调的功率推荐大于 8 P。</p>
+    <p xtrc="/w:document/w:body[1]/w:p[141]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >同时，在系统安装运行过程中，需要时时监控所处环境的温度和湿度，每次进行维护时都需
+      要关注环境是否满足机器正常运行的条件。室内空调系统需加装过滤器，减少灰尘颗粒从外面进入扫描间。空调需保证每天 24 小时、每周 7 天运行，确保温控和通风系统运行正常。</p>
+    <note type="warning">
+      <p>环境参数超过正常范围可能会影响系统正常操作和图像质量。</p>
+    </note>
+  </body>
+</topic>

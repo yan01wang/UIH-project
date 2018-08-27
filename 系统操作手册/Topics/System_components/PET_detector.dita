@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kfm_kpw_bdb" xml:lang="zh">
+    <title>PET 探测器</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>PET系统<indexterm>探测器</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <ul id="ul_sg1_vpw_bdb">
+            <li>
+                <p>功能概述</p>
+                <p>PET 探测器用于接收患者体内示踪剂发射的  射线。探测器晶体内侧面对患者，外侧与光电器件耦合，将接收到的射线转换为电信号，输出给 PET 电子学系统。</p>
+            </li>
+            <li>
+                <p>冷却方式</p>
+                <p>风冷。</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

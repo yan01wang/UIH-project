@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_iny_nhj_bdb" xml:lang="zh">
+    <title>性能测试</title>
+    <body>
+        <p>在系统安装后和运行过程中，需要按照法规要求，进行性能测试和质控，以监控系统稳定性，保证图像质量，为诊断提供可靠参考。本系统支持分别进行CT 子系统和PET
+            子系统的重要性能参数测试。</p>
+    </body>
+</topic>

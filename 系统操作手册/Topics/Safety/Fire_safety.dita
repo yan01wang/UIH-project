@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_npb_gnh_1db" xml:lang="zh">
+    <title>防火安全</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>F防火安全</index-sort-as>防火安全</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>本系统的所有操作人员应完全了解灭火器的用法，并应接受灭火器和其它灭火设备使用方 法以及本地防火规范的培训。</p>
+        <image href="../../images/figure2-18.png" id="image_bnp_rbq_bdb"/>
+        <p>导电液体进入正在使用的操作人员控制台电路元件会造成电路短路，并导致电器起火。因此请勿在控制台或其它部件上放置任何液体或食物。</p>
+        <p>在进行场地验收时，要注意检查防火措施是否到位，如：</p>
+        <ul id="ul_irr_qnh_1db">
+            <li>
+                <p>是否具备相应的消防设备，如灭火器。</p>
+            </li>
+            <li>
+                <p>安全通道设计是否合理。</p>
+            </li>
+            <li>
+                <p>地板、天花板、墙壁等装饰材料的选择是否合理。</p>
+            </li>
+            <li>
+                <p>是否张贴防火和禁烟等标志。</p>
+            </li>
+        </ul>
+        <p>同时，请勿在有可燃气体或易燃麻醉剂的环境中使用本设备，以免发生爆炸。在规定环境以 外的场合使用电气设备可能会导致火灾或爆炸。</p>
+        <p>此外，用户还应考虑到地震及其它突发状况，并根据医院规范采取适当的预防措施。</p>
+        <note type="warning">
+            <p>火灾危险</p>
+            <ul id="ul_qmr_zbq_bdb">
+                <li>
+                    <p>只能使用专门的电气或化学灭火器。遇到电气火灾时，使用水或者其它液体灭火器可 能导致人员严重甚至致命伤害。</p>
+                </li>
+                <li>
+                    <p>通风口不允许被覆盖。</p>
+                </li>
+            </ul>
+        </note>
+        <note type="warning">
+            <p>火灾危险</p>
+            <ul id="ul_v3l_ccq_bdb">
+                <li>
+                    <p>切勿使用易燃及有爆炸危险的消毒喷雾剂，以避免由此产生的蒸汽引起燃烧反应，从 而引起严重人身伤害或设备损坏。</p>
+                </li>
+                <li>
+                    <p>渗入系统的导电液体可能会造成电路部件短路而引起漏电起火。 因此，请勿将任何液体或食品放在系统的任何部件上。</p>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

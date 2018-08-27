@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_65" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[640]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    id="title__TOC_250007">配置与查看</title>
+  <body xtrc="/w:document/w:body[1]/w:p[641]">
+    <p xtrc="/w:document/w:body[1]/w:p[641]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >系统安装完成后，如需在操作处理界面进行软件和系统配置，或查看系统及质控服务信息信息。软件配置、系统信息查看主要在服务界面进行，可以获取用户登陆服务密码，进入相应 页面。</p>
+    <ol id="ol_lcr_gpg_1db">
+      <li xtrc="/w:document/w:body[1]/w:p[642]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >点击 PA 界面右上角的联影图标，选择服务。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[643]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >输入服务码，进入服务主界面。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[644]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >点击 Configuration 进入配置页面，左侧为菜单导航，右侧为功能区。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[645]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >在导航菜单中依次选择 System、Local Host、Applications、DICOM 等配置项，进行设置或查看。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[646]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >点击 Tools&amp;Utilities、About、PET Service 标签，可切换查看相应页面。</li>
+    </ol>
+    <p xtrc="/w:document/w:body[1]/w:p[647]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >用户级别的权限登陆后可以查看到的功能如下表所示，请根据需要执行具体操作。</p>
+    <table xtrc="" frame="all" rowsep="1" colsep="1">
+      <tgroup cols="3">
+        <colspec colname="col1" colwidth="116.75pt"/>
+        <colspec colname="col2" colwidth="163.4pt"/>
+        <colspec colname="col3" colwidth="116.75pt"/>
+        <thead>
+          <row>
+            <entry align="center" colsep="0">
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[1]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >所属类别</p>
+            </entry>
+            <entry align="center" colsep="0">
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[1]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >项目名称</p>
+            </entry>
+            <entry align="center">
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[1]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >用户权限</p>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[2]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;System</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[2]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Language and Time</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[2]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可配置</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[3]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;System</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[3]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >TCP/IP LAN</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[3]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可配置</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[4]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;Local Host</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[4]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Site info</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[4]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可查看，不可修改</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[5]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;Local Host</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[5]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Filming</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[5]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可配置</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[6]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;Local Host</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[6]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >FTP</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[6]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可查看，不可修改</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[7]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;Application</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[7]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Service Setting</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[7]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可查看，不可修改</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[8]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;Application</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[8]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Remote Configure</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[8]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可配置</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[9]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;Application</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[9]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >User Setting</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[9]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可配置</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[10]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;Application</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[10]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Panel Configure</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[10]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可配置</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[11]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;DICOM</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[11]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Archiving</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[11]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可查看，不可修改</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[12]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;DICOM</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[12]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >MPPS</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[12]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可查看，不可修改</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[13]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;DICOM</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[13]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Worklist</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[13]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可配置</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[14]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Configuration&gt;DICOM</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[14]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Printer</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[14]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可查看，不可修改</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[15]/w:tc[1]/w:p[2]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Tools&amp;Utilities</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[15]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >UtilityTool Common Tool</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[15]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可使用</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[16]/w:tc[1]/w:p[2]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >About</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[16]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >Product Info System Info</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[16]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可查看，不可修改</p>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[17]/w:tc[1]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >PET Service</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[17]/w:tc[2]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >备份与还原</p>
+            </entry>
+            <entry>
+              <p xtrc="/w:document/w:body[1]/w:tbl[19]/w:tr[17]/w:tc[3]/w:p[1]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+                >可执行</p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_26" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[229]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    >混凝土基础要求</title>
+  <body xtrc="/w:document/w:body[1]/w:p[230]">
+    <p xtrc="/w:document/w:body[1]/w:p[230]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >安装机架及检查床的扫描间地面应具有足够的承载能力。机架和检查床地脚螺栓固定位置 处必须有厚度至少为 150 mm 的混凝土层，且混凝土强度等级不低于C25（C25
+      是指混凝土的立方体抗压强度值为25 MPa），并由用户负责聘请建筑结构工程师做承重和受力分析，以防止日后地面发生下沉。</p>
+    <p xtrc="/w:document/w:body[1]/w:p[231]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >如果安装机架及检查床的扫描间地面不符合上述要求，须制作混凝土 T 型基座。混凝土强度等级不低于 C25，如需铺设钢筋，钢筋应避让机架和检查床的地脚螺栓固定孔。混凝土基座厚度不小于 150
+      mm，养护时间三周以上，混凝土 T 型基座上表面与扫描间装修完成后的地面持平。</p>
+    <p xtrc="/w:document/w:body[1]/w:p[232]"
+      xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+      >如果机架安装下方有房间（有地下室或者二层及二层以上），用户须向建筑设计单位确认是否需要采取必要措施确保楼板承重要求，并满足机架每一地脚螺栓固定位置处承重不低于6000
+      N（压力）。</p>
+    <fig id="fig_trs_qyn_1db">
+      <title>混凝土基础剖面图 （单位：mm）</title>
+      <image href="../../images/figure7-5.png" id="image_qgn_ryn_1db" placement="break"/>
+    </fig>
+    <table frame="none" rowsep="1" colsep="1" id="table_qxk_vkb_d2b">
+      <tgroup cols="2">
+        <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+        <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+        <tbody>
+          <row>
+            <entry align="left" valign="middle" colsep="0" rowsep="0">
+              <p>
+                <msgblock>1、混凝土T型基座</msgblock>
+              </p>
+            </entry>
+            <entry align="left" valign="middle" rowsep="0">
+              <p>
+                <msgblock>3、装修地面上表层</msgblock>
+              </p>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="middle" colsep="0">
+              <p>
+                <msgblock>2、密实垫层</msgblock>
+              </p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p>
+                <msgblock>4、混凝土T型基座上表面</msgblock>
+              </p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p><xref href="#topic_26/fig_trs_qyn_1db" format="dita">图 7-5 </xref>中标注说明如下：</p>
+    <ul id="ul_wty_h14_1db">
+      <li>装修后地面上表面 （数字标号 3）：用材料大理石、地板砖等装修而成的，须提供足够承载能力，满足机架和检查床的运输承载。</li>
+      <li>混凝土 T 型基座上表面（数字标号 4）：不低于装修后地面上表面，机架和检查床直接放置在混凝土 T 型基座上。</li>
+      <li>混凝土T 型基座（数字标号1）：混凝土强度等级不低于国标 C25，厚度不低于 150 mm。</li>
+    </ul>
+  </body>
+</topic>

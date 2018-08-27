@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ulg_jqv_d2b">
+    <title>Requirements for the data entry</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>In the Save dialog box, there are the following requirements for the input of characters
+            in text boxes.</p>
+        <ul id="ul_pm1_mqv_d2b">
+            <li>
+                <p>Separating lines are not available.</p>
+            </li>
+            <li><p>Any character other than left angle bracket "&lt;", right angle bracket ">",
+                    separation sign "|", asterisks "*", left sptrip"/", right "\", English colon ":"
+                    and English interrogation mark "?". Inputting these characters will open the
+                    prompt message as follows:</p><image href="../../Images/2-5.png"
+                    id="image_phr_rqv_d2b"/></li>
+            <li><p>64 characters can be input at most. Exceeding this range will open the prompt
+                    mes-sage as follows:</p><image href="../../Images/2-6.png"
+                    id="image_u2h_tqv_d2b"/></li>
+            <li>
+                <p>Blank input is allowed. And the series description will be saved as blank.</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

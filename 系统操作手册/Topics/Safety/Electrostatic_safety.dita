@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_l3q_ngm_1db" xml:lang="zh">
+    <title>静电安全</title>
+    <body>
+        <p>静电放电可能会损坏系统的电子元件，导致系统功能异常。进行静电敏感器件的操作时，要 做好防静电措施。设备维护、维修人员应穿好防护服，防护鞋，戴好防静电护腕，防止静电
+            对静电敏感元器件的损害和对操作人员的潜在伤害。</p>
+        <note type="caution">
+            <p>静电危害！</p>
+            <ul id="ul_ifm_lwq_bdb">
+                <li>进行电路板相关操作时，需佩戴防静电设施，以防产生静电损坏电路板或导致人员伤 害。</li>
+            </ul>
+        </note>
+    </body>
+</topic>

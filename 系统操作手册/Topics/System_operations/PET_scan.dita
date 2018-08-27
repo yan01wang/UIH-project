@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ur5_fy2_1db" xml:lang="zh">
+    <title>PET 扫描</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>CT 扫描结束后，确认 PET 重建参数。</cmd>
+                <substeps id="substeps_bqh_3y2_1db">
+                    <substep>
+                        <cmd>此时如果修改 PET 的扫描和重建范围，可能会破坏其与 CT 的关联关系。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>点击扫描控制区确认按钮，系统将自动移床并执行 PET 扫描。</cmd>
+            </step>
+            <step>
+                <cmd>数据采集完成后，按照重建序列的排列，依序执行重建任务。</cmd>
+                <substeps id="substeps_gd5_jy2_1db">
+                    <substep>
+                        <cmd>可以复制重建序列至重建队列、执行一个或多个重建任务、删除一个或多个重建任务。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>添加完成重建任务后，系统重建面板的队列状态区将在队列状态中显示扫描协议组信 息。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>确定重建参数之后可将扫描数据置于重建队列中。之后系统将自动从头到尾对队列进 行重建。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>当系统完成相应扫描组的重建后，影像数据和患者数据将自动保存，同时扫描数据信 息将自动从重建队列中消失。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>重建任务完成，显示重建图像。</cmd>
+                <info>
+                    <note type="other" othertype="帮助信息">
+                        <p>扫描完成后，系统自动执行在线重建并显示重建图像。重建失败将有提示。</p>
+                    </note>
+                    <note type="attention">
+                        <p>在MatchCTSliceLocation 功能中需要告知用户层厚与层间距的差别，选择MatchCTSliceLocation 之后， PET
+                            层厚、层位置、层间距与CT 相应参数保持一致。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_olg_nsk_cdb" xml:lang="zh">
+    <title>有源质控失败</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_dc2_psk_cdb">
+            <p>PET 有源质控中确认系统 LUT 漂移，能量漂移，TOF 状态是否满足要求。如果失败，需要进行相应的调整。</p>
+            <table xtrc="" frame="all" rowsep="1" colsep="1" id="table_t2l_qsk_cdb">
+                <tgroup cols="2">
+                    <colspec colname="col1" colwidth="150.5pt"/>
+                    <colspec colname="col2" colwidth="246.4pt"/>
+                    <thead>
+                        <row>
+                            <entry align="center" colsep="0" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[1]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >故障描述</p>
+                            </entry>
+                            <entry align="center" valign="middle">
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[1]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >排查建议</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[2]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >LUT 漂移检测失败</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[2]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >联系联影客户服务工程师，执行校正，更新 LUT。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[3]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >能量漂移检测失败</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[3]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >联系联影客户服务工程师，执行校正，更新能量峰值。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[4]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >TOF 状态检测失败</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[4]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >联系联影客户服务工程师，执行校正，更新 TOF 信息。</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[5]/w:tc[1]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >校正文件缺失</p>
+                            </entry>
+                            <entry>
+                                <p xtrc="/w:document/w:body[1]/w:tbl[2]/w:tr[5]/w:tc[2]/w:p[1]"
+                                    xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/6%20%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/word/document.xml"
+                                    >联系联影客户服务工程师，导入所需校正文件。</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

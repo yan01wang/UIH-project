@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_csp_rkm_cdb" xml:lang="zh">
+    <title>CT 重建矩阵</title>
+    <shortdesc/>
+    <refbody>
+        <section id="section_gml_hlm_cdb">
+            <p>512 × 512</p>
+            <p>768 × 768</p>
+            <p>1024 × 1024</p>
+        </section>
+    </refbody>
+</reference>

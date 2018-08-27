@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_byb_25x_bdb" xml:lang="zh">
+    <title>机架控制面板</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>J机架控制面板</index-sort-as>机架控制面板</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>机架控制面板（Control Panel，CPAN）包括显示检查床位置信息的显示屏和用于控制检查床位置的控制面板。控制面板示意图请参见图 3-16，各按键功能在表 3-1
+            中有详细说明。</p>
+        <fig id="fig_gvm_w5x_bdb">
+            <title>机架控制面板</title>
+            <image href="../../images/figure3-22.png" id="image_o42_z5x_bdb" placement="break"/>
+            <simpletable relcolwidth="1.0* 1.0*" id="simpletable_nzp_hzc_n2b">
+                <strow>
+                    <stentry>检查床上移</stentry>
+                    <stentry>床位清零</stentry>
+                </strow>
+                <strow>
+                    <stentry>检查床移入</stentry>
+                    <stentry>用户预定义床位A</stentry>
+                </strow>
+                <strow>
+                    <stentry>检查床下移</stentry>
+                    <stentry>用户预定义床位B</stentry>
+                </strow>
+                <strow>
+                    <stentry>加速运行检查床</stentry>
+                    <stentry>释放患者</stentry>
+                </strow>
+                <strow>
+                    <stentry>检查床移出</stentry>
+                    <stentry>CT 扫描位</stentry>
+                </strow>
+                <strow>
+                    <stentry>开启/关闭激光</stentry>
+                    <stentry>PET 扫描位</stentry>
+                </strow>
+                <strow>
+                    <stentry>推进至内部激光灯</stentry>
+                    <stentry/>
+                </strow>
+            </simpletable>
+        </fig>
+        <table frame="all" rowsep="1" colsep="0" id="table_cys_rvx_bdb">
+            <title>控制面板按键功能说明</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="3.1*"/>
+                <colspec colname="c3" colnum="3" colwidth="3.76*"/>
+                <thead>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p>序号</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>外观</p>
+                        </entry>
+                        <entry align="center" valign="middle">
+                            <p>描述</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p> 1</p>
+                        </entry>
+                        <entry align="center" valign="middle"><image
+                                href="../../images/figure3-23.png" id="image_dyz_swx_bdb"/></entry>
+                        <entry align="left" valign="middle">
+                            <p><b>检查床上移</b></p>
+                            <p>按住此键，检查床上升，松开后停。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p> 2</p>
+                        </entry>
+                        <entry align="center" valign="middle"><image
+                                href="../../images/figure3-24.png" id="image_uzb_vwx_bdb"/></entry>
+                        <entry align="left" valign="middle">
+                            <p><b>检查床移出</b></p>
+                            <p>按住此键，检查床退出，松开后停。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry align="center" valign="middle">
+                            <p> 3</p>
+                        </entry>
+                        <entry align="center" valign="middle"><image
+                                href="../../images/figure3-25.png" id="image_jjg_xwx_bdb"/></entry>
+                        <entry align="left" valign="middle">
+                            <p><b>检查床下移</b></p>
+                            <p>按住此键，检查床下降，松开后停。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 4</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-26.png" id="image_gbq_dxx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>加速运行检查床</b></p>
+                            <p>按住检查床移入 / 移出按键的同时按住此键，检查床水平方向加速运动，松开后回到默认速度。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 5</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-27.png" id="image_ym3_2xx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>检查床移入</b></p>
+                            <p>按住此键，检查床前进，松开后停。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>6</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-28.png" id="image_cxr_jxx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>开启/ 关闭激光灯</b></p>
+                            <p>按下此键，激光定位灯开启 / 关闭。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 7</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-29.png" id="image_c2m_lxx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>推进至内部激光灯</b></p>
+                            <p>按住此键，检查床将向机架孔径内部移动，接受激光定位。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 8</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-30.png" id="image_qss_nxx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>床位清零</b></p>
+                            <p>底座处于 CT 位时，按下此键，检查床水平位置清零。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 9</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-31.png" id="image_vtp_pxx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>用户预定义床位 B</b></p>
+                            <p>按住此键，检查床移动到用户预定义床位 B。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 10</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-32.png" id="image_k2j_rxx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>用户预定义床位 A</b></p>
+                            <p>按住此键，检查床移动到用户预定义床位 A。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 11</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-33.png" id="image_hjq_5xx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>释放患者</b></p>
+                            <p>按住此键，检查床退到最后端，然后检查床下降，患者可以下床。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 12</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-34.jpeg" id="image_m31_xxx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>CT 扫描位</b></p>
+                            <p> 按住此键，检查床底座归位至 CT 扫描位，再按无效。</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p> 13</p>
+                        </entry>
+                        <entry><image href="../../images/figure3-35.jpeg" id="image_vbp_xxx_bdb"
+                            /></entry>
+                        <entry align="left">
+                            <p><b>PET 扫描位</b></p>
+                            <p>按住此键，检查床底座归位至 PET 扫描位，再按无效。</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <note type="other" othertype="帮助信息">
+            <p>CPAN 各按钮采用背光设计。为更好指引操作，按钮以不同的方式指示当前所需操作。未被点亮的按钮表示当前不可用，点亮的按钮表示当前可用。</p>
+        </note>
+        <note type="note">
+            <p>CPAN 显示异常或按键磨损时，请联系联影客户服务部，以便及时维修或更换。</p>
+        </note>
+    </conbody>
+</concept>

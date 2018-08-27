@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_lgg_bnm_cdb" xml:lang="zh">
+    <title>CT 值的线性度</title>
+    <body>
+        <p>CT 值的线性偏差不大于 50 HU。</p>
+    </body>
+</topic>

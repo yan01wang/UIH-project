@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ywq_srf_1db" xml:lang="zh">
+    <title>二维浏览</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>点击图像浏览界面【2D】标签，切换至二维图像浏览界面。</cmd>
+                <info>
+                    <p>2D 图像浏览：默认 2 × 2 布局，用户可在此将一个或多个序列拖至 2D 图像浏览窗口中查看。</p>
+                    <p>详细操作请参见《软件操作手册》二维图像浏览章节。</p>
+                    <fig id="fig_r3w_xrf_1db">
+                        <title>2D图像浏览</title>
+                        <image href="../../images/figure4-11.png" id="image_cjv_yrf_1db"
+                            placement="break"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

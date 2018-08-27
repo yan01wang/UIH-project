@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hy3_c4z_zcb" xml:lang="zh">
+    <title>常规登记</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>点击患者登记图标，进入患者登记界面。</cmd>
+            </step>
+            <step>
+                <cmd>在患者登记界面中患者数据区和检查数据区输入患者相关信息。</cmd>
+            </step>
+            <step>
+                <cmd>点击预登记保存当前患者信息至本地，同时清空预登记界面。</cmd>
+                <info>
+                    <p>可在患者管理界面查看该患者信息，状态为预登记。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

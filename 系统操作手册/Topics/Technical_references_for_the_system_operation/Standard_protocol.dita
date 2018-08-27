@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_35" xtrc="" xml:lang="zh">
+  <title xtrc="/w:document/w:body[1]/w:p[414]"
+    xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+    >标准协议</title>
+  <body xtrc="/w:document/w:body[1]/w:p[415]">
+    <ul id="ul_lpw_qph_bdb">
+      <li xtrc="/w:document/w:body[1]/w:p[415]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >本设备支持 TCP/IP 网络协议。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[416]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >具有 DICOM 接口，采用 100M ~ 1000M Bit 自适应功能，可与高速以太网相连。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[417]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >本设备必须采用 RJ45 的网线连接。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[420]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >如果医院计划把本设备接入到医院内的局域网中，则用户须将分配给PACS 系统、MPPS（如果支持）、Worklist/RIS 配置和打印机主机、控制主机及工作站的 IP、AE
+        名称、端口等参数需提前告知联影公司，以便对设备进行网络参数设置。</li>
+      <li xtrc="/w:document/w:body[1]/w:p[422]"
+        xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/lianying/temp/7%20%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%8A%80%E6%9C%AF%E5%8F%82%E8%80%83/word/document.xml"
+        >用于本设备的网络接口插座最好安装于本设备的计算机系统旁边。</li>
+    </ul>
+  </body>
+</topic>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_g4l_ssm_1db" xml:lang="zh">
+    <title>图像质量</title>
+    <body>
+        <p>PET/CT 扫描过程中，误操作、系统状态不佳和患者移动等方面的因素，可能对图像质量造成如下影响：</p>
+        <ul id="ul_ufd_vsm_1db">
+            <li>使图像质量（信噪比、分辨率、对比度等）下降。</li>
+            <li>掩盖病灶，造成漏诊。</li>
+            <li>出现假病灶，造成误诊。</li>
+        </ul>
+        <note type="other" othertype="帮助信息">
+            <p>采集过程中，需要判断并排除由于这些原因造成的伪影干扰，为诊断提供真实可 靠的参考。针对不同的因素，可以采取相应的规避和排除措施。</p>
+        </note>
+    </body>
+</topic>

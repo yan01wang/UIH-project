@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_e3f_grl_2db" xml:lang="zh_CN">
+  <title>前言</title>
+  <shortdesc>本手册主要为联影 uMI 系列 PET/CT
+    系统操作人员编写，提供了对系统组成与安全操作、软件功能和扫描工作流的详细说明，以指导相关人员进行扫描、应用、调试和数据管理。</shortdesc>
+  <body id="body_mnp_3sl_2db">
+    <section id="section_srg_ksl_2db">
+      <title>产品信息</title>
+      <p>与本手册相对应的产品版本如下所示：</p>
+      <table frame="all" rowsep="1" colsep="1" id="table_eh5_5rl_2db">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <thead>
+            <row>
+              <entry colsep="0">
+                <p>产品名称</p>
+              </entry>
+              <entry>
+                <p>产品型号</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>正电子发射及X 射线计算机断层成像扫描系统(PET/CT)</p>
+              </entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="section_egy_jsl_2db">
+      <title>读者对象</title>
+      <ul id="ul_p5v_csl_2db">
+        <li>购买联影 PET/CT系统的医院和科研院所等用户。</li>
+        <li>联影的培训、维修及服务工程师。</li>
+        <li>联影的市场人员及经销商。</li>
+        <li>联影内部临床及系统分析人员。</li>
+      </ul>
+    </section>
+    <section id="section_awy_3sl_2db">
+      <title>修订记录</title>
+      <table frame="all" rowsep="1" colsep="1" id="table_qvc_msl_2db">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <thead>
+            <row>
+              <entry colsep="0">
+                <p>发布时间</p>
+              </entry>
+              <entry>
+                <p>版本说明</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>2017-11</p>
+              </entry>
+              <entry>
+                <p>第一版发布</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section>
+      <title>保修信息</title>
+      <p>联影将对本产品的运行提供技术支持，有关任何维护服务上的问题，请与联影客户服务中心联系。</p>
+      <p>联系方式如下：</p>
+      <dl>
+        <dlentry>
+          <dt>电话</dt>
+          <dd>4006866088</dd>
+        </dlentry>
+        <dlentry>
+          <dt>邮箱</dt>
+          <dd>services@united-imaging.com</dd>
+        </dlentry>
+        <dlentry>
+          <dt>公司网址</dt>
+          <dd>www.united-imaging.com</dd>
+        </dlentry>
+      </dl>
+    </section>
+  </body>
+</topic>

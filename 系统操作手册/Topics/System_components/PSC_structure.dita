@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_kn5_1xd_cdb" xml:lang="zh">
+    <title>电源分配机柜结构</title>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>配电柜<index-sort-as>P配电柜</index-sort-as><indexterm>结构</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <body>
+        <p xtrc="/w:document/w:body[1]/w:p[814]"
+            xtrf="file:/C:/Users/Lidanfeng/Desktop/temp/3%20%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6/word/document.xml"
+            >PSC 外观图如图 3-29 所示。底部有 4 个 360 度转向的运输及支撑轮，可以通过前侧的两个轮子固定电源分配机柜。</p>
+        <fig id="fig_oyb_gxd_cdb">
+            <title>PSC 外观图</title>
+            <image href="../../images/figure3-63.png" id="image_syb_hxd_cdb" placement="break"/>
+            <image href="../../images/figure3-64.png" id="image_uvm_hxd_cdb" placement="break"/>
+            <simpletable relcolwidth="1.0* 1.0*" id="simpletable_xgb_p3d_n2b">
+                <strow>
+                    <stentry>1.通电开关</stentry>
+                    <stentry>2.电源分配机柜锁</stentry>
+                </strow>
+                <strow>
+                    <stentry>3.运输及支撑轮</stentry>
+                    <stentry/>
+                </strow>
+            </simpletable>
+        </fig>
+    </body>
+</topic>

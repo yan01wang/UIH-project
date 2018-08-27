@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gxd_vmg_1db" xml:lang="zh">
+    <title>人员资质</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>人员培训<index-sort-as>R人员培训</index-sort-as></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>使用本系统的人员需要具备基本的医学图像知识及系统操作知识，如了解放射检查流程，了解影像的基本原理和特点等。本设备只能由经过培训的合格的专业人员使用。使用本设备
+            前，操作人员必须经过严格的培训并取得合格的操作资格。操作人员必须详细了解手册的内容，并严格遵守当地法律法规的要求，以保证操作过程的正确性和安全性。</p>
+        <p>用户培训必须包含本系统技术基础知识和系统安全操作方面的内容。用户必须熟悉潜在危 险和安全指导原则。此外，用户还必须阅读并理解操作手册的内容。</p>
+        <p>如果由未经过正确培训的人员使用本系统，可能会导致系统损坏、乃至误诊。如果用户尚未 成功接受安全有效使用本系统的培训，则不能操作本系统。</p>
+    </conbody>
+</concept>

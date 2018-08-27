@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_yym_4kv_d2b">
+    <title>Operation precautions</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <ul id="ul_n43_skv_d2b">
+            <li>
+                <p>Make sure to enter the patient information correctly during patient registration.
+                    Any inconsistency in the patient information will cause misdiagnosis.</p>
+            </li>
+            <li>
+                <p>Shut down and exit the system timely after completing the operation, and develop
+                    good and correct operating habits, in order to optimize the operation process
+                    and equipment operation condition, and to improve the work efficiency.</p>
+            </li>
+            <li>
+                <p>Objects should be correctly selected before all operations, such as adjusting
+                    window width/level, and saving and deleting images.</p>
+            </li>
+        </ul>
+        <p>This system supply with features of Dose check (dose notification and dose alert),
+            Automatic Exposure Control, DICOM structured dose report, and reference protocols.The
+            features will help perform optimization/management of doses of ionizing radiation while
+            still enabling the system to deliver the diagnostic image quality needed by the
+            physician. Even with such attributes on the equipment, clinicians must ensure that
+            operators are trained and knowledgeable of the functions and operations of these
+            attributes in addition to facilities radiation management policies and procedures.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fmw_ftl_1db" xml:lang="zh">
+    <title>产品副作用及应对措施</title>
+    <shortdesc/>
+    <conbody>
+        <p>本系统可能造成以下副作用：</p>
+        <p>CT 扫描中 X 射线可能造成瘙痒或皮疹。</p>
+        <p>为了防范和应对本系统的副作用，用户可以采取以下措施：<ul id="ul_zzz_ltl_1db">
+                <li>
+                    <p>扫描前对患者采取过敏测试。</p>
+                </li>
+                <li>
+                    <p>对过敏患者采取抢救措施（如药物、急救和相关设备等）。</p>
+                </li>
+                <li>
+                    <p>抢救设备和药物应放置在靠近患者扫描的地方。</p>
+                </li>
+            </ul></p>
+    </conbody>
+</concept>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_o2s_drq_d2b">
+ <title>Personnel qualifications</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>The personnel operating the system should know basic knowledge about medical image and system
+   operation, e.g. radiology examination procedures, and basic principles and features concerning
+   images. Users must undergo strict trainings, understand the contents of this manual in detail,
+   and observe local regulations to safely and effectively operate this system. User trainings must
+   consist of contents related to basic technical knowledge of this system and system safety
+   operations. The user must be familiar with the potential dangers and safety guideline principles.
+   In addition, the user shall also read and understand the contents of the operation manual.</p>
+  <p>The user cannot operate this system if he or she has not received training about how to use
+   this system safely and effectively.</p>
+  <p>Personnel not trained properly to operate this system may result in system damages and even
+   misdiagnosis.</p>
+ </conbody>
+</concept>

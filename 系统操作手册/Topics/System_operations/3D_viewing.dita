@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_opz_csf_1db" xml:lang="zh">
+    <title>三维浏览</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>点击图像浏览界面 3D 标签，切换至三维图像浏览界面。</cmd>
+                <info>
+                    <p>D 图像浏览：默认 2 × 2 布局，如下图所示，用户可在此查看患者 VR 或 MIP 图像，以及冠状面、矢状面和横断面的 MPR 图像。</p>
+                    <fig id="fig_zjy_fsf_1db">
+                        <title>3D图像浏览</title>
+                        <image href="../../images/figure4-12.png" id="image_kj4_hsf_1db"
+                            placement="break"/>
+                    </fig>
+                    <p>详细操作请参见《软件操作手册》三维图像浏览章节。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

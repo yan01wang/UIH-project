@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_j5r_ygm_1db" xml:lang="zh">
+    <title>放射废物处理风险</title>
+    <body>
+        <p>为保证系统性能，需要使用一些有放射性，或对环境可能有害的材料，必须采用正确的方法 进行报废处理。</p>
+        <p>系统相关部件应需按相关法规回收，或者由授权人员按照当地垃圾收集站的方法妥善处置。切勿把 X 射线相关设备当成一般的工业或家庭垃圾处理。</p>
+        <image href="../../images/figure2-23.png" id="image_ep1_rwq_bdb"/>
+    </body>
+</topic>

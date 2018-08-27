@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_e5p_t4w_bdb" xml:lang="zh">
+    <title> PET 成像原理</title>
+    <shortdesc>PET 成像的过程是确认正电子药物在体内的分布。以采用氟 18-
+        脱氧葡萄糖为例，病灶部位由于代谢速度高，所以摄取较高的氟代脱氧葡萄糖药物，同时氟代脱氧葡萄糖无法正常进行葡萄糖代谢，因而产生聚集。可以依据所得图像信号的强弱判断是否存在异常的高代谢（如
+        肿瘤或炎症等）或者低代谢（如心脏部位）。</shortdesc>
+    <conbody>
+        <p>具体来说，带有放射性核素标记的药物进入人体内，释放正电子。正电子在体内运行时，很 快会发生湮灭，并产生一对几乎沿相反方向飞行的伽马光子。伽玛光子入射探测器，穿过闪
+            烁晶体，产生能量损耗并转化可见光。随后进入光电倍增装置，转换为电信号并被电子学系 统探测解析。而重建过程则基于解析所得湮灭事件具体信息（发生时间，位置和能量），推
+            断放射性核素在体内分布。</p>
+        <fig id="fig_nxd_z4w_bdb">
+            <title>PET 成像原理</title>
+            <image href="../../images/figure3-2.png" id="image_vsh_cpw_bdb" placement="break"/>
+        </fig>
+    </conbody>
+</concept>

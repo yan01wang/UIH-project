@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_q32_2qq_d2b">
+ <title>Text conventions</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>The use of quotation marks in this manual is specified as follows:</p>
+  <ul id="ul_unp_gqq_d2b">
+   <li>
+    <p>Coordinate items are identified by the symbol "".</p>
+   </li>
+   <li>
+    <p>Single step item is identified by the symbol "" and multiple items in sequence are
+     identified by numbers.</p>
+   </li>
+   <li>
+    <p>Sub-items (coordinate items in the table) are identified by the symbol "".</p>
+   </li>
+   <li>
+    <p>The user interface display (for example button prompt, window title and menu) are identified
+     with black characters.</p>
+   </li>
+   <li>
+    <p>Keys of the keyboard are identified by the symbol "&lt;>".</p>
+   </li>
+   <li>
+    <p>For mouse-related operations in this manual, such as Click, Select, and Press, the left mouse
+     button is used. A specific indication will be given if the middle wheel or right mouse button
+     is used.</p>
+   </li>
+   <li>
+    <p>The user interface of the system is the viewpoint, menu and button, Both the Chinese and
+     English interfaces are supported.</p>
+   </li>
+  </ul>
+  <p>Descriptions of single help information item:</p>
+  <note type="other">
+   <p>Help information of the system.</p>
+  </note>
+  <note type="other">
+   <ul id="ul_m2l_nqq_d2b">
+    <li>
+     <p>Help information 1 of the system.</p>
+    </li>
+    <li>
+     <p>Help information 2 of the system.</p>
+    </li>
+   </ul>
+  </note>
+ </conbody>
+</concept>

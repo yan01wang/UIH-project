@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_q43_r1q_bdb" xml:lang="zh">
+    <title>空气校正</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p xtrc="/w:document/w:body[1]/w:p[120]"
+                xtrf="file:/C:/Users/Thomas%20Zhang/Desktop/uMI%20780%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8CV01/temp/5%20%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E4%BF%9D%E5%85%BB/word/document.xml"
+                >通过空气校正可以消除检测器增益不一致及X 射线随着时间和空间变化不一致的影像。不执行空气校正将使图像质量下降，产生环状伪影。为了确保图像质量，确保扫描设备正确运
+                行，建议每天对常用的扫描方案执行空气校正。每周需要对所有扫描方案执行一次空气校 正。</p>
+        </context>
+        <steps>
+            <stepsection>空气校正操作步骤请如下：</stepsection>
+            <step>
+                <cmd>确认扫描间现场没有人员。</cmd>
+            </step>
+            <step>
+                <cmd>点击空气校正进入校正界面。</cmd>
+                <info><image href="../../images/figure5-4.jpeg" id="image_e1j_1bq_bdb" width="5in" placement="break"/></info>
+            </step>
+            <step>
+                <cmd>选择校正参数与配置。</cmd>
+            </step>
+            <step>
+                <cmd>点击开始启动空气校正。</cmd>
+            </step>
+            <step>
+                <cmd>空气校正扫描完成后，即可退出。</cmd>
+                <info>
+                    <note type="warning">
+                        <p>在进行有效的X 射线曝光操作之前，请确保球管已经获得充分的预热。确保预热程序运行期间没有人员在不知情的情况下暴露于不必要的X 射线中。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

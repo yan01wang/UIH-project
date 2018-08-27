@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rkv_gqx_zcb" xml:lang="zh">
+    <title>系统开启</title>
+    <shortdesc/>
+    <taskbody>
+        <steps>
+            <stepsection>首次安装完成后或使用 EPO 紧急关闭系统电源后，应参考以下步骤开机。</stepsection>
+            <step>
+                <cmd>检查系统 EPO，确保其为弹起状态。</cmd>
+            </step>
+            <step>
+                <cmd>确保 PSC 内所有断路器处于闭合状态。</cmd>
+            </step>
+            <step>
+                <cmd>开启 PSC 外壳上一键式电源开关。</cmd>
+            </step>
+            <step>
+                <cmd>各子系统自动上电，等待一分钟后系统上电完毕。控制台主机和重建机将自动启动，请 等待软件系统加载完成。</cmd>
+            </step>
+            <step>
+                <cmd>打开显示器，启动完成后系统应能登录 uExceed 系统并正常显示当前球管的热容量。</cmd>
+            </step>
+            <step>
+                <cmd>启动打印机（如有）。</cmd>
+                <info>
+                    <note type="other" othertype="帮助信息">
+                        <p>不间断电源* 起续航作用，用于在网电源意外断开时给控制台供电，以便操作人员能及时保存检查数据，推荐使用。</p>
+                        <p>不间断电源可续航时间为15 min 左右，在网电源断开后，用户需尽快保存检查数据。</p>
+                    </note>
+                    <note type="note">
+                        <p>忘记密码时，请联系联影客户服务部。</p>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

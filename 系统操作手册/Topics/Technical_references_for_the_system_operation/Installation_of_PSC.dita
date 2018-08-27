@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_crt_pc3_bdb" xml:lang="zh">
+    <title>安装电源分配机柜</title>
+    <shortdesc/>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm><index-sort-as>A安装</index-sort-as>安装<indexterm>配电柜</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>将电源分配机柜通过自带脚轮移动到指定区域。</cmd>
+            </step>
+            <step>
+                <cmd>向右旋转红色调节轮，黑色支撑垫会自动降下。</cmd>
+            </step>
+            <step>
+                <cmd>当支撑垫接触地面，滚轮离开地面时，停止调节。</cmd>
+            </step>
+            <step>
+                <cmd>调整机柜前门下的两个脚轮，至少调整后门的一个脚轮。</cmd>
+            </step>
+            <step>
+                <cmd>等待后续接线。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
